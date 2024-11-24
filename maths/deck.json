@@ -3191,6 +3191,270 @@
             "tags": [
                 "fonctions"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "retournement d'un graphe",
+                "- f(-x) =&gt; symétrie (Oy)<br>- -f(x) =&gt; symétrie (Ox)"
+            ],
+            "guid": "mm2Kn{em,$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dilatation d'un graphe",
+                "- af(x) =&gt; dilatation suivant l'axe des ordonnées<br>- f(ax) =&gt; dilatation suivant l'axe des abscisses"
+            ],
+            "guid": "H)l4unw/tY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "application récriproque bijection",
+                "se déduit par la simétrie avec y = x"
+            ],
+            "guid": "dnR0Rp<WmW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f bornée ssi",
+                "\\(\\exists K&gt;0,\\forall x \\in D,  |f(x)| \\le K\\)"
+            ],
+            "guid": "N*<$_&3/(#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction complexe bornée ssi",
+                "partie réelle bornée et partie imaginaire bornée"
+            ],
+            "guid": "K!HWqYKXA1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction rationelle",
+                "quotient de deux fonctions polynomiales"
+            ],
+            "guid": "Ef~_[8}^Qb",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction harmonique",
+                "\\[f(x) = \\frac{1}{x}\\]<br>"
+            ],
+            "guid": "E`od=8-,c.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonctions homographiques",
+                "\\[f(x) = \\frac{ax+b}{cx+d}\\]<br>"
+            ],
+            "guid": "oVE3=2WNs*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité, sin, et tan",
+                "\\[\\forall x \\in \\left]-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right[, |\\sin x| \\le |x| \\le |\\tan x|\\]<br>"
+            ],
+            "guid": "c6]A0:9w>D",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition \\(e\\)",
+                "\\[e = \\lim_{n\\rightarrow+\\infty}{\\sum_{k=0}^n{\\frac{1}{k!}}}\\]<br>"
+            ],
+            "guid": "x)9ZOTAYpA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\[a^b\\]<br>",
+                "\\[e^{b \\ln(a)}\\]<br>"
+            ],
+            "guid": "ij$.mjjs{[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonctions hyperboliques",
+                "\\[ch(x) = \\frac{e^x+e^{-x}}{2}\\]\\[sh(x) = \\frac{e^x - e^{-x}}{2}\\]\\[th(x) = \\frac{e^x - e^{-x}}{e^x+e^{-x}}\\]<br>"
+            ],
+            "guid": "I{T:p.uAyu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition A partie infinie de N",
+                "existe bijection strictement croissante de A dans N"
+            ],
+            "guid": "g]rg,~C/+6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suite stationnaire",
+                "\\[\\exists n_0 \\in \\mathbb{N}, \\forall n \\ge n_0, u_{n+1} = u_{n_0}\\]<br>"
+            ],
+            "guid": "Nw9kJd3D8r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suite extraite",
+                "\\[\\forall n \\in \\mathbb{N}, v_n = u_{\\phi{n}}\\]avec&nbsp;\\(\\phi\\)&nbsp;un extractrice: application de N dans N strictement croissante<br>"
+            ],
+            "guid": "nx%vXrw4<>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous-sous suite",
+                "on extrait de&nbsp;\\((u_n)_{n\\in\\mathbb{N}}\\)&nbsp;une sous-suite&nbsp;\\((u_{\\phi(n)})_{n\\in \\mathbb{N}}\\)<br>on extrait de&nbsp;\\((u_{\\phi(n)})_{n\\in \\mathbb{N}}\\)&nbsp;une sous-suite&nbsp;\\((u_{\\phi(\\theta(n))})_{n\\in \\mathbb{N}}\\)"
+            ],
+            "guid": "uF^*w`t*_h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "étudier monotonie d'une suite",
+                "-&nbsp;\\(u_{n+1} - u_n\\)<br>-&nbsp;\\(\\frac{u_{n+1}}{u_n}\\)<br>- monotonie de f si&nbsp;\\(u_n = f(n)\\)<br>-&nbsp;\\(u_1 - u_0\\)&nbsp;si&nbsp;\\(u_{n+1} = f(u_n)\\)&nbsp;avec f croissante"
+            ],
+            "guid": "v~`V+c/fZ<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suite arithmético-géometrique",
+                "\\[u_{n+1} = au_n + b\\]trouver formule explicite:<br>1. point fixe (l)<br>2. suite&nbsp;\\(v_m = u_n - l\\)&nbsp;géométrique de raison a<br>3. avec forme explicite de v en déduire celle de u"
+            ],
+            "guid": "px8IVW52a(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suite récurrentes linéaires d'ordre 2 à coefficients constants",
+                "\\[u_{n+1} = au_{n+1} + bu_n\\]équation caractéristique:<br>\\[(Ec) \\space r^2 = ar+b\\]<br>"
+            ],
+            "guid": "y$vgCqvY:&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "résolution suite récurrente linéaire ordre 2 à coefficients constants",
+                "-&nbsp;\\(\\Delta &gt; 0\\):<br>\\[E_{a,b} = \\{(\\lambda_1r_1^n + \\lambda_2r_2^n)_{n\\in\\mathbb{N}} \\mid (\\lambda_1, \\lambda_2) \\in \\mathbb{K}^2\\}\\]-&nbsp;\\(\\Delta = 0\\):<br>\\[E_{a,b} = \\{(\\lambda_1r_0^n + \\lambda_2r_0^n)_{n\\in\\mathbb{N}} \\mid (\\lambda_1, \\lambda_2) \\in \\mathbb{K}^2\\}\\]-&nbsp;\\(\\Delta &lt; 0\\):<br>\\[E_{a,b} = \\{(\\rho^n(\\lambda_1\\cos(n\\theta) + \\lambda_2\\sin(n\\theta))_{n\\in\\mathbb{N}} \\mid (\\lambda_1, \\lambda_2) \\in \\mathbb{R}^2\\}\\]avec&nbsp;\\(r = \\rho e^{i\\theta}\\)&nbsp;une des deux solutions complexes<br>"
+            ],
+            "guid": "OvL@%>>rYT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suite homographique",
+                "\\[u_{n+1} = \\frac{au_n + b}{cu_n+d}\\]<br>"
+            ],
+            "guid": "EI5!pORZ<q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule explicite suite homographique",
+                "<ol><li>points fixes (l)<br></li><li>si deux raçines (\\(\\alpha\\)&nbsp;et&nbsp;\\(\\beta\\)):&nbsp;\\(v_n = \\frac{u_n - \\beta}{u_n - \\alpha}\\)&nbsp;suite géométrique, forme explicite déduit forme explicite de&nbsp;\\(u_n\\)</li><li>si raçine double (\\(\\alpha\\)):&nbsp;\\(v_n = \\frac{1}{u_n-\\alpha}\\)&nbsp;suite arithmétique, forme explicite déduit forme explicite de&nbsp;\\(u_n\\)</li></ol>"
+            ],
+            "guid": "LwMb%>U2[}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
         }
     ],
     "reviewLimit": null,
