@@ -71,11 +71,7 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [
-        "latex-5a932259c4df420e83465e781cef6040355d7941.png",
-        "latex-7680e1ee77d22dd2b7b5f10495597c44a2f6966e.png",
-        "latex-a08435745fb47b56c2f303a4978ad4fcb7cbde65.png"
-    ],
+    "media_files": [],
     "name": "maths",
     "newLimit": null,
     "newLimitToday": {
@@ -780,7 +776,7 @@
             "__type__": "Note",
             "fields": [
                 "cos en fonction de&nbsp;\\(tan(\\frac{\\theta}{2})\\)",
-                "[latex]On pose $t = tan(\\frac{\\theta}{2})$[/latex]<br><br>\\[cos\\theta = \\frac{1-t^2}{1+t^2}\\]"
+                "On pose&nbsp;\\(t = tan(\\frac{\\theta}{2})\\)<br><br>\\[cos\\theta = \\frac{1-t^2}{1+t^2}\\]"
             ],
             "guid": "Mn:AK/KM=C",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -792,7 +788,7 @@
             "__type__": "Note",
             "fields": [
                 "sin en fonction de&nbsp;\\(tan(\\frac{\\theta}{2})\\)",
-                "[latex]On pose $ t = tan(\\frac{\\theta}{2})$[/latex]<br><br>\\[sin(\\theta) = \\frac{2t}{1+t^2}\\]"
+                "On pose&nbsp;\\( t = tan(\\frac{\\theta}{2})\\)<br><br>\\[sin(\\theta) = \\frac{2t}{1+t^2}\\]"
             ],
             "guid": "c@|OF,J#J`",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2844,7 +2840,7 @@
             "__type__": "Note",
             "fields": [
                 "existence des coefficients de Bézout",
-                "[latex]<br>Il existe donc&nbsp; $u_1,\\ldots,u_n \\in \\mathbb{Z}$, appelés coefficients de Bézout pour $a_1,\\ldots,a_n$, tels que:<br>$$u_1a_1 + \\dots + u_na_n = \\mathrm{pgcd}(a_1,\\ldots,a_n)$$<br>[/latex]"
+                "\\[\\displaylines{\\text{Il existe donc } u_1,\\ldots,u_n \\in \\mathbb{Z}\\\\\n\\text{appelés coefficients de Bézout pour }a_1,\\ldots,a_n\\text{, tels que: }\\\\\nu_1a_1 + \\dots + u_na_n = \\mathrm{pgcd}(a_1,\\ldots,a_n)}\\]"
             ],
             "guid": "hFYC+AvWdI",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
