@@ -72,234 +72,9 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
-        "latex-00244318015c604a39b146da44cecdcc24016fe5.png",
-        "latex-003e077bb92e77c7ad68b6d8b8183dccd34ed0b5.png",
-        "latex-01b36aa04222e12a84469b76c76cbab5075e785f.png",
-        "latex-03eddbbeb659103742a5a5670964392f2db36c7b.png",
-        "latex-0557c245c979a797ac9df502eda7557d0f7ea3d1.png",
-        "latex-06b4b4e9e7c709a2cbe193f9284f6cec4a1f93bf.png",
-        "latex-06ee2ee71b0574e7cfbff9b020a8a026e142923b.png",
-        "latex-0761b39566fc0bbb091e3cd485b953ff8fd235d6.png",
-        "latex-0cafa868f39ead32a704b4e0fb3d1da44b36bc7a.png",
-        "latex-0cf169e579aafed8d2790236325a1c22bce8936b.png",
-        "latex-0d11910196eb52a2b2dd191dee6a918d00031cad.png",
-        "latex-0ec0253e109ae01da38ed4002738a4e6042c077a.png",
-        "latex-0f7b9e2568ace18bf1e40348ccb70b0ba177d869.png",
-        "latex-0fb30e47937961bdbd7092624e894e8fb99523d0.png",
-        "latex-11d8f6970911c20e87cc064a1ba2c79d37d857fd.png",
-        "latex-175ccd35a502cdc5c4184352c4eb5512c416c14c.png",
-        "latex-177c0b8cfe509d36ecf63868e106dc0bf407381c.png",
-        "latex-17f5c21bb252b9685d36f7736b83278e5088aaf8.png",
-        "latex-1b72a70565e1f558c8f539e7fec229fa4228bf9a.png",
-        "latex-1ca5ab71a48c2ae406ca1748b64e4e737a91d825.png",
-        "latex-1d981e581b05089d60c4e96fd811c826f5d29d61.png",
-        "latex-1e16cd64d6be029ce6192957ea4ccdc21d9bb3b1.png",
-        "latex-1f4251db5e16737636254507c47ec8c5f2ea593b.png",
-        "latex-1faa7ac87cd700ab49a459cfc0a636a9c4c82896.png",
-        "latex-1fde0cd9483bc79ca490d9c80a6ee504deba68cf.png",
-        "latex-269cff3fd52ed5a4fb019dccf2d03162c22b7798.png",
-        "latex-2802176db8b52d7b3eafd855de6dedf227acaf7f.png",
-        "latex-2848bd934ceeec35f747ee4788acd6d0b23d9768.png",
-        "latex-284faf00ac98b75787fc5334728aa291aa6565eb.png",
-        "latex-295c4de03ff0ff79abbeabb068de2439fdb56328.png",
-        "latex-2bf4d1a85d03d580495c7600a847b3f5ff907a9c.png",
-        "latex-2c175f60eecef1de7560c3bdea495d69f26f719d.png",
-        "latex-2c62ddad0595570e165cf078134b90086bed8960.png",
-        "latex-2ded31e630320a02ff3d6fc6ceaac66c876a8b45.png",
-        "latex-2f30075716b11904a53a6082d5e133bbd42b898b.png",
-        "latex-311cabda3a9b09f0dde217303ca9d1cd9201dcf6.png",
-        "latex-32336ce26297058963a7ee4cf17bb3509cf8481d.png",
-        "latex-3406f8368e3a7bf8aea3a010103c88b91a060e13.png",
-        "latex-3409cbe80e59e47427d7abd921112f52d4960766.png",
-        "latex-36c7f3f828cf12ab9cafeffad282468a95219600.png",
-        "latex-3b43de914111b6d8eeee42e7715c2b4cb1b69333.png",
-        "latex-3b4b2d56c1c5f7d74f55071686a16bd77a3203d5.png",
-        "latex-3dad2a037a5f0f25608c8356c7babadb2e11791c.png",
-        "latex-401146c0b461f1c4574822d77aa90e8d90870c6b.png",
-        "latex-4058d5799c00ddfb4ba8f38f99e3f0c1daa8debf.png",
-        "latex-4095cb3fe609230ff619d8cc98627f2c08850f7f.png",
-        "latex-419fb01ca830964c3ce802f595fd9e6f63b4f285.png",
-        "latex-4261e4a01d613d18f6e3add6a5bde94656a092df.png",
-        "latex-42f4de55d1453ab73fadf10cc0fa8e5e82bbddf1.png",
-        "latex-44305b3e318a3144c588868db73468a50dfc4bbb.png",
-        "latex-4719bd1dfb70baa2102ce4058770b6b7c22ce97d.png",
-        "latex-4a000a12d2c60597714065a7d6960ff092e78878.png",
-        "latex-4a47331856a21154063343563c1ea8f701d42c8a.png",
-        "latex-4a736a3b48c2f556864f76dfd36c226c27969cd2.png",
-        "latex-4c5b68a6fc5e88687fe4b25feaa288a97d6a7f9e.png",
-        "latex-4c5f7e871ecdfbd380c2a4889fafb6e3c1d0c0ec.png",
-        "latex-4c66bf59e8a5aa8077859040eb13de1495442c1f.png",
-        "latex-4e00e14ab51f3a823a3776fad1de3bc03ac8a327.png",
-        "latex-4e06a2ed1019bca6ccaf9d3ce42ac312ee98885a.png",
-        "latex-4e34c16a2e0909dba8fecee476e4a0c834435123.png",
-        "latex-4eb152748fc2382edcdd50e76ce35fbbd8c13cd8.png",
-        "latex-4f4205f0c0213f3805b945e7537edaf96c648018.png",
-        "latex-50c2d475f38b6fe2ec3a5ac4b372b4b408c2a81e.png",
-        "latex-50c7b27abbc3bc58c9cab126da5f6ea511ac209e.png",
-        "latex-5188c31de3f8209ecd36e9a306ebefe1ae21b9e7.png",
-        "latex-53cc014edf05ddb6ff862d5859d4518293accca6.png",
-        "latex-54ec05b4d096c62ba1d8e1867ae2ee7eb1e441af.png",
-        "latex-57c425de54b80fe737dfc6a4f5984c3c1b96d2ef.png",
-        "latex-58834290f84fcaaf6dedf9d2546b1654ee6abae0.png",
-        "latex-59066560e1e404561dfd5dba384923d94e94aaff.png",
-        "latex-59e3ca9f5eda9dbbf98502f7b6f3564c2fbd347c.png",
         "latex-5a932259c4df420e83465e781cef6040355d7941.png",
-        "latex-5b6f886d3065dbb9ccd13ed1523506a66452e7f0.png",
-        "latex-5c932eb07b5d1f6e47722ad24cc441489d082399.png",
-        "latex-5d4e42e7ff9b312ee2cec4c4185ad9fa8611b9b8.png",
-        "latex-5e351f5b1412fe5f35ee5ca49dce5fe1791cbe82.png",
-        "latex-5e6e6fe36adba5d7acc457a3f2144152e6d93379.png",
-        "latex-5e706fb9d1b291e129ea2e63f2d189901fb951b3.png",
-        "latex-5f372f7af0dcafa03cb23ab0078d04cc368e873a.png",
-        "latex-61f3b8f3e5be3fa6ffe6f31ebab5a086d8fd7eaa.png",
-        "latex-640d98af6ee0a976784dc07ba82b3da41382f77c.png",
-        "latex-64b24e7e14f951a0f76cc2dc1a4dde3eafdc60e4.png",
-        "latex-64cab53ee258abd420e09c56ce61d27b40f4e90c.png",
-        "latex-65f0f71cf17395ab6fdc55f18c06e640c87f4b97.png",
-        "latex-693e3a1f70912f3b142e3c17875dabb19518a427.png",
-        "latex-6a85fa6289382165c981d03954a2fb1ae7446236.png",
-        "latex-6b5b2f4cc9d4202f0e2288f3f527376f55b75f25.png",
-        "latex-6bd5bb8d4b07b0bb842afe7388194603b6aa3950.png",
-        "latex-6c36f0b157e8c2fbe0638c2f2b378e08d07695aa.png",
-        "latex-6c91ade2d3ee71c40210fb796585a1207715ba15.png",
-        "latex-6d03841fdca3426e5e83421cff7002918bac4ec9.png",
-        "latex-6d14bad730fc978b9549444af8277f9e90b980be.png",
-        "latex-6d21e9fd7260732027341f5b36880b3403c87102.png",
-        "latex-6d91d510b807fb20d5af1cad2a7c7c224cba76af.png",
-        "latex-6eaad456d082472271f41d30e4ec45352d2c2205.png",
-        "latex-6ecbbee39681355497f874f275505c9cfae86f3f.png",
-        "latex-707e5bd262f6d9d5b2f8dc639a6d0cb91dc37bfc.png",
-        "latex-70b6a8f66dce74afe82c153400c14d057d226493.png",
-        "latex-7282c6236646c5da18a2d10272a28002dfc217d8.png",
-        "latex-72f0830ec2d16b8729112dae8e0ecd35cacc0213.png",
-        "latex-7403e4dc5be827b167a485095f9f54915373fe67.png",
-        "latex-74cb20810862bce7317a70d287a1e9650972b11d.png",
-        "latex-74eeb2df757fea919631f48720be2079b35e7314.png",
-        "latex-7518c9b7fc38ec8c3c5a61253efeb5cc0c5590f3.png",
-        "latex-7541ee19c28c978fe7b4aee02f505942eb7cb8f3.png",
-        "latex-766200a28b55ca08c295146efb2e1159e9c7385d.png",
         "latex-7680e1ee77d22dd2b7b5f10495597c44a2f6966e.png",
-        "latex-76d55ae928a656e1d92df1ce31df3fa46e20037e.png",
-        "latex-7a81aaacb6ff13fa1cc25e608594b6beca02857a.png",
-        "latex-7ab0ef6e566888ba8d8d897dbb7c4bd2aab07668.png",
-        "latex-7ab709e95810b7d663d83453baed3f47cf959863.png",
-        "latex-7bd427779282b9c597a2eb98ed1357fbbfe7a11c.png",
-        "latex-7c1a7a7aad25571110e3112b5afeac3e2733603c.png",
-        "latex-7c65e120d5fb1ae79cc1c1c72a9861d52402443c.png",
-        "latex-818d1fb64f2f38d594a9030947daa61f37fdf20d.png",
-        "latex-835d435d9c6a3c597fdd3519bd9946c8e2bc4594.png",
-        "latex-8362d3edfeb6b8d1004e7e6f9d8a834d75fbfe5c.png",
-        "latex-83811dd8ae6af5509a7248960cb358fcf6283210.png",
-        "latex-84241c448cbf497968ba86136beecf766431a3ff.png",
-        "latex-842bf1682ae8575e1e1f29cd50aed71dc8cc0003.png",
-        "latex-85bc92e1991fe62cd05834c8b2bbc48982d7717d.png",
-        "latex-862838b4993b29fa3b502f531de93534d585b0fa.png",
-        "latex-86bfd64b1fa84db779ca82e483ed099620a5ff9c.png",
-        "latex-8768440bfd4756dde00e99dae561fd9766b4d1e2.png",
-        "latex-8877de9527d46eda26b9d094b1fc9899d0b08951.png",
-        "latex-891f811f60110eea7fcbc7417e5171ab852eff53.png",
-        "latex-8ab40cf26723414c90eb85dd93026409d495de26.png",
-        "latex-8b649ee95228080c19150ddac53d56c973a9f31f.png",
-        "latex-8cdf95c5ce9335df934bde4021a7b10f6a2eff74.png",
-        "latex-8db365fd9bf379d48d224ac96b5fb0f9a4950fd5.png",
-        "latex-8f64cd157c36783cf3a75f64621319d976803e5e.png",
-        "latex-8fa7e08884cddc81f709380334289c8d5a140a6a.png",
-        "latex-8fd75e00b7c890b2fd11cb4ec4524627f539b3dd.png",
-        "latex-904c3827ec092e14b415a093a40b41a6ab17bf68.png",
-        "latex-906fddead65545297c74bbc2ca83cd01f3f9ecc9.png",
-        "latex-913444923c7921d6845f307d3d6c2a124075a9e9.png",
-        "latex-9228c2a77c932e1d9e0ebb462649d7b4dffc49d9.png",
-        "latex-929d4a8faefbc249ab79e0688d5f82576e7168f1.png",
-        "latex-93a8ee47677479f974912cd8262090c07dd4232d.png",
-        "latex-94472c043928afa89538c6531b0925838f7a13bb.png",
-        "latex-9622a4b726c65b590ae712e20d9470b35cdb681a.png",
-        "latex-974f57e137d3a7d80ab41ed8ead76e393415d9bb.png",
-        "latex-9788830bd19c2a289306d083b46985fc61851288.png",
-        "latex-989c7fcde0344b554241512720b0940018fa5f72.png",
-        "latex-98ee1f8c9d2d4cc6f0092f049137526f107358a9.png",
-        "latex-9a54bda9c89fd84edabb10f0e0e6cf55ee749cb7.png",
-        "latex-9a7a3e109b782fa0c787e6973c1f46e20071fe64.png",
-        "latex-9efb8ea17ef5601996a033fb90a722a28c4836dc.png",
-        "latex-a08435745fb47b56c2f303a4978ad4fcb7cbde65.png",
-        "latex-a28ed5eb7371d7707658454a7cf126455f76f025.png",
-        "latex-a36cd055c40391a95401644ab7ad1a76a59f4e93.png",
-        "latex-a40fc11907a7592b231b09e25315c3adfe6ce1c3.png",
-        "latex-a7bcf5b47070f7c4a68c32435c5297acfe6add89.png",
-        "latex-a7e0176a3d640afd837034fbe99f304d5ea5b220.png",
-        "latex-a82fc1a2b4ae8e8e779bf3a30def312d59766fa0.png",
-        "latex-aab03dc400cf5c48dec5664107f9e07c81e82f91.png",
-        "latex-ad1270d25162f55c61f5baacdb55e8197acaa060.png",
-        "latex-ad97c4b4f3a66f593028b52e89e132c6851339eb.png",
-        "latex-ad9d157d8f74bcf2918e614486322262cbaba893.png",
-        "latex-ade49fc358cadd4f54efd729c4158cb71a401e45.png",
-        "latex-ae1dd96fee304e4cf663b49311dfcc2b75427d59.png",
-        "latex-aea97e5b7fd5dc1ddeb7101f2faa013f17605790.png",
-        "latex-aebbd15cb5403c9975d119b4e0d337a9cb0e81df.png",
-        "latex-b247e5a6a7ac2b8c0379acba19fe5bff0910cbf7.png",
-        "latex-b2af40d15abfcb59063068e3ed1b2c60eac50da5.png",
-        "latex-b48a5ae790d9464afebf9332c5dcd4c42532999a.png",
-        "latex-b50cd0c06658bd8e87b5f4da32bb896becbcb90b.png",
-        "latex-b5a011b400bcb27cd59820d991b487d1fc4212e3.png",
-        "latex-b8b6f69578fd8cc6541f9eaf0d2b6e9fde3aa278.png",
-        "latex-b979d6e93a5cf3d5b2ba0a15f235ba0ea71c3027.png",
-        "latex-bc422f09e9f12e246bab6f887ae9ea16064d1b3f.png",
-        "latex-bf0364540a7c64946d1a891dcf93b03bef672aa6.png",
-        "latex-c18dd555772c3d4fe838b3bfdbbd75e73fabd529.png",
-        "latex-c3461aab6a90a4a01c8f0c037796c32cc83cbaf8.png",
-        "latex-c518247321a7760fea271f7f6ee19f1d015e5b1a.png",
-        "latex-c53c5035da798fa9b3e12dd1fe1f27b635eb2872.png",
-        "latex-c6f037a3be20a7d003802cfa20f0ca72e9d08755.png",
-        "latex-c7320297275611991e96c4c2bf1637bed14c08dd.png",
-        "latex-c92f5fa550f5db7eaf5c44e7b767b7fe0163da5e.png",
-        "latex-cba592f371663b5a6606d8c7c831c27200f16e19.png",
-        "latex-cc3bb0f614c05ada722f2e1881a4b50fd4c3708d.png",
-        "latex-ce24fca445731d8cd6010d07e5ef3badc373d87a.png",
-        "latex-cea769a7b52cc8e19f6bc1acad351d3eef8d66f8.png",
-        "latex-cf53ea7516578097a8a7d60f7de96c3ba8ff1063.png",
-        "latex-cfd2199b7d38454906fd811c58203f6197c46763.png",
-        "latex-d0c3e8da706af768a41212e56202fd5c7002b958.png",
-        "latex-d14a1f5fccaa6392d2e8f694f9808422bd524674.png",
-        "latex-d1571ec97cf41cc4abdcfb50ef46b2d0e69ca199.png",
-        "latex-d2b5454de33da79ef162e3dcc29167ab62e7866a.png",
-        "latex-d34d4a456b18a8a1d45f687ef892dc81c1485233.png",
-        "latex-d38d2a956b51d17b874e35f1349b994aff013e07.png",
-        "latex-d42ebd6df5bd6472efd9a782e2297bff83e2bf3e.png",
-        "latex-d471ba360494738018c55be972eb974b0c437e45.png",
-        "latex-d4a9bbea6e0b831618d7dc38621c5407435cc9ce.png",
-        "latex-d554e6514000be3041926301239c632ff369caa9.png",
-        "latex-d732232ed2a3376a04b87f43488d1ab88caa9799.png",
-        "latex-d770ed41289a04aeef6991e12b6806c5c0cb5bd8.png",
-        "latex-d869088eb2ff04775930fd89e7bacc702b3e663c.png",
-        "latex-d92063653430813bfba289a6df6a1fb7bf5c8e72.png",
-        "latex-d957d82e81ca9c12bcf6192681b38826e6d1e62c.png",
-        "latex-da63fb4bccdb4eac7fbb5af8976127ea639c6120.png",
-        "latex-db6c0fbe2796d21e2141abfc98de1ff52b79abf5.png",
-        "latex-dbb3d579dc431e2eb53c13bdf36c91ebc2268819.png",
-        "latex-dc26eaa27a1c972c5b22edd113950be9834aa991.png",
-        "latex-e05e2aa0de6294bd6c62177e8b6704e5e3b7037e.png",
-        "latex-e0969296c465c13b05665921e0acd5d03eeb0014.png",
-        "latex-e159907fddc6a12e06bc735df2261594c0094ca7.png",
-        "latex-e1d77c00edb131beac71a35fbc13ea50e3072bad.png",
-        "latex-e35a3dfdc76c36ab4f7f9d7a5dfbdea51e76cc40.png",
-        "latex-e3a8ae66ded7f33f9385a37c9cadfb82720013d8.png",
-        "latex-e5248f3bcfcb984273b61bc4e3dfdcb0e09f44b9.png",
-        "latex-e6b93368a39e5ff8edbef28309ec487d854b3062.png",
-        "latex-e754f7ed236df9f4ce6b46467be04db89b9491fd.png",
-        "latex-e92ad161dbe5522244fe031648e948884bdd074b.png",
-        "latex-ea02307aea29587fa1d3159120f882cb1fa95bed.png",
-        "latex-f1c3c655166b2ae64c56ee827c8dfa178701a363.png",
-        "latex-f4189fdbf60ba290cd123340ba2e45b07aa8a5cf.png",
-        "latex-f4f065380de0d634198a5c8a371862a97661f0c5.png",
-        "latex-f5ff1c738baa27c0375473d802ddf3e9016dc3dd.png",
-        "latex-f7b371652a9ff01f5cdb002ee6f8bb5dfee4eb00.png",
-        "latex-f81077faa538711bfd3691e1d80c0315ebda6dd7.png",
-        "latex-f81ce98b9bafcb599f497db157ad72d3554bd030.png",
-        "latex-f89819b5f007f376e39b50af26208de81e8908ae.png",
-        "latex-fb8b736f2c43422a8a683c72a09955231622c6bc.png",
-        "latex-fc7aeb3cbc6b3a6a26b4e4fcc7bdbb51e7ae8c31.png",
-        "latex-fcb0dedec3e186d2ab9a01d18db200e696821197.png",
-        "latex-fe45a85ad3f3f127de09d492ecf10a43da4d85f8.png",
-        "latex-ff4f1c32d8945fb3ae613f2aa83bc5c5be3c5962.png"
+        "latex-a08435745fb47b56c2f303a4978ad4fcb7cbde65.png"
     ],
     "name": "maths",
     "newLimit": null,
@@ -381,7 +156,7 @@
             "__type__": "Note",
             "fields": [
                 "formule du multinôme",
-                "[$$]\\left(\\sum_{k=1}^p{a_k}\\right)^n&nbsp;&nbsp;= \\sum_{\\substack{&nbsp;0 \\le k_1,..., k_p \\le n \\\\ k_1+....+k_p=n}}{\\frac{n!}{k_1!....k_p!}a_1^{k_1}....a_p^{k_p}}[/$$]"
+                "\\[\\left(\\sum_{k=1}^p{a_k}\\right)^n= \\sum_{\\substack{0 \\le k_1,..., k_p \\le n \\\\ k_1+....+k_p=n}}{\\frac{n!}{k_1!....k_p!}a_1^{k_1}....a_p^{k_p}}\\]"
             ],
             "guid": "sMk>WUD^uL",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -392,8 +167,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]\\sum_{m \\le k \\le l \\le n}{u_{k,l}}[/$$]",
-                "[$$]\\sum_{m \\le k \\le l \\le n}{u_{k,l}}&nbsp;&nbsp;= \\sum_{k=m}^{n}{\\sum_{l=k}^{n}{u_{k,l}}}&nbsp;= \\sum_{l=m}^{n}{\\sum_{k=m}^{l}{u_{k,l}}}[/$$]"
+                "\\[\\sum_{m \\le k \\le l \\le n}{u_{k,l}}\\]",
+                "\\[\\sum_{m \\le k \\le l \\le n}{u_{k,l}}= \\sum_{k=m}^{n}{\\sum_{l=k}^{n}{u_{k,l}}}= \\sum_{l=m}^{n}{\\sum_{k=m}^{l}{u_{k,l}}}\\]"
             ],
             "guid": "K%/*.<F/&[",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -404,8 +179,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$](\\sum_{k=1}^{p}{a_k})^2[/$$]",
-                "[$$](\\sum_{k=1}^{p}{a_k})^2 = \\sum_{k=1}^{p}{a^2_k} + \\sum_{1 \\le k &lt; l \\le p}{2a_k a_l}[/$$]"
+                "\\[(\\sum_{k=1}^{p}{a_k})^2\\]",
+                "\\[(\\sum_{k=1}^{p}{a_k})^2 = \\sum_{k=1}^{p}{a^2_k} + \\sum_{1 \\le k &lt; l \\le p}{2a_k a_l}\\]"
             ],
             "guid": "m]e_emLY_A",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -417,7 +192,7 @@
             "__type__": "Note",
             "fields": [
                 "télescopage produits",
-                "[$$]\\prod_{k=m}^{n}{\\frac{u_{k+1}}{u_k}} = \\frac{u_{n+1}}{u_m}[/$$]"
+                "\\[\\prod_{k=m}^{n}{\\frac{u_{k+1}}{u_k}} = \\frac{u_{n+1}}{u_m}\\]"
             ],
             "guid": "ftmPk{LdUB",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -464,7 +239,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\frac{\\pi}{6})[/$$]",
+                "\\[cos(\\frac{\\pi}{6})\\]",
                 "\\frac{\\sqrt{3}}{2}"
             ],
             "guid": "oVY~x]GrHj",
@@ -476,8 +251,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\frac{\\pi}{6})[/$$]",
-                "[$$]\\frac{1}{2}[/$$]"
+                "\\[sin(\\frac{\\pi}{6})\\]",
+                "\\[\\frac{1}{2}\\]"
             ],
             "guid": "Kpftov!m-G",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -488,8 +263,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\frac{\\pi}{6})[/$$]",
-                "[$$]\\frac{\\sqrt{3}}{3}[/$$]"
+                "\\[tan(\\frac{\\pi}{6})\\]",
+                "\\[\\frac{\\sqrt{3}}{3}\\]"
             ],
             "guid": "Fa(Sx^@wAY",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -500,8 +275,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\frac{\\pi}{4})[/$$]",
-                "[$$]\\frac{\\sqrt{2}}{2}[/$$]"
+                "\\[cos(\\frac{\\pi}{4})\\]",
+                "\\[\\frac{\\sqrt{2}}{2}\\]"
             ],
             "guid": "e=}#Aow,Tk",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -512,8 +287,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\frac{\\pi}{4})[/$$]",
-                "[$$]\\frac{\\sqrt{2}}{2}[/$$]"
+                "\\[sin(\\frac{\\pi}{4})\\]",
+                "\\[\\frac{\\sqrt{2}}{2}\\]"
             ],
             "guid": "Ca=[iS?ye6",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -524,7 +299,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\frac{\\pi}{4})[/$$]",
+                "\\[tan(\\frac{\\pi}{4})\\]",
                 "1"
             ],
             "guid": "f{^-%ZZkdT",
@@ -536,8 +311,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\frac{\\pi}{3})[/$$]",
-                "[$$]\\frac{1}{2}[/$$]"
+                "\\[cos(\\frac{\\pi}{3})\\]",
+                "\\[\\frac{1}{2}\\]"
             ],
             "guid": "cl$w?2)<mn",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -548,8 +323,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\frac{\\pi}{3})[/$$]",
-                "[$$]\\frac{\\sqrt{3}}{2}[/$$]"
+                "\\[sin(\\frac{\\pi}{3})\\]",
+                "\\[\\frac{\\sqrt{3}}{2}\\]"
             ],
             "guid": "uTqZAFVQQm",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -560,8 +335,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\frac{\\pi}{3})[/$$]",
-                "[$$]\\sqrt{3}[/$$]"
+                "\\[tan(\\frac{\\pi}{3})\\]",
+                "\\[\\sqrt{3}\\]"
             ],
             "guid": "j{CMPW_yaN",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -572,7 +347,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\frac{\\pi}{2})[/$$]",
+                "\\[cos(\\frac{\\pi}{2})\\]",
                 "0"
             ],
             "guid": "yKw!wl3Fg6",
@@ -584,7 +359,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\frac{\\pi}{2})[/$$]",
+                "\\[sin(\\frac{\\pi}{2})\\]",
                 "1"
             ],
             "guid": "D::H27JiQ;",
@@ -596,7 +371,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\frac{\\pi}{2})[/$$]",
+                "\\[tan(\\frac{\\pi}{2})\\]",
                 "undefined"
             ],
             "guid": "P};:HA`htE",
@@ -621,7 +396,7 @@
             "__type__": "Note",
             "fields": [
                 "caractérisation tangente",
-                "pi périodique, asymptotes verticales à&nbsp;[$]x_k = \\frac{\\pi}{2} + k\\pi[/$]"
+                "pi périodique, asymptotes verticales à&nbsp;\\(x_k = \\frac{\\pi}{2} + k\\pi\\)"
             ],
             "guid": "C+h?V?=UK[",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -632,8 +407,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos^2(\\theta)[/$$] (en fonction de tan)",
-                "[$$]cos^2(\\theta) = \\frac{1}{1+tan^2(\\theta)}[/$$]"
+                "\\[cos^2(\\theta)\\] (en fonction de tan)",
+                "\\[cos^2(\\theta) = \\frac{1}{1+tan^2(\\theta)}\\]"
             ],
             "guid": "g_}%h/>UO8",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -644,8 +419,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$]sin^2(\\theta)[/$] (en fonction de tan)",
-                "[$$]sin^2(\\theta) = \\frac{tan^2(\\theta)}{1+tan^2(\\theta)}[/$$]"
+                "\\(sin^2(\\theta)\\) (en fonction de tan)",
+                "\\[sin^2(\\theta) = \\frac{tan^2(\\theta)}{1+tan^2(\\theta)}\\]"
             ],
             "guid": "KDnaZ[fu5C",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -656,8 +431,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(-\\theta)[/$$]",
-                "[$$]cos(\\theta)[/$$]"
+                "\\[cos(-\\theta)\\]",
+                "\\[cos(\\theta)\\]"
             ],
             "guid": "k(%[A!15i?",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -668,8 +443,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(-\\theta)[/$$]",
-                "[$$]-sin(\\theta)[/$$]"
+                "\\[sin(-\\theta)\\]",
+                "\\[-sin(\\theta)\\]"
             ],
             "guid": "K8fjV!x~O~",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -680,8 +455,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(-\\theta)[/$$]",
-                "[$$]-tan(\\theta)[/$$]"
+                "\\[tan(-\\theta)\\]",
+                "\\[-tan(\\theta)\\]"
             ],
             "guid": "p=QB?|CgMo",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -692,8 +467,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\pi-\\theta)[/$$]",
-                "[$$]-cos(\\theta)[/$$]"
+                "\\[cos(\\pi-\\theta)\\]",
+                "\\[-cos(\\theta)\\]"
             ],
             "guid": "d*+Xy[ryDC",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -704,8 +479,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\pi+\\theta)[/$$]",
-                "[$$]-cos(\\theta)[/$$]"
+                "\\[cos(\\pi+\\theta)\\]",
+                "\\[-cos(\\theta)\\]"
             ],
             "guid": "fZ^J]9vN4o",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -716,8 +491,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\frac{\\pi}{2}-\\theta)[/$$]",
-                "[$$]sin(\\theta)[/$$]"
+                "\\[cos(\\frac{\\pi}{2}-\\theta)\\]",
+                "\\[sin(\\theta)\\]"
             ],
             "guid": "Dy@EP!k2=T",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -728,8 +503,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(\\frac{\\pi}{2}+\\theta)[/$$]",
-                "[$$]-sin(\\theta)[/$$]"
+                "\\[cos(\\frac{\\pi}{2}+\\theta)\\]",
+                "\\[-sin(\\theta)\\]"
             ],
             "guid": "I&JcEJ/jF<",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -740,8 +515,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\pi - \\theta)[/$$]",
-                "[$$]sin\\theta[/$$]"
+                "\\[sin(\\pi - \\theta)\\]",
+                "\\[sin\\theta\\]"
             ],
             "guid": "Oo~uz0]o!8",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -752,8 +527,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\pi + \\theta)[/$$]",
-                "[$$]-sin(\\theta)[/$$]"
+                "\\[sin(\\pi + \\theta)\\]",
+                "\\[-sin(\\theta)\\]"
             ],
             "guid": "d&HC1S^G4+",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -764,8 +539,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\frac{\\pi}{2} - \\theta)[/$$]",
-                "[$$]cos\\theta[/$$]"
+                "\\[sin(\\frac{\\pi}{2} - \\theta)\\]",
+                "\\[cos\\theta\\]"
             ],
             "guid": "I|H:>MokLM",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -776,8 +551,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(\\frac{\\pi}{2} + \\theta)[/$$]",
-                "[$$]cos\\theta[/$$]"
+                "\\[sin(\\frac{\\pi}{2} + \\theta)\\]",
+                "\\[cos\\theta\\]"
             ],
             "guid": "li8o>U4-:M",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -788,8 +563,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\pi-\\theta)[/$$]",
-                "[$$]-tan\\theta[/$$]"
+                "\\[tan(\\pi-\\theta)\\]",
+                "\\[-tan\\theta\\]"
             ],
             "guid": "H7_?@NjT41",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -800,8 +575,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\pi + \\theta)[/$$]",
-                "[$$]tan(\\theta)[/$$]"
+                "\\[tan(\\pi + \\theta)\\]",
+                "\\[tan(\\theta)\\]"
             ],
             "guid": "Ad0*|K=&Li",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -812,8 +587,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\frac{\\pi}{2} - \\theta)[/$$]",
-                "[$$]\\frac{1}{tan\\theta}[/$$]"
+                "\\[tan(\\frac{\\pi}{2} - \\theta)\\]",
+                "\\[\\frac{1}{tan\\theta}\\]"
             ],
             "guid": "v=G0;N>:ZQ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -824,8 +599,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(\\frac{pi}{2} + \\theta)[/$$]",
-                "[$$]-\\frac{1}{tan\\theta}[/$$]"
+                "\\[tan(\\frac{pi}{2} + \\theta)\\]",
+                "\\[-\\frac{1}{tan\\theta}\\]"
             ],
             "guid": "r2z/Kl$06[",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -836,8 +611,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(a+b)[/$$]",
-                "[$$]cos(a)cos(b) - sin(a)sin(b)[/$$]"
+                "\\[cos(a+b)\\]",
+                "\\[cos(a)cos(b) - sin(a)sin(b)\\]"
             ],
             "guid": "MG>&c/U=rP",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -848,8 +623,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(a-b)[/$$]",
-                "[$$]cos(a)cos(b) + sin(a)sin(b)[/$$]"
+                "\\[cos(a-b)\\]",
+                "\\[cos(a)cos(b) + sin(a)sin(b)\\]"
             ],
             "guid": "es63<1Jc(F",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -860,8 +635,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(a+b)[/$$]",
-                "[$$]sin(a)cos(b) + cos(a)sin(b)[/$$]"
+                "\\[sin(a+b)\\]",
+                "\\[sin(a)cos(b) + cos(a)sin(b)\\]"
             ],
             "guid": "QzK>@sNYiV",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -872,8 +647,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(a-b)[/$$]",
-                "[$$]sin(a)cos(b) - sin(b)cos(a)[/$$]"
+                "\\[sin(a-b)\\]",
+                "\\[sin(a)cos(b) - sin(b)cos(a)\\]"
             ],
             "guid": "G5+DC.zG5S",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -884,8 +659,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(a+b)[/$$]",
-                "[$$]\\frac{tan(a) + tan(b)}{1- tan(a)tan(b)}[/$$]"
+                "\\[tan(a+b)\\]",
+                "\\[\\frac{tan(a) + tan(b)}{1- tan(a)tan(b)}\\]"
             ],
             "guid": "fjk,D0EwtB",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -896,8 +671,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(a-b)[/$$]",
-                "[$$]\\frac{tan(a) - tan(b)}{1+tan(a)tan(b)}[/$$]"
+                "\\[tan(a-b)\\]",
+                "\\[\\frac{tan(a) - tan(b)}{1+tan(a)tan(b)}\\]"
             ],
             "guid": "bitFrw7#|L",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -908,8 +683,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(2a)[/$$]",
-                "[$$]cos^2(a) - sin^2(a) = 2cos^2(a) - 1 = 1 - 2sin^2(a)[/$$]"
+                "\\[cos(2a)\\]",
+                "\\[cos^2(a) - sin^2(a) = 2cos^2(a) - 1 = 1 - 2sin^2(a)\\]"
             ],
             "guid": "9Yg_oj~N>",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -920,8 +695,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(2a)[/$$]",
-                "[$$]2sin(a)cos(a)[/$$]"
+                "\\[sin(2a)\\]",
+                "\\[2sin(a)cos(a)\\]"
             ],
             "guid": "HnlQi}3^k|",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -932,8 +707,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]tan(2a)[/$$]",
-                "[$$]\\frac{2tan(a)}{1 - tan^2(a)}[/$$]"
+                "\\[tan(2a)\\]",
+                "\\[\\frac{2tan(a)}{1 - tan^2(a)}\\]"
             ],
             "guid": "1Q}P`*{=R",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -956,8 +731,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]cos(p) + cos(q)[/$$]",
-                "[$$]2cos(\\frac{p-q}{2})cos(\\frac{p+q}{2})[/$$]"
+                "\\[cos(p) + cos(q)\\]",
+                "\\[2cos(\\frac{p-q}{2})cos(\\frac{p+q}{2})\\]"
             ],
             "guid": "bVKcw*M0yE",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -968,8 +743,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$]cos(p) - cos(q)[/$]",
-                "[$]-2sin(\\frac{p+q}{2})sin(\\frac{p-q}{2})[/$]"
+                "\\(cos(p) - cos(q)\\)",
+                "\\(-2sin(\\frac{p+q}{2})sin(\\frac{p-q}{2})\\)"
             ],
             "guid": "qZ@JXGSGxU",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -980,8 +755,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "&nbsp;[$$]sin(p) + sin(q)[/$$]",
-                "[$$]2sin(\\frac{p+q}{2})cos(\\frac{p-q}{2})[/$$]"
+                "&nbsp;\\[sin(p) + sin(q)\\]",
+                "\\[2sin(\\frac{p+q}{2})cos(\\frac{p-q}{2})\\]"
             ],
             "guid": "gEUOUEZe`#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -992,8 +767,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]sin(p) - sin(q)[/$$]",
-                "[$$]2cos(\\frac{p+q}{2})sin(\\frac{p-q}{2})[/$$]"
+                "\\[sin(p) - sin(q)\\]",
+                "\\[2cos(\\frac{p+q}{2})sin(\\frac{p-q}{2})\\]"
             ],
             "guid": "Lg@V!FWmeU",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1004,8 +779,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "cos en fonction de&nbsp;[$]tan(\\frac{\\theta}{2})[/$]",
-                "[latex]On pose $t = tan(\\frac{\\theta}{2})$[/latex]<br><br>[$$]cos\\theta = \\frac{1-t^2}{1+t^2}[/$$]"
+                "cos en fonction de&nbsp;\\(tan(\\frac{\\theta}{2})\\)",
+                "[latex]On pose $t = tan(\\frac{\\theta}{2})$[/latex]<br><br>\\[cos\\theta = \\frac{1-t^2}{1+t^2}\\]"
             ],
             "guid": "Mn:AK/KM=C",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1016,8 +791,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "sin en fonction de&nbsp;[$]tan(\\frac{\\theta}{2})[/$]",
-                "[latex]On pose $ t = tan(\\frac{\\theta}{2})$[/latex]<br><br>[$$]sin(\\theta) = \\frac{2t}{1+t^2}[/$$]"
+                "sin en fonction de&nbsp;\\(tan(\\frac{\\theta}{2})\\)",
+                "[latex]On pose $ t = tan(\\frac{\\theta}{2})$[/latex]<br><br>\\[sin(\\theta) = \\frac{2t}{1+t^2}\\]"
             ],
             "guid": "c@|OF,J#J`",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1029,7 +804,7 @@
             "__type__": "Note",
             "fields": [
                 "paramétrage du cercle d'unité privé du point (-1, 0) à l'aide de fractions rationnelles",
-                "[$$]C-\\{(-1, 0)\\} = \\{(\\frac{1-t^2}{1+t^2}, \\frac{2t}{1+t^2})|&nbsp;t \\in \\mathbb{R}\\}[/$$]"
+                "\\[C-\\{(-1, 0)\\} = \\{(\\frac{1-t^2}{1+t^2}, \\frac{2t}{1+t^2})| \\in \\mathbb{R}\\}\\]"
             ],
             "guid": "BC7v-f^|{w",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1040,8 +815,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "ensemble des solutions pour&nbsp;[$]cosx = c[/$]",
-                "[$$]S = \\{ x_0 + 2k\\pi | k \\in \\mathbb{Z} \\} \\cup \\{&nbsp; -x_0 + 2k\\pi | k \\in \\mathbb{Z} \\}[/$$]&nbsp;<br><br>avec&nbsp;[$]x_0 \\in [0;\\pi][/$]"
+                "ensemble des solutions pour&nbsp;\\(cosx = c\\)",
+                "\\[S = \\{ x_0 + 2k\\pi | k \\in \\mathbb{Z} \\} \\cup \\{ -x_0 + 2k\\pi | k \\in \\mathbb{Z} \\}\\]&nbsp;<br><br>avec&nbsp;\\(x_0 \\in [0;\\pi]\\)"
             ],
             "guid": "D{l+OuH]%3",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1052,8 +827,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "ensemble des solutions à&nbsp;[$]sinx = c[/$]",
-                "[$$]S = \\{ x_0 + 2k\\pi | k \\in \\mathbb{2} \\} \\cup \\{ \\pi - x_0 + 2k\\pi | k \\in \\mathbb{Z} \\}[/$$]<br><br>avec&nbsp;[$]x_0 \\in [-\\frac{\\pi}{2}; \\frac{\\pi}{2}][/$]"
+                "ensemble des solutions à&nbsp;\\(sinx = c\\)",
+                "\\[S = \\{ x_0 + 2k\\pi | k \\in \\mathbb{2} \\} \\cup \\{ \\pi - x_0 + 2k\\pi | k \\in \\mathbb{Z} \\}\\]<br><br>avec&nbsp;\\(x_0 \\in [-\\frac{\\pi}{2}; \\frac{\\pi}{2}]\\)"
             ],
             "guid": "I*BXqY9o)L",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1064,8 +839,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "ensemble des solutions à&nbsp;[$]cosx = c[/$] et&nbsp;[$]sinx = s[/$]",
-                "[$$]S = \\{x_0 + 2k\\pi | k \\in \\mathbb{Z}\\}[/$$]<br><br>solutions seulement si&nbsp;[$]c^2 + s^2 = 1[/$] et avec&nbsp;[$]x_0 \\in [0;2\\pi[[/$]"
+                "ensemble des solutions à&nbsp;\\(cosx = c\\) et&nbsp;\\(sinx = s\\)",
+                "\\[S = \\{x_0 + 2k\\pi | k \\in \\mathbb{Z}\\}\\]<br><br>solutions seulement si&nbsp;\\(c^2 + s^2 = 1\\) et avec&nbsp;\\(x_0 \\in [0;2\\pi[\\)"
             ],
             "guid": "v39-[@Qi6i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1077,7 +852,7 @@
             "__type__": "Note",
             "fields": [
                 "résolution de tanx = t",
-                "avec&nbsp;[$]x_0 \\in ]-\\frac{\\pi}{2}; \\frac{\\pi}{2}[ [/$]<br><br>[$$]S = \\{ x_0 + k\\pi | k \\in \\mathbb{Z} \\} [/$$]"
+                "avec&nbsp;\\(x_0 \\in ]-\\frac{\\pi}{2}; \\frac{\\pi}{2}[ \\)<br><br>\\[S = \\{ x_0 + k\\pi | k \\in \\mathbb{Z} \\} \\]"
             ],
             "guid": "jAuhg_H.*^",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1088,8 +863,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Transformer Acos(x) + Bsin(x) en&nbsp;[$]rcos(x - \\phi)[/$]",
-                "1. On calcule&nbsp;[$]r = \\sqrt{A^2 + B^2} \\ne 0[/$]<br>2. On factorise par r donc&nbsp;[$$]E = r(\\alpha cos(x) + \\beta sin(x))[/$$] avec&nbsp;[$]\\alpha = \\frac{A}{r}[/$] et&nbsp;[$]\\beta = \\frac{B}{r}[/$]<br>3. Comme&nbsp;[$]\\alpha^2 + \\beta^2 = 1[/$] il existe&nbsp;[$]\\alpha = cos(\\phi)[/$] et [$]\\beta = sin\\phi)[/$] donc&nbsp;[$$]E = r(cos\\phi cosx + sin\\phi sinx)[/$$] d'où&nbsp;[$]E = rcos(x - \\phi)[/$]"
+                "Transformer Acos(x) + Bsin(x) en&nbsp;\\(rcos(x - \\phi)\\)",
+                "1. On calcule&nbsp;\\(r = \\sqrt{A^2 + B^2} \\ne 0\\)<br>2. On factorise par r donc&nbsp;\\[E = r(\\alpha cos(x) + \\beta sin(x))\\] avec&nbsp;\\(\\alpha = \\frac{A}{r}\\) et&nbsp;\\(\\beta = \\frac{B}{r}\\)<br>3. Comme&nbsp;\\(\\alpha^2 + \\beta^2 = 1\\) il existe&nbsp;\\(\\alpha = cos(\\phi)\\) et \\(\\beta = sin\\phi)\\) donc&nbsp;\\[E = r(cos\\phi cosx + sin\\phi sinx)\\] d'où&nbsp;\\(E = rcos(x - \\phi)\\)"
             ],
             "guid": "Fz)Xu$D/.O",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1101,7 +876,7 @@
             "__type__": "Note",
             "fields": [
                 "relation de récurrence",
-                "[$$]\\sum_{k=m}^{p+1}{u_k} = \\sum_{k=m}^{p}{u_k} + u_{p+1}[/$$]"
+                "\\[\\sum_{k=m}^{p+1}{u_k} = \\sum_{k=m}^{p}{u_k} + u_{p+1}\\]"
             ],
             "guid": "rsEJQ!fov)",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1113,7 +888,7 @@
             "__type__": "Note",
             "fields": [
                 "sommes des k",
-                "[$$]\\frac{n(n+1)}{2}[/$$]"
+                "\\[\\frac{n(n+1)}{2}\\]"
             ],
             "guid": "H{W_LoCL4v",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1125,7 +900,7 @@
             "__type__": "Note",
             "fields": [
                 "somme des k^2",
-                "[$$]\\frac{n(n+1)(2n+1)}{6}[/$$]"
+                "\\[\\frac{n(n+1)(2n+1)}{6}\\]"
             ],
             "guid": "qPR~mW#,[,",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1149,7 +924,7 @@
             "__type__": "Note",
             "fields": [
                 "décalage d'indice (décalage de r)",
-                "[$$]\\sum_{k=m}^{n}{u_k} = \\sum_{l=m+r}^{n+r}{u_{l-r}}[/$$]"
+                "\\[\\sum_{k=m}^{n}{u_k} = \\sum_{l=m+r}^{n+r}{u_{l-r}}\\]"
             ],
             "guid": "3*n5-t49",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1161,7 +936,7 @@
             "__type__": "Note",
             "fields": [
                 "inversion d'indice",
-                "[$$]\\sum_{k=m}^{n}{u_k} = \\sum_{k=m}^{n}{u_{n+m-k}}[/$$]"
+                "\\[\\sum_{k=m}^{n}{u_k} = \\sum_{k=m}^{n}{u_{n+m-k}}\\]"
             ],
             "guid": "HAh*2(oOVc",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1185,7 +960,7 @@
             "__type__": "Note",
             "fields": [
                 "somme télescopique",
-                "[$$]\\sum_{k=m}^{n}{u_{k+1} - u_k} = u_{n+1} - u_m[/$$]"
+                "\\[\\sum_{k=m}^{n}{u_{k+1} - u_k} = u_{n+1} - u_m\\]"
             ],
             "guid": "E0?qK^?>W*",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1197,7 +972,7 @@
             "__type__": "Note",
             "fields": [
                 "séparation pair et impair",
-                "[$$]\\sum_{k=0}^{n}{u_k} = \\sum_{p=0}^{\\lfloor \\frac{n}{2}\\rfloor}{u_{2p}} +&nbsp;&nbsp;\\sum_{p=0}^{\\lfloor \\frac{n-1}{2}\\rfloor}{u_{2p+1}}[/$$]"
+                "<br>\\[\\sum_{k=0}^{n}{u_k} = \\sum_{p=0}^{\\lfloor \\frac{n}{2}\\rfloor}{u_{2p}} +\\sum_{p=0}^{\\lfloor \\frac{n-1}{2}\\rfloor}{u_{2p+1}}\\]"
             ],
             "guid": "Cq>=[ka^Oh",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1209,7 +984,7 @@
             "__type__": "Note",
             "fields": [
                 "&nbsp;fonction génératrice",
-                "[$$]f_n: \\mathbb{R} \\rightarrow \\mathbb{C}[/$$]<br>[$$]x \\rightarrow \\sum_{k=0}^{n}{u_kx^k}[/$$]"
+                "\\[f_n: \\mathbb{R} \\rightarrow \\mathbb{C}\\]<br>\\[x \\rightarrow \\sum_{k=0}^{n}{u_kx^k}\\]"
             ],
             "guid": "ha>2s-26F}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1233,7 +1008,7 @@
             "__type__": "Note",
             "fields": [
                 "somme d'une suite arithmétique",
-                "[$$]\\sum_{k=m}^{n}{u_k} = (n-m+1)\\frac{u_m+u_n}{2}[/$$]"
+                "\\[\\sum_{k=m}^{n}{u_k} = (n-m+1)\\frac{u_m+u_n}{2}\\]"
             ],
             "guid": "l=Td2{Lvqq",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1245,7 +1020,7 @@
             "__type__": "Note",
             "fields": [
                 "somme d'une suité géométrique",
-                "[$$]\\sum_{k=m}^{n}{u_k} = \\frac{u_{n+1} - u_m}{q-1}[/$$]"
+                "\\[\\sum_{k=m}^{n}{u_k} = \\frac{u_{n+1} - u_m}{q-1}\\]"
             ],
             "guid": "IGfQF96#t7",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1257,7 +1032,7 @@
             "__type__": "Note",
             "fields": [
                 "formule de Bernouilli",
-                "[$$]a^{n+1} - b^{n+1} = (a-b)\\sum_{k=0}^{n}{a^{n-k}b^k}[/$$]"
+                "\\[a^{n+1} - b^{n+1} = (a-b)\\sum_{k=0}^{n}{a^{n-k}b^k}\\]"
             ],
             "guid": "G(Fl>`IGny",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1269,7 +1044,7 @@
             "__type__": "Note",
             "fields": [
                 "formule de Bernouilli si n+1 est impair",
-                "[$$]a^{n+1} - b^{n+1} = a^{n+1} - (-b)^{n+1} = (a+b)\\sum_{k=0}^{n}{(-1)^ka^{n-k}b^k}[/$$]"
+                "\\[a^{n+1} - b^{n+1} = a^{n+1} - (-b)^{n+1} = (a+b)\\sum_{k=0}^{n}{(-1)^ka^{n-k}b^k}\\]"
             ],
             "guid": "RbVlL(.rPL",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1281,7 +1056,7 @@
             "__type__": "Note",
             "fields": [
                 "formule de pascal",
-                "[$$]\\binom{n}{p}&nbsp;= \\binom{n-1}{p}&nbsp;+ \\binom{n-1}{p-1}[/$$]"
+                "\\[\\binom{n}{p}= \\binom{n-1}{p}+ \\binom{n-1}{p-1}\\]"
             ],
             "guid": "xlBCJ`2k#f",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1293,7 +1068,7 @@
             "__type__": "Note",
             "fields": [
                 "symétrie des coefficients binomiaux",
-                "[$$]\\binom{n}{p} = \\binom{n}{n-p}[/$$]"
+                "\\[\\binom{n}{p} = \\binom{n}{n-p}\\]"
             ],
             "guid": "Bm2R!cZu:q",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1305,7 +1080,7 @@
             "__type__": "Note",
             "fields": [
                 "formule du pion",
-                "[$$]p\\binom{n}{p} = n\\binom{n-1}{p-1}[/$$]"
+                "\\[p\\binom{n}{p} = n\\binom{n-1}{p-1}\\]"
             ],
             "guid": "QIvv6B/[!]",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1317,7 +1092,7 @@
             "__type__": "Note",
             "fields": [
                 "formule du binôme de Newton",
-                "[$$](a+b)^n = \\sum_{k=0}^{n}{\\binom{n}{k}a^kb^{n-k}}[/$$]"
+                "\\[(a+b)^n = \\sum_{k=0}^{n}{\\binom{n}{k}a^kb^{n-k}}\\]"
             ],
             "guid": "rk),tt>QDJ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1329,7 +1104,7 @@
             "__type__": "Note",
             "fields": [
                 "Somme d'Euler",
-                "[$$]E_p(n) = \\sum_{k=0}^{n}{k^{p}}[/$$]"
+                "\\[E_p(n) = \\sum_{k=0}^{n}{k^{p}}\\]"
             ],
             "guid": "C2K9?1}pI$",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1340,8 +1115,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]E_1(n)[/$$]",
-                "[$$]\\frac{n(n+1)}{2}[/$$]"
+                "\\[E_1(n)\\]",
+                "\\[\\frac{n(n+1)}{2}\\]"
             ],
             "guid": "t@m!qcS-T(",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1352,8 +1127,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]E_2(n)[/$$]",
-                "[$$]\\frac{n(n+1)(2n+1)}{6}[/$$]"
+                "\\[E_2(n)\\]",
+                "\\[\\frac{n(n+1)(2n+1)}{6}\\]"
             ],
             "guid": "yU5|cW|[X*",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1364,8 +1139,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$$]E_3(n)[/$$]",
-                "[$$](\\frac{n(n+1)}{2})^2[/$$]"
+                "\\[E_3(n)\\]",
+                "\\[(\\frac{n(n+1)}{2})^2\\]"
             ],
             "guid": "L9WrLYli(Y",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1377,7 +1152,7 @@
             "__type__": "Note",
             "fields": [
                 "relation de fubini",
-                "[$$]\\sum_{m \\le k \\le l \\le n}{u_{k,l}} = \\sum_{k=m}^{n}{\\sum_{l=k}^{n}{u_{k,l}}}&nbsp; = \\sum_{l=m}^{n}{\\sum_{k=m}^{l}{u_{k,l}}} [/$$]"
+                "\\[\\sum_{m \\le k \\le l \\le n}{u_{k,l}} = \\sum_{k=m}^{n}{\\sum_{l=k}^{n}{u_{k,l}}} = \\sum_{l=m}^{n}{\\sum_{k=m}^{l}{u_{k,l}}} \\]"
             ],
             "guid": "CZK2>Z9i6A",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1461,7 +1236,7 @@
             "__type__": "Note",
             "fields": [
                 "symétrisabilité",
-                "[$$]a * a^- = e[/$$]<br><br>[$$]a^- * a = e[/$$]<br><br>[$]a^-[/$] unique, le symétrique de a"
+                "\\[a * a^- = e\\]<br><br>\\[a^- * a = e\\]<br><br>\\(a^-\\) unique, le symétrique de a"
             ],
             "guid": "q|kM!F)o?l",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1473,7 +1248,7 @@
             "__type__": "Note",
             "fields": [
                 "commutativité",
-                "[$$]a * b = b * a[/$$]"
+                "\\[a * b = b * a\\]"
             ],
             "guid": "M`Gf7mn(lh",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1485,7 +1260,7 @@
             "__type__": "Note",
             "fields": [
                 "centre de E",
-                "[$$]Z(e) = \\left\\{ a \\in E : \\forall b \\in E, a * b = b * a \\right\\}[/$$]"
+                "\\[Z(e) = \\left\\{ a \\in E : \\forall b \\in E, a * b = b * a \\right\\}\\]"
             ],
             "guid": "Fer%<ZIRNB",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1497,7 +1272,7 @@
             "__type__": "Note",
             "fields": [
                 "sous monoïdes, loi stable",
-                "F partie de (E, *), F stable par * si<br>[$$]\\forall a,b \\in F, a * b \\in F [/$$]"
+                "F partie de (E, *), F stable par * si<br>\\[\\forall a,b \\in F, a * b \\in F \\]"
             ],
             "guid": "FX8_83anmi",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1509,7 +1284,7 @@
             "__type__": "Note",
             "fields": [
                 "sous monoïde",
-                "F partie de (E, *), F stable par * et&nbsp;[$]e \\in F[/$]"
+                "F partie de (E, *), F stable par * et&nbsp;\\(e \\in F\\)"
             ],
             "guid": "f1>Si,&hiT",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1521,7 +1296,7 @@
             "__type__": "Note",
             "fields": [
                 "monoïde produit",
-                "[$](E, *)[/$] et [$](F, T)[/$] deux monoïdes<br><br>[$$]\\forall (x,y), (a,b) \\in E \\times F, (x,y)\\#(a,b) = (x * a, y T b)[/$$]<br><br>monoïde produit:&nbsp;[$$](E \\times F, \\#)[/$$]"
+                "\\((E, *)\\) et \\((F, T)\\) deux monoïdes<br><br>\\[\\forall (x,y), (a,b) \\in E \\times F, (x,y)\\#(a,b) = (x * a, y T b)\\]<br><br>monoïde produit:&nbsp;\\[(E \\times F, \\#)\\]"
             ],
             "guid": "P9=XlPrfbe",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1533,7 +1308,7 @@
             "__type__": "Note",
             "fields": [
                 "monoïde fonctionnel",
-                "où&nbsp;[$]f, g \\in E^X[/$] avec&nbsp;[$](E, *)[/$] et X quelconque<br><br>[$$](fTg)(x) = f(x) * g(x)[/$$]"
+                "où&nbsp;\\(f, g \\in E^X\\) avec&nbsp;\\((E, *)\\) et X quelconque<br><br>\\[(fTg)(x) = f(x) * g(x)\\]"
             ],
             "guid": "gMU5@L$hR}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1545,7 +1320,7 @@
             "__type__": "Note",
             "fields": [
                 "monoïde ensembliste",
-                "loi * ensembliste: [$$]A * B = \\{ a * b, a \\in A, b \\in B \\}[/$$]<br><br>monoïde ensembliste:&nbsp;[$](\\mathcal{P}(E), *)[/$]"
+                "loi * ensembliste: \\[A * B = \\{ a * b, a \\in A, b \\in B \\}\\]<br><br>monoïde ensembliste:&nbsp;\\((\\mathcal{P}(E), *)\\)"
             ],
             "guid": "bprC^w?!#<",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1557,7 +1332,7 @@
             "__type__": "Note",
             "fields": [
                 "translaté et dilaté",
-                "le translaté: [$]x * A = \\{x * a : a \\in A\\}[/$]<br><br>le dilaté: translaté pour notion multiplicative&nbsp;"
+                "le translaté: \\(x * A = \\{x * a : a \\in A\\}\\)<br><br>le dilaté: translaté pour notion multiplicative&nbsp;"
             ],
             "guid": "x`y/fT8g?9",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1569,7 +1344,7 @@
             "__type__": "Note",
             "fields": [
                 "groupes",
-                "monoïde dans lequel tout élément est symétrisable<br><br>- * est interne<br><br>- * est associative<br><br>- G contient un élément neutre e pour *<br><br>- tout élément g de G possède un symétrique, noté&nbsp;[$]g^{-1}[/$]"
+                "monoïde dans lequel tout élément est symétrisable<br><br>- * est interne<br><br>- * est associative<br><br>- G contient un élément neutre e pour *<br><br>- tout élément g de G possède un symétrique, noté&nbsp;\\(g^{-1}\\)"
             ],
             "guid": "qOZAQ]f|&@",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1605,7 +1380,7 @@
             "__type__": "Note",
             "fields": [
                 "groupe fonctionnel",
-                "[$$]G^X[/$$] si G est abélien,&nbsp;[$]G^X[/$] l'est aussi"
+                "\\[G^X\\] si G est abélien,&nbsp;\\(G^X\\) l'est aussi"
             ],
             "guid": "cQ9snR$+>_",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1616,8 +1391,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$](g_1 * g_2)^{-1}[/$]",
-                "[$$]g_2^{-1} * g_1^{-1}[/$$]"
+                "\\((g_1 * g_2)^{-1}\\)",
+                "\\[g_2^{-1} * g_1^{-1}\\]"
             ],
             "guid": "bRl]YblbW#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1639,7 +1414,7 @@
             "__type__": "Note",
             "fields": [
                 "caractéristation sous groupe",
-                "1.&nbsp;[$]e \\in H[/$]<br>2.&nbsp;[$]\\forall h_1, h_2 \\in H, h_1 * h_2^{-1} \\in H[/$]"
+                "1.&nbsp;\\(e \\in H\\)<br>2.&nbsp;\\(\\forall h_1, h_2 \\in H, h_1 * h_2^{-1} \\in H\\)"
             ],
             "guid": "F8Z/S7GA^1",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1651,7 +1426,7 @@
             "__type__": "Note",
             "fields": [
                 "groupe",
-                "monoïde tous élements symétrisables<br><br>* interne, * associative,&nbsp;[$]e \\in G[/$],&nbsp;[$]g[/$] a&nbsp;[$]g^{-1} \\in G[/$]"
+                "monoïde tous élements symétrisables<br><br>* interne, * associative,&nbsp;\\(e \\in G\\),&nbsp;\\(g\\) a&nbsp;\\(g^{-1} \\in G\\)"
             ],
             "guid": "w_gIh#thIX",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1684,8 +1459,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$]H_1 \\cup H_2 &lt; G[/$]",
-                "[$]H_1 \\subset H_2[/$] ou&nbsp;[$]H_2 \\subset H_1[/$]"
+                "\\(H_1 \\cup H_2 &lt; G\\)",
+                "\\(H_1 \\subset H_2\\) ou&nbsp;\\(H_2 \\subset H_1\\)"
             ],
             "guid": "jzI:d<aC8b",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1694,8 +1469,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "sous groupes de&nbsp;[$](\\mathbb{Z}, +)[/$]",
-                "[$]H &lt; \\mathbb{Z} \\Leftrightarrow \\exists k \\in \\mathbb{N}, H = n\\mathbb{Z}[/$]"
+                "sous groupes de&nbsp;\\((\\mathbb{Z}, +)\\)",
+                "\\(H &lt; \\mathbb{Z} \\Leftrightarrow \\exists k \\in \\mathbb{N}, H = n\\mathbb{Z}\\)"
             ],
             "guid": "N8_p2g?Od`",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1705,7 +1480,7 @@
             "__type__": "Note",
             "fields": [
                 "G est dense dans R",
-                "[$$]\\forall (x, y) \\in \\mathbb{R}^2 x &lt; y \\Rightarrow ]x; y[ \\cap G \\ne \\O[/$$]"
+                "\\[\\forall (x, y) \\in \\mathbb{R}^2 x &lt; y \\Rightarrow ]x; y[ \\cap G \\ne \\emptyset\\]"
             ],
             "guid": "hPF.VD9fmS",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1714,8 +1489,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "sous groupes de&nbsp;[$]\\mathbb{R}[/$]",
-                "G non&nbsp; réduit à {0} et&nbsp;[$]\\alpha = inf(G_+^*)[/$]<br><br>1. si&nbsp;[$]\\alpha &gt; 0[/$], G = a\\mathbb{Z}<br>2. si&nbsp;[$]\\alpha = 0[/$], G dense dans \\mathbb{R}"
+                "sous groupes de&nbsp;\\(\\mathbb{R}\\)",
+                "G non&nbsp; réduit à {0} et&nbsp;\\(\\alpha = inf(G_+^*)\\)<br><br>1. si&nbsp;\\(\\alpha &gt; 0\\), G = a\\mathbb{Z}<br>2. si&nbsp;\\(\\alpha = 0\\), G dense dans \\mathbb{R}"
             ],
             "guid": "kIY{yge%Ia",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1727,7 +1502,7 @@
             "__type__": "Note",
             "fields": [
                 "(homo)morphisme de groupe",
-                "[$$]\\phi(x_1 * x_2) = \\phi(x_1) * \\phi(x_2)[/$$]"
+                "\\[\\phi(x_1 * x_2) = \\phi(x_1) * \\phi(x_2)\\]"
             ],
             "guid": "qq3ypqMC=n",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1739,7 +1514,7 @@
             "__type__": "Note",
             "fields": [
                 "propriétés d'un morphisme de groupe",
-                "1.&nbsp;[$]\\phi(e) = e'[/$]<br><br>2.&nbsp;[$]\\phi(x^-) = (\\phi(x))^-[/$]"
+                "1.&nbsp;\\(\\phi(e) = e'\\)<br><br>2.&nbsp;\\(\\phi(x^-) = (\\phi(x))^-\\)"
             ],
             "guid": "xjgW5(C}S!",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1751,7 +1526,7 @@
             "__type__": "Note",
             "fields": [
                 "morphisme trivial",
-                "[$$]g \\rightarrow e'[/$$]"
+                "\\[g \\rightarrow e'\\]"
             ],
             "guid": "xuIjHlA3[]",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1859,7 +1634,7 @@
             "__type__": "Note",
             "fields": [
                 "image directe ou indirecte d'un sous groupe",
-                "[$]\\phi: G \\rightarrow G'[/$] un morphisme de groupe,<br><br>1. Si&nbsp;[$]H&nbsp; &lt; G, \\phi(H) &lt; G'[/$]<br>2. Si&nbsp;[$]H' &lt; G', \\phi^{-1}(H') &lt; G[/$]"
+                "\\(\\phi: G \\rightarrow G'\\) un morphisme de groupe,<br><br>1. Si&nbsp;\\(H &lt; G, \\phi(H) &lt; G'\\)<br>2. Si&nbsp;\\(H' &lt; G', \\phi^{-1}(H') &lt; G\\)"
             ],
             "guid": "E&~dFs0EfR",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1871,7 +1646,7 @@
             "__type__": "Note",
             "fields": [
                 "noyau d'un morphisme de groupe",
-                "le sous groupe défini par<br><br>[$$]ker\\phi = \\phi^{-1}({e'}) = {g \\in G : \\phi(g) = e'}[/$$]"
+                "le sous groupe défini par<br><br>\\[ker\\phi = \\phi^{-1}({e'}) = {g \\in G : \\phi(g) = e'}\\]"
             ],
             "guid": "HsEP*n!WC6",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1883,7 +1658,7 @@
             "__type__": "Note",
             "fields": [
                 "image d'un morphisme de groupe",
-                "le sous groupe défini par<br><br>[$$]Im\\phi = \\phi(G) = {g' \\in G' : \\exists g \\in G, g' = \\phi(g)} = {\\phi(g) : g \\in G}[/$$]"
+                "le sous groupe défini par<br><br>\\[Im\\phi = \\phi(G) = {g' \\in G' : \\exists g \\in G, g' = \\phi(g)} = {\\phi(g) : g \\in G}\\]"
             ],
             "guid": "Ffd`c>:So4",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1895,7 +1670,7 @@
             "__type__": "Note",
             "fields": [
                 "propriétés sur les morphismes selon leur noyau et leur image",
-                "-&nbsp;[$]\\phi[/$] injectif ssi&nbsp;[$]Ker\\phi = {e}[/$]<br>-&nbsp;[$]\\phi[/$] surjectif ssi&nbsp;[$]Im\\phi = G'[/$]"
+                "-&nbsp;\\(\\phi\\) injectif ssi&nbsp;\\(Ker\\phi = {e}\\)<br>-&nbsp;\\(\\phi\\) surjectif ssi&nbsp;\\(Im\\phi = G'\\)"
             ],
             "guid": "I1eZ_8N[zF",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1907,7 +1682,7 @@
             "__type__": "Note",
             "fields": [
                 "Anneau",
-                "(A, +, x)<br><br>1. (A, +) groupe abélien neutre&nbsp;[$]0_A[/$]<br>2. (A, x) monoïde, neutre&nbsp;[$]1_A[/$]<br>3. x se distribue sur +"
+                "(A, +, x)<br><br>1. (A, +) groupe abélien neutre&nbsp;\\(0_A\\)<br>2. (A, x) monoïde, neutre&nbsp;\\(1_A\\)<br>3. x se distribue sur +"
             ],
             "guid": "BBCSwQ;[hn",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1919,7 +1694,7 @@
             "__type__": "Note",
             "fields": [
                 "Anneau produit",
-                "[$$]A_1 \\times A_2[/$$] est un anneau, si&nbsp;[$]A_1[/$] et&nbsp;[$]A_2[/$] sont commutatifs alors&nbsp;[$]A_1 \\times A_2[/$] l'est aussi"
+                "\\[A_1 \\times A_2\\] est un anneau, si&nbsp;\\(A_1\\) et&nbsp;\\(A_2\\) sont commutatifs alors&nbsp;\\(A_1 \\times A_2\\) l'est aussi"
             ],
             "guid": "N(0}D*LS}v",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1943,7 +1718,7 @@
             "__type__": "Note",
             "fields": [
                 "bernoulli dans un anneau",
-                "[$$]1_A - q^{n+1} = (1_A - q)\\sum_{k=0}^{n}{q^k}[/$$]"
+                "\\[1_A - q^{n+1} = (1_A - q)\\sum_{k=0}^{n}{q^k}\\]"
             ],
             "guid": "f5JdhO36tk",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1955,7 +1730,7 @@
             "__type__": "Note",
             "fields": [
                 "diviseur de zéro",
-                "a diviseur de zéro ssi&nbsp;[$]a \\ne 0_A[/$] et si il existe b non nul tq&nbsp;[$]ab = 0_A[/$] ou&nbsp;[$]ba = 0_A[/$]"
+                "a diviseur de zéro ssi&nbsp;\\(a \\ne 0_A\\) et si il existe b non nul tq&nbsp;\\(ab = 0_A\\) ou&nbsp;\\(ba = 0_A\\)"
             ],
             "guid": "y[bV/nIZ9v",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1967,7 +1742,7 @@
             "__type__": "Note",
             "fields": [
                 "anneau intègre",
-                "si&nbsp;[$]A \\ne {0_A}[/$] et n'admet pas de diviseurs de zéro<br><br>[$$]\\forall a, b\\in A, (ab = 0_A \\Rightarrow (a = 0_A) ou (b = 0_A))[/$$]"
+                "si&nbsp;\\(A \\ne {0_A}\\) et n'admet pas de diviseurs de zéro<br><br>\\[\\forall a, b\\in A, (ab = 0_A \\Rightarrow (a = 0_A) ou (b = 0_A))\\]"
             ],
             "guid": "n1m7%ytg7W",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -1991,7 +1766,7 @@
             "__type__": "Note",
             "fields": [
                 "nilpotent",
-                "[$]a \\ne 0_A[/$] et&nbsp;[$]\\exists n \\ge 2, a^n = 0_A[/$]"
+                "\\(a \\ne 0_A\\) et&nbsp;\\(\\exists n \\ge 2, a^n = 0_A\\)"
             ],
             "guid": "o.h!?~E]a*",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2014,8 +1789,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "groupe des unités&nbsp;[$]\\mathbb{U}(A)[/$]",
-                "[$]\\mathbb{U}(a) = {a \\in A : \\exists b \\in B : ab = ba = 1_A}[/$]"
+                "groupe des unités&nbsp;\\(\\mathbb{U}(A)\\)",
+                "\\(\\mathbb{U}(a) = {a \\in A : \\exists b \\in B : ab = ba = 1_A}\\)"
             ],
             "guid": "w1%9|$u#xT",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2027,7 +1802,7 @@
             "__type__": "Note",
             "fields": [
                 "sous-anneau",
-                "- sous partie<br>- stable pour + et x<br>-&nbsp;[$]1_A \\in[/$]"
+                "- sous partie<br>- stable pour + et x<br>-&nbsp;\\(1_A \\in\\)"
             ],
             "guid": "C2m|G-db,k",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2039,7 +1814,7 @@
             "__type__": "Note",
             "fields": [
                 "caractérisation sous-anneau",
-                "-&nbsp;[$]1_A \\in B[/$]<br>-&nbsp;[$]\\forall b_1, b_2 \\in B, b_1 - b_2 \\in B[/$]<br>-&nbsp;[$]\\forall b_1, b_2 \\in B, b_1b_2 \\in B[/$]"
+                "-&nbsp;\\(1_A \\in B\\)<br>-&nbsp;\\(\\forall b_1, b_2 \\in B, b_1 - b_2 \\in B\\)<br>-&nbsp;\\(\\forall b_1, b_2 \\in B, b_1b_2 \\in B\\)"
             ],
             "guid": "iF5T5u/f8{",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2099,7 +1874,7 @@
             "__type__": "Note",
             "fields": [
                 "morphisme d'anneau",
-                "-&nbsp;[$]\\phi(a+b) = \\phi(a) + \\phi(b)[/$]<br><br>-&nbsp;[$]\\phi(a \\times b) = \\phi(a) \\times \\phi(b)[/$]<br><br>-&nbsp;[$]\\phi(1_A) = 1_{A'}[/$]"
+                "-&nbsp;\\(\\phi(a+b) = \\phi(a) + \\phi(b)\\)<br><br>-&nbsp;\\(\\phi(a \\times b) = \\phi(a) \\times \\phi(b)\\)<br><br>-&nbsp;\\(\\phi(1_A) = 1_{A'}\\)"
             ],
             "guid": "s/w^Ve`;Ih",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2111,7 +1886,7 @@
             "__type__": "Note",
             "fields": [
                 "injection canonique",
-                "[$]A \\rightarrow B[/$]<br>[$]a \\rightarrow a[/$]"
+                "\\(A \\rightarrow B\\)<br>\\(a \\rightarrow a\\)"
             ],
             "guid": "riYW8C|V~Q",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2123,7 +1898,7 @@
             "__type__": "Note",
             "fields": [
                 "caractérisation des morphismes d'anneau",
-                "1.&nbsp;[$]\\phi(0_A) = 0_{A'}[/$]<br>2.&nbsp;[$]\\phi(-a) = -\\phi(a)[/$]<br>3.&nbsp;[$]\\phi(1_A) = 1_{A'}[/$]<br>4.&nbsp;[$]\\phi(a^-)&nbsp; = \\phi(a)^-[/$]"
+                "1.&nbsp;\\(\\phi(0_A) = 0_{A'}\\)<br>2.&nbsp;\\(\\phi(-a) = -\\phi(a)\\)<br>3.&nbsp;\\(\\phi(1_A) = 1_{A'}\\)<br>4.&nbsp;\\(\\phi(a^-) = \\phi(a)^-\\)"
             ],
             "guid": "bg?]_9I7Xe",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2146,8 +1921,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "[$]Card(A \\sqcup B)[/$]",
-                "[$]Card(A \\sqcup&nbsp;B) = Card(A) + Card(B)[/$]"
+                "\\(Card(A \\sqcup B)\\)",
+                "\\(Card(A \\sqcup B) = Card(A) + Card(B)\\)"
             ],
             "guid": "x5v=H?u+h}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2171,7 +1946,7 @@
             "__type__": "Note",
             "fields": [
                 "formule de poincarré",
-                "[$]|A \\cup F| = |E| + |F| - |E \\cap F|[/$]"
+                "\\(|A \\cup F| = |E| + |F| - |E \\cap F|\\)"
             ],
             "guid": "w!Ir#fl-o*",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2183,7 +1958,7 @@
             "__type__": "Note",
             "fields": [
                 "formule du Crible",
-                "[$]|E_1 \\cup .... \\cup E_n| = \\sum_{k=1}^{n}{(-1)^k\\sum_{1 \\le i_1 &lt; ... &lt; i_k \\le n}{|E_{i_1} \\cap .... \\cap E_{i_k}|}}[/$]"
+                "\\(|E_1 \\cup .... \\cup E_n| = \\sum_{k=1}^{n}{(-1)^k\\sum_{1 \\le i_1 &lt; ... &lt; i_k \\le n}{|E_{i_1} \\cap .... \\cap E_{i_k}|}}\\)"
             ],
             "guid": "Mfh`fK(+R~",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2207,7 +1982,7 @@
             "__type__": "Note",
             "fields": [
                 "|B\\A|",
-                "[$] Card(B/A) = Card(B)&nbsp;- |A \\cap B|[/$]"
+                "\\( Card(B/A) = Card(B)- |A \\cap B|\\)"
             ],
             "guid": "Oc7~Y6dXjy",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2243,7 +2018,7 @@
             "__type__": "Note",
             "fields": [
                 "|E| de cardinal n, le nombre de p-listes",
-                "[$]n^p[/$]"
+                "\\(n^p\\)"
             ],
             "guid": "eU&bO.x#OU",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2255,7 +2030,7 @@
             "__type__": "Note",
             "fields": [
                 "cardinal de p-liste sans répétition",
-                "p-arrangement<br><br>[$]\\frac{n!}{n!(n-k)!}[/$]"
+                "p-arrangement<br><br>\\(\\frac{n!}{n!(n-k)!}\\)"
             ],
             "guid": "f^zGu`Y{3/",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2267,7 +2042,7 @@
             "__type__": "Note",
             "fields": [
                 "notation pour le nombre de p Arrangements",
-                "[$$]A^p_n[/$$]"
+                "\\[A^p_n\\]"
             ],
             "guid": "CL@6gCOoO_",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2315,7 +2090,7 @@
             "__type__": "Note",
             "fields": [
                 "symétrie du binôme",
-                "[$]\\binom{n}{k} = \\binom{n}{n-k}[/$]"
+                "\\(\\binom{n}{k} = \\binom{n}{n-k}\\)"
             ],
             "guid": "bK:veEcpE@",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2327,7 +2102,7 @@
             "__type__": "Note",
             "fields": [
                 "l'ensemble de p-combinaisons de E",
-                "[$]\\mathcal{P}p(E)[/$]"
+                "\\(\\mathcal{P}p(E)\\)"
             ],
             "guid": "tL`Mo(}{nX",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2338,8 +2113,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Card&nbsp;[$]\\mathcal{P}(E)[/$]",
-                "[$]2^n[/$]"
+                "Card&nbsp;\\(\\mathcal{P}(E)\\)",
+                "\\(2^n\\)"
             ],
             "guid": "k<9t%C~q8!",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2411,7 +2186,7 @@
             "__type__": "Note",
             "fields": [
                 "le nombre d'applications de E(p) vers F(n)",
-                "est&nbsp;[$]n^p[/$]"
+                "est&nbsp;\\(n^p\\)"
             ],
             "guid": "h7~#9XnjZ+",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2423,7 +2198,7 @@
             "__type__": "Note",
             "fields": [
                 "nombre d'injections de E (p) dans F (n)",
-                "[$]\\frac{n!}{(n-k)!}[/$]"
+                "\\(\\frac{n!}{(n-k)!}\\)"
             ],
             "guid": "i.IR7{iolZ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2651,7 +2426,7 @@
             "__type__": "Note",
             "fields": [
                 "relation d'équivalence corps de fractions",
-                "[$$]\\forall (a,b), (c,d) \\in A \\times A^* (a,b) ~ (c,d) \\Leftrightarrow ad = bc[/$$]"
+                "\\[\\forall (a,b), (c,d) \\in A \\times A^* (a,b) ~ (c,d) \\Leftrightarrow ad = bc\\]"
             ],
             "guid": "K6e_nm4$FR",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2723,7 +2498,7 @@
             "__type__": "Note",
             "fields": [
                 "boule fermée",
-                "\\(B(a;r) = \\{&nbsp; x \\in \\mathbb{R} | |x-a| \\le r\\}\\)"
+                "\\(B(a;r) = \\{ x \\in \\mathbb{R} | |x-a| \\le r\\}\\)"
             ],
             "guid": "zeYw]dGXN0",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2759,7 +2534,7 @@
             "__type__": "Note",
             "fields": [
                 "les ouverts de R forment une topologie",
-                "1.&nbsp;[$]\\emptyset[/$] et [$] \\mathbb{R}[/$] sont des ouverts<br>2. toute réunion d'ouverts est un ouvert<br>3. toute intersection finie d'ouverts est un ouvert"
+                "1.&nbsp;\\(\\emptyset\\) et \\( \\mathbb{R}\\) sont des ouverts<br>2. toute réunion d'ouverts est un ouvert<br>3. toute intersection finie d'ouverts est un ouvert"
             ],
             "guid": "Km]t7!h759",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2771,7 +2546,7 @@
             "__type__": "Note",
             "fields": [
                 "topologie des fermés",
-                "1.&nbsp;[$]\\emptyset[/$] et&nbsp;[$]\\mathbb{R}[/$] sont des fermés<br>2. toute intersection de fermés est un fermé<br>3. toute union finie de fermés est un fermé"
+                "1.&nbsp;\\(\\emptyset\\) et&nbsp;\\(\\mathbb{R}\\) sont des fermés<br>2. toute intersection de fermés est un fermé<br>3. toute union finie de fermés est un fermé"
             ],
             "guid": "y{M4d4-$v_",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2806,8 +2581,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "proposition sur les voisinages dans&nbsp;[$]\\overline{\\mathbb{R}}[/$]",
-                "soit&nbsp;[$]a \\in \\overline{\\mathbb{R}}[/$]<br><br>1. Si W voisinage de a dans R et si W' partie de R tq&nbsp;[$]W \\subset W'[/$] alors W' aussi voisinage de a dans R<br>2. une intersection finie de voisinage de a dans R est encore un voisinage de a dans R"
+                "proposition sur les voisinages dans&nbsp;\\(\\overline{\\mathbb{R}}\\)",
+                "soit&nbsp;\\(a \\in \\overline{\\mathbb{R}}\\)<br><br>1. Si W voisinage de a dans R et si W' partie de R tq&nbsp;\\(W \\subset W'\\) alors W' aussi voisinage de a dans R<br>2. une intersection finie de voisinage de a dans R est encore un voisinage de a dans R"
             ],
             "guid": "K1K)pnXp0X",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2818,7 +2593,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "lemme &nbsp;de séparation voisinage dans&nbsp;[$]\\overline{\\mathbb{R}}[/$]",
+                "lemme &nbsp;de séparation voisinage dans&nbsp;\\(\\overline{\\mathbb{R}}\\)",
                 "\\(a,b \\overline{\\mathbb{R}}\\) deux éléments distincts, on peut trouver voisinage W_a W_b tels que \\(W_a \\cap W_b = \\emptyset\\)"
             ],
             "guid": "xIcrgVpI/x",
@@ -2889,7 +2664,7 @@
             "__type__": "Note",
             "fields": [
                 "utiliser la caractérisation de la borne supérieure",
-                "[$$]\\forall \\epsilon &gt; 0, \\exists a \\in A, s - \\epsilon &lt; a \\le s[/$$]"
+                "\\[\\forall \\epsilon &gt; 0, \\exists a \\in A, s - \\epsilon &lt; a \\le s\\]"
             ],
             "guid": "N4&Y8a7^)`",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2961,7 +2736,7 @@
             "__type__": "Note",
             "fields": [
                 "frontière",
-                "l'ensemble des points adhérents à A qui ne sont pas intérieurs à A<br><br>[$$]\\delta A = \\overline{A} \\<span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\">backslash</span>&nbsp;A^o[/$$]"
+                "l'ensemble des points adhérents à A qui ne sont pas intérieurs à A<br><br>\\[\\delta A = \\overline{A}-A^o\\]"
             ],
             "guid": "IV#0[AvQrd",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -3057,7 +2832,7 @@
             "__type__": "Note",
             "fields": [
                 "défintion pgcd",
-                "\\(\\mathrm{pgcd}(a_1, \\ldots,&nbsp; a_n)\\mathbb{Z}&nbsp;= a_1\\mathbb{Z} + ... + a_n\\mathbb{Z}\\)"
+                "\\(\\mathrm{pgcd}(a_1, \\ldots, a_n)\\mathbb{Z}= a_1\\mathbb{Z} + ... + a_n\\mathbb{Z}\\)"
             ],
             "guid": "dD(N+aGDr_",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -3086,6 +2861,340 @@
             "guid": "i3eg*&B/wo",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "distribution du produit/division sur pgcd",
+                "k(a_1 ^ a_2 ^ ... ^ a_n) = ka_1 ^ .... ^ ka_n"
+            ],
+            "guid": "qFN=Bn,N;s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété ensemble des diviseurs et pgcd",
+                "Soit&nbsp;\\(D\\)&nbsp;l'ensemble des diviseurs,<br><br>\\[D(a_1) \\cap \\ldots \\cap D(a_n) = D(pgcd(a_1, \\ldots, a_n))\\]<br>"
+            ],
+            "guid": "I9Yxnr5Rb/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme DE et bezout",
+                "\\(a = bq+r \\Rightarrow pgcd(a,b) = pgcd(b,r)\\)"
+            ],
+            "guid": "yas;r6W0?@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "entiers premiers entre eux, deux à deux, ensemble",
+                "-&nbsp;\\(pgcd(a,b) = 1\\)<br>-&nbsp;\\(pgcd(a_i, a_j) = 1\\)<br>-&nbsp;\\(pgcd(a_1, \\ldots, a_n) = 1\\)"
+            ],
+            "guid": "A}/L2$;aHU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition pgcd dans ensemble",
+                "d est le pgcd de&nbsp;\\(a_1, \\ldots, a_n\\)&nbsp;ssi&nbsp;\\(\\exists a_1',\\ldots,a_n' \\in \\mathbb{Z}\\)&nbsp;premiers entre eux (ensemble) tel que&nbsp;\\(a_1 = da_1', \\ldots, a_n = da_n'\\)"
+            ],
+            "guid": "bPJ%xHuvit",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Bézout",
+                "a et b premiers entre eux ssi il existe&nbsp;\\(u,v \\in \\mathbb{Z}\\)&nbsp;tel que&nbsp;\\(au + bv = 1\\)&nbsp;(on peut généraliser avec premiers dans leur ensemble)"
+            ],
+            "guid": "n.))C{(f+9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme de Gauss",
+                "\\(a\\mid bc\\)&nbsp;et&nbsp;\\(pgcd(a,b) = 1 \\Rightarrow a \\mid c\\)"
+            ],
+            "guid": "lK9z$1IrlZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ppcm",
+                "\\[a_1\\mathbb{Z}\\cap\\ldots\\cap a_n\\mathbb{Z} = ppcm(a_1, \\ldots, a_n)\\mathbb{Z}\\]<br>"
+            ],
+            "guid": "fdeb&Ums(L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ppcm et pgcd",
+                "si&nbsp;\\(pgcd(a,b) = 1\\)&nbsp;alors&nbsp;\\(ppcm(a,b) = |ab|\\)<br><br>si&nbsp;\\(pgcd(a,b) = 1\\)&nbsp;alors&nbsp;\\(a\\mathbb{Z} \\cap b\\mathbb{Z} = ab\\mathbb{Z}\\)"
+            ],
+            "guid": "p(Rs-tQ7UM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition ppcm, pgcd",
+                "\\[pgcd(a,b) \\times ppcm(a,b) = |ab|\\]<br>"
+            ],
+            "guid": "iMh,iLg8P0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition p premier",
+                "p premier ssi p premier avec&nbsp;\\([1;\\sqrt{p}]\\)"
+            ],
+            "guid": "j:*|5Q*x{g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "comme il existe décomposition de facteurs premiers&nbsp;\\((\\mathbb{Z}, +, \\times)\\)&nbsp;est",
+                "un anneau factoriel"
+            ],
+            "guid": "d()7G+Vq*>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition p premier et divise",
+                "\\[(p \\in \\mathbb{P} \\wedge p\\mid ab) \\Rightarrow (p\\mid a \\vee p\\mid b)\\]"
+            ],
+            "guid": "yZ!q=>IO+*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valuation p-adique",
+                "\\[a += \\prod_{p\\in\\mathbb{P}}p^{v_p(a)}\\]<br>"
+            ],
+            "guid": "Kc~a%R:Jh_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition calculatoires&nbsp;\\(v_p(a)\\)",
+                "\\[v_p(ab) = v_p(a) + v_p(b)\\]\\[v_p(\\frac{a}{b}) = v_p(a) - v_p(b)\\]<br>"
+            ],
+            "guid": "E8s#E1.mmn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition divise et valuation p-adique",
+                "\\[b \\mid a \\Leftrightarrow \\forall p\\in \\mathbb{P}, v_p(b) \\le v_p(a)\\]<br>"
+            ],
+            "guid": "GoLk-cE9bG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pgcd, ppcm, valuation p-adique",
+                "<br>\\[pgcd(a,b) = \\prod_{p\\in\\mathbb{P}}p^{min(v_p(a), v_p(b))}\\]\\[ppcm(a,b) = \\prod_{p\\in\\mathbb{P}}p^{max(v_p(a), v_p(b))}\\]<br>"
+            ],
+            "guid": "K5=$r>-#$`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "congruence modulo n",
+                "\\[a \\equiv b \\bmod n \\Leftrightarrow n \\mid (a-b)\\]<br>"
+            ],
+            "guid": "N}:I2,tH!T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "congruence modulo n est un relation",
+                "d'équivalence"
+            ],
+            "guid": "EVvBGzh@Ti",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathbb{Z}/n\\mathbb{Z}\\)",
+                "\\[\\mathbb{Z}/\\equiv\\]"
+            ],
+            "guid": "k6jkOU:6fM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\((\\mathbb{Z}/n\\mathbb{Z}, +, \\times)\\)&nbsp;est",
+                "un anneau commutatif"
+            ],
+            "guid": "iYWz$PD]30",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "indicatrice d'euler",
+                "\\[\\phi(n) = Card(\\mathbb{U(\\mathbb{Z}/n\\mathbb{Z})}) = Card(\\{r\\in\\mathbb{Z}/n\\mathbb{Z} \\mid r\\wedge n = 1\\})\\]<br>"
+            ],
+            "guid": "d4^N~ex/E}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathbb{Z}/p\\mathbb{Z}\\)&nbsp;avec p premier",
+                "est un corps commutatif à p éléments, noté&nbsp;\\[\\mathbb{F}_p\\]"
+            ],
+            "guid": "iAjsYf)&`?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Wilson",
+                "p premier ssi&nbsp;\\((p-1)! \\equiv -1 \\bmod p\\)"
+            ],
+            "guid": "n(`r7d}zGX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "petit théorème de Fermat",
+                "p nombre premier, on a:<br>&nbsp;\\[a^p \\equiv a \\bmod p\\]\\[a^{p-1} \\equiv 1 \\bmod p\\]"
+            ],
+            "guid": "o.HusBFM`o",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arithmétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de Vandermonde",
+                "\\[\\binom{a+b}{n} = \\sum_{k=0}^{n}{\\binom{a}{k}\\binom{b}{n-k}}\\]<br>"
+            ],
+            "guid": "wd*Vq_i7ro",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dénombrement"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité arithmético-géométrique",
+                "\\[\\sqrt[n]{a_1\\ldots a_n} \\le \\frac{a_1+\\ldots+a_n}{n}\\]<br>"
+            ],
+            "guid": "vNXGPK#p}(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "translation d'un graphe",
+                "f(x+a)+b =&gt; translation&nbsp;\\(-a\\vec{i} + b\\vec{j}\\)&nbsp;"
+            ],
+            "guid": "E`~wL]PZV,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions"
+            ]
         }
     ],
     "reviewLimit": null,
