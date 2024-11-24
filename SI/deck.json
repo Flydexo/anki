@@ -1,0 +1,977 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "2fdd870e-aa94-11ef-bec0-d9aa25b9a078",
+    "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "SI",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3568197255527884728,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8792581457391807817,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -7066904010460991323,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "système",
+                "association structurée d'éléments en relation entre eux conçu pour répondre à un besoin"
+            ],
+            "guid": "hki`%2$&GO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous-système",
+                "un système (complexité forte, interdisciplinaire) peut être décomposé en plusieurs sous systèmes"
+            ],
+            "guid": "cn.-o}deBC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diagramme des exigences",
+                "(SysML) capacités et contraintes"
+            ],
+            "guid": "Qh-~|95K*L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cahier des charges fonctionnel",
+                "ensemble des fonctions que le système doit réaliser"
+            ],
+            "guid": "hSVO|P4;!Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "triptyque",
+                "vérifier modèle au cahier des charges<br>vérifier modèle et réel<br>vérifier réel et cahier des charges"
+            ],
+            "guid": "vJ~iujE0x[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système automatique / automatisé",
+                "système assurant des opérations avec peu ou sans intervention humaine (entrées: causes, sorties: effets)"
+            ],
+            "guid": "m)9t4VI*[<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "automatique",
+                "description et modélisation des systèmes automatisés, conception et réalisation des systèmes de commande"
+            ],
+            "guid": "c8/#pFPtrQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "information analogique",
+                "prend toutes les valeurs possibles de manière continue"
+            ],
+            "guid": "lS2Fn{$69&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "information discrète",
+                "peut prendre nombre fini de valeurs disjointes"
+            ],
+            "guid": "zkeY9Aaqu>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "information logique / booléenne",
+                "oui ou non / vrai ou faux / 0 ou 1"
+            ],
+            "guid": "h`Zf,eP}kQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "information numérique",
+                "issue d'un traitement (échantillonage et codage) d'analogique à l'aide d'un CAN (convert Anal Bin). Information = mot binaire"
+            ],
+            "guid": "t4=[~?NzN(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système logique combinatoire",
+                "signal logique conduit toujours à un unique état de la sortie du système"
+            ],
+            "guid": "HuDFiMOn>V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système à logique séquentielle",
+                "la sortie du système est élaborée à partir d'un ensemble de signaux logiques d'entrée mais comprend aussi en compte l'état du système"
+            ],
+            "guid": "Pp_@_L`{mp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système asservi",
+                "consigne comparée à une mesure, l'écart est corrigé pour comander la partie opérative du système"
+            ],
+            "guid": "gSWk<m=|Eu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système asservi est une boucle",
+                "fermée"
+            ],
+            "guid": "fz,Bq6bM)c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "asservissement en régulation",
+                "destiné à maintenir une sortie constante pour une entrée constante"
+            ],
+            "guid": "bg[ba#^pDU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "asservissement suiveur",
+                "ajustent en permanence singla de sortie au signal d'entrée qui varie en permanence"
+            ],
+            "guid": "Qwf9&G%WOn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "performances d'un système asservi",
+                "- stabilité<br>- rapidité<br>- précision"
+            ],
+            "guid": "r0OJC|MhC~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stabilité",
+                "stable si à une entrée bornée est associée une sortie bornée"
+            ],
+            "guid": "iutPERPTPY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "amortissement",
+                "rapport entre les amplitudes successives de la sortie (plus s'attenuent rapidement, plus le système est amorti)"
+            ],
+            "guid": "C4WYmy?C{d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "taux de dépassement relatif",
+                "\\[ D_{1\\%} = 100 \\times |\\frac{ s(t_1) - s_{\\infty} }{ s_{\\infty} }|\\]<br><br>amplitude maximale de la première oscillation"
+            ],
+            "guid": "ObCX:dQoCg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rapidité",
+                "converge en un temps court"
+            ],
+            "guid": "jlWh}V5%za",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "t5%",
+                "temps pour atteindre +- 5% de la valeur de converge pour la dernière fois et ne pas en sortir"
+            ],
+            "guid": "mWJiK|IeNL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "précision",
+                "aptitude à atteindre valeur visée (consigne)"
+            ],
+            "guid": "QlheB.!yN1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erreur en régime permanent",
+                "\\[\\lim_{t\\rightarrow\\infty}\\mu(t) = \\lim_{t\\rightarrow\\infty} (e(t) - s(t))\\]"
+            ],
+            "guid": "Qj,*EG.AEr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erreur statique",
+                "\\(\\mu_s = \\lim_{t\\rightarrow\\infty} (E_0 - s(t))\\)"
+            ],
+            "guid": "nP[ok)rV,e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erreur de trainage ou de poursuite",
+                "\\(\\mu_v = \\lim_{t\\rightarrow\\infty} (e(t) - s(t))\\)"
+            ],
+            "guid": "fe<4oQm,^Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sensible aux perturbations",
+                "ne converge pas vers la même valeur avec ou sans les perturbations"
+            ],
+            "guid": "IQz@8e4_fY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "flux dans les blocs",
+                "matière, énergie, information"
+            ],
+            "guid": "pBPf{Eocu.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diagramme de définition de bloc (BDD)",
+                "SysML bdd, système du pdv composé composant, décrit inclusion des composants dans sous-sytèmes et sous-systèmes dans systèmes"
+            ],
+            "guid": "P^&~$;lG>O",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "traits extrémités en orange",
+                "plein: obligatoire<br>vide: facultatif"
+            ],
+            "guid": "mE*gv!fR(j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diagramme de blocs internes (ibd)",
+                "SysML ibd: répresénter échanges de flux entre blocs internes d'un système"
+            ],
+            "guid": "u^-LpyCL3r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ports dans ibd",
+                "carré vide: standard port (lien ou connexion physique)<br>carré flèche: flow port (flux)"
+            ],
+            "guid": "A<515gE%+_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chaînes fontionnelles",
+                "information, puissance"
+            ],
+            "guid": "fh*tstvTE&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chaîne d'information",
+                "regroupe toutes les fonction liées aux flux d'information dans le système"
+            ],
+            "guid": "cf8#C*cQ7x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chaîne de puissance",
+                "regroupe toutes les fonctions qu concernent tous les flux d'énergie au sein du système"
+            ],
+            "guid": "JJ|GrRB{{X",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chaîne d'information (étapes)",
+                "acquérir, traiter, communiquer"
+            ],
+            "guid": "4Q4<b`!$4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chaîne de puissance (étapes)",
+                "alimenter, moduler, convertir, transmettre et adapter, agir"
+            ],
+            "guid": "n~(P[WsvPA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "liens entre chaîne de puissance et chaîne d'information",
+                "- de communiquer vers moduler<br>- après convertir ou transmettre vers acquérir"
+            ],
+            "guid": "UsZ/mS~Y2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schéma blocs acausaux",
+                "ne présente pas les grandeurs de l'entrée&nbsp;"
+            ],
+            "guid": "Kw~rMfjDJE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schéma-blocs causaux",
+                "définit en avance grandeur d'entrée et grandeur de sortie"
+            ],
+            "guid": "ulaV:1l>U1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impulsion de Dirac",
+                "entrée<br><br>réponse: impulsionelle<br><br>formule:&nbsp;\\[t \\ne 0 \\delta (t) = 0\\]&nbsp;<br><br>\\[\\int_{-\\infty}^{+\\infty}{\\delta(t)dt} = 1\\]"
+            ],
+            "guid": "MG;RE_s6c;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction échelon unité / fonction de heaviside",
+                "\\[t &lt; 0, u(t) = 0\\]<br><br>\\[t &gt;= 0, u(t) = 1\\]<br><br>réponse indicielle"
+            ],
+            "guid": "oZDm%NK7?d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction rampe unitaire",
+                "\\[t &lt; 0, r(t) = 0\\]<br><br>\\[t \\ge 0, r(t) = t\\]<br><br>\\[r(t) = t\\times u(t)\\]"
+            ],
+            "guid": "f]22R*H*WS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction sinus causale",
+                "\\[t &lt; 0, s(t) = 0\\]<br><br>\\[t \\ge 0, s(t) = sin(\\omega t)\\]<br><br>\\[s(t) = sin(\\omega t) \\times u(t)\\]<br><br>\\[\\omega = \\frac{2\\pi}{T} = 2\\pi f\\] (pulsation du sinus, T période, f la fréquence)"
+            ],
+            "guid": "BA&~NP/WQX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SLCI",
+                "Système Linéaire Continu Invariant"
+            ],
+            "guid": "H*44#(1Hf]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système linéaire",
+                "\\[s(t) = F(e(t))\\] si F est linéaire<br><br>vérifie principe de superposition et proportionnalité"
+            ],
+            "guid": "v`WzwVkXVl",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe de proportionnalité",
+                "entrée: \\[e(t)\\] sortie: \\[s(t)\\]<br><br>entrée:&nbsp;\\[\\lambda e(t)\\] sortie:&nbsp;\\[\\lambda s(t)\\]"
+            ],
+            "guid": "N4h~4<i>{(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe de superposition",
+                "\\[s_1(t)\\] et&nbsp;\\[s_2(t)\\] sorties aux entrée&nbsp;\\[e_1(t)\\] et&nbsp;\\[e_2(t)\\] alors&nbsp;\\[s_1(t) + s_2(t)\\] est la sortie de&nbsp;\\[e_1(t) + e_2(t)\\]"
+            ],
+            "guid": "+T=bcn2[:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "systèmé linéaire stable",
+                "caractéristique:&nbsp;\\[s_{\\infty} = F(e_{\\infty})\\]<br><br>courbe caractéristique de pente: K (gain du système)"
+            ],
+            "guid": "s-KEHEnA[>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "non linéarités",
+                "- saturation<br>- seuil<br>- hystérésis"
+            ],
+            "guid": "ldhl$V+8XB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "systèmé linéarisé",
+                "lorsqu'on considère un système non linéaire que sur une partie on peut le considérer linéaire"
+            ],
+            "guid": "MwlI-{tO3T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système continu / invariant",
+                "grandeurs physiques définies à chaque instant / comportement indépendant du temps"
+            ],
+            "guid": "L&<:*U4%{e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "modélisation SLCI",
+                "équation différentielle linéaire à coefficients constants"
+            ],
+            "guid": "dH>et9<GDZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système modélisable par gain pur",
+                "\\[1s(t) = Ke(t)\\]"
+            ],
+            "guid": "n{*p74s30G",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "systèmes modélisés par un intégrateur",
+                "\\[1s(t) = \\int_0^{t}{e(t')dt'}\\]"
+            ],
+            "guid": "eh%_n_aVl",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forme de l'équation différentielle",
+                "dipôle actif (fournit de l'énergie)<br><br>\\[R_s = \\frac{U_s}{I_s}[/$$]"
+            ],
+            "guid": "JWKVdv~N33",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "réponse temporelle à une entrée échelon (réponse indicielle)",
+                "\\[s(t) = Ke_0[1 - e^{-\\frac{t}{\\tau}}]u(t)\\]"
+            ],
+            "guid": "jqurL3BVT}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valeurs particulières",
+                "-&nbsp;\\(t = \\tau\\), 63%<br>-&nbsp;\\(t = 3\\tau\\), 95%"
+            ],
+            "guid": "bYRN@Ujdl8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "indentification du modèle",
+                "création d'un modèle de comportement s'oppose à modèle de connaissance qui se base sur la connaissance du fonctionnement interne"
+            ],
+            "guid": "g8|8QLO*BF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transormées de Laplace des signaux usuels",
+                "<ul><li>Dirac:&nbsp;\\(\\delta(t) \\Rightarrow X(p) = 1\\)</li><li>Échelon amplitude&nbsp;\\(Au(t) \\Rightarrow X(p) = \\frac{A}{p}\\)</li><li>Rampe de pente b&nbsp;\\(bt.u(t) \\Rightarrow X(p) = \\frac{b}{p^2}\\)</li><li>\\(e^{-at}.u(t) \\Rightarrow X(p) = \\frac{1}{p+a}\\)</li></ul>"
+            ],
+            "guid": "uNVDCN}(&)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "conditions de Heaviside",
+                "\\(f(0^-) = 0 et \\frac{d^k f(0^-)}{dt^k} = 0\\)&nbsp;avec k &lt; n pour n l'ordre de l'ED"
+            ],
+            "guid": "pzBWG11y(V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Transformée de laplace pour dérivées",
+                "\\[L[\\frac{df}{dt}(t)] = pF(p)\\]<br>"
+            ],
+            "guid": "shKkv@x4[@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction de transfert",
+                "\\[H(p) = \\frac{S(p)}{E(p)}\\]<br>"
+            ],
+            "guid": "d#/wZ@:KJy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forme canonique de fonction de transfert",
+                "\\[H(p) = \\frac{K}{p^\\alpha}\\frac{1+b_{1'}p+\\ldots+b_{m'}p^{m'}}{1+a_{1'}p + \\ldots + a_{n'}p^{n'}}\\]<br><br>K = le gain<br>alpha = la classe<br>n = n' + alpha"
+            ],
+            "guid": "bJ0]lwaaGP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gain pur dans laplace",
+                "\\[H(p) = K\\]<br>"
+            ],
+            "guid": "b2(oXrZ/L%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrateur pur dans laplace",
+                "\\[H(p) = \\frac{1}{p}\\]<br>"
+            ],
+            "guid": "OJfW-6~AJt",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction de transfert ED ordre 1 dans laplace",
+                "\\[H(p) = \\frac{K}{1+\\tau p}\\]K = le gain<br>\\(\\tau\\)&nbsp;= constante de temps<br>"
+            ],
+            "guid": "d/S&GGQJ1j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ED ordre 2 dans laplace",
+                "\\[H(p) = \\frac{K}{1 + \\frac{2\\xi}{w_0}p + \\frac{1}{w_0^2}p^2}\\]<br>\\(w_0\\)&nbsp;la pulsation propre<br>\\(\\xi\\)&nbsp;le facteur d'amortissemet<br>K le gain"
+            ],
+            "guid": "nPbBr%,<Sq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction de transfert en boucle fermée",
+                "\\[FTBF(p) = \\frac{FTCD(p)}{1 + FTCD(p)FTCR(p)}\\]<br>"
+            ],
+            "guid": "n&rG2A?uWe",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fonction de transfert en boucle ouverte",
+                "\\[FTBO(p) = FTCD(p) \\cdot FTCR(p)\\]<br>"
+            ],
+            "guid": "i5W]^hxk/M",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stabilité dans laplace",
+                "stable si fonction de transfert ne présente aucun pôle à partie réelle positive ou nulle"
+            ],
+            "guid": "gs-_3yI_Pn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dépassement quand&nbsp;\\(\\xi\\)",
+                "&lt; 1"
+            ],
+            "guid": "j.O<>?Rj3.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rapidité au second ordre",
+                "pas de dépassement:&nbsp;\\(\\xi = 1\\)<br>avec dépassement:&nbsp;\\(\\xi = 0.69\\)"
+            ],
+            "guid": "rgMF9n$nh?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de la valeur finale",
+                "Si la limite existe (le système est stable):<br><br>\\[\\lim_{t \\rightarrow +\\infty}{s(t)} = \\lim_{p\\rightarrow0}{pS(p)}\\]<br>"
+            ],
+            "guid": "EcmgD^Do=p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sensibilité à une perturbation",
+                "insensible si la la limite de la perturbation est nulle:<br>\\[\\lim_{p\\rightarrow0}{pH_{pert}(p)F(p)} = 0\\]pour une entrée&nbsp;\\(F(p)\\)&nbsp;donnée<br>"
+            ],
+            "guid": "b{cp)K2G-~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::3"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ED 2",
+                "\\[\\frac{1}{w_0^2}\\frac{d^2s(t)}{dt^2}+\\frac{2\\xi}{w_0}\\frac{ds(t)}{dt} + 1s(t) = Ke(t)\\]<br>"
+            ],
+            "guid": "tR_Ns9sACB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Réponse indicielle à un échelon (ED 2)",
+                "<ul><li>apériodique:&nbsp;\\(s(t) = Ke_0[1 - \\frac{1}{T_1 - T_2}(T_1e^{-t/T_1}-T_2e^{-t/T_2})]\\cdot u(t) \\text{ Avec } T_1 = \\frac{1}{\\xi w_0+w_0\\sqrt{\\xi^2-1}} \\text{ et } T_2 = \\frac{1}{\\xi w_0-w_0\\sqrt{\\xi^2-1}}\\)</li><li>critique:&nbsp;\\(s(t) = Ke_0[1-(w_0t+1)e^{-w_0t}]u(t)\\)</li><li>pseudo-périodique:&nbsp;\\(s(t) = Ke_0[1 - e^{-\\xi w_0t}(\\cos(w_0\\sqrt{1 - \\xi^2t}) + \\frac{\\xi}{\\sqrt{1-\\xi^2}}\\sin(w_0\\sqrt{1 - \\xi^2t}))]\\cdot u(t)\\)&nbsp;</li></ul>"
+            ],
+            "guid": "D6^V6a%^+J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séquence::2"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Erreurs selon la classe de la FTBO",
+                "Classe = 0 1 2<div>Dirac = 0 0 0</div><div>Echelon = \\(\\frac{e_0}{1+K_{BO}}\\) 0 0</div><div>Rampe = infini a/K_BO 0</div>"
+            ],
+            "guid": "IR,3@5S4Cu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

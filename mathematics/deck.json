@@ -71,8 +71,10 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
-    "name": "maths",
+    "media_files": [
+        "Galaxy Brain Meme (1).mp4"
+    ],
+    "name": "mathematics",
     "newLimit": null,
     "newLimitToday": {
         "limit": 20,
@@ -2601,7 +2603,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "intérieur",
+                "intérieur (prop voisinage)",
                 "x est intérieur à A si A est un voisinage de x"
             ],
             "guid": "e/VHLXTZ)1",
@@ -3454,6 +3456,522 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limite l de suite",
+                "\\[\\forall W_l \\in \\mathcal{V}_l, \\exists N \\in \\mathbb{N}, \\forall n \\ge N, u_n \\in W_l\\]<br>"
+            ],
+            "guid": "f,jo9YIJBi",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation limite l",
+                "<ul><li>\\(l \\in \\mathbb{R}\\),&nbsp;\\(\\forall \\epsilon &gt; 0, \\exists N \\in \\mathbb{N}, \\forall n \\ge N, |u_n - l| \\le \\epsilon\\)<br></li><li>\\(l = +\\infty\\),&nbsp;\\(\\forall A \\in \\mathbb{R}, \\exists N \\in \\mathbb{N}, \\forall n \\ge N, u_n \\ge A\\)</li><li>\\(l = - \\infty\\),&nbsp;\\(\\forall A \\in \\mathbb{R}, \\exists N \\in \\mathbb{N}, \\forall n \\ge N, u_n \\le A\\)<br></li></ul>"
+            ],
+            "guid": "Dj_Rw)$W:r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "converge, diverge 1, digerve 2",
+                "converge limite finie<br>diverge&nbsp;\\(+/-\\infty\\)&nbsp;(diverge 1ere espèce)<br>n'admet pas de limite, (diverge 2nd espèce)"
+            ],
+            "guid": "BQB&B30(CP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "encadrement suite converge",
+                "Soient&nbsp;\\(u\\)&nbsp;suite réelle,&nbsp;\\(a,b\\in\\mathbb{R}\\)&nbsp;tq&nbsp;\\(a &lt; l &lt; b\\), alors:<br>\\[\\exists N \\in \\mathbb{N}, \\forall n \\ge N, u_n \\in ]a;b[\\]<br>"
+            ],
+            "guid": "K#Z+8kXjKR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme croissance extractrice",
+                "\\[\\phi(n) \\ge n\\]<br>"
+            ],
+            "guid": "s&wWF[k{Wz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "converge sous-suite",
+                "\\((u_n \\rightarrow l) \\Rightarrow (u_{\\phi(n)} \\rightarrow l)\\)"
+            ],
+            "guid": ")|k%-xQJ_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "montrer diverge de seconde espèce",
+                "extraire deux sous-suites avec des limites différentes"
+            ],
+            "guid": "CP_x?:(Z9#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limite sous-suite =&gt; limite suite",
+                "Si&nbsp;\\(u_{2n}\\)&nbsp;et&nbsp;\\(u_{2n+1}\\)&nbsp;tendent vers&nbsp;\\(l\\)&nbsp;alors&nbsp;\\(u_n\\)&nbsp;tend vers l"
+            ],
+            "guid": "LIetaP-t_9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limite de&nbsp;\\(\\left(1 + \\frac{1}{n}\\right)^n\\)",
+                "\\(e\\)"
+            ],
+            "guid": "xXj;W4m1aY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Césaro",
+                "\\[m_n = \\frac{u_0 + \\ldots + u_n}{n}\\]\\(u_n \\rightarrow l \\Rightarrow m_n \\rightarrow l\\)<br>"
+            ],
+            "guid": "qp&Wl+<Eu@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme de l'escalier",
+                "\\(u_{n+1} - u_n \\rightarrow l \\Rightarrow \\frac{u_{n+1}}{u_n} \\rightarrow l\\)"
+            ],
+            "guid": "AU^1>O:sHA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "passage à la limite dans inégalités",
+                "\\(u_n\\le v_n \\Rightarrow \\lim{u_n} \\le \\lim{v_n}\\)"
+            ],
+            "guid": "FLHX{qn3BE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de la limite monotone",
+                "<ul><li>si&nbsp;\\(u_n\\)&nbsp;est majorée et croissante converge vers sup</li><li>si&nbsp;\\(u_n\\)&nbsp;est croissante et non majorée, converge vers&nbsp;\\(+\\infty\\)</li><li>si&nbsp;\\(u_n\\)&nbsp;est décroissante et minorée converge vers inf</li><li>si&nbsp;\\(u_n\\)&nbsp;est décroissante et non minorée, converge vers&nbsp;\\(-\\infty\\)</li></ul>"
+            ],
+            "guid": "LIP(l|@+&k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suites adjacentes",
+                "l'une croissante l'autre décroissante et leur différence tend vers 0"
+            ],
+            "guid": "svSO*sL&LC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème des suites adjacentes",
+                "suites adjacentes converge et ont la même limite<br>de plus (en supposant&nbsp;\\(u_n\\)&nbsp;croissante et&nbsp;\\(v_n\\)&nbsp;décroissante):<br>\\[\\forall n \\in \\mathbb{N}, u_n \\le l \\le v_n \\]<br>"
+            ],
+            "guid": "zcyMk$2(H2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme des segments emboîtés",
+                "si&nbsp;\\(\\forall n \\in \\mathbb{N}, a_n \\le b_n\\)&nbsp;et&nbsp;\\(\\forall n \\in \\mathbb{N}, [a_{n+1}, b_{n+1}] \\subset [a_n, b_n]\\)&nbsp;alors&nbsp;\\(lim_{n\\rightarrow +\\infty}{b_n - a_n} = 0\\)"
+            ],
+            "guid": "f:[eb;(o6u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "négligeabilité",
+                "\\(u_n = o(v_n)\\)&nbsp;si il existe:<br>\\[\\epsilon_n \\rightarrow 0, \\text{ et } \\exists n_0 \\in \\mathbb{N}, \\forall n \\ge n_0, u_n = \\epsilon_nv_n\\]cas particulier quand&nbsp;\\(v_n\\)&nbsp;ne s'annule pas APCR<br>\\[\\frac{u_n}{v_n} \\rightarrow  0\\]<br>"
+            ],
+            "guid": "xvzqd9L>+~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Critère de d'Alembert",
+                "<ul><li>si&nbsp;\\(\\frac{u_{n+1}}{u_n} \\rightarrow l\\)&nbsp;et&nbsp;\\(l &gt; 1\\), alors&nbsp;\\(u_n \\rightarrow +\\infty\\)</li><li>si&nbsp;\\(\\frac{u_{n+1}}{u_n} \\rightarrow l\\)&nbsp;et&nbsp;\\(0 \\le l &lt; 1\\), alors&nbsp;\\(u_n \\rightarrow 0\\)</li><li>si&nbsp;\\(\\frac{u_{n+1}}{u_n} \\rightarrow 1\\)&nbsp;alors on ne peut pas conclure&nbsp;</li></ul>"
+            ],
+            "guid": "GS)dwKWI]k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "croissances comparées",
+                "\\(\\ln(n) = o(n^\\alpha)\\)<br>\\(n^\\alpha = o(Q^n)\\)<br>\\(Q^n = o(n!)\\)"
+            ],
+            "guid": "n[Skk#Y^~1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la relation o est",
+                "transitive"
+            ],
+            "guid": "h1^i^rCD^2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition dilaté de o",
+                "\\[o(v_n) = \\lambda o(v_n) = o(\\lambda v_n)\\]<br>"
+            ],
+            "guid": "MaOYEYm_]Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés calculatoires négligeabilité",
+                "<ul><li>\\(u_n = o(w_n), v_n = o(w_n) \\Rightarrow u_n+v_n = o(w_n)\\)<br></li><li>\\(u_n = o(w_n) \\Rightarrow u_nv_n = o(w_nv_n)\\)</li><li>\\(u_n = o(w_n), v_n = o(t_n) \\Rightarrow u_nv_n = o(w_nt_n)\\)</li><li>\\(u_n = o(v_n) \\Rightarrow u_n^a = o(v_n^a)\\)&nbsp;(pour&nbsp;\\(a &gt; 0\\))</li><li>\\(u_n = o(v_n) \\Rightarrow u_{\\phi(n)} = o(v_{\\phi(n)})\\)<br></li></ul>"
+            ],
+            "guid": "OKV%>(KOXC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suites équivalente",
+                "\\(u_n \\sim v_n\\)&nbsp;si il existe&nbsp;\\(\\lambda_n\\)&nbsp;tq:<br>\\[\\lambda_n \\rightarrow 1, \\exists n_0 \\in \\mathbb{N}, \\forall n \\ge n_0, u_n = \\lambda_nv_n\\]cas particulier fréquent (\\(v_n \\)&nbsp;ne s'annule pas APCR):<br>\\(u_n \\sim v_n \\Leftrightarrow \\frac{u_n}{v_n} \\rightarrow 1\\)<br>"
+            ],
+            "guid": "l{w)j3f&=;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalents de référence",
+                "<div>Soit&nbsp;\\(u_n \\rightarrow 0\\)&nbsp;</div><ul><li>\\(e^{u_b} - 1 \\sim u_n\\)<br></li><li>\\(ln(1+u_n) \\sim u_n\\)</li><li>\\(\\forall{a} \\in \\mathbb{R}, (1+u_n)^a - 1 \\sim au_n\\)</li><li>\\(\\sin(u_n) \\sim u_n\\)</li><li>\\(\\tan(u_n) \\sim u_n\\)</li><li>\\(1 - \\cos(u_n) \\sim \\frac{u_n^2}{2}\\)<br></li></ul>"
+            ],
+            "guid": "csk1)41i,:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la rélation équivalence est une relation",
+                "d'équivalence (OMG science breakthrough, world never the same as before, head gonna explode, it's rocket science)<br><br>[sound:Galaxy Brain Meme (1).mp4]"
+            ],
+            "guid": "B}0$Da)Htp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suites équivalentes et comportement asymptotique&nbsp;",
+                "2 suites équivalentes ont le même comportement asympotique"
+            ],
+            "guid": "oq)u$<BAT?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés calculatoires équivalence",
+                "<ul><li>\\(u_n \\sim w_n \\text{ et } v_n \\sim t_n\\)&nbsp;alors&nbsp;\\(u_nv_n \\sim w_nt_n\\)<br></li><li>\\(u_n \\sim w_n\\)&nbsp;et&nbsp;\\(v_n \\sim t_n\\)&nbsp;alors&nbsp;\\(\\frac{u_n}{v_n} \\sim \\frac{w_n}{t_n}\\)<br></li><li>\\(u_n \\sim v_n\\)&nbsp;alors&nbsp;\\(u_n^a \\sim v_n^a\\)</li><li>\\(u_n \\sim v_n\\)&nbsp;alors&nbsp;\\(u_{\\phi(n)} \\sim v_{\\phi(n)}\\)<br></li></ul>"
+            ],
+            "guid": "N,_O@]&~^*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalence et négligeabilité",
+                "\\(u_n \\sim v_n \\Leftrightarrow u_n = v_n + o(v_n)\\)"
+            ],
+            "guid": "G78P/PfqP3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "domination",
+                "\\(u_n = O(v_n) \\Leftrightarrow \\exists M &gt; 0, \\exists n_0 \\in \\mathbb{N}, \\forall n \\ge n_0, |u_n| \\le M|u_n|\\)<br><br>cas particulier fréquent (\\(v_n\\)&nbsp;ne s'annule pas APCR):<br>\\[u_n = O(v_n) \\Leftrightarrow \\frac{u_n}{v_n} \\text{ est bornée}\\]<br>"
+            ],
+            "guid": "IXp1=:CA/l",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La relation O est",
+                "un préordre"
+            ],
+            "guid": "rG&Nen*cT{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dilatation domination",
+                "<ul><li>\\((u_n = \\lambda O(v_n)) \\Leftrightarrow (u_n = O(\\lambda v_n)) \\Leftrightarrow (u_n = O(v_n)) \\)<br></li><li>\\(b_n\\)&nbsp;est une suite bornée,&nbsp;\\((u_n =  b_nO(v_n)) \\Leftrightarrow (u_n = O(b_n v_n)) \\Leftrightarrow (u_n = O(v_n)) \\)<br></li></ul>"
+            ],
+            "guid": "KX+?E-@5gP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés opérations domination",
+                "<ul><li>\\(u_n = O(w_n)\\)&nbsp;et&nbsp;\\(v_n = O(w_n)\\)&nbsp;alors&nbsp;\\(u_n + v_n = O(w_n)\\)<br></li><li>\\(u_n = O(w_n)\\)&nbsp;alors&nbsp;\\(u_nv_n = O(w_nv_n)\\)<br></li><li>\\(u_n = O(w_n)\\)&nbsp;et&nbsp;\\(v_n = O(t_n)\\)&nbsp;alors&nbsp;\\(u_nv_n = O(w_nt_n)\\)<br></li><li>\\(u_n = O(w_n)\\)&nbsp;alors&nbsp;\\(u_n^a = O(w_n^a)\\)&nbsp;avec&nbsp;\\(a &gt; 0\\)</li></ul>"
+            ],
+            "guid": "Jr<1G#ryh^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stable par f",
+                "\\[\\forall x \\in A, f(x) \\in A\\]<br>"
+            ],
+            "guid": "x:3XywH>bI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "méthode étudier suites récurrents&nbsp;\\(u_{n+1} = f(u_n)\\)",
+                "<ol><li>On étudie variations de f</li><li>On cherche A une partie stable par f avec&nbsp;\\(u_0 \\in A\\)</li><li>si&nbsp;\\(f(x) - x &gt; 0\\)&nbsp;sur A, u est croissante</li><li>si&nbsp;\\(f(x) - x &lt; 0\\)&nbsp;sur A, u est décroissante</li><li>si f est croissante sur A, u est monotone et dépend du signe de&nbsp;\\(u_1 - u_0\\)</li><li>si f est décroissante sur A,&nbsp;\\(u_{2n+1}\\)&nbsp;et&nbsp;\\(u_{2n}\\)&nbsp;sont monotones de sens crontraires</li><li>si f est continue, la limite est une point fixe de f tq f(l) = l</li></ol>"
+            ],
+            "guid": "dQQsxj3,>q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation séquentielle des fermés",
+                "F fermé ssi toute suite dans F qui converge dans&nbsp;\\(\\mathbb{R}\\)&nbsp;converge en fait dans F"
+            ],
+            "guid": "hINdz[wH0*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation séquentielle adhérence",
+                "\\(A \\subset \\mathbb{R} \\text{ et } b \\in \\mathbb{R}\\)<br>\\(b \\in Adh(A) \\Leftrightarrow \\text{ il existe une suite à valeurs dans A qui converge vers b}\\)"
+            ],
+            "guid": "M>E:%R.?m$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation séquentielle borne sup / inf",
+                "s est la borne sup de A si à la fois majorant de A et limite d'une suite à valeurs dans A"
+            ],
+            "guid": "b.xb?%-@f]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de Bolzano-Weierstrass",
+                "De toute suite réelle bornée, on peut extraire une suite converge"
+            ],
+            "guid": "ppf_%9Gp)A",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valeur d'adhérence",
+                "\\(\\lambda\\)&nbsp;valeur d'adhérence de&nbsp;\\(u_n\\)&nbsp;si il existe une sous-suite de&nbsp;\\(u_n\\)&nbsp;qui converge vers&nbsp;\\(\\lambda\\)"
+            ],
+            "guid": "JteX0<dEGC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire \"toute suite réelle bornée ....\"",
+                "admet une valeur d'adhérence"
+            ],
+            "guid": "h`am%KhRKa",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "compacité séquentielle",
+                "K compact lorsque toute suite à valeurs dans K admet au moins une valeur d'adhérence dans K"
+            ],
+            "guid": "oghZ}%<E{|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "partie K de R compacte ssi",
+                "K fermée et bornée"
+            ],
+            "guid": "z%w,^}X<7/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intersections/unions de compacts",
+                "<ul><li>intersection d'une famille non vide de compacts est un compact</li><li>union d'une famille finie de compacts est un compact</li></ul>"
+            ],
+            "guid": "j)A2p4D+4,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::suite"
             ]
         }
     ],

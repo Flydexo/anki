@@ -1,0 +1,855 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "2656af62-aa94-11ef-bec0-d9aa25b9a078",
+    "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "german",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -3568197255527884728,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8792581457391807817,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -7066904010460991323,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "immigration",
+                "einwanderung"
+            ],
+            "guid": "IQgr]<bS],",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "passport",
+                "der Pass(¨e)"
+            ],
+            "guid": "Na1asl,ZlH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "manifestation",
+                "Demonstration"
+            ],
+            "guid": "pF]Oc28<-d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "contre",
+                "gegen"
+            ],
+            "guid": "QXi-|y@=L1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pétrole",
+                "Öl"
+            ],
+            "guid": "qn3G{=^/Ii",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "championnat",
+                "Meisterschaft"
+            ],
+            "guid": "e;mm2&rb]d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous-marin",
+                "ein U-Boot"
+            ],
+            "guid": "r(GsHH;E5o",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "arme",
+                "Waffe (f)"
+            ],
+            "guid": "chH7n4WinZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bougie",
+                "Kerze"
+            ],
+            "guid": "s<N[c=4i3J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "conducteur / pilote",
+                "Fahrer"
+            ],
+            "guid": "QDGl>/bhqg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "suivant(e)s",
+                "folgenden"
+            ],
+            "guid": "td/?`(Z+H>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "choisir",
+                "wählen"
+            ],
+            "guid": "bET1~F$5@5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fermement",
+                "fest"
+            ],
+            "guid": "zjk=RJ39rk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "effort",
+                "Einsatz"
+            ],
+            "guid": "A+F{7V~A`*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "parceque",
+                "wegen"
+            ],
+            "guid": "J{}QcuF@:9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "attaque",
+                "Anschlag"
+            ],
+            "guid": "dZ0Re@oq?k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gouvernement",
+                "Regierung"
+            ],
+            "guid": "b~k]Tn6[-v",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pas (quand on marche)",
+                "Schritt"
+            ],
+            "guid": "f++xVMA=$f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force",
+                "Gewalt"
+            ],
+            "guid": "g>`$P]1$iY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "leech"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "apporter",
+                "bringen"
+            ],
+            "guid": "NAf!!aGc/,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "devenir",
+                "werden"
+            ],
+            "guid": "z~oq^9jj|x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "révéler, afficher, exposer",
+                "zeigen"
+            ],
+            "guid": "ts&<g`&o4I",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "demande",
+                "Antrag"
+            ],
+            "guid": "fa`Z=k?|:K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "citoyenneté",
+                "Staatsbürgerschaft"
+            ],
+            "guid": "iZ^j?O>AN|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "succès",
+                "Erfolg"
+            ],
+            "guid": "p<1L](zf%{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "finir, compléter",
+                "beenden"
+            ],
+            "guid": "JQ3`4-=LiH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Prendre",
+                "nehmen"
+            ],
+            "guid": "n4#p{6.%4H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Typhon",
+                "Taifun"
+            ],
+            "guid": "bj,W;pw|0-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force (w)",
+                "Wucht"
+            ],
+            "guid": "E`y$E**d)w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Atteindre",
+                "Reichen"
+            ],
+            "guid": "jl#e[+vJlr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Régner",
+                "<span style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); font-family: Georgia, Times, &quot;Times New Roman&quot;, serif; font-size: 25px; font-weight: 700; -webkit-text-size-adjust: 100%; background-color: rgb(249, 249, 249);\">herrschen</span>"
+            ],
+            "guid": "FFaF7HV9x@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Embassade",
+                "Botschaft"
+            ],
+            "guid": "oKJ,[&-2x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Medecin",
+                "Arzt"
+            ],
+            "guid": "E%7Q5Ysba2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Réfugié",
+                "<span style=\"-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); font-family: Georgia, Times, &quot;Times New Roman&quot;, serif; font-size: 25px; font-weight: 700; -webkit-text-size-adjust: 100%; background-color: rgb(249, 249, 249);\">Flüchtling</span>"
+            ],
+            "guid": "QU/LIy1]hI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bien que",
+                "Obwohl"
+            ],
+            "guid": "NeUvrpV|dT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Manquer (quantité)",
+                "Fehlen"
+            ],
+            "guid": "cRgg7[U~Tz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chemin",
+                "Weg"
+            ],
+            "guid": "v,%A<?PHY=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Permis de travail",
+                "<span style=\"font-size: 16px; caret-color: rgb(0, 8, 33); color: rgb(0, 8, 33); font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">Berufserlaubnis</span>"
+            ],
+            "guid": "kR?3y:8#p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Compliqué",
+                "<span style=\"font-size: 16px; caret-color: rgb(0, 8, 33); color: rgb(0, 8, 33); font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">kompliziert</span>"
+            ],
+            "guid": "IH`ys)*1^h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Long",
+                "<span style=\"font-size: 16px; caret-color: rgb(0, 8, 33); color: rgb(0, 8, 33); font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">langwierig</span>"
+            ],
+            "guid": "jdlcmzJ#R6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Actuellement",
+                "Derzeit"
+            ],
+            "guid": "CLG+^J<-N4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Environ",
+                "Etwa"
+            ],
+            "guid": "t[/9@qng$@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Si",
+                "Damit"
+            ],
+            "guid": "o%7;QTfgG]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Les deux",
+                "Beiden"
+            ],
+            "guid": "Bx??lW}8!H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Demandeurs d’asile&nbsp;",
+                "<a class=\"internal-link\" href=\"https://www.dw.com/de/asylrecht/t-17963566\" style=\"font-size: 16px; -webkit-touch-callout: none; -webkit-user-select: text; font-weight: 600; cursor: pointer; text-decoration-color: currentcolor; line-height: var(--line-height); font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">Asylbewerbern</a><span style=\"font-size: 16px; caret-color: rgb(0, 8, 33); color: rgb(0, 8, 33); font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">&nbsp;</span>"
+            ],
+            "guid": "xM}=?iCF&5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Affirmation",
+                "<h1 class=\"saqvxdf hr9hvkd hb7nbxk seipclg b1ho1h07\" style=\"-webkit-touch-callout: none; -webkit-user-select: text; margin-bottom: 7px; font-weight: 600; line-height: var(--line-height); font-size: 3rem; font-variation-settings: &quot;ital&quot; var(--pangea-italic, 0),&quot;opsz&quot; var(--pangea-opsz, 20); overflow-wrap: break-word; font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">Behauptung</h1>"
+            ],
+            "guid": "m0v=`Sl7a&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Autrefois",
+                "<span style=\"font-size: 16px; caret-color: rgb(0, 8, 33); color: rgb(0, 8, 33); font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">früheren</span>"
+            ],
+            "guid": "ii:T:X*uh#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Agissant (dans le sens de actif)",
+                "<span style=\"font-size: 16px; caret-color: rgb(0, 8, 33); color: rgb(0, 8, 33); font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">amtierenden</span>"
+            ],
+            "guid": "H{?(8d]z{a",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Coller / coincer",
+                "Stecken"
+            ],
+            "guid": "FVgTY1$8=N",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Renforcer",
+                "<h1 class=\"saqvxdf hr9hvkd hb7nbxk seipclg b1ho1h07\" style=\"-webkit-touch-callout: none; -webkit-user-select: text; margin-bottom: 7px; font-weight: 600; line-height: var(--line-height); font-size: 3rem; font-variation-settings: &quot;ital&quot; var(--pangea-italic, 0),&quot;opsz&quot; var(--pangea-opsz, 20); overflow-wrap: break-word; font-family: Pangea, Arial, sans-serif; -webkit-text-size-adjust: 100%;\">verstärken</h1>"
+            ],
+            "guid": "D5_t2Xsc9.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pression",
+                "Druck"
+            ],
+            "guid": "i58aF[N@7L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Soulever",
+                "Erheben"
+            ],
+            "guid": "D^;eq7e0@)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Encore une fois",
+                "Erneut"
+            ],
+            "guid": "p=ZC{xs<%d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lourd",
+                "Schwere"
+            ],
+            "guid": "l!feF}|go}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Accusations",
+                "Vorwürfe"
+            ],
+            "guid": "C{OB4dWak]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Etat",
+                "Staatlichen"
+            ],
+            "guid": "wp,BhD&m1T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Abandonner",
+                "Kündingen"
+            ],
+            "guid": "Gn2;X*M08O",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hongrie",
+                "Ungarn"
+            ],
+            "guid": "f7vseVDt(P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Partir",
+                "Verlassen"
+            ],
+            "guid": "eAcPl1J)(H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Soulager",
+                "Erleichtern"
+            ],
+            "guid": "M$8&I_3^Ur",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "leech"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Victoire",
+                "Sieg"
+            ],
+            "guid": "xML~uk[k#X",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "À",
+                "Bei"
+            ],
+            "guid": "il?2dSBI0t",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Procurer",
+                "Verschaffen"
+            ],
+            "guid": "dh{c#hWWc0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chancelier",
+                "Kanzler"
+            ],
+            "guid": "CQr+}B[:QH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quelque chose / un peu",
+                "Etwas"
+            ],
+            "guid": "O1O0Cv,k)}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Air",
+                "Luft"
+            ],
+            "guid": "DHM]hQv<70",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "En revanche",
+                "Hingengen"
+            ],
+            "guid": "Q|}yl21}y5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cacher",
+                "Birgen"
+            ],
+            "guid": "n6aSdnTBG]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Résultat&nbsp;",
+                "Ergebnis"
+            ],
+            "guid": "EfcYcM6yw%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explosif",
+                "Sprengstoff"
+            ],
+            "guid": "dze;|=L`=i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
