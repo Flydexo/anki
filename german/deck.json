@@ -837,7 +837,9 @@
             ],
             "guid": "EfcYcM6yw%",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -846,6 +848,166 @@
                 "Sprengstoff"
             ],
             "guid": "dze;|=L`=i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes faibles au présent (lernen)",
+                "ich lerne<br>du lernst<br>er/sie/es lernt<br>wir lernen<br>ihr lenrt<br>sie/Sie lernen"
+            ],
+            "guid": "n:JSc;940u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes faibles au prétérit (lernen)",
+                "ich lernte<br>du lerntest<br>er lernte<br>wir lernten<br>ihr lerntet<br>sie lernten"
+            ],
+            "guid": "Lj.Kb{2(UQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes faibles au parfait (lernen)",
+                "ich habe gelernt"
+            ],
+            "guid": "o%$Arf{#$:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes faibles à l'impératif (lernen)",
+                "lerne !<br>lernen wir !<br>lernt !<br>lernen Sie !"
+            ],
+            "guid": "KJjz]B5}$P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts au présent (bleiben)",
+                "ich bleibe<br>du bleibst<br>er bleibt<br>wir bleiben<br>ihr bleibt<br>sie bleiben"
+            ],
+            "guid": "ro*7LzG=g%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts au prétérit (bleiben)",
+                "ich blieb<br>du bliebst<br>er blieb<br>wir blieben<br>ihr bliebt<br>sie blieben"
+            ],
+            "guid": "NQXN<2bnmJ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts au parfait (bleiben)",
+                "ich bin geblieben"
+            ],
+            "guid": "NUGvR5*_Kk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts à l'impératif",
+                "bleib !<br>bleiben wir !<br>bleibt !<br>bleiben Sie !"
+            ],
+            "guid": "p`olJJ$8_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -e au présent (geben)",
+                "ich gebe<br>du gibst<br>er gibt<br>wir geben<br>ihr gebt<br>sie geben"
+            ],
+            "guid": "OwOjn`-:-L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -e au prétérit (geben)",
+                "ich gab<br>du gabst<br>er gab<br>wir gaben<br>ihr gabt<br>sie gaben"
+            ],
+            "guid": "uA|sgbwEnA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -e au parfait (geben)",
+                "ich habe gegeben"
+            ],
+            "guid": "fi([eStXqI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -e à l'impératif (geben)",
+                "gib !<br>geben&nbsp; wir !<br>gebt !<br>geben sie !"
+            ],
+            "guid": "v41*yB;/3D",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -a au présent (fahren)",
+                "ich fahre<br>du fährst<br>er fährt<br>wir fahren<br>ihr fahrt<br>sie fahren"
+            ],
+            "guid": "ASa?DMHxlm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -a au prétérit (fahren)",
+                "ich fuhr<br>du fuhrst<br>er fuhr<br>wir fuhren<br>ihr fuhrt<br>sie fuhren"
+            ],
+            "guid": "H9?#(-juUy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -a au parfait (fahren)",
+                "ich bin gefahren"
+            ],
+            "guid": "kTQT8fto:F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes forts en -a à l'impératif (fahren)",
+                "fahre !<br>fahren wir !<br>fahrt !<br>fahren sie !"
+            ],
+            "guid": "Dx|X!RO0bT",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": []
         }

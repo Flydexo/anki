@@ -74,24 +74,9 @@
     "media_files": [
         "Screenshot 2024-10-07 at 21.26.20.png",
         "Screenshot 2024-10-07 at 21.28.08.png",
-        "Screenshot 2024-10-28 at 14.34.24.png",
-        "latex-014ea9e2d226e5b4724f62f061ac28eee4db63b7.png",
-        "latex-2677e0cde9fa27c7a30e142d30deb96c0212125d.png",
-        "latex-31d4625708fbec3f331886205be11abbf28569fa.png",
-        "latex-4ca203c0bb68662c2d49ecc7f1ebd718beed8505.png",
-        "latex-55964c78c3352f0cb9d354d4cc292a981941d59a.png",
-        "latex-5a3a464421fdc4d1e95a3d0e3fc376af74d33455.png",
-        "latex-6b80d32cbbbcc4aa8703d364dd251f01a7557f46.png",
-        "latex-8052dff617773718c2d932fb3fe4efeb39d36349.png",
-        "latex-8f3f82e166eb7ffb90190210e09e981e01cb2610.png",
-        "latex-a028679db3893bd5bb240fd441fb636c5a9b3b80.png",
-        "latex-bea07f6517efca44cbbb3a8b7c4a6da948d070e6.png",
-        "latex-e3bcc8c82a9446be85c22f132386195d20d8e500.png",
-        "latex-eafb31e14b59096a3da7593d95d2b91c63977171.png",
-        "latex-eb4a27ce4dfa9f7ab7e5ca41aa84972b9e714496.png",
-        "latex-fb4126ad5cecf1f67b5f08064273f6b1b0f44627.png"
+        "Screenshot 2024-10-28 at 14.34.24.png"
     ],
-    "name": "physique",
+    "name": "physics",
     "newLimit": null,
     "newLimitToday": {
         "limit": 20,
@@ -181,7 +166,7 @@
             "__type__": "Note",
             "fields": [
                 "échelles de champs électriques",
-                "champ intense (étincelles) = [latex]$10^6 V.m^{-1}$[/latex]<br>champ du fond de l'univers = [latex]$3.10^{-6}V.m^{-1}$[/latex]<br>champ subi par un électron d'hydrogène [latex]$6.10^{11}V.m^{-1}$[/latex]"
+                "champ intense (étincelles) =&nbsp;\\(10^6 V.m^{-1}\\)<br>champ du fond de l'univers =&nbsp;\\(3.10^{-6}V.m^{-1}\\)<br>champ subi par un électron d'hydrogène&nbsp;\\(6.10^{11}V.m^{-1}\\)"
             ],
             "guid": "v1HHFH1zN(",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -191,7 +176,7 @@
             "__type__": "Note",
             "fields": [
                 "champ magnétique",
-                "unité = Telsa ([latex]$1T = 1kg.s^{-2}.A^{-1}$[/latex]<br>champ magnétique terrestre = [latex]$5.10^{-5}T$[/latex]<br>.... spectroscope rayonnement magnétique nucléaire = [latex]$30T$[/latex]<br>.... aimants usuels = [latex]$0.1T$[/latex]"
+                "unité = Telsa (\\(1T = 1kg.s^{-2}.A^{-1}\\)<br>champ magnétique terrestre =&nbsp;\\(5.10^{-5}T\\)<br>.... spectroscope rayonnement magnétique nucléaire =&nbsp;\\(30T\\)<br>.... aimants usuels =&nbsp;\\(0.1T\\)"
             ],
             "guid": "Q,ir:<<.QF",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -201,7 +186,7 @@
             "__type__": "Note",
             "fields": [
                 "masse d'un proton",
-                "[latex]$m_p = 1,7.10^{-27}kg$[/latex]"
+                "\\(m_p = 1,7.10^{-27}kg\\)"
             ],
             "guid": "Nn^1>e7^;[",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -211,7 +196,7 @@
             "__type__": "Note",
             "fields": [
                 "masse d'un électron",
-                "[latex]$m_e=9,1.10^{-31}kg$[/latex]"
+                "\\(m_e=9,1.10^{-31}kg\\)"
             ],
             "guid": "w^0_XdP&{c",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -221,7 +206,7 @@
             "__type__": "Note",
             "fields": [
                 "charge élémentaire",
-                "[latex]$e=1,6.10^{-19}C$[/latex]"
+                "\\(e=1,6.10^{-19}C\\)"
             ],
             "guid": "D3)rQ+*kQC",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -231,7 +216,7 @@
             "__type__": "Note",
             "fields": [
                 "Constante d'avogadro",
-                "[latex]$N_a = 6,02.10^{23} mol^{-1}$[/latex]"
+                "\\(N_a = 6,02.10^{23} mol^{-1}\\)"
             ],
             "guid": "A[?M2kJ>FK",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -260,7 +245,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[latex]$\\rho_{eau}$[/latex]",
+                "\\(\\rho_{eau}\\)",
                 "\\(1.10^3kg.m^{-3}\\)"
             ],
             "guid": "h53@a]hQ%Y",
@@ -325,7 +310,9 @@
             ],
             "guid": "p,r2#CQ#e=",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -373,7 +360,7 @@
             "__type__": "Note",
             "fields": [
                 "rayon terrestre",
-                "[latex]$R_t = 6.37.10^6 m$[/latex]"
+                "\\(R_t = 6.37.10^6 m\\)"
             ],
             "guid": "DnO8;_Qhkv",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -641,7 +628,7 @@
             "__type__": "Note",
             "fields": [
                 "formule longueur d'onde dans un milieu trans d'indice n",
-                "[latex]$\\lambda' = \\frac{\\lambda}{n}$[/latex]"
+                "\\(\\lambda' = \\frac{\\lambda}{n}\\)"
             ],
             "guid": "sh?=s1r8.i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -665,7 +652,7 @@
             "__type__": "Note",
             "fields": [
                 "formule spectre",
-                "[latex]$\\Sigma A_icos(2\\pi f_i+\\rho_i)$[/latex]"
+                "\\(\\Sigma A_icos(2\\pi f_i+\\rho_i)\\)"
             ],
             "guid": "Czd&>9anJy",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2499,7 +2486,7 @@
             "__type__": "Note",
             "fields": [
                 "formule onde progressive sinusoïdale",
-                "\\[s(x,t) = A_0\\cos(\\omega t - kx + \\phi_0) \\text{ avec } k =\\frac{\\omega}{c} \\text{ où k est le vecteur d'onde en pulsation spatiale en } m^{-1} A_0 \\text{ l'amplitude de l'onde } \\phi_0 \\text{ la phase initiale à l'origine }\\]<br>"
+                "\\[\\displaylines{s(x,t) = A_0\\cos(\\omega t - kx + \\phi_0) \\\\\n\\text{ avec } k =\\frac{\\omega}{c} \\text{ où k est le vecteur d'onde en pulsation spatiale en } m^{-1}\\\\ \nA_0 \\text{ l'amplitude de l'onde } \\\\\n\\phi_0 \\text{ la phase initiale à l'origine }}\\]<br>"
             ],
             "guid": "o`x>lc&4>D",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2529,6 +2516,234 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valeur maximale et minimale amplitude",
+                "\\[A_{max} = A_1 + A_2\\]\\[A_{min} = |A_1 - A_2|\\]<br>"
+            ],
+            "guid": "pDb;]?li:G",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "expression déphasage",
+                "\\(\\Delta \\phi = \\phi_2 - \\phi_1 = 2\\pi\\frac{d_1 - d_2}{\\lambda}\\)"
+            ],
+            "guid": "l)oOcVQ>]B",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "somme amplitudes signaux sinusoïdaux de même fréquence",
+                "\\[A = \\sqrt{A_1^2 + A_2^2 + 2A_1A_2\\cos(\\phi_2 - \\phi_1)}\\]<br>"
+            ],
+            "guid": "K_54N7zUVS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "interférences",
+                "<ul><li>constructive:&nbsp;\\(\\frac{d_1-d_2}{\\lambda} \\in \\mathbb{Z}\\)</li><li>destructive:&nbsp;\\(\\frac{d_1 - d_2}{\\lambda} = k + \\frac{1}{2}, k\\in\\mathbb{Z}\\)</li></ul>"
+            ],
+            "guid": "ydA#4C]Iwz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "différence de marche",
+                "\\[\\delta = d_2 - d_1\\]<br>"
+            ],
+            "guid": "<IK#qLd42",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "différence de chemin",
+                "\\[\\delta(M) = n(SS_2+S_2M) - n(SS_1 + S_1M)\\]<br>"
+            ],
+            "guid": "oU6+O2|+hN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "figure d'interférence trous d'Young",
+                "franges rectilignes, perpendiculaire à&nbsp;\\(S_1S_2\\)&nbsp;et espacés de l'interfrange:<br><br>\\[i = \\frac{\\lambda D}{a}\\]<br>"
+            ],
+            "guid": "xr-OAN66>k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe de Huygens",
+                "chaque point d'un front d'onde primaire peut être considéré comme la source secondaire d'une onde de même fréquence que la primaire.<br><br>le front d'onde résulte de la somme des ondes sphériques issues de ces sources"
+            ],
+            "guid": "nIM3Qz8Y~Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diffraction par un obstacle",
+                "ouverture angulaire de l'onde en sortant:<br><br>\\[\\sin\\theta \\sim \\frac{\\lambda}{a}\\]<br>avec a la largeur de l'obstacle"
+            ],
+            "guid": "s79)-IRM9d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "référentiel",
+                "défini par le point O et la base R<br><br>en mécanique classique le temps s'écoule de la même façon dans tous les référentiels"
+            ],
+            "guid": "qG7&(Z`+FW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "point matériel",
+                "solide dont on peut négligler l'extension spatiale et la rotation sur lui-même"
+            ],
+            "guid": "B#gp3}gIZp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "trajectoire",
+                "lieu des positions successivement parcourues par M au cours du temps"
+            ],
+            "guid": "MUCeACuiT#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cordonnées polaire",
+                "\\[M(r, \\theta)\\]avec les vecteurs unitaires&nbsp;\\(\\vec{u_\\theta} \\text{ et } \\vec{u_r}\\)<br>"
+            ],
+            "guid": "my8I9%m4F5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "répérage cylindrique",
+                "\\[M(r, \\theta, z)\\]<br>"
+            ],
+            "guid": "ln?Qu^hN8z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "repérage sphérique",
+                "\\[M(r,\\theta, \\phi)\\]&nbsp;avec&nbsp;\\(\\theta \\in [0;\\pi] \\text{ et  }\\phi\\in[0;2\\pi[\\)<br>"
+            ],
+            "guid": "C&FzdA*MM-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur déplacement élementaire",
+                "\\[d\\vec{l} = d\\overrightarrow{OM} = \\overrightarrow{M(t)M(t+dt)}\\]<br>"
+            ],
+            "guid": "D/m_9w4E9r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur vitesse",
+                "\\[\\displaylines{&lt;\\vec{v}&gt; = \\frac{\\Delta\\overrightarrow{OM}}{\\Delta t} \\\\\n\\vec{v}(t) = \\frac{d\\overrightarrow{OM}}{dt}}\\]<br>"
+            ],
+            "guid": "iN%)U;CA<;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur accélération",
+                "\\[\\displaylines{&lt;\\vec{a}&gt; = \\frac{\\vec{v}(t)}{\\Delta t} \\\\\n\\vec{a}(t) = \\frac{d\\vec{v}}{dt} = \\frac{d^2\\vec{OM}}{dt^2}\n\n}\\]<br>"
+            ],
+            "guid": "mkDl;5{Bft",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "attention: sens&nbsp;\\(\\vec{u_\\theta}\\)",
+                "\\(\\vec{u_\\theta}\\)&nbsp;toujours dans le sens où&nbsp;\\(\\theta\\)&nbsp;est positif"
+            ],
+            "guid": "vG(zf>(,0s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "description::et::paramétrage::du::mouvement::d'un::point"
             ]
         }
     ],

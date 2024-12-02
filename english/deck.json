@@ -2705,6 +2705,236 @@
                             "guid": "vXhAGnihrF",
                             "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Magazines de luxe (pluriel)",
+                                "Glossies"
+                            ],
+                            "guid": "q^;UAco[5#",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Magazines de luxe (pluriel)",
+                                "Glossies"
+                            ],
+                            "guid": "FBZd+;a8@e",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Faire payer pour accéder au contenu",
+                                "Charge for content"
+                            ],
+                            "guid": "kp-?TmkSae",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Question d’actualité",
+                                "Topical issue"
+                            ],
+                            "guid": "tX$UNN`7w-",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ces information sont vraies",
+                                "This information is true"
+                            ],
+                            "guid": "t^LG-.Y`fv",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Cheque book journalism",
+                                "Paying for exclusive rights to a news story"
+                            ],
+                            "guid": "jI7gHsx~I9",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "To review",
+                                "Faire la critique"
+                            ],
+                            "guid": "i(;)gcHk^N",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Gotcha journalism",
+                                "<span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: geomanist, Arial, Helvetica, sans-serif; font-size: 11px; -webkit-text-size-adjust: 100%;\">journalism that deliberately focuses on public figures in embarrassing or scandalous situations</span>"
+                            ],
+                            "guid": "M@[#37SCOf",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Encadré",
+                                "Box"
+                            ],
+                            "guid": "tMqqG}k$`C",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Expand",
+                                "Développer&nbsp;"
+                            ],
+                            "guid": "e<tk4m<uL;",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Phénomènes&nbsp;",
+                                "Phenomena"
+                            ],
+                            "guid": "PVBogBL|,A",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Micro-trottoir",
+                                "Vox pop"
+                            ],
+                            "guid": "Bt2yV?9ob`",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Info spectacle&nbsp;",
+                                "Infotainment"
+                            ],
+                            "guid": "j:$E{8/J&e",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Falsifier",
+                                "Tamper"
+                            ],
+                            "guid": "Q;c#_Rw53;",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "To bear upon",
+                                "Avoir trait à"
+                            ],
+                            "guid": "c2-SLI1Ja^",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Chroniqueur",
+                                "Columnist"
+                            ],
+                            "guid": "E_9m=:88Xb",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Rédacteur en chef",
+                                "Editor"
+                            ],
+                            "guid": "Bfp06i;Y5Y",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Pas de nouvelles, bonnes nouvelles",
+                                "No news is good news"
+                            ],
+                            "guid": "ml}D%_6^I2",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Digne de confiance",
+                                "Trustworthy"
+                            ],
+                            "guid": "lr$3y+z*$2",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "C’est une excellente nouvelle",
+                                "This is excellent news"
+                            ],
+                            "guid": "zr7$kfroLS",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Exact, precis",
+                                "Accurate"
+                            ],
+                            "guid": "LQe]x&y7h9",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Presse de caniveau",
+                                "Gutter press"
+                            ],
+                            "guid": "xw/wi%#a]^",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<span style=\"background-color: rgb(52, 69, 127); color: rgb(255, 255, 255); font-family: &quot;Google Sans&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif; font-size: 14px; -webkit-tap-highlight-color: rgba(255, 255, 255, 0); -webkit-text-size-adjust: 100%;\">a means whereby the inhabitants of a jungle or bush rapidly spread news from person to person</span>",
+                                "Bush telegraph"
+                            ],
+                            "guid": "]Mb*aPe_1",
+                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
                         }
                     ],
                     "reviewLimit": null,
@@ -7176,6 +7406,326 @@
                 "covet"
             ],
             "guid": "O/|!*H0NZ2",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ominous",
+                "inquiétant"
+            ],
+            "guid": "s=&}*F3Ir3",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "foreboding",
+                "pressentiment"
+            ],
+            "guid": "Jy}<EB1Ci7",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bummer",
+                "déception"
+            ],
+            "guid": "DilWu1bzyJ",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "leniency",
+                "indulgence"
+            ],
+            "guid": "Aj;/<:HziH",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "auspicious",
+                "de bon augure"
+            ],
+            "guid": "Cq8DX)vo{~",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prognosis",
+                "prognostic"
+            ],
+            "guid": "KX-:E&KIV~",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "despise",
+                "mépriser"
+            ],
+            "guid": "bXNJ$_d7;w",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wither",
+                "flétrir"
+            ],
+            "guid": "pud,_~)5xc",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "complacent",
+                "complaisant"
+            ],
+            "guid": "L(Y}P&uG5r",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "whim",
+                "caprice"
+            ],
+            "guid": "C`t3>qYskR",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impotent",
+                "impuissant"
+            ],
+            "guid": "hZYFzJ9,3B",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "slaughtered",
+                "abattu"
+            ],
+            "guid": "v,)]8b+OeV",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "haggle",
+                "marchander"
+            ],
+            "guid": "l]+_3E>mu6",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forsake",
+                "abandonner"
+            ],
+            "guid": "r}EwU`0wLe",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Magazines de luxe (pluriel)",
+                "Glossies"
+            ],
+            "guid": "b2>y.wkd8S",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pernicieux",
+                "Pernicious, malign"
+            ],
+            "guid": "LQ,)MW+Zw{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fib",
+                "mentir"
+            ],
+            "guid": "Jfptn.`@5C",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "flu",
+                "grippe"
+            ],
+            "guid": "by{o}(Mo>4",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wage",
+                "mener"
+            ],
+            "guid": "gd,f#/Yvq$",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mensonges",
+                "falsehoods"
+            ],
+            "guid": "db8WAO^`[h",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "balancer",
+                "sway"
+            ],
+            "guid": "J3TUv-]PCA",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sway (nom)",
+                "emprise"
+            ],
+            "guid": "FvX^8=dD,T",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prone",
+                "prédisposé"
+            ],
+            "guid": "Ju5lKoK:Z*",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cacophonique",
+                "cacophonous"
+            ],
+            "guid": "nIZ+4lRKEx",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "faiblesses",
+                "foibles"
+            ],
+            "guid": "cp}bBd_OgI",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dernier cri",
+                "newfangled"
+            ],
+            "guid": "Gd2-c$C0P}",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "camions (UK)",
+                "lorries"
+            ],
+            "guid": "w`]5!Dg|X#",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le strict nécessaire",
+                "bare necessities"
+            ],
+            "guid": "dRDK$X{/lJ",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "remuer",
+                "fidget"
+            ],
+            "guid": "Q%:SBLp]kK",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bleach",
+                "eau de javel"
+            ],
+            "guid": "y,Jx<Me)/p",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "injustifié",
+                "unwarranted"
+            ],
+            "guid": "d6aHsruZO-",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jeopardize",
+                "compromettre"
+            ],
+            "guid": "Ok0Sw9z#wD",
             "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
             "tags": []
         }

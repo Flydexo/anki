@@ -1042,7 +1042,7 @@
             "__type__": "Note",
             "fields": [
                 "formule de Bernouilli si n+1 est impair",
-                "\\[a^{n+1} - b^{n+1} = a^{n+1} - (-b)^{n+1} = (a+b)\\sum_{k=0}^{n}{(-1)^ka^{n-k}b^k}\\]"
+                "\\[a^{n+1} + b^{n+1} = a^{n+1} - (-b)^{n+1} = (a+b)\\sum_{k=0}^{n}{(-1)^ka^{n-k}b^k}\\]"
             ],
             "guid": "RbVlL(.rPL",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -2147,7 +2147,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "bijection entre E et F",
+                "bijection entre E et F (conclusion sur le cardinal)",
                 "|E| = |F|"
             ],
             "guid": "vo`!6tuCCL",
@@ -2854,7 +2854,7 @@
             "__type__": "Note",
             "fields": [
                 "formule de Stirling",
-                "\\[n! \\sim \\sqrt{2\\pi n}e^{-n}n^{n} \\]<br>"
+                "\\[n! \\sim \\sqrt{2\\pi n}\\left(\\frac{n}{e}\\right)^n \\]<br>"
             ],
             "guid": "i3eg*&B/wo",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -3485,7 +3485,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "converge, diverge 1, digerve 2",
+                "converge, diverge 1, diverge 2",
                 "converge limite finie<br>diverge&nbsp;\\(+/-\\infty\\)&nbsp;(diverge 1ere espèce)<br>n'admet pas de limite, (diverge 2nd espèce)"
             ],
             "guid": "BQB&B30(CP",
@@ -3972,6 +3972,438 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "limite::d'une::suite"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "converge de fonction avec voisinage",
+                "\\(\\forall W_l \\in V_l, \\exists W_a \\in V_a, f(D\\cap V_a) \\subset W_l\\)"
+            ],
+            "guid": "Ll%CSlc<kD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::fonction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limite et bornée",
+                "si f admet une limite en a&nbsp; alors f est bornée au voisinage de a"
+            ],
+            "guid": "M9C?a1qzz,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::fonction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation séquentielle de la limite",
+                "f a l pour limite en a ssi toute suite&nbsp;\\(u_n\\)&nbsp;à valeurs dans D tendant vers a la suite&nbsp;\\(f(u_n)\\)&nbsp;tend vers l"
+            ],
+            "guid": "tg}(}W}4/L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::fonction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Équivalents de référence",
+                "\\[sin(x) \\sim_{x\\rightarrow 0} x \\]\\[1 - cos(x) \\sim_{x\\rightarrow 0} \\frac{x^2}{2}\\]\\[tan(x) \\sim_{x\\rightarrow 0}  x\\]\\[ln(1+x) \\sim_{x\\rightarrow 0} x\\]\\[e^x - 1 \\sim_{x\\rightarrow 0} x\\]\\[(1+x)^\\alpha - 1 \\sim_{x\\rightarrow 0} \\alpha x\\]<br>"
+            ],
+            "guid": "FaBRho5*Ni",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::fonction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la relation d'équivalence sur les fonctions est une relation",
+                "d'équivalence<br><br>[sound:Galaxy Brain Meme (1).mp4]"
+            ],
+            "guid": "uN1m6(^Bq,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::fonction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalence et comportement asymptotique",
+                "si deux fonctions sont équivalentes en a alors elles ont&nbsp; le même comportement asymptotique en a"
+            ],
+            "guid": "yg/A_@*t7H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "limite::d'une::fonction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f continue en a ssi",
+                "f admet une limite finie en a<br>ssi<br>\\(\\forall \\epsilon &gt; 0, \\exists \\eta &gt; 0, \\forall x\\in D, (|x - a| \\le \\eta) \\Rightarrow (|f(x) - f(a)| \\le \\epsilon)\\)"
+            ],
+            "guid": "mW2{MSlKPn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "conditions pour prolonger une fonction",
+                "définie au voisinage de a mais pas en a et admet limite finie en a"
+            ],
+            "guid": "K)<vdJ^:n1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f continue en a ssi (gauche &amp; droite)",
+                "f continue à gauche et à droite de a"
+            ],
+            "guid": "QB/7GS1`*i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "saut",
+                "\\[\\sigma(f;a) = \\lim_{a^+}{f} - \\lim_{a^-}{f}\\]<br>"
+            ],
+            "guid": "Ba#,WM#/k#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme des tunnels continuité",
+                "f continue en a et si&nbsp;\\(\\alpha &lt; f(a) &lt; \\beta \\)&nbsp;alors au voisinage de a on a&nbsp;\\(f(x) \\in ]\\alpha;\\beta[\\)"
+            ],
+            "guid": "CKa(_!^^cQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "continuité et bornée",
+                "si f continue en a alors bornée au voisinage de a"
+            ],
+            "guid": "z2$z|]U3FQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation séquentielle continuité",
+                "f continue en a ssi pour toute suite&nbsp;\\(u_n\\)&nbsp;d'éléments de D convergeant vers a, on a&nbsp;\\(\\lim_{n\\rightarrow +\\infty}{f(u_n)} = f(a)\\)"
+            ],
+            "guid": "wXjG[QHfvO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "continuité et densité",
+                "si deux fonctions continues coincident sur une partie D dense dans I alors elles sont égales sur I tout entier"
+            ],
+            "guid": "ktE_I1mSWm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème des valeurs intermédiaires",
+                "fonction continue sur un intervalle I, avec&nbsp;\\(a, b \\in I\\)&nbsp;tels que&nbsp;\\(a &lt; b\\). Alors:<br>\\(\\forall k \\in [f(a);f(b)], \\exists c \\in [a;b], f(c) = k \\),&nbsp;"
+            ],
+            "guid": "AZ#%Hma(SL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété de l'injection continue",
+                "f une fonction continue sur I, f est strictement monotone ssi f est injective de I dans R"
+            ],
+            "guid": "HnE)!~C4l8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "TVI: topologie",
+                "l'image continue d'un intervalle est un intervalle"
+            ],
+            "guid": "AI<FGrr<*Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de la bijection continue",
+                "<div>f une fonction continue et strictement monotone sur I</div><ol><li>f réalise une bijection entre I et l'intervalle f(I)</li><li>\\(f^{-1}\\)&nbsp;est strictement monotone sur f(I) de même stricte monotonie que f<br></li><li>\\(f^{-1}\\)&nbsp;est continue sur f(I)<br></li><li>si f est impaire sur I, alors&nbsp;\\(f^{-1}\\)&nbsp;est impaire sur f(I)</li></ol>"
+            ],
+            "guid": "HmH<OXP;TH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème des bornes atteintes",
+                "l'image continue d'un compact est un compact"
+            ],
+            "guid": "zr@WdU`Bi#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire théorème bornes atteintes (segment)",
+                "l'image continue d'un segment est un segment"
+            ],
+            "guid": "uq*KD^FQ)W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème des bornes atteintes (bornée)",
+                "K un compact<br>si f continue sur K alors f est bornée sur K et atteint ses bornes (donc existe antécédents qui atteignent la borne sup/inf)"
+            ],
+            "guid": "jJA#E}[wpg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "continuité uniforme",
+                "\\[\\forall \\epsilon &gt; 0, \\exists \\eta &gt; 0, \\forall x,y \\in D, (|x-y| \\le \\eta) \\Rightarrow (|f(x) - f(y)| \\le \\epsilon)\\]<br>"
+            ],
+            "guid": "m;R}LH[5Uk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de Heine",
+                "si f est continue sur K un compact alors elle est uniformément continue sur K"
+            ],
+            "guid": "hr9y9L#R.P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caractérisation séquentielle de la continuité uniforme",
+                "\\[\\left(\\lim_{n\\rightarrow +\\infty}{u_n - v_n} = 0\\right) \\Rightarrow \\left(\\lim_{n\\rightarrow +\\infty}{f(u_n) - f(v_n) = 0}\\right)\\]<br>"
+            ],
+            "guid": "yU8=(QYTOa",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction lipschitzienne",
+                "lorsqu'il existe&nbsp;\\(k \\in \\mathbb{R}^+\\)&nbsp;tel que:<br>\\[\\forall x,y \\in D, |f(x) - f(y)| \\le k|x-y|\\]<br>"
+            ],
+            "guid": "euY{i0r@>S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lipschitzienne",
+                "toute fonction lipschitzienne est uniformément continue"
+            ],
+            "guid": "nHH5+OI_EH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "continuité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivable en a",
+                "lorsque&nbsp;\\(\\tau_a: x\\rightarrow\\frac{f(x) - f(a)}{x-a}\\)&nbsp;admet une limite en a<br><br>ramené à 0:<br>\\[f'(a) = \\lim_{h\\rightarrow 0}{\\frac{f(a+h) - f(a)}{h}}\\]<br>"
+            ],
+            "guid": "LRm{x-Ez-/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de la tangente",
+                "\\[y = f'(a)(x-a) + f(a)\\]<br>"
+            ],
+            "guid": "QcG9$bc7{)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "point anguleux",
+                "\\(A(a, f(a))\\)&nbsp;lorsque&nbsp;\\(f'(a^+) \\ne f'(a^-)\\)"
+            ],
+            "guid": "CxXKlmU[c`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition f dérivable en a",
+                "avec&nbsp;\\(a \\in Int(D)\\)&nbsp;f dérivable en a ssi&nbsp;\\(f'(a^+) = f'(a^-)\\)"
+            ],
+            "guid": "G8:k|9jgk7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition: approximation affine",
+                "f dérivable en a, alors admet DL d'ordre 1 (\\(DL_1(a)\\))<br>\\[f(x) =_{x\\rightarrow a} f(a) + f'(a)(x-a)+o(x-a)\\]<br>"
+            ],
+            "guid": "iF8.b&$8Vk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition: DL ordre 1",
+                "si il existe&nbsp;\\(c_0, c_1 \\in \\mathbb{R}\\)&nbsp;tel que:<br><br>\\(f(x) = c_0+c_1(x-a)+o_a(x-a)\\)&nbsp;alors&nbsp;\\(f(a) = c_0\\)&nbsp;et&nbsp;\\(f'(a) = c_1\\)"
+            ],
+            "guid": "z1>%l[z$AY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème derivabilité et continuité",
+                "si f est dérivable sur D alors f est continue sur D"
+            ],
+            "guid": "/Ht81|;c6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "classe 1",
+                "\\(f \\in C^1\\)&nbsp;lorsque f est dérivable sur D est&nbsp;\\(f'\\)&nbsp;est continue sur D"
+            ],
+            "guid": "b~he%DJ3N%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivation logarithmique",
+                "\\[f^* = \\frac{f'}{f}\\]\\[(uv)^* = u^* + v^*\\]\\[\\left(\\frac{u}{v}\\right)^* = u^* - v^*\\]\\[(u^\\alpha)^* = \\alpha u^*\\]"
+            ],
+            "guid": "E66MRO{T2<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème: dérivée fonction réciproque",
+                "si le graphe f n'admet pas de tangente horizontalle alors on a:<br>\\[(f^{-1})' = \\frac{1}{f'\\cdot f^{-1}}\\]f est un&nbsp;<b>difféomorphisme</b>&nbsp;entre I et f(I)<br>"
+            ],
+            "guid": "AaNSZ/^e-w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
             ]
         }
     ],
