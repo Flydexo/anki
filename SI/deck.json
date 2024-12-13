@@ -12,7 +12,15 @@
             "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
             "desiredRetention": 0.9,
             "dyn": false,
-            "easyDaysPercentages": [],
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
             "fsrsParams5": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
@@ -73,7 +81,7 @@
     "extendRev": 0,
     "media_files": [],
     "name": "SI",
-    "newLimit": null,
+    "newLimit": 60,
     "newLimitToday": null,
     "note_models": [
         {
@@ -708,16 +716,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "forme de l'équation différentielle",
-                "dipôle actif (fournit de l'énergie)<br><br>\\[R_s = \\frac{U_s}{I_s}[/$$]"
-            ],
-            "guid": "JWKVdv~N33",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "réponse temporelle à une entrée échelon (réponse indicielle)",
                 "\\[s(t) = Ke_0[1 - e^{-\\frac{t}{\\tau}}]u(t)\\]"
             ],
@@ -968,6 +966,246 @@
                 "Classe = 0 1 2<div>Dirac = 0 0 0</div><div>Echelon = \\(\\frac{e_0}{1+K_{BO}}\\) 0 0</div><div>Rampe = infini a/K_BO 0</div>"
             ],
             "guid": "IR,3@5S4Cu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire dans base orthonormée",
+                "\\[\\vec{u}\\cdot\\vec{v} = u_xv_x + u_yv_y + u_zv_z\\]<br>"
+            ],
+            "guid": "ddL1<46urK",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit vectoriel",
+                "\\[\\vec{w} = \\vec{u} \\wedge \\vec{v}\\]norme :&nbsp;\\[w = u \\times v \\times \\sin(\\vec{u},\\vec{v})\\]direction: orthogonale à u et v<br>sens: tel que la base u, v, w soit directe"
+            ],
+            "guid": "d^@!%Jwk=g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés produit vectoriel",
+                "<ul><li>anticommutatif</li><li>distributif</li><li>nul si colinéaires ou facteurs nul</li></ul>"
+            ],
+            "guid": "yTi;21}%+c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit mixte nul",
+                "si deux vecteurs sont colinéaires où les trois sont coplanaires"
+            ],
+            "guid": "t^ptq>^x;Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "degrés de liberté d'un solide",
+                "6: 3 translations, 3 rotations"
+            ],
+            "guid": "vKUJ+6A7^F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de dérivation vectorielle",
+                "\\[\\frac{d\\vec{u(t)}}{dt}\\mid_{R_0} = \\frac{d\\vec{u(t)}}{dt}\\mid_{R_1} + \\vec{\\Omega}_{R_1/R_0} \\wedge \\vec{u}(t)\\]<br>"
+            ],
+            "guid": "r!pPR/{k@B",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés vecteur taux de rotation",
+                "<ul><li>antisymétrie, OR1/R2 = - OR2/R1</li><li>composition (Chasles)</li><li>autre nom: vitesse angulaire</li></ul>"
+            ],
+            "guid": "i{Y,{z*kc:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "point lié à solide ssi",
+                "coordonnées dans le repère du solide constantes autour du temps"
+            ],
+            "guid": "AKS8Q8b{$?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formule de Varignon",
+                "\\[\\vec{V_{B\\in S/R_0}} = \\vec{V_{A\\in S/R_0}} + \\overrightarrow{BA} \\wedge \\vec{\\Omega_{S/R_0}}\\]"
+            ],
+            "guid": "roI{+.FFw0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés vecteurs vitesses",
+                "<ul><li>composition: chasles pour les référentiels</li><li>antisymétrie</li></ul>"
+            ],
+            "guid": "q+Y!kg!!p!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "algorigramme calcul d'un vecteurs vitesse",
+                "<ol><li>si mouvement composé: écrire la composition du vecteur vitesse et aller (1)</li><li>si mouvement rotation: varignon</li><li>sinon dérivation vectorielle</li></ol>"
+            ],
+            "guid": "P+pdl4UKrQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "types de translation",
+                "<ol><li>rectiligne</li><li>circulaire</li><li>curviligne</li></ol>"
+            ],
+            "guid": "wKPhpl3;CD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés mouvement de translation",
+                "vecteurs vitesses égaux en tout points du solide et vecteur taux de rotation nul, torseur couple, liaison glissière"
+            ],
+            "guid": "GKZsT*+&l0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rotation atour d'un axe fixe",
+                "vecteur taux de rotation:&nbsp;\\(\\theta'\\vec{z_0}\\)&nbsp;avec z le vecteur directeur de l'axe de rotation<br>vitesse d'un point&nbsp;\\(\\vec{OM} = z\\cdot\\vec{z_0} + R_M\\cdot\\vec{u_r}\\)&nbsp;\\(\\vec{V} = R_M\\theta'\\cdot\\vec{u_\\theta}\\)<br>vitesse perpendiculaire à la direction (OM) et proportionelle à&nbsp;\\(R_M\\)<br>torseur associé: glisseur<br>liaison: pivot"
+            ],
+            "guid": "c1~|lU0x@3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "liaisons",
+                "<ol><li>encastrement</li><li>libre</li><li>glissière</li><li>pivot</li><li>hélicoïdale (1 ddl)</li><li>pivot glissant (2 ddl)</li><li>sphérique (3 ddl)</li><li>appui plan (3 ddl): surface reste collé à un plan 1 rotation, 2 translations</li><li>sphère cylindre (4 ddl): 3 rotations, 1 translation</li><li>sphère plan (5 ddl): 3 rotations, 2 translations</li><li>sphérique à doigt (2 ddl): 2 rotations</li><li>cylindre plan (4 ddl): 2 rotations, 2 translations</li></ol>"
+            ],
+            "guid": "el%T#D}F`y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lieu de réciprocité",
+                "l'ensemble des points de l'espace où le torseur s'écrit avec le nombre maximal de zéros"
+            ],
+            "guid": "Gv>P@2IqSP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "classe d'équivalence",
+                "solide ou ensemble de solides qui n'ont aucun mouvement relatif"
+            ],
+            "guid": "p6.x^b/+%K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "graphe de liaison",
+                "<ul><li>chaque classe d'équivalence est représentée par un cercle</li><li>chaque liaison est indiquée par une arrête</li></ul>"
+            ],
+            "guid": "f!`<GvNOx?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cas classiques de graphe de liaisons",
+                "<ul><li>chaîne ouverte: le graphe ne se ferme pas</li><li>chaîne fermée: le graphe se ferme</li><li>chaîne complexe: le graphe a plusieurs chaînes fermées</li></ul>"
+            ],
+            "guid": "zJOv,I?o6g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mouvement plan",
+                "si il existe plan lié à S2 et plan lié à S1 tels qu'au cours du&nbsp;mouvement ils coïncident encore<br><br>conséquences: que 3 paramètres nécessaires: 2 translations dans le plan, 1 rotation perpendiculaire au plan"
+            ],
+            "guid": "D^qoO7jD[R",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "liaisons planes",
+                "<ul><li>glissière</li><li>pivot</li><li>sphère plan</li></ul>"
+            ],
+            "guid": "b{J]b&SzQR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi entrée-sortie géométrique",
+                "dans un système fermé modèle mathématique qui relie sortie à l'entrée uniquement avec des variables internes au mécanisme<br><br>\\[s(t) = f(e(t))\\]<br>"
+            ],
+            "guid": "my7SVj.Sam",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fermeture géométrique angulaire",
+                "relation de chales sur les angles<br><br>\\[(\\vec{x_0};\\vec{x_0}) = \\vec{0} = (\\vec{x_0};\\vec{x_1}) + (\\vec{x_1};\\vec{x_2}) + (\\vec{x_2};\\vec{x_0})\\]<br>"
+            ],
+            "guid": "smX%8W}/bx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fermeture géométrique linéaire",
+                "chales sur les points du solide"
+            ],
+            "guid": "jy<~bjZ@0[",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": []
         }

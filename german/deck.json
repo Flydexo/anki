@@ -12,7 +12,15 @@
             "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
             "desiredRetention": 0.9,
             "dyn": false,
-            "easyDaysPercentages": [],
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
             "fsrsParams5": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
@@ -139,6 +147,92 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 419768414378574376,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -294937052255854245,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6945501691590426660,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8889252634617701693,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0
@@ -1009,6 +1103,2196 @@
             ],
             "guid": "Dx|X!RO0bT",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "brennen (prétérit, parfait, traduction)&nbsp;",
+                "<ul><li>brannte</li><li>hat gebrannt</li><li>brûler</li></ul>"
+            ],
+            "guid": "Pb,R=a};;#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bringen (prétérit, parfait, trad)",
+                "<ul><li>brachte</li><li>hat gebracht</li><li>apporter</li></ul>"
+            ],
+            "guid": "xs&7hsqcB%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "denken (prétérit, parfait, trad)",
+                "<ul><li>dachte</li><li>hat dedacht</li><li>penser</li></ul>"
+            ],
+            "guid": "OLuOzPZ>BL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "kennen (prétérit, parfait, trad)",
+                "<ul><li>kannte</li><li>hat gekannt</li><li>connaître</li></ul>"
+            ],
+            "guid": "Uqy+1FkBw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nennen (prétérit, parfait, trad)",
+                "<ul><li>nannte</li><li>hat gennant</li><li>nommer</li></ul>"
+            ],
+            "guid": "oK9x:+3Rv9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rennen (prétérit, parfait, trad)",
+                "<ul><li>rannte</li><li>is gerannt</li><li>courir</li></ul>"
+            ],
+            "guid": "JOvHtxw`jr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "senden (prétérit, parfait, trad)",
+                "<ul><li>sandte</li><li>has gesandt</li><li>envoyer</li></ul>"
+            ],
+            "guid": "d:9min>Zg_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wenden (prétérit, parfait, trad)",
+                "<ul><li>wandte</li><li>hat gewandt</li><li>tourner</li></ul>"
+            ],
+            "guid": "i2&&X[m0B.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "die Wende",
+                "le tournant"
+            ],
+            "guid": "NYb$Sf;#SG",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "beginnen (pr, pa, pre, trad)",
+                "<ul><li>begann</li><li>hat begonnen</li><li>er beginnt</li><li>commencer</li></ul>"
+            ],
+            "guid": "E|lg*L0-V2",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fliegen (pr, pa, pre, trad)",
+                "<ul><li>flog</li><li>ist geflogen</li><li>er fliegt</li><li>voler (dans l'air)</li></ul>"
+            ],
+            "guid": "J1TO;;k220",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "geben (pr, pa, pre, trad)",
+                "<ul><li>gab</li><li>hat gegeben</li><li>er gibt</li><li>donner</li></ul>"
+            ],
+            "guid": "EtHW>yEQ?H",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gehen (pr, pa, pre, trad)",
+                "<ul><li>ging</li><li>ist gegangen</li><li>er geht</li><li>aller (à pied)</li></ul>"
+            ],
+            "guid": "PyV{rdW!l#",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gefallen (pr, pa, pre, trad)",
+                "<ul><li>gefiel</li><li>hat gefallen</li><li>er gefällt</li><li>plaire</li></ul>"
+            ],
+            "guid": "eKC>==R{YF",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gelingen (pr, pa, pre, trad)",
+                "<ul><li>gelang</li><li>ist gelungen</li><li>es gelingt (mir)</li><li>réussir (qqch me réussit)</li></ul>"
+            ],
+            "guid": "llH+vII/Zv",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "geschehen (pr, pa, pre, trad)",
+                "<ul><li>geschah</li><li>ist geschehen</li><li>es geschiet</li><li>se passer (il arrive que ...)</li></ul>"
+            ],
+            "guid": "P_?(cF#f/D",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gewinnen (pr, pa, pre, trad)",
+                "<ul><li>gewann</li><li>hat gewonnen</li><li>er gewinnt</li><li>gagner</li></ul>"
+            ],
+            "guid": "sXQ>1;P>si",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gleichen (pr, pa, pre, trad)",
+                "<ul><li>glich</li><li>hat geglichen</li><li>er gleicht</li><li>ressembler</li></ul>"
+            ],
+            "guid": "CyH4Cq_``x",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "halten (pr, pa, pre, trad)",
+                "<ul><li>hielt</li><li>hat gehalten</li><li>er hält</li><li>tenir, s'arrêter (voiture)</li></ul>"
+            ],
+            "guid": "z*&DjdgFtw",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hängen (pr, pa, pre, trad)",
+                "<ul><li>hing</li><li>hat gehangen</li><li>er hängt</li><li>être suspendu</li></ul>"
+            ],
+            "guid": "rH!z^{sAnT",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bitten (pr, pa, pre, trad)",
+                "<ul><li>bat</li><li>hat gebeten</li><li>er bittet</li><li>demander, prier</li></ul>"
+            ],
+            "guid": "pC<cS,_)zu",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "blasen (pr, pa, pre, trad)",
+                "<ul><li>blies</li><li>hat geblasen</li><li>er bläst</li><li>souffler</li></ul>"
+            ],
+            "guid": "yxw,/ld!E9",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bleiben (pr, pa, pre, trad)",
+                "<ul><li>blieb</li><li>ist geblieben</li><li>er bleibt</li><li>rester</li></ul>"
+            ],
+            "guid": "PLYP8DsMvF",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "brechen (pr, pa, pre, trad)",
+                "<ul><li>brach</li><li>hat gebrochen</li><li>er bricht</li><li>briser, casser</li></ul>"
+            ],
+            "guid": "AB}1Ld%m/I",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "essen (pr, pa, pre, trad)",
+                "<ul><li>ass</li><li>hat gegessen</li><li>du isst / er isst</li><li>manger</li></ul>"
+            ],
+            "guid": "PWzzo%^I?t",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fahren (pr, pa, pre, trad)",
+                "<ul><li>fuhr</li><li>ist gefahren</li><li>er fährt</li><li>rouler, aller (en véhicule)</li></ul>"
+            ],
+            "guid": "x/b]WQNuiF",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fallen (pr, pa, pre, trad)",
+                "<ul><li>fiel</li><li>ist gefallen</li><li>er fällt</li><li>tomber</li></ul>"
+            ],
+            "guid": "DpL#:wRaR9",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fangen (pr, pa, pre, trad)",
+                "<ul><li>fing</li><li>hat gefangen</li><li>er fängt</li><li>attraper, capturer</li></ul>"
+            ],
+            "guid": "u={SWpij;K",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "finden (pr, pa, pre, trad)",
+                "<ul><li>fand</li><li>hat gefunden</li><li>er findet</li><li>trouver</li></ul>"
+            ],
+            "guid": "jd)69?LCFU",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cas après fragen",
+                "accusatif"
+            ],
+            "guid": "tNJtJx$~+|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cas après helfen",
+                "datif"
+            ],
+            "guid": "z(bLaE$LBP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cas après folgen",
+                "datif"
+            ],
+            "guid": "leBPCv&W2j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "folgen",
+                "suivre"
+            ],
+            "guid": "m;Q;:yw/{D",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cas après danken",
+                "datif"
+            ],
+            "guid": "vD^aH{>/)s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cas après gratulieren",
+                "datif"
+            ],
+            "guid": "gNMB.!t!R8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gratulieren",
+                "féliciter"
+            ],
+            "guid": "EIA55:U2Hj",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ce ... ci / ce ... là",
+                "dieser / jener"
+            ],
+            "guid": "H!;WI<LJ>4",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nominatif (M, F, N, P)",
+                "der<br>die<br>das<br>die"
+            ],
+            "guid": "ddC4uTa?hB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "accusatif (M, F, N, P)",
+                "den<br>die<br>das<br>die"
+            ],
+            "guid": "c-P%6<8#jM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "datif (M, F, N, P)",
+                "dem<br>der<br>dem<br>den + (e)n"
+            ],
+            "guid": "rL2Xp`4md/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "génitif (M,F,N,P)",
+                "des + e(s)<br>der<br>des + e(s)<br>der"
+            ],
+            "guid": "MQ<>DWw#/%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "decl artcl undef (ein, kein) et adj possessifs au nominatif (M, F, N, Pl kein/e)",
+                "ein<br>eine<br>ein<br>keine"
+            ],
+            "guid": "kOZaAGIfa/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "decl artcl undef (ein, kein) et adj possessifs au accusatif (M, F, N, Pl kein/e)",
+                "einen<br>eine<br>ein<br>keine"
+            ],
+            "guid": "eJDr-P2PJ:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "decl artcl undef (ein, kein) et adj possessifs au datif (M, F, N, Pl kein/e)",
+                "einem<br>einer<br>einem<br>keinen + n"
+            ],
+            "guid": "e&*YDw[IwU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "decl artcl undef (ein, kein) et adj possessifs au génitif (M, F, N, Pl kein/e)",
+                "eines + s<br>einer<br>eines + s<br>keiner"
+            ],
+            "guid": "lQujXXQ[X6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "adjectifs possessifs",
+                "mein<br>dein<br>sein/ihr/sein<br>unser<br>euer<br>ihr/Ihr"
+            ],
+            "guid": "jR]syg_$]`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pronom personnel nominatif",
+                "ich<br>du<br>er/sie/es<br>wir<br>ihr<br>sie/Sie"
+            ],
+            "guid": "E/hOCf;/O(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pronom personnel datif",
+                "mich<br>dich<br>ihn/sie/es<br>uns<br>euch<br>sie/Sie"
+            ],
+            "guid": "EcNRl:n1L)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pronom personnel génitif",
+                "mir<br>dir<br>ihm/ihr/ihm<br>uns<br>euch<br>ihnen/Ihnen"
+            ],
+            "guid": "A`djcd`eyk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pronom réfléchi nominatif",
+                "mich<br>dich<br>sich<br>uns<br>euch<br>sich"
+            ],
+            "guid": "Nh)2}w`Teg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pronom réfléchi datif",
+                "mir<br>dir<br>sich<br>uns<br>euch<br>sich"
+            ],
+            "guid": "nNegAj),E/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "durch + A",
+                "par / à travers"
+            ],
+            "guid": "oK(6O<!q}(",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "für + A",
+                "pour"
+            ],
+            "guid": "s@H^9#,S9V",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gegen + A",
+                "contre"
+            ],
+            "guid": "JG7W#+f)D1",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ohne + A",
+                "sans"
+            ],
+            "guid": "LgY>b&yu9M",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "um + A",
+                "autour de"
+            ],
+            "guid": "K88Se(?C:y",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aus + D",
+                "hors de, en"
+            ],
+            "guid": "t(n7VdJMW/",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bei + D",
+                "chez"
+            ],
+            "guid": "lAounrjo|f",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mit + D",
+                "avec"
+            ],
+            "guid": "P&j8VB9`>R",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nach + D",
+                "après, vers"
+            ],
+            "guid": "rk6y9Ybl:~",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "seit + D",
+                "depuis"
+            ],
+            "guid": "IVeCBkCq8<",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "von + D",
+                "de"
+            ],
+            "guid": "s:<buo)1<$",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zu + D",
+                "(aller) chez"
+            ],
+            "guid": "Fm/@qB6lq?",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "während + G",
+                "pendant"
+            ],
+            "guid": "Qs-6,?=h?&",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wegen + G",
+                "à cause de"
+            ],
+            "guid": "iReiIlSM^D",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "trotz + G",
+                "malgré"
+            ],
+            "guid": "sxE8.YsP`w",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "in",
+                "dans"
+            ],
+            "guid": "t]gGio#loV",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vor",
+                "devant"
+            ],
+            "guid": "P`CwpeVfAK",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "unter",
+                "en dessous de"
+            ],
+            "guid": "f~C]q>If6}",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an&nbsp;",
+                "près de, contre"
+            ],
+            "guid": "u[(rWm+pyB",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hinter",
+                "derrière"
+            ],
+            "guid": "eSkqQgbrV`",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "neben",
+                "à côté de"
+            ],
+            "guid": "DS3-U9r|Mw",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "auf",
+                "sur"
+            ],
+            "guid": "j-tDc@DgvX",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "über",
+                "au desssus de"
+            ],
+            "guid": "}Nq#9U[+~",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zwischen",
+                "entre"
+            ],
+            "guid": "P~|q8i7w}C",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hier",
+                "gestern"
+            ],
+            "guid": "MuQBl7l+R-",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "de la visite",
+                "der Besuch"
+            ],
+            "guid": "N^gZggfJAL",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la bague",
+                "der Ring"
+            ],
+            "guid": "<&CNW5Xxr",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "das Praktikum",
+                "stage"
+            ],
+            "guid": "B`oX042plE",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schon",
+                "déjà"
+            ],
+            "guid": "r(f.;(@>F[",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fois (ex 100 fois)",
+                "Mal"
+            ],
+            "guid": "t5a~;zr&@1",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "perdre",
+                "verlieren"
+            ],
+            "guid": "vgR7w/@eHp",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pendant",
+                "während"
+            ],
+            "guid": "pTo=Vulk.1",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "betrachten",
+                "contempler"
+            ],
+            "guid": "i@WqQ`%bjp",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "faire connaissance",
+                "kennen lernen"
+            ],
+            "guid": "H#Ouq)zEB!",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "tous les jours",
+                "jeden Tag"
+            ],
+            "guid": "Po0f>p8y%.",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "die Maßnahmen",
+                "mesures"
+            ],
+            "guid": "Kkv_NHQK^d",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "die Eile",
+                "agitation"
+            ],
+            "guid": "B.S%[0PT(B",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "die Hektik",
+                ""
+            ],
+            "guid": "sM_shO!mcI",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "piéton",
+                ""
+            ],
+            "guid": "zf[xNh1vTC",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "die Hausfassaden",
+                "les façades des maisons/immeubles"
+            ],
+            "guid": "qCco~&sHJ~",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "die Fassaden",
+                "les façades"
+            ],
+            "guid": "F9=.nMphq9",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "an/kommen",
+                "arriver"
+            ],
+            "guid": "hws:$W>!;+",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bekommen",
+                "recevoir, obtenir"
+            ],
+            "guid": "FS<kBGVaq$",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "particules inséparables",
+                "<ul><li>be-, emp-, ent-, er-, ge-, miss-, ver-, zer-</li></ul><div>restés collés au verbe (OMG) et ne prennent pas de ge au parfait</div>"
+            ],
+            "guid": "PmAGbf!HH+",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verbes en ieren",
+                "(origine étrangère)<br><br>prennent pas le -ge au parfait"
+            ],
+            "guid": "fyU1h+_mb{",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "particules séparables",
+                "se sépare du verbe dès que possible (set met en fin de prop)<br><br>elles acceptent le ge- du parfait entre elles et le verbe<br><br>ex: Der Bus kommt um 8 uhr&nbsp;<b>am</b>."
+            ],
+            "guid": "eXTR}kPr(R",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erinnern",
+                ""
+            ],
+            "guid": "w&`-vA7hPy",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "geschichtserinnerung",
+                ""
+            ],
+            "guid": ">%Z8g{j&8",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "behandelt",
+                ""
+            ],
+            "guid": "vIOjQ2}CSg",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "beschäftigt",
+                ""
+            ],
+            "guid": "A79z:9SEtT",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Wahrnehmung",
+                ""
+            ],
+            "guid": "f<fQDYxy_V",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Maueropfer",
+                ""
+            ],
+            "guid": "u.L{&(/xoR",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Die Grenztoten",
+                ""
+            ],
+            "guid": "x|IQp3kTS8",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Einerseits",
+                ""
+            ],
+            "guid": "m#@4zEd=aO",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Der Alltag",
+                ""
+            ],
+            "guid": "nsQ9CD#9Iy",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bestimmt",
+                ""
+            ],
+            "guid": "dh:*:0cBgt",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sondern",
+                ""
+            ],
+            "guid": "k]XEJ8LEsS",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bevor",
+                ""
+            ],
+            "guid": "gj#ehU[-Z7",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ob",
+                ""
+            ],
+            "guid": "l1mXq0h?wF",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "obwohl",
+                ""
+            ],
+            "guid": "xy/o0$ZVpm",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "anderseits",
+                ""
+            ],
+            "guid": "J}`H~q&IJd",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bekanntenkreis",
+                ""
+            ],
+            "guid": "rWanIi%0>O",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dürfen",
+                ""
+            ],
+            "guid": "zu?5uFT5f!",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wiederhaum?",
+                ""
+            ],
+            "guid": "H2v[psHw:X",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Das Spannungsverhältnis",
+                ""
+            ],
+            "guid": "j_|RRS[e#=",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Entsorgung",
+                ""
+            ],
+            "guid": "xR#iKV}lW/",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gegenständen",
+                ""
+            ],
+            "guid": "x#;]#(x}*:",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "allmähich",
+                ""
+            ],
+            "guid": "L(-Eo2)d6c",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "abgeschlossen",
+                ""
+            ],
+            "guid": "uI?Kv^RT{t",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "deren",
+                ""
+            ],
+            "guid": "o2Gu@`1BHh",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wiederentdeckung",
+                ""
+            ],
+            "guid": "o$qU~xF5yG",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vergangenheit",
+                ""
+            ],
+            "guid": "d.)H%i49`y",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sowohl",
+                ""
+            ],
+            "guid": "vkx(x40@m;",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "durch",
+                ""
+            ],
+            "guid": "H;y`_W4-wR",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "angetrieben",
+                ""
+            ],
+            "guid": "ej,MzqQm5E",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Selbstvergewisserung",
+                ""
+            ],
+            "guid": "NM3v2>bY{j",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lainhafter",
+                ""
+            ],
+            "guid": "CwZG-HE6=A",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "facettenreiches",
+                ""
+            ],
+            "guid": "D)K|!.^bKC",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Phänomen",
+                "phénomène"
+            ],
+            "guid": "g#_2p+/i(.",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aufarbeitung",
+                ""
+            ],
+            "guid": "F7:!&0}tA",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vielschichtiger",
+                ""
+            ],
+            "guid": "v0Yz^4K#_,",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klamauk",
+                ""
+            ],
+            "guid": "c5V7A0Fd1i",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hierbei",
+                ""
+            ],
+            "guid": "o;<!g%@>0v",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ebenso",
+                ""
+            ],
+            "guid": "hBt3qd&c|c",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rolle",
+                ""
+            ],
+            "guid": "EF=lE`Mo#P",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bedürfnis",
+                ""
+            ],
+            "guid": "MEJI+oA&pt",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "neuartige",
+                ""
+            ],
+            "guid": "Q>4/hQfp>{",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Weise",
+                ""
+            ],
+            "guid": "z6#vA16}e7",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Erwavhsenenwelt",
+                ""
+            ],
+            "guid": "ymOed?s>w?",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "abzugrezen",
+                ""
+            ],
+            "guid": "x}sk++#^%N",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stile",
+                ""
+            ],
+            "guid": "H^GV[G,]Si",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erfinden",
+                ""
+            ],
+            "guid": "p,A<4;(1_#",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Darüber",
+                ""
+            ],
+            "guid": "KVuYt9i4~I",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hinaus",
+                ""
+            ],
+            "guid": "vb(ySeoh):",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "kommerziell",
+                ""
+            ],
+            "guid": "N7L?hS-a7[",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bedient",
+                ""
+            ],
+            "guid": "DMgeG?#l>V",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Verweis",
+                ""
+            ],
+            "guid": "O=x#<Qo0De",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "alten",
+                ""
+            ],
+            "guid": "o$q`-o|Pu_",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zeiten",
+                ""
+            ],
+            "guid": "kB.kMp.BmZ",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Würstchen",
+                ""
+            ],
+            "guid": "m@>z?<T{Og",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Reaktionsweise",
+                ""
+            ],
+            "guid": "mRuI_j;g1R",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bevölkerung",
+                ""
+            ],
+            "guid": "d,AGIZ{q*.",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "betrachtet",
+                ""
+            ],
+            "guid": "j?6+*n3!_Q",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Brucht",
+                ""
+            ],
+            "guid": "q4K,vy17tb",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "deshalb",
+                ""
+            ],
+            "guid": "wjZQ^^~]~=",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "scharfen",
+                ""
+            ],
+            "guid": "uGqG*oGS>d",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schnitt",
+                ""
+            ],
+            "guid": "we?]3>r?%T",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zukunft",
+                ""
+            ],
+            "guid": "B=d$qF6(fy",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wirtschaftswissenschaftlich",
+                ""
+            ],
+            "guid": "i-0k~A!rx`",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erfolgreiche",
+                ""
+            ],
+            "guid": "vp!>9pTBy:",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Einführung",
+                ""
+            ],
+            "guid": "z=mH@}B/Aj",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lässt",
+                ""
+            ],
+            "guid": "c/L;>jnVbX",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aufbau",
+                ""
+            ],
+            "guid": "FrW-(w8Gyp",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Handlungsstrukturen",
+                ""
+            ],
+            "guid": "nO|~NHmiJ9",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Werte",
+                ""
+            ],
+            "guid": "PZ&:y%1iB[",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "widersprüchlicher",
+                ""
+            ],
+            "guid": "Hv;iC$k8y|",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schwieriger",
+                ""
+            ],
+            "guid": "cQfuTEpWd&",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nur",
+                ""
+            ],
+            "guid": "ckRwITKi(X",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Verlusten",
+                ""
+            ],
+            "guid": "zR:]>_}d^m",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "einherging",
+                ""
+            ],
+            "guid": "OFjnjZN3)=",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Szenekneipe",
+                ""
+            ],
+            "guid": "Q;)AY-n!:<",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trabantfahrertreffen",
+                ""
+            ],
+            "guid": "I~(#,?{H$>",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mischungen",
+                ""
+            ],
+            "guid": "tbmrXk_mT@",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Karneval",
+                ""
+            ],
+            "guid": "QuI#ABdyy3",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gäste",
+                ""
+            ],
+            "guid": "CJOyUs-3H)",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wussten",
+                ""
+            ],
+            "guid": "hKH2FAE8TX",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "legten",
+                ""
+            ],
+            "guid": "lQDp@UN3<9",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kleidungsstücke",
+                ""
+            ],
+            "guid": "m<2l<<`+o=",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Raum",
+                ""
+            ],
+            "guid": "NWBH*bdrAP",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "überladen",
+                ""
+            ],
+            "guid": "Ghjm%u42,}",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "einstigen",
+                ""
+            ],
+            "guid": "LYYdCE_&5r",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Requisiten",
+                ""
+            ],
+            "guid": "gll|O^C``g",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "papierfähnchen",
+                ""
+            ],
+            "guid": "E;Td9xZkIS",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fahnen",
+                ""
+            ],
+            "guid": "to%Da=JTq>",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sprüchen",
+                ""
+            ],
+            "guid": "Ln3gs?A?YS",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Abwandlungen",
+                ""
+            ],
+            "guid": "gD,5GRI,nz",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "karnevaltypisches",
+                ""
+            ],
+            "guid": "H<As#x(BD{",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schlager",
+                ""
+            ],
+            "guid": "bAKeo`.<.s",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hinzu",
+                ""
+            ],
+            "guid": "xi[P3?As,~",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "kamen",
+                ""
+            ],
+            "guid": "EJ&dR44*2*",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "überarbeiteten",
+                ""
+            ],
+            "guid": "y3m^0(}ew)",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fassungen",
+                ""
+            ],
+            "guid": "fD3od,Kkzh",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sogennannten",
+                ""
+            ],
+            "guid": "sN|q-OM=s;",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kampflieder",
+                ""
+            ],
+            "guid": "k3mY2z2$Sg",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "beim",
+                ""
+            ],
+            "guid": "zpmg<.LvMM",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "reale",
+                ""
+            ],
+            "guid": "i1;bP[C_7%",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wehmütig",
+                ""
+            ],
+            "guid": "M{ot)Fq(~q",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zugleich",
+                ""
+            ],
+            "guid": "LN(,cdp]Q2",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "feierte",
+                ""
+            ],
+            "guid": "FrOz!tbxr",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dass",
+                ""
+            ],
+            "guid": "j(w:A|8Zcb",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dargestellte",
+                ""
+            ],
+            "guid": "LJD45r3|17",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Machtverloren",
+                ""
+            ],
+            "guid": "E.p&&[D,Kp",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Solche",
+                ""
+            ],
+            "guid": "b?tIw{T-._",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sicherlich",
+                ""
+            ],
+            "guid": "B1XC?O_{*$",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "jene",
+                ""
+            ],
+            "guid": "AGOU5>rzYV",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Minderheit",
+                ""
+            ],
+            "guid": "N$&;w&&AN/",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "überwinden",
+                ""
+            ],
+            "guid": "fTEnYRn:Xr",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wollte",
+                ""
+            ],
+            "guid": "v?R;l*CR,U",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schon",
+                ""
+            ],
+            "guid": "o<[ir4oNuC",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gar",
+                ""
+            ],
+            "guid": "h8y$w4|Iok",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Opfer",
+                ""
+            ],
+            "guid": "o]`14WA:W^",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "demain",
+                ""
+            ],
+            "guid": "A$XG2`jWZK",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wiedervereinigung",
+                ""
+            ],
+            "guid": "N6)lGiU{tq",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bewirkte",
+                ""
+            ],
+            "guid": "ys&F)j-U:y",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Verunsicherung",
+                ""
+            ],
+            "guid": "hed$H@d{|)",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "présent",
+                ""
+            ],
+            "guid": "MfhMb2TTzX",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Good Bye Lenin",
+                ""
+            ],
+            "guid": "c5/}YJYSBU",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stern (à voir)",
+                "étoile"
+            ],
+            "guid": "Lj|i=t:v7L",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
             "tags": []
         }
     ],

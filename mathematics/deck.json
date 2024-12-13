@@ -12,7 +12,15 @@
             "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
             "desiredRetention": 0.9,
             "dyn": false,
-            "easyDaysPercentages": [],
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
             "fsrsParams5": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
@@ -1406,7 +1414,9 @@
             ],
             "guid": "GH1=sW_]1X",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "structures::algébriques::usuelles"
+            ]
         },
         {
             "__type__": "Note",
@@ -1452,7 +1462,9 @@
             ],
             "guid": "Ft.Hi6sy~#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "structures::algébriques::usuelles"
+            ]
         },
         {
             "__type__": "Note",
@@ -1462,7 +1474,9 @@
             ],
             "guid": "jzI:d<aC8b",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "structures::algébriques::usuelles"
+            ]
         },
         {
             "__type__": "Note",
@@ -1472,7 +1486,9 @@
             ],
             "guid": "N8_p2g?Od`",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "structures::algébriques::usuelles"
+            ]
         },
         {
             "__type__": "Note",
@@ -1482,7 +1498,9 @@
             ],
             "guid": "hPF.VD9fmS",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "la::droite::réelle"
+            ]
         },
         {
             "__type__": "Note",
@@ -2656,7 +2674,9 @@
             ],
             "guid": "MK=|^{:K?K",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "trigo"
+            ]
         },
         {
             "__type__": "Note",
@@ -3642,7 +3662,7 @@
             "__type__": "Note",
             "fields": [
                 "lemme des segments emboîtés",
-                "si&nbsp;\\(\\forall n \\in \\mathbb{N}, a_n \\le b_n\\)&nbsp;et&nbsp;\\(\\forall n \\in \\mathbb{N}, [a_{n+1}, b_{n+1}] \\subset [a_n, b_n]\\)&nbsp;alors&nbsp;\\(lim_{n\\rightarrow +\\infty}{b_n - a_n} = 0\\)"
+                "si&nbsp;\\(\\forall n \\in \\mathbb{N}, a_n \\le b_n\\)&nbsp;et&nbsp;\\(\\forall n \\in \\mathbb{N}, [a_{n+1}, b_{n+1}] \\subset [a_n, b_n]\\) et \\(lim_{n\\rightarrow +\\infty}{b_n - a_n} = 0\\) alors \\( \\bigcap [a_n;b_n] \\) est in singleton&nbsp;"
             ],
             "guid": "f:[eb;(o6u",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -3798,7 +3818,7 @@
             "__type__": "Note",
             "fields": [
                 "domination",
-                "\\(u_n = O(v_n) \\Leftrightarrow \\exists M &gt; 0, \\exists n_0 \\in \\mathbb{N}, \\forall n \\ge n_0, |u_n| \\le M|u_n|\\)<br><br>cas particulier fréquent (\\(v_n\\)&nbsp;ne s'annule pas APCR):<br>\\[u_n = O(v_n) \\Leftrightarrow \\frac{u_n}{v_n} \\text{ est bornée}\\]<br>"
+                "\\(u_n = O(v_n) \\Leftrightarrow \\exists M &gt; 0, \\exists n_0 \\in \\mathbb{N}, \\forall n \\ge n_0, |u_n| \\le M|v_n|\\)<br><br>cas particulier fréquent (\\(v_n\\)&nbsp;ne s'annule pas APCR):<br>\\[u_n = O(v_n) \\Leftrightarrow \\frac{u_n}{v_n} \\text{ est bornée}\\]<br>"
             ],
             "guid": "IXp1=:CA/l",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -4277,7 +4297,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "lipschitzienne",
+                "lipschitzienne et uniformément continue",
                 "toute fonction lipschitzienne est uniformément continue"
             ],
             "guid": "nHH5+OI_EH",
@@ -4404,6 +4424,468 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "maximum / minimum local",
+                "f maximum local en a ssi il existe&nbsp;\\(\\alpha\\)&nbsp;tq<br><br>\\(\\forall x \\in ]a - \\alpha;a+\\alpha[\\cap D, f(x) \\le f(a)\\)"
+            ],
+            "guid": "j}$~}^[t.V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de Rolle",
+                "f continue sur le segment&nbsp;\\([a;b]\\)&nbsp;et dérivable sur&nbsp;\\(]a;b[\\)&nbsp;tel que&nbsp;\\(f(a) = f(b)\\)&nbsp;alors&nbsp;\\(\\exists c \\in ]a;b[, f'(c) = 0\\)"
+            ],
+            "guid": "d[4!y!f.-f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorèmes des accroissements finis",
+                "f continue sur [a;b] et dérivable sur ]a;b[,<br><br>alors il existe c tq:<br><br>\\[f'(c) = \\frac{f(b) - f(a)}{b-a}\\]<br>"
+            ],
+            "guid": "FuF<J|%(.n",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inégalité des accroissements finis",
+                "f continue sur segment et dérivable sur segment ouvert<br><br>si il existe&nbsp;\\(k \\in \\mathbb{R}^+\\)&nbsp;tq&nbsp;\\(\\forall t \\in ]a;b[, f'(t) \\le k\\)&nbsp;alors:<br>\\[|f(b) - f(a)| \\le k|b-a|\\]<br>"
+            ],
+            "guid": "d:Igb{u`Ui",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire IAF",
+                "si IAF alors k-lipschitzienne"
+            ],
+            "guid": "iLQ7j;Y^P`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variations fonction&nbsp; dérivable",
+                "<ul><li>f croissante ssi&nbsp;\\(\\forall x \\in Int(I), f'(x) \\ge 0\\)</li><li>f décroissant ssi&nbsp;\\(\\forall x \\in Int(I), f'(x) \\le 0\\)</li><li>f constante ssi&nbsp;\\(\\forall x \\in Int(I), f'(x) = 0\\)</li></ul>"
+            ],
+            "guid": "yNjsPRV&]o",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire variations dérivée et stricte monotonie",
+                "f strictement monotone sur I ssi f' de signe constant sur Int(I) et&nbsp;\\(\\{ x \\in Int(I) \\mid f'(x) = 0 \\}\\)&nbsp;est d'intérieur vide"
+            ],
+            "guid": "F%GAK_:Jc^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de la limite de la dérivée",
+                "f continue sur I et dérivable en&nbsp;\\(I\\backslash\\{a\\}\\)<br><br><ul><li>Si f' admet limite finie&nbsp;\\(l \\in \\mathbb{R}\\)&nbsp;en a, alors f dérivable en a et&nbsp;\\(f'(a) = l\\), f' est continue en a</li><li>Si&nbsp;\\(f'(x) \\rightarrow_{x\\rightarrow a} +\\infty\\)&nbsp;alors le taux d'accroissement&nbsp;\\(\\tau_a = \\frac{f(x) - f(a)}{x-a}\\)&nbsp;tend vers&nbsp;\\(+\\infty\\). demi-tangente verticale en a</li></ul>"
+            ],
+            "guid": "r@y5MOP(hP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivées successives",
+                "\\[\\displaylines{f^0 = f \\\\f^{n+1} = (f^n)'}\\]<br>"
+            ],
+            "guid": "vA|-{.r=zT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivées n-ièmes de cos et sin",
+                "\\[sin^{(n)}(x) = sin(x + n\\frac{\\pi}{2})\\]\\[cos^{(n)}(x) = cos(x + n\\frac{\\pi}{2})\\]<br>"
+            ],
+            "guid": "wk>X&!jf5c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivées n-ième de la fonction harmonique",
+                "\\[h^{(n)}(x) = \\frac{(-1)^nn!}{x^{n+1}}\\]<br>"
+            ],
+            "guid": "PHk*Z$/_+Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée n-ième d'une somme",
+                "\\[(\\lambda f + \\mu g)^{(n)} = \\lambda f^{(n)} + \\mu g^{(n)}\\]"
+            ],
+            "guid": "l;dy5~!F9E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée n-ième du produit (formule de Leibniz)",
+                "\\[(fg)^{(n)} = \\sum_{k=0}^{n}{\\binom{n}{k}f^{(k)}g^{(n-k)}}\\]<br>"
+            ],
+            "guid": "d=!WeKvd]}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée n-ième d'une composée",
+                "Si u est de classe&nbsp;\\(C^n\\)&nbsp;et f&nbsp;\\(C^n\\)&nbsp;alors la composée&nbsp;\\(f \\circ u\\)&nbsp;est de classe&nbsp;\\(C^n\\)"
+            ],
+            "guid": "b@hs`=>lzL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée n-ième d'un quotient",
+                "quotient également de classe&nbsp;\\(C^n\\)"
+            ],
+            "guid": "cle[pN=,C`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée n-ième d'une fonction réciproque",
+                "si f est de classe&nbsp;\\(C^n\\)&nbsp;et&nbsp;n'admet pas de tangente horizontale alors&nbsp;\\(f^{-1}\\)&nbsp;est aussi de classe&nbsp;\\(C^n\\)<br><br>Avec&nbsp;\\(n \\ge 1\\)&nbsp;on dit que c'est un&nbsp;\\(C^n\\text{-difféomorphisme}\\)"
+            ],
+            "guid": "Na_Ps`}qP~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de Taylor-Lagrange",
+                "f de classe&nbsp;\\(C^n \\)&nbsp;sur [a;b] et de classe&nbsp;\\(D^{n+1}\\)&nbsp;sur ]a;b[, il existe alors&nbsp;\\(c \\in ]a;b[\\)&nbsp;tel que:<br>\\[f(b) = \\sum_{k=0}^n{\\frac{f^{(k)}(a)}{k!}(b-a)^k + \\frac{f^{(n+1)}(c)}{(n+1)!}}(b-a)^{n+1}\\]<br>"
+            ],
+            "guid": "I1^jVdC-&o",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Inégalité de Taylor Lagrange",
+                "(même hypothèses que dans théorème)<br>Si il existe&nbsp;\\(M \\in \\mathbb{R}^+\\)&nbsp;tel que&nbsp;\\(\\forall t \\in ]a;b[, |f^{(n+1)}(t)| \\le M\\), alors<br>\\[\\left|f(b)-\\sum_{k=0}^{n}{\\frac{f^{(k)}(a)}{k!}(b-a)^k}\\right| \\le \\frac{M}{(n+1)!}|b-a|^{n+1}\\]<br>"
+            ],
+            "guid": "z^_?{12d]=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème des limites des dérivées",
+                "f continue sur I et de classe&nbsp;\\(C^n\\)&nbsp;sur&nbsp;\\(I\\backslash\\{a\\}\\)<br><br>Si pour tout&nbsp;\\(k\\in[1;n]\\), la fonction&nbsp;\\(f^{(k)}\\)&nbsp;admet une limite finie&nbsp;\\(l_k\\)&nbsp;en a alors f est de classe&nbsp;\\(C^n\\)&nbsp;sur I, et pour tout k, on a&nbsp;\\(f^{(k)}(a) = l_k\\)"
+            ],
+            "guid": "cH@<ZPiXmd",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f dérivable sur C ssi",
+                "\\(Re(f)\\)&nbsp;dérivable et&nbsp;\\(Im(f)\\)&nbsp;dérivable"
+            ],
+            "guid": "Vg939)p3C",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "arcsin",
+                "de [-1;1] dans&nbsp;\\([-\\frac{\\pi}{2};-\\frac{\\pi}{2}]\\)"
+            ],
+            "guid": "b%q4=0PD*w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés arcsin",
+                "<ul><li>impaire sur [-1;1]</li><li>strictement croissante sur [-1;1]</li><li>continue sur [-1;1]</li><li>de classe&nbsp;\\(C^\\infty\\)&nbsp;sur ]-1;1[ et&nbsp;\\(\\arcsin'(s) = \\frac{1}{\\sqrt{1 - s^2}}\\)</li><li>\\(\\arcsin(s) \\sim_{s\\rightarrow 0} s\\)</li></ul>"
+            ],
+            "guid": "dQCny#^CI/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "arccos",
+                "de [-1;1] dans&nbsp;\\([0;\\pi]\\)"
+            ],
+            "guid": "M3wLR?nmU;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés arccos",
+                "<ul><li>strictement décroissante sur [-1;1]</li><li>continue sur [-1;1]</li><li>de classe&nbsp;\\(C^\\infty\\)&nbsp;sur ]-1;1[ et&nbsp;\\(\\arccos(c) = -\\frac{1}{\\sqrt{1 - c^2}}\\)</li></ul>"
+            ],
+            "guid": "l(oXY,#CwN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "somme arcsin arccos",
+                "\\[\\arcsin(x) + \\arccos(x) = \\frac{\\pi}{2}\\]<br>"
+            ],
+            "guid": "wU|D&&:V>-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "arctangente",
+                "de&nbsp;\\(\\mathbb{R}\\)&nbsp;dans&nbsp;\\(]-\\frac{\\pi}{2};\\frac{\\pi}{2}[\\)"
+            ],
+            "guid": "peP4*DMT0C",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés arctan",
+                "<ul><li>impaire sur&nbsp;\\(\\mathbb{R}\\)</li><li>strictement croissante sur&nbsp;\\(\\mathbb{R}\\)</li><li>continue sur&nbsp;\\(\\mathbb{R}\\)</li><li>de classe&nbsp;\\(C^\\infty\\)&nbsp;sur&nbsp;\\(\\mathbb{R}\\)&nbsp;et&nbsp;\\(\\arctan'(t) = \\frac{1}{1 + t^2}\\)</li><li>\\(\\arctan(t) \\sim_{t\\rightarrow 0}t\\)<br></li></ul>"
+            ],
+            "guid": "mIln@%g8LS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition arctan",
+                "\\[\\forall x \\in \\mathbb{R}^*_+, \\arctan x + \\arctan \\frac{1}{x} = \\frac{\\pi}{2}\\]\\[\\forall x \\in \\mathbb{R}^*_-, \\arctan x + \\arctan \\frac{1}{x} = -\\frac{\\pi}{2}\\]<br>"
+            ],
+            "guid": "pccIiHniGy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions::circulaire::réciproques",
+                "trigo"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f convexe ssi",
+                "\\[\\forall x,y \\in \\mathbb{I}, \\forall t \\in [0;1], f(tx + (1-t)y) \\le tf(x) + (1-t)f(y) \\]<br>"
+            ],
+            "guid": "jXYu~9$cM?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f concave ssi",
+                "-f convexe"
+            ],
+            "guid": "D!jya&Etoi",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "convexité stable par",
+                "combinaison linéaire"
+            ],
+            "guid": "Gx{q6R[@/B",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "point d'inflexion",
+                "convexité différente à droite et à gauche de ce point"
+            ],
+            "guid": "m-7Q%=Q7I[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme de jensen",
+                "\\(\\text{Soit } n \\in \\mathbb{N}, x_1, \\ldots, x_n \\in I, t_1, \\ldots, t_n \\in \\mathbb{R}^+ \\text{ tel que} \\sum_{k=1}^{n}{t_k} = 1 \\Longrightarrow \\sum_{k=1}^{n}{t_kx_k} \\in I \\)"
+            ],
+            "guid": "zX{<8m]w0]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité de Jensen",
+                "f convexe ssi&nbsp;\\(\\forall n \\in \\mathbb{N}, x_1, \\ldots, x_n \\in I, t_1, \\ldots, t_n \\in \\mathbb{R}^+ \\text{ tel que} \\sum_{k=1}^{n}{t_k} = 1 \\Longrightarrow f(\\sum_{k=1}^{n}{t_kx_k}) \\le \\sum_{k=1}^{n}{t_kf(x_k)}\\)"
+            ],
+            "guid": "Amn_N]+D>#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme de la pente croissante",
+                "convexe ssi&nbsp;\\(\\forall a \\in I\\)&nbsp;la fonction&nbsp;\\(\\tau_a:I\\backslash\\{a\\} \\rightarrow \\mathbb{R}, x\\rightarrow \\frac{f(x) - f(a)}{x-a}\\)&nbsp;est croissante"
+            ],
+            "guid": "uDWj#D!3pL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire fonction convexe",
+                "pour tout a,b,c avec a &lt;&nbsp; c &lt; b:<br><br>\\[\\frac{f(c) - f(a)}{c - a} \\le \\frac{f(b) - f(a)}{b - a} \\le \\frac{f(b) - f(c)}{b - c}  \\]<br>"
+            ],
+            "guid": "yme_A,6qfr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème convexité",
+                "f dérivable à droite et à gauche sur tout point intérieur à I, et&nbsp;\\(f'_g(a) \\le f'_d(a)\\)"
+            ],
+            "guid": "nQLsG-,_?H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire convexité ou concavité",
+                "si f convexe ou concave alors f continue sur Int(I)"
+            ],
+            "guid": "2ApsAS9M,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
             ]
         }
     ],

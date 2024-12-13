@@ -12,7 +12,15 @@
             "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
             "desiredRetention": 0.9,
             "dyn": false,
-            "easyDaysPercentages": [],
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
             "fsrsParams5": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
@@ -2744,6 +2752,100 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "description::et::paramétrage::du::mouvement::d'un::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fréquence la",
+                "440 Hz"
+            ],
+            "guid": "i$SKB}d1B.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ordre de grandeur fréquence ondes sonores",
+                "20 Hz - 20 kHz"
+            ],
+            "guid": "oCfX]s<6u3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "réflexion onde progressive (corde)",
+                "si point fixe: onde réfléchie renversée<br>si attache mobile: onde réfléchie droite"
+            ],
+            "guid": "ce:#=N}?#6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "k (vecteur d'onde)",
+                "\\(k = \\frac{2\\pi}{\\lambda}\\)"
+            ],
+            "guid": "hYD6#m-!y0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\omega\\)&nbsp;pulsation",
+                "\\(\\omega = \\frac{2\\pi}{T}\\)"
+            ],
+            "guid": "gh|x#P83G=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "longueur d'onde",
+                "\\(\\lambda = cT\\)"
+            ],
+            "guid": "vX7Ra}VX0}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "tableau spatial / temporel",
+                "----------------|&nbsp; Période&nbsp; |&nbsp; Fréquence&nbsp; |&nbsp; Pulsation&nbsp; |<br>-------------------------------------------------------------------<br>&nbsp; Spatiale&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;&nbsp;\\(\\lambda\\)&nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\\(\\sigma\\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;\\(k\\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>-------------------------------------------------------------------<br>Temporelle |&nbsp; &nbsp; &nbsp; &nbsp;\\(T\\)&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\\(f\\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;\\(\\omega\\)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|"
+            ],
+            "guid": "e8uU9spYMM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fréquence spatiale (nombre d'onde)",
+                "\\(\\sigma = \\frac{1}{\\lambda}\\)"
+            ],
+            "guid": "kb>6XHpcA_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "propagation::signal"
             ]
         }
     ],
