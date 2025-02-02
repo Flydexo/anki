@@ -17,7 +17,7 @@
                         "quizlet-hX4ju5UKgzy0GgteZPACkA.jpg"
                     ],
                     "name": "future of work",
-                    "newLimit": 160,
+                    "newLimit": null,
                     "newLimitToday": null,
                     "notes": [
                         {
@@ -5707,20 +5707,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "a labourer",
-                                "",
-                                "un manœuvre",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "Oq}H2y_1tD",
-                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "an occupation / a trade",
                                 "",
                                 "un métier / une profession",
@@ -6685,7 +6671,7 @@
                             "tags": []
                         }
                     ],
-                    "reviewLimit": 1600,
+                    "reviewLimit": null,
                     "reviewLimitToday": null
                 },
                 {
@@ -8511,20 +8497,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Upside",
-                                "",
-                                "Someone who writes a regular article for a newspaper or magazine",
-                                "",
-                                "",
-                                "True"
-                            ],
-                            "guid": "xtLp@R{^04",
-                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Amp up",
                                 "",
                                 "amplifier",
@@ -8771,20 +8743,6 @@
                                 "True"
                             ],
                             "guid": "bN?eqlAiL$",
-                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Echo chamber",
-                                "",
-                                "An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting",
-                                "",
-                                "",
-                                "True"
-                            ],
-                            "guid": "FRI%Nr>g=u",
                             "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
                             "tags": []
                         },
@@ -13179,1028 +13137,6 @@
                             "guid": "wjlAsZZ[jP",
                             "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "",
-                                "",
-                                "",
-                                "",
-                                "",
-                                ""
-                            ],
-                            "guid": "PYGzL5s|hw",
-                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        }
-                    ],
-                    "reviewLimit": null,
-                    "reviewLimitToday": null
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "3cd786d0-b967-11ef-88ae-63750eff7b21",
-                    "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [],
-                    "name": "work",
-                    "newLimit": 500,
-                    "newLimitToday": null,
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "cherche un emploi",
-                                "seek / hunt a job"
-                            ],
-                            "guid": "vC7#?Yc(u>",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "demandeur d'emploi",
-                                "job seeker / job hunter"
-                            ],
-                            "guid": "EohQsL,v~R",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "une ANPE",
-                                "a job centre"
-                            ],
-                            "guid": "vev).SF=V,",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "une offre d'emploi",
-                                "a job offer"
-                            ],
-                            "guid": "i}},Gj-L+u",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un poste vacant",
-                                "a vacancy"
-                            ],
-                            "guid": "D5XYa=RfnC",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un chasseur de têtes",
-                                "a headhunte"
-                            ],
-                            "guid": "s8)chu[q5P",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un cabinet",
-                                "a head-hunting firm"
-                            ],
-                            "guid": "h1|DQd*_{H",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "postuler à un emploi",
-                                "apply for a job"
-                            ],
-                            "guid": "ve!CM;clpe",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un CV",
-                                "a résumé"
-                            ],
-                            "guid": "j<F^G;3:zq",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "des références",
-                                "credentials"
-                            ],
-                            "guid": "KX,jnm^qa3",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "des diplômes",
-                                "qualifications"
-                            ],
-                            "guid": "DL{q1;iI@.",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "compétences",
-                                "skills"
-                            ],
-                            "guid": "k5y80Sfg/B",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "savoir-faire",
-                                "know-how / expertise"
-                            ],
-                            "guid": "c?SFk[vfZ:",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "capable",
-                                "able"
-                            ],
-                            "guid": "w5iLO<~J0M",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "aptitude",
-                                "ability"
-                            ],
-                            "guid": "FIz+B3UU]n",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "domaine",
-                                "field"
-                            ],
-                            "guid": "tNGYR_6;bG",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "rendez-vous",
-                                "appointment"
-                            ],
-                            "guid": "yAWl1W4=cv",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "entretien",
-                                "interview"
-                            ],
-                            "guid": "dkXsl/yVCS",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "passer un entretien",
-                                "to be interviewed"
-                            ],
-                            "guid": "CcBV7d.wZ_",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "entretien d'embauche",
-                                "job interview"
-                            ],
-                            "guid": "z%Dcm0CnZ9",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "recruter",
-                                "to recruit"
-                            ],
-                            "guid": ";<m)?-2xH",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "embaucher",
-                                "to hire"
-                            ],
-                            "guid": "b1|*PT:D^_",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "à l'essai",
-                                "on probation"
-                            ],
-                            "guid": "DJB*^#1HmG",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "stage en entreprise",
-                                "internship"
-                            ],
-                            "guid": "eJ.GOT<g]o",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "stagiare",
-                                "intern / trainee"
-                            ],
-                            "guid": "mbquCMry8~",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "employer",
-                                "employ"
-                            ],
-                            "guid": "l{U%K4X4]D",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "emploi",
-                                "employment"
-                            ],
-                            "guid": "wd(A!]A,&`",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "indépendant",
-                                "self-employed"
-                            ],
-                            "guid": "JFkQC%(^H#",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "intérimaire",
-                                "temporary"
-                            ],
-                            "guid": "g/(pk+xf9p",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un intérimaire",
-                                "a temp"
-                            ],
-                            "guid": "q|[jkk_<UT",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "faire de l'interim",
-                                "to temp"
-                            ],
-                            "guid": "z3L?4M=<.m",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "précaire",
-                                "precarious / tenuous"
-                            ],
-                            "guid": "b-?e6F,+3H",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ouvrier",
-                                "workman"
-                            ],
-                            "guid": "q~.kj;d>!2",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "main-d'oeuvre",
-                                "the labourforce / manpower"
-                            ],
-                            "guid": "n`ws&/cgG7",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un manoeuvre",
-                                "a labourer"
-                            ],
-                            "guid": "gFIeS.2:]5",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "métier / profession",
-                                "an occupation / a trade"
-                            ],
-                            "guid": "mr?0wh^<)X",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "une vocation",
-                                "a calling"
-                            ],
-                            "guid": "qOTmP5rTiz",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "le personnel",
-                                "staff"
-                            ],
-                            "guid": "e5xbSR&Y)x",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un membre du personnel",
-                                "a staffer"
-                            ],
-                            "guid": "ENePpF*w>)",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "occuper un post",
-                                "to hold a position"
-                            ],
-                            "guid": "t#EA+<WW:)",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "apprentissage",
-                                "apprenticeship"
-                            ],
-                            "guid": "j%K|<MmMBc",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un cadre",
-                                "an executive"
-                            ],
-                            "guid": "liPw>:Qgeh",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "diriger",
-                                "to manage"
-                            ],
-                            "guid": "dmIl,&8Ygb",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "responsable de",
-                                "in charge of"
-                            ],
-                            "guid": "vt5IYBLW1o",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un stage",
-                                "a training period"
-                            ],
-                            "guid": "OZD3+wJ$K(",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "se former",
-                                "to train"
-                            ],
-                            "guid": "QJ&>d.,6l1",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "reconversion&nbsp;",
-                                "retraining"
-                            ],
-                            "guid": "B|Uf5T2)6c",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "le dynamisme",
-                                "drive"
-                            ],
-                            "guid": "eR+l4rp4F*",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ambitieux",
-                                "go-better"
-                            ],
-                            "guid": "yj:Bm3?AZ8",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un bourreau de travail",
-                                "workaholic"
-                            ],
-                            "guid": "ChYO%z8oPr",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "promouvoir",
-                                "to promote"
-                            ],
-                            "guid": "w,uKx]jF29",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "promouvoir / rétrograder",
-                                "to upgrade / to downgrade"
-                            ],
-                            "guid": "h==L%JFc1C",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "nommer qqun",
-                                "to appoint sb"
-                            ],
-                            "guid": "F-R:F*0ZF-",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "une nomination",
-                                "an appointment"
-                            ],
-                            "guid": "Ksbp7[q{%j",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "mutation",
-                                "transfer"
-                            ],
-                            "guid": "O5-*?ha<FV",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "démissionner",
-                                "resign"
-                            ],
-                            "guid": "JAQ8wB@Yt(",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "prendre sa retraire",
-                                "retire"
-                            ],
-                            "guid": "s<T~~KE-AS",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un retraité",
-                                "a retiree / a persioner"
-                            ],
-                            "guid": "KOz>dI2~#V",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "renvoyer qqun",
-                                "to fire / to sack sby"
-                            ],
-                            "guid": "ijJ8exe,2;",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "licencier qqun",
-                                "to dismiss"
-                            ],
-                            "guid": "vMacT=.09{",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "licencier qqun (autre version)",
-                                "to lay off"
-                            ],
-                            "guid": "G!9)KJ&B)8",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "licencier qqun (autre version encore)",
-                                "make sby redundant"
-                            ],
-                            "guid": "s_p%CJP9}J",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "être au chomage",
-                                "to be out of work / jobless / unemployed"
-                            ],
-                            "guid": "LB?Dh(N#Ty",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "bénéficiaire",
-                                "claimant"
-                            ],
-                            "guid": "rD02rJ2.Sv",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "décrocher un emploi",
-                                "to land a job"
-                            ],
-                            "guid": "Jb6>1d$xjJ",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "refuser une offre",
-                                "to turn down an offer"
-                            ],
-                            "guid": "D`U0,DWu@+",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "satisfaire aux exigences",
-                                "to meet the requirements"
-                            ],
-                            "guid": "c+&FLN%<3V",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "période d'essaie",
-                                "a probationary period"
-                            ],
-                            "guid": "A,,1yvia$[",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "le marché du travail",
-                                "the job / labour market"
-                            ],
-                            "guid": "w!P/R.sjdQ",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "la population active",
-                                "the working population"
-                            ],
-                            "guid": "J:(vgx{U<0",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "travail manuel",
-                                "manual work"
-                            ],
-                            "guid": "c/bZEP-wOa",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "travail de bureau",
-                                "clerical work"
-                            ],
-                            "guid": "Gd3)n,3R5b",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "travail de secrétariat",
-                                "secretarial job"
-                            ],
-                            "guid": "bd!u{!_|Gd",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "emploi subalterne",
-                                "menial job"
-                            ],
-                            "guid": "Av.kbrRIHc",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "cols bleus / blancs / roses",
-                                "blue / white / pink collar workers"
-                            ],
-                            "guid": "d.>JFH`!KW",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "se décider à travailler à temps partiel",
-                                "to go part time"
-                            ],
-                            "guid": "m]d[!k9Svy",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "décider à travailler en indépendant",
-                                "to go freelance"
-                            ],
-                            "guid": "k~H2k{lNzO",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "partage du travail",
-                                "job sharing"
-                            ],
-                            "guid": "vQ,WQ5?13A",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "cadre débutant / supérieur",
-                                "an junior / senior executive"
-                            ],
-                            "guid": "E_WU9Fe9Vf",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "faire un stage",
-                                "to go on a training period"
-                            ],
-                            "guid": "bj/1i:`7:a",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "se perfectionner",
-                                "to go on a refresher course"
-                            ],
-                            "guid": "i+QBbVFKs{",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "l'avanacement à l'ancienneté / au mérite",
-                                "promotion by seniority / by selection"
-                            ],
-                            "guid": "JPZTb`dJx9",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "une promotion ultrarapide",
-                                "fast-track scheme"
-                            ],
-                            "guid": "mAv{gQeo>?",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "gravir les échelons de l'entreprise",
-                                "to move up / to climb the corporate ladder"
-                            ],
-                            "guid": "kK+]LwW+|5",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "un jeune loup",
-                                "high flyer"
-                            ],
-                            "guid": "BKkp{PeYUZ",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "postes à responsabilité",
-                                "senior positions"
-                            ],
-                            "guid": "iX6Vp@`wm{",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "assumer la responsabilité de",
-                                "take on responsability for"
-                            ],
-                            "guid": "bKH@L^Gv*|",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "se faire mettre à la porte",
-                                "to get the sack"
-                            ],
-                            "guid": "MLAa65ubY(",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "lourdes suppressions d'emplois",
-                                "drastic job cuts"
-                            ],
-                            "guid": "upSd4_joFs",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "licencieùents de masse",
-                                "massive layoffs"
-                            ],
-                            "guid": "Hl%4)1rK(D",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "le taux de chômage",
-                                "unemployment rate"
-                            ],
-                            "guid": "y~uiQ$-l`D",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "le chiffres du chômage",
-                                "unenmployment figures"
-                            ],
-                            "guid": "x:OQCDI`*N",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "chômage partiel",
-                                "short-time working"
-                            ],
-                            "guid": "d4~04?i0:~",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "indemnités du chômage",
-                                "unemployment welfare benetifs / jobseeker's allowance"
-                            ],
-                            "guid": "y$HipN&rGj",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "toucher des indemnités chômage",
-                                "to collect unemployment benefits"
-                            ],
-                            "guid": "y!Z.#$>@N*",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "retrouver un emploi",
-                                "to find a new job"
-                            ],
-                            "guid": "nuyB_L12Gb",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "travailler au noir",
-                                "to moonlight"
-                            ],
-                            "guid": "s5NB,F-k}Z",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "déclarer",
-                                "declare"
-                            ],
-                            "guid": "ne8E*YBp6*",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "to regulate",
-                                "réglémenter"
-                            ],
-                            "guid": "v)LTxhm#`~",
-                            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
                         }
                     ],
                     "reviewLimit": null,
@@ -14356,6 +13292,7 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -14430,6 +13367,7 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -15778,6 +14716,246 @@
                 "refuser"
             ],
             "guid": ":76jbKnjA",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vanity",
+                "Excessive pride / worthless / futile"
+            ],
+            "guid": "A~dV<=rANM",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Thrifty",
+                "Using money and other resources carefully"
+            ],
+            "guid": "w*i/?tM0nA",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Scrimp",
+                "Be thrifty / parsimonious"
+            ],
+            "guid": "pHJc^J;*AI",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Curb",
+                "Restrain / keep in check"
+            ],
+            "guid": "GQazi$6]G4",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dismantle",
+                "Take to pieces"
+            ],
+            "guid": "l;%&Rrgkfd",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Apparatus",
+                "Technical équipment needed for a particular Activity or purpose"
+            ],
+            "guid": "MU.UXzT[(4",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hands-off",
+                "Not involving or requiring direct involvment or intervention"
+            ],
+            "guid": "JFnyZFbkpQ",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Oversight",
+                "Unintentional failure to notice or do something "
+            ],
+            "guid": "wlX7w48f,H",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wrong foot",
+                "Put someone in a difficult situation by saying or by doing something unexpected"
+            ],
+            "guid": "dPi>rZcuWm",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stamp out",
+                "Suppress or put an end to something by taking decisive action"
+            ],
+            "guid": "EH.f:AY8=N",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Drenched",
+                "Trempé"
+            ],
+            "guid": "r!GgrE,t;g",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Usage du présent perfect ",
+                "-exprimer bilan<br>-bilan présent d'une action passée<br>-indicateurs: already, just, ever, never,so far, for since over lately not yet<br>- traduire du présent en français avec adv depuis<br>- traduire c'est/ c'est pas la première fois que"
+            ],
+            "guid": "uRtM~x.;3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Usage du prétérit ",
+                "Action révolue "
+            ],
+            "guid": "pCyAbv>P_t",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Usage to make db do sth / have sth done",
+                "Make sb to sth lorsque contrainte forte<br>Ajouter to voix passive<br>To make oneself known / heard/ respected"
+            ],
+            "guid": "Ow/u||!:.p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Verbes à utiliser pour faire faire",
+                "Get <br>Cause<br>Force<br>Let"
+            ],
+            "guid": "mdK+<-31r)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Faire attendre",
+                "Keep sb waiting "
+            ],
+            "guid": "wXs$*Uy00j",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Faire chanter qqun",
+                "To blackmail sb"
+            ],
+            "guid": "h48%:n&;f:",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Faire entrer qqun",
+                "To let/show sb in"
+            ],
+            "guid": "g9#nsF8|-,",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Faire savoir qqch à qqun",
+                "To let sb know sth"
+            ],
+            "guid": "QuZoii&Z8O",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Faire venir qqun ",
+                "To send for sb"
+            ],
+            "guid": "ikwM7F[S.q",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Faire visiter qqch à qqun",
+                "To show sb round"
+            ],
+            "guid": "p<pvfNvQQl",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Se faire renverser/ ecraser",
+                "To be / get run over"
+            ],
+            "guid": "QNsS$cHgpt",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Utiliser structur faire faire ",
+                "Pour exprimer résultat et manière "
+            ],
+            "guid": "Qv{cfotL=Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Personnes agées",
+                "Elderly"
+            ],
+            "guid": "mKhdvtXQ#-",
             "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
             "tags": []
         }

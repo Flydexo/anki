@@ -86,7 +86,7 @@
     "newLimit": null,
     "newLimitToday": {
         "limit": 20,
-        "today": 41
+        "today": 145
     },
     "note_models": [
         {
@@ -140,6 +140,7 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -3196,7 +3197,7 @@
             "__type__": "Note",
             "fields": [
                 "inégalité arithmético-géométrique",
-                "\\[\\sqrt[n]{a_1\\ldots a_n} \\le \\frac{a_1+\\ldots+a_n}{n}\\]<br>"
+                "\\[\\frac{1}{\\frac{1}{a_1}+\\cdots+\\frac{1}{a_n}} \\le \\sqrt[n]{a_1\\ldots a_n} \\le \\frac{a_1+\\ldots+a_n}{n}\\]<br>"
             ],
             "guid": "vNXGPK#p}(",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -3602,7 +3603,7 @@
             "__type__": "Note",
             "fields": [
                 "lemme de l'escalier",
-                "\\(u_{n+1} - u_n \\rightarrow l \\Rightarrow \\frac{u_{n+1}}{u_n} \\rightarrow l\\)"
+                "\\(u_{n+1} - u_n \\rightarrow l \\Rightarrow \\frac{u_{n+1}}{n} \\rightarrow l\\)"
             ],
             "guid": "AU^1>O:sHA",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -4886,6 +4887,2560 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée de tan",
+                "\\[\\tan' = 1 + \\tan^2\\]<br>"
+            ],
+            "guid": "JC)=3HECfK",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire point d'inflexion et dérivée",
+                "f admet un point d'inflexion en&nbsp;\\(a \\in Int(I)\\)&nbsp;ssi&nbsp;\\(f''\\)&nbsp;s'annule et change de signe en a"
+            ],
+            "guid": "yXfJF)mu59",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "position tangentes et convexité",
+                "f convexe alors la courbe de f est au dessus de chacune de ses tangentes<br><br>\\[\\forall x \\in I, f(x) \\ge f(a) + (x-a)f'(a)\\]inverse pour concave<br>"
+            ],
+            "guid": "c5Qp2M&HBv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "convexité"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "k-contractance",
+                "f est k-contractante lorsqu'elle est k-lipschitzienne sur I avec k &lt; 1"
+            ],
+            "guid": "J)(q.B@h6e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème du point fixe de Banach",
+                "toute fonction&nbsp;\\(f: [a;b] \\rightarrow [a;b]\\)&nbsp;k contractante admet un unique point fixe,<br><br>donc la suite&nbsp;\\(u_{n+1} = f(u_n)\\)&nbsp;converge vers l (le point fixe) et on a<br>\\[\\forall n \\in \\mathbb{N}, \\mid u_n - l \\mid \\le k^n \\mid u_0 - l \\mid\\]<br>"
+            ],
+            "guid": "z={m>/QJ<%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suites"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée de c",
+                "0"
+            ],
+            "guid": "fPY&N=99a`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée de&nbsp;\\(x^n\\)",
+                "\\(nx^{n-1}\\)"
+            ],
+            "guid": "sK2)P&nV,2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée de&nbsp;\\(\\frac{1}{x^n}\\)",
+                "\\(\\frac{-n}{x^{n+1}}\\)"
+            ],
+            "guid": "vRed8#[{S^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée de \\(\\sqrt{x}\\)",
+                "\\(\\frac{1}{2\\sqrt{x}}\\)"
+            ],
+            "guid": "O-Tyc?)1C8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée de&nbsp;\\(e^x\\)",
+                "\\(e^x\\)"
+            ],
+            "guid": "Ji%kL|YE}]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée de&nbsp;\\(ln(x)\\)",
+                "\\(\\frac{1}{x}\\)"
+            ],
+            "guid": "D^1MOOck[r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(cosx\\)",
+                "\\(-sinx\\)"
+            ],
+            "guid": "k64hftAc63",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(sinx\\)",
+                "\\(cosx\\)"
+            ],
+            "guid": "Jcmpv(>rK:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(tanx\\)",
+                "\\(1 + tan^2 x = \\frac{1}{cos^2x}\\)"
+            ],
+            "guid": "A[O9J:])</",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(arcsinx\\)",
+                "\\(\\frac{1}{\\sqrt{1 - x^2}}\\)"
+            ],
+            "guid": "dU}|dMcFfm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(\\arccos x\\)",
+                "\\(- \\frac{1}{\\sqrt{1 - x^2}}\\)"
+            ],
+            "guid": "w}BnMeC#8}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(\\arctan x\\)",
+                "\\(\\frac{1}{1 + x^2}\\)"
+            ],
+            "guid": "Fj_sb6iOTC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(ch(x)\\)",
+                "\\(sh(x)\\)"
+            ],
+            "guid": "hMoGwP*PN!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(sh(x)\\)",
+                "\\(ch(x)\\)"
+            ],
+            "guid": "iHF@i1$9}f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée&nbsp;\\(th(x)\\)",
+                "\\(1 - th^2(x) = \\frac{1}{ch^2(x)}\\)"
+            ],
+            "guid": "14UA^|jD+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dérivation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vocabulaire système",
+                "lieu dans K (R ou C ou n'importe quel corps commutatif)<br>coefficients&nbsp;\\(a_{i,j}\\)<br>second membre (les scalaires à droite des égalités)<br>homogène lorsque second membre nuls<br>compatible admet au moins une solution<br>système carré = autant d'équations que d'inconnues"
+            ],
+            "guid": "xv2odW]4bz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "systèmes::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système équivalents signifient",
+                "avoir le même ensemble de solutions"
+            ],
+            "guid": "gGkI>8?qU^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "systèmes::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rang d'un système",
+                "nombre de pivots / d'équations principales de n'importe quelle réduite de gauss"
+            ],
+            "guid": "yN5*_J^o^9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "systèmes::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "f admet un développement limité à l'ordre n en a signifie",
+                "il existe&nbsp;\\(c_0, c_1, \\ldots, c_n\\)tq:<br><br>\\[f(x) =_{x\\to a} c_0 + c_1(x-a) + \\cdots + c_n(x-a)^n + o((x-a)^n)\\]<br>"
+            ],
+            "guid": "J?4K5G*IJy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(DL_n(0)\\)&nbsp;de&nbsp;\\(\\frac{1}{1-x}\\)",
+                "\\(\\frac{1}{1-x} =_{x\\to0} 1 + x + x^2 + \\cdots + x^n + o(x^n)\\)"
+            ],
+            "guid": "c72s&V4H5%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(DL_n(0)\\)&nbsp;de&nbsp;\\(\\frac{1}{1+x}\\)",
+                "\\[\\frac{1}{1+x} =_{x\\to0} 1 - x + x^2 + \\cdots + (-1)^nx^n + o(x^n)\\]<br>"
+            ],
+            "guid": "kma4Co(A8K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalence&nbsp;\\(DL_0(a)\\)&nbsp;et limite",
+                "\\(f(a+h) =_{h\\to0} c_0 + o(1)\\)&nbsp;équivat à l'existence d'une limite finie&nbsp;\\(c_0\\)&nbsp;en a<br><br><ul><li>si f est définie en a =&gt; f est continue en a et f(a) = c0</li><li>si f n'est pas définie en a on peut la prolonger par continuité en posant f(a) = c0</li></ul>"
+            ],
+            "guid": "Lm<F1<Iclk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalent&nbsp;\\(DL_1(a)\\)&nbsp;et dérivée",
+                "\\(f(a+h) =_{h\\to0} c_0 + c_1h + o(h)\\)&nbsp;équivaut à la dérivabilité de f en a et&nbsp;\\(f'(a) = c_1\\)"
+            ],
+            "guid": "APE35<&9.0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le développement limite est unique ?",
+                "oui"
+            ],
+            "guid": "HU^X3JB->:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité pair et impair",
+                "fonction paire admet que des monômes pairs (et inversement pour les fonctions impaires)"
+            ],
+            "guid": "M6En<G}6%q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Taylor-Young",
+                "soit&nbsp;\\(n \\in \\mathbb{N}\\)&nbsp;et&nbsp;\\(f : I \\to \\mathbb{R}\\)&nbsp;une fonction de classe&nbsp;\\(C^n\\). Pour tout&nbsp;\\(a \\in I\\), f admet un&nbsp;\\(DL_n(a)\\):<br><br>\\[f(a+h) =_{h\\to0} \\sum_{k=0}^n{\\frac{f^{(k)}(a)}{k!}h^k} + o(h^n)\\]<br>"
+            ],
+            "guid": "IF_}(;|+n$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de exp",
+                "\\[\\exp(x) =_{x\\to0} 1 + x + \\frac{x^2}{2!} + \\cdots + \\frac{x^n}{n!} + o(x^n) \\]<br>"
+            ],
+            "guid": "FIrhsMf[n_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de sin",
+                "\\[sin(x) =_{x\\to0} x - \\frac{x^3}{3!} + \\frac{x^5}{5!} + \\cdots + (-1)^n\\frac{x^{2n+1}}{(2n+1)!} + o(x^{2n+2})\\]<br>"
+            ],
+            "guid": "v[s[S0.fi)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de cos",
+                "\\[\\cos(x) =_{x\\to0} 1 - \\frac{x^2}{2!} + \\frac{x^4}{4!} + \\cdots + (-1)^n\\frac{x^{2n}}{(2n)!} + o(x^{2n+1})\\]<br>"
+            ],
+            "guid": "z9WcmGy4n6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de&nbsp;\\((1+x)^\\alpha\\)",
+                "\\[(1+x)^\\alpha =_{x\\to0} 1 + \\alpha x + \\frac{\\alpha(\\alpha-1)}{2!}x^2 + \\cdots + \\binom{\\alpha}{n}x^n + o(x^n)\\]<br>"
+            ],
+            "guid": "PnmMBYb9%v",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de&nbsp;\\(\\sqrt{1+x}\\)",
+                "\\[\\sqrt{1+x} =_{x\\to0} 1 + \\frac{1}{2}x - \\frac{1}{8}x^2 + \\frac{1}{16}x^3 - \\frac{1}{128}x^4 + o(x^4)\\]<br>"
+            ],
+            "guid": "HAtJJ?{I:G",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de&nbsp;\\(\\frac{1}{\\sqrt{1+x}}\\)",
+                "\\[\\frac{1}{\\sqrt{1+x}} =_{x\\to0} 1 - \\frac{1}{2}x + \\frac{3}{8}x^2 - \\frac{5}{16}x^3 + \\frac{35}{128}x^4 + o(x^4)\\]<br>"
+            ],
+            "guid": "Ctzdn:yq3c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "somme de DL",
+                "la somme admet un DL à l'ordre minimal des deux membres de la somme en combinant linéairement les DL"
+            ],
+            "guid": "Ji=Fi.6s4]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de ch",
+                "\\[ch(x) =_{x\\to0} 1 + \\frac{x^2}{2!} + \\frac{x^4}{4!} + \\cdots + \\frac{x^{2n}}{(2n)!} + o(x^{2n+1})\\]<br>"
+            ],
+            "guid": "czQW!@l[4_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement limité en 0 de sh",
+                "\\[sh(x) =_{x\\to0} x + \\frac{x^3}{3!} + \\frac{x^5}{5!} + \\cdots + \\frac{x^{2n+1}}{(2n+1)!} + o(x^{2n+2})\\]<br>"
+            ],
+            "guid": "Ju=!`:|@]Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit de DL",
+                "le produit admet un DL d'ordre au moins min des deux facteurs"
+            ],
+            "guid": "MM%8w;9?3q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formale normale d'un DL",
+                "\\[f(a+h) =_{h\\to0} h^p\\left(\\sum_{k=0}^{n-p}{c_{k+p}h^k + o(h^{n-p}})\\right)\\]<br>"
+            ],
+            "guid": "rzh:[g/$Oc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "comment trouver DL de&nbsp;\\(f^{-1}\\)",
+                "\\[f^{-1} \\circ f = \\text{Id}_I\\]<br>"
+            ],
+            "guid": "nxdL_$)@TB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "DL d'une primitive",
+                "si f admet&nbsp;\\(DL_n(a)\\)&nbsp;alors F admet une&nbsp;\\(DL_{n+1}(a)\\)&nbsp;en intégrant le DL de f"
+            ],
+            "guid": "xv/r>#HXVX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "DL en 0 de la fonction logarithmique",
+                "\\[ln(1+x) =_{x\\to0} x - \\frac{x^2}{2} + \\frac{x^3}{3} + \\cdots + (-1)^{n+1}\\frac{x^n}{n} + o(x^n)\\]<br>"
+            ],
+            "guid": "LF-i!nTnfh",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "DL en 0 de arctan",
+                "\\[\\arctan x =_{x\\to0} x - \\frac{x^3}{3} + \\frac{x^5}{5} + \\cdots + (-1)^n\\frac{x^{2n+1}}{2n+1}+o(x^{2n+1})\\]<br>"
+            ],
+            "guid": "v{blh<.v)`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "DL en 0 de arcsin",
+                "\\[\\arcsin x =_{x\\to0} x + \\frac{1}{2}\\frac{x^3}{3} + \\frac{3}{8}\\frac{x^5}{5} + \\cdots + \\frac{(2n)!}{2^{2n}(n!)}\\frac{x^{2n+1}}{2n+1} + o(x^{2n+1})\\]<br>"
+            ],
+            "guid": "Hr5KKk2DcU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "DL et dérivation",
+                "si f admet un&nbsp;\\(DL_n(a)\\)&nbsp;et f' admet un DL en n-1 alors le&nbsp;\\(DL_{n-1}(a)\\)&nbsp;de&nbsp;\\(f'\\)&nbsp;s'obtient en dérivant le&nbsp;\\(DL_n(a)\\)&nbsp;de f"
+            ],
+            "guid": "JvTmw(kA7{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "position courbe par rapport à tangente en fonction du DL",
+                "\\[f(x) =_{x\\to a} c_0 + c_1(x-a) + c_p(x-a)^p + o((x-a)^p)\\]<br><br>si p est pair et cp &gt; 0 alors au dessus de tangente<br>si p est pair et cp &lt; 0 alors en dessouss de tangente<br>si p est impair alors traverse la tangente en a"
+            ],
+            "guid": "xPELH,KMO<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "asymptote avec DL en&nbsp;\\(+\\infty\\)",
+                "\\(f(x) =_{x\\to+\\infty} ax + b + o(1)\\)<br><br>f admet comme asymptote&nbsp;\\(y = ax + b\\)&nbsp;au voisinage de&nbsp;\\(+ \\infty\\)"
+            ],
+            "guid": "jaKyG%6>o7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement généralisé",
+                "\\[x^kf(x) =_{x\\to0} c_0 + \\cdots + c_kx^k + \\cdots + c_nx^n + o(x^n)\\]<br>alors&nbsp;<br>\\[f(x) =_{x\\to0} \\frac{c_0}{x^k} + \\cdots + c_k + \\cdots + c_nx^{n-k} + o(x^{n-k})\\]c'est le développement généralisé de f en 0 à la précision&nbsp;\\(x^{n-k}\\)<br>"
+            ],
+            "guid": "I/54GV.}N}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "asymptote en ±\\(\\infty\\)&nbsp;avec DL généralisé",
+                "si f admet un développement généralisé à la précision&nbsp;\\(\\frac{1}{x^{n-1}}\\)&nbsp;\\((n \\ge 2\\))&nbsp; avec&nbsp;\\(c_2 = c_3 = \\cdots = c_{n-1} = 0\\)&nbsp;et&nbsp;\\(c_n \\ne 0\\)<br><br>alors la courbe de f admet pour asymptote la droite d'équation&nbsp;\\(y = c_0x + c_1\\)&nbsp;(signe et parité de&nbsp;\\(c_n\\)&nbsp;pour la position de la courbe par rapport asymptote)"
+            ],
+            "guid": "hhFI~9wMtM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "développements::limités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynôme",
+                "suite qui s'annule APCR (ce sont les coefficients du polynôme)"
+            ],
+            "guid": "pIw=,X&?QN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "multiplication de polynômes",
+                "\\(\\forall k \\in \\mathbb{K}, p_k = \\sum_{i=0}^k{a_ib_{k-i}} = \\sum_{i+j = k}{a_ib_j}\\)"
+            ],
+            "guid": "oOy]:;@lA`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "anneau des polynômes",
+                "l'ensembles des polynômes à une indéterminée est un anneau commutatif&nbsp;\\((\\mathbb{K}[X], +, \\times)\\)"
+            ],
+            "guid": "uEaP%6)<k=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "évaluation d'un polynôme",
+                "l'image de a par la fonction polynomiale"
+            ],
+            "guid": "r=7Ke0;Q^%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opérations sur les polynômes",
+                "<ul><li>produit par scalaire: (on multiple chaque monôme par le scalaire)</li><li>somme de deux polynômes:&nbsp;\\(\\sum_{n\\in\\mathbb{N}}{a_nX^n} + \\sum_{n\\in\\mathbb{N}}{b_nX^n} = \\sum_{n\\in\\mathbb{N}}{(a_n+b_n)X^n}\\)</li><li>produit de deux polynômes:&nbsp;\\(\\left( \\sum_{n\\in\\mathbb{N}}{a_nX^n} \\right)\\left( \\sum_{n\\in\\mathbb{N}}{b_nX^n} \\right) = \\sum_{n\\in\\mathbb{N}}\\left( \\sum_{k=0}^n{a_kb_{n-k}} \\right)X^n = \\sum_{n\\in\\mathbb{N}}\\left( \\sum_{\\displaylines{k,k'\\in \\mathbb{N} \\\\ k + k' = n}}{a_kb_{k'}} \\right)X^n\\)</li></ul>"
+            ],
+            "guid": "C@Pc:tXs6j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "degré d'un polynôme",
+                "\\[deg(A) = \\sup\\{n \\in \\mathbb{N} \\mid a_n \\ne 0\\}\\]avec la convention&nbsp;\\(deg(0) = -\\infty\\)<br>"
+            ],
+            "guid": "cWD.[pLw|[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathbb{K}_n[X]\\)",
+                "l'ensemble des polynômes de degrés inférieurs ou égaux à n"
+            ],
+            "guid": "r@ys|GrNf5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition sur les degrés",
+                "<ul><li>\\(deg(A+B) \\le \\max\\{deg(A), deg(B)\\}\\)<br></li><li>\\(deg(AB) = deg(A) + deg(B)\\)<br></li><li>\\(deg(\\lambda A) = deg(A) \\text{ si } \\lambda \\ne 0 \\text{ et } -\\infty \\text{ si } \\lambda = 0\\)&nbsp;<br></li></ul>"
+            ],
+            "guid": "x0AbJiS&8$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "l'anneau des polynômes est un anneau ...",
+                "intègre donc si produit nul alors un des facteurs est nul"
+            ],
+            "guid": "HQw`*)O<M)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le groupe des éléments inversibles de l'anneau des polynômes",
+                "l'ensemble des polynômes constants non nuls (deg = 0)"
+            ],
+            "guid": "QaIo!J_RD6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "composition de polynômes",
+                "\\[A \\circ B = \\sum_{n \\ge 0}{a_nB^n}\\]noté A(B)<br>"
+            ],
+            "guid": "bknb0[v6_W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi&nbsp;\\(\\circ\\)&nbsp;dans&nbsp;\\(\\mathbb{K}[X]\\)",
+                "<ul><li>distributive + et sur x à droite mais pas à gauche</li><li>associative</li><li>non commutative</li></ul>"
+            ],
+            "guid": "NK/,%~hQ{D",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "deg(\\(A \\circ B\\))",
+                "quand B polynôme non constant<br><br>\\[deg(A \\circ B) = deg(A) \\times deg(B)\\]<br>"
+            ],
+            "guid": "BIq-tT~<H<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivation des polynômes",
+                "\\[A' = a_1 + a_2X + \\cdots + na_nX^{n-1}\\]<br>"
+            ],
+            "guid": "rj2{WveS,J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée m-ième d'un polynôme",
+                "\\[A^{(m)} = \\sum_{j = m}^n{j(j-1)\\cdots(j-m+1)a_jX^{j-m}}\\]<br>"
+            ],
+            "guid": "b81Moa+exA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opération sur les dérivées de polynômes",
+                "<ul><li>\\((\\lambda A + \\mu B)' = \\lambda A' + \\mu B'\\)<br></li><li>\\((AB)' = A'B + AB'\\)<br></li><li>\\((A \\circ B)' = B'(A'\\circ B)\\)</li></ul>"
+            ],
+            "guid": "n&cB9i&BgQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "degré de la dérivée d'un polynôme",
+                "\\[deg(A^{(m)}) \\le deg(A) - m\\]égalité si corps de caractéristique nulle<br>"
+            ],
+            "guid": "O0^aH7-%PQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formule de Taylor pour les polynômes",
+                "\\[A = \\sum_{k=0}^n{\\frac{A^{(k)}(\\alpha)}{k!}(X-\\alpha)^k}\\]<br>"
+            ],
+            "guid": "KhXVr[|#Zk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diviseurs et multiples d'un polynôme",
+                "B divise A si il existe&nbsp;\\(Q \\in \\mathbb{K}[X]\\)&nbsp;tq BQ = A<br><br>l'ensemble des diviseurs de A&nbsp;\\(\\mathcal{D}(A)\\)<br><br>l'esenmble des multiples de B&nbsp;\\(B\\mathbb{K}[X]\\)"
+            ],
+            "guid": "OG4in^UFgO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la relation divise sur les polynômes est&nbsp;",
+                "un pré-ordre car à la place de l'antisymétrie on a:<br><br>\\[\\forall A, B \\in \\mathbb{K}[X], (A\\mid B \\text{ et } B\\mid A) \\Longleftrightarrow (\\exists \\lambda \\in \\mathbb{K}^*, A = \\lambda B)\\]<br>"
+            ],
+            "guid": "ZkJWH.O*1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition relation divisibilité sur polynômes",
+                "si B divise des polynomes&nbsp;\\(A_n\\)&nbsp;alors B divise les combinaisons linéaires des&nbsp;\\(A_n\\)&nbsp;par n'importe quels polynômes<br><br>si B1 divise A1, B2 divise A2, etc... B1 x .... x Bn divise A1 x ... x An&nbsp;"
+            ],
+            "guid": "v`]GbS2H!K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "division euclidienne sur les polynômes",
+                "A et B deux polynômes avec B non nul:<br>il existe un unique couple de polynômes (Q,R) tq:<br>\\[A = BQ + R \\text{ et } deg(R) &lt; deg(B) \\]<br>"
+            ],
+            "guid": "h?QbK.rv(^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition ordre de multiplicité",
+                "valide uniquement dans corps de caractéristique nulle<br><br>\\(\\alpha\\)&nbsp;est racine d'ordre de multiplicité m ssi&nbsp;\\(\\forall k \\in [0;m-1], A^{(k)}(\\alpha) = 0\\)&nbsp;et&nbsp;\\(A^{(m+1)}(\\alpha) \\ne 0\\)"
+            ],
+            "guid": "CSp%IHHj?h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nombre de racines",
+                "un polynôme de degré n possède au plus n racines comptées avec leur ordre de multiplicité"
+            ],
+            "guid": "ynLX3&9L@V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rigidité des polynômes",
+                "pour montrer que le polynôme A = B, on peut montrer que le polynôme A-B a plus de racines que son degré (forcément le polynôme nul)"
+            ],
+            "guid": "gm>4(-RTYL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de d'Alembert Gauss",
+                "les polynômes de degré n dans C admettent exactement n racines comptées avec leur ordre de multiplicité"
+            ],
+            "guid": "KnMg.k{pBJ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction symétrique élémentaire",
+                "\\[\\sigma_k = \\sum_{1\\le i_1 &lt; i_2 &lt; \\ldots &lt; i_k \\le n}{\\alpha_{i_1}\\ldots\\alpha_{i_k}}\\]par convention on pose&nbsp;\\(\\sigma_0 = 1\\)<br>"
+            ],
+            "guid": "v@!H6d4,$@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition polynômes et fonctions symétriques",
+                "Soit&nbsp;\\(A = a_n(X-\\alpha_1)\\ldots(X-\\alpha_n)\\)&nbsp;un polynôme de degré n, alors on a:<br><br>\\[A = a_n\\sum_{k=0}^{n}{(-1)^{n-k}\\sigma_{n-k}X^k}\\]<br>"
+            ],
+            "guid": "dpSZs$rr@Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relations de Viète",
+                "\\[\\sigma_k = (-1)^k\\frac{a_{n-k}}{a_n}\\]<br>"
+            ],
+            "guid": "C1j{L@JZFB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynômes élémentaires de Lagrange",
+                "Soient&nbsp;\\(n \\in \\mathbb{N}\\)&nbsp;et&nbsp;\\(\\alpha_1,\\ldots,\\alpha_n\\)&nbsp;des éléments distincts de K. les polynômes élémentaires de Lagrange de&nbsp;\\(\\alpha_1,\\ldots,\\alpha_n\\)&nbsp;sont les&nbsp;\\(L_1,\\ldots,L_n\\)&nbsp;définis par:<br><br>\\[\\forall k \\in [1;n], L_k = \\prod_{\\displaylines{j=1\\\\j\\ne k}}^n{\\frac{X-\\alpha_j}{\\alpha_k-\\alpha_j}}\\]Lk est l'unique polynôme de degré n-1 qui a pour racine tous les alpha (sauf alpha k) et qui s'évalue à 1 en alpha k:&nbsp;<br><br>\\[\\forall k,l \\in [1;n], L_k(\\alpha_l) = \\delta_{k,l}\\]<br>"
+            ],
+            "guid": "Agm#s-No9N",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition polynômes élémentaires de Lagrange",
+                "\\[\\forall P \\in \\mathbb{K}_{n-1}[X], P = \\sum_{i=1}^n{P(\\alpha_i)L_i}\\]"
+            ],
+            "guid": "IR%<fY]0a{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule d'interpolation de Lagrange",
+                "des alpha n distincts, des beta n dans K, il existe un unique polynôme K&nbsp; de degré inférieur ou égal à n-1 tq:<br><br>\\[\\forall l \\in [1;n], L(\\alpha_l) = \\beta_l\\]le polynôme d'interpolation de Lagrange du nuage de points&nbsp;\\((\\alpha_i,\\beta_i)_{1\\le i\\le n}\\):<br><br>\\[L = \\beta_1L_1 + \\cdots + \\beta_nL_n\\]<br>"
+            ],
+            "guid": "qnWx<r7x2/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "l'anneau K[X] est idéal c'est à dire",
+                "les seuls idéaux de K[X] sont les idéaux principaux donc les BK[X]"
+            ],
+            "guid": "b;2%LLaZ+)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynôme irréductible",
+                "lorsqu'il est non constant et ses seuls diviseurs sont 1 et P et leurs associés"
+            ],
+            "guid": "Pqyre`4[j7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition polynôme irréductible",
+                "polynôme non constant est irréductible ssi il est premier avec tous les polynômes qu'il ne divise pas<br><br>existe aussi avec les degrés: irréductible ssi&nbsp;\\(deg(P) \\ge 1\\)&nbsp;et que tout diviseur D de P vérifie deg(D) = 0"
+            ],
+            "guid": "o.aN3lK|7Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "décomposition primaire des polynômes",
+                "\\[A = P_1^{m_1}\\ldots P_r^{m_r=}\\]décomposition unique à l'ordre de facteurs près"
+            ],
+            "guid": "fTeOw=v2&&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynôme scindé",
+                "lorsque sa décomposition primaire ne contient que des polynômes de degré 1<br><br>\\[A = a(X-\\alpha_1)^{m_1}\\ldots(X-\\alpha_r)^{m_r}\\]scindé simple si&nbsp;\\(m_1 = \\cdots = m_r = 1\\)<br>"
+            ],
+            "guid": "bxo-:E]@%w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynôme irréductibles dans C",
+                "les polynômes de degré 1 (aX + b)"
+            ],
+            "guid": "r@~n!;U>*~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynômes scindés sur C",
+                "tous les polynômes sur C sont simplement scindés"
+            ],
+            "guid": "t`v_0%E-!i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nombre de racines polynômes dans C",
+                "de degré n, admet donc exactement n racines comptées avec leur ordre de multiplicité"
+            ],
+            "guid": "xl|,MosGUY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "factorisation sur R",
+                "A un polynôme a coefficient réels, si&nbsp;\\(\\alpha\\)&nbsp;est racine complexe de A alors&nbsp;\\(\\over{\\alpha}\\)&nbsp;est également racine de A de même ordre de multiplicité que&nbsp;\\(\\alpha\\)"
+            ],
+            "guid": "iG]Ojyz5;4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynômes irréductibles dans R",
+                "degré 1 et degré 2 à discriminant négatif"
+            ],
+            "guid": "c,_?C8Et!(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "décomposition polynôme dans R",
+                "\\[A = a\\prod^r_{j=1}{(X-\\alpha_j)^{m_j}}\\prod^s_{k=1}{(X^2 - 2Re(\\beta_k) + |\\beta_k|^2)^{\\mu_k}}\\]avec alpha les racines réeles et beta les racines complexes<br>"
+            ],
+            "guid": "vOfFqeOO~e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "polynômes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "réprésentant irréductible et unitaire",
+                "- irréductible&nbsp; (A/S) lorsque pgcd(A,S) = 1<br>- unitaire&nbsp; (A/S) lorsque S est unitairex"
+            ],
+            "guid": "Cb+%Vg#9E~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "degré de A/S",
+                "deg(A) - deg(S)"
+            ],
+            "guid": "NUnP2Pe[+[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "racine / pole de A/S",
+                "racine = racine de A<br>pole = racine de S&nbsp;"
+            ],
+            "guid": "e=0E%TU2~?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi composition sur fractions rationelles (3 props)",
+                "-&nbsp;\\((F+G)\\circ H = F\\circ H  + G \\circ H\\)<br>-&nbsp;\\((FG)\\circ H = (F\\circ H)(G \\circ H)\\)<br>-&nbsp;\\(\\circ \\text{ est associative}\\)"
+            ],
+            "guid": "K*lZWM^(&j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "éléments simples de K(X)",
+                "- polynômes sur K<br>-&nbsp;\\(C/S^m\\)&nbsp;où S est irréductible,&nbsp;\\(m \\in \\mathbb{N}^*\\),&nbsp;\\(C \\in \\mathbb{K}[X]^*\\)&nbsp;tel que&nbsp;\\(deg(C) &lt; deg(S)\\)"
+            ],
+            "guid": "l>:iB[#3hn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition polynôme scinde pour fractions rationelles",
+                "\\[P = a(X-\\alpha_1)^{m_1}\\ldots(X-\\alpha_n)^{m_n}\\]avec alpha distincts:<br>\\[\\frac{P'}{P} = \\sum_{k=1}^n{\\frac{m_i}{X - \\alpha_i}}\\]<br>"
+            ],
+            "guid": "CHL0tHPhen",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "éléments simples dans&nbsp;\\(\\mathbb{C}(X)\\)",
+                "- polynômes<br>-&nbsp;\\(\\frac{\\lambda}{(aX+b)^m}\\)"
+            ],
+            "guid": "ie?7Au.7t[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "éléments simples sur&nbsp;\\(\\mathbb{R}(X)\\)",
+                "- polynômes<br>-&nbsp;\\(\\frac{\\lambda}{(aX+b)^m}\\)<br>-&nbsp;\\(\\frac{\\lambda X + \\mu}{(aX^2 + bX + c)^m}\\)&nbsp;avec&nbsp;\\(\\Delta &lt; 0\\)"
+            ],
+            "guid": "w].%d(yv7x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "étapes pour décomposer en éléments simples sur&nbsp;\\(\\mathbb{C}\\)",
+                "1. partie entière<br>2. factoriser dénominateur<br>3. décomposition en éléments simples"
+            ],
+            "guid": "D4ay`.iT?S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "étapes pour décomposer en éléments simples sur&nbsp;\\(\\mathbb{R}\\)",
+                "1. partie entière<br>2. factoriser<br>3. décomposition en éléments simples<br><br>méthode alternative:<br>partir de la décomposition dans C et additionner les racines avec leurs conjugués"
+            ],
+            "guid": "u1/]!nN~kv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "calcul des coefficients dans K(X)",
+                "\\[\\lambda = ((X-\\alpha)^mF)(\\alpha)\\]<br>"
+            ],
+            "guid": "rArW5@3b92",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "autre méthode pour coefficient lorsque la forme développée est plus simple que la factorisée",
+                "\\[\\lambda = m!\\frac{A(\\alpha)}{S^{(m)}(\\alpha)}\\]<br>"
+            ],
+            "guid": "GC<9Bv-Hz@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fractions::rationnelles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice élémentaire",
+                "\\(E_{a,b} \\in \\mathcal{M}_{n,p}(\\mathbb{K})\\), tous les coefficients sont nuls sauf celui à la ligne a et colonne b qui est 1&nbsp;<br><br>\\[[E_{a,b}]_{i,j} = \\delta_{a,i}\\delta_{b,j}\\]<br>"
+            ],
+            "guid": "gj`RogCa8o",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice identité",
+                "\\(I_n \\in \\mathcal{M}_n(\\mathbb{K})\\)&nbsp;coefficients sur diagonale = 1, reste nul"
+            ],
+            "guid": "GkS~x0HN,G",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice triangulaire supérieure",
+                "\\[\\forall (i,j)\\in [1;n], i&gt;j \\implies m_{i,j} = 0\\]<br>"
+            ],
+            "guid": "e@RPXxTyQQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice triangulaire supérieure stricte",
+                "\\[\\forall (i,j) \\in [1;n],  i\\ge j \\implies m_{i,j} = 0\\]<br>"
+            ],
+            "guid": "rwt?MCQD$s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice scalaire",
+                "\\[\\lambda I_n\\]<br>"
+            ],
+            "guid": "h_0QDdx;`B",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "multiplication matricielle",
+                "\\[A \\in \\mathcal{M}_{n,p}(\\mathbb{K}), B \\in \\mathcal{M}_{p,q}(\\mathbb{K})\\]<br>\\[\\forall (i,j) \\in [1;n]\\times[1;q], [AB]_{i,j} = \\sum_{k=0}^p{[A]_{i,k}[B]_{k,j}}\\]<br>"
+            ],
+            "guid": "f7,a5A@HGr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit de matrices élémentaires",
+                "\\[E_{i,j}\\times E_{k,l} = \\delta_{j,k}E_{i,l}\\]<br>"
+            ],
+            "guid": "m@/j;Ku5)!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transposition",
+                "\\[\\forall (i,j) \\in [1;n]\\times[1;q], a'_{i,j} = a_{j,i}\\]-&nbsp;\\((A^T)^T = A\\)<br>-&nbsp;\\((\\lambda A + \\mu B)^T = \\lambda A^T + \\mu B^T\\)<br>-&nbsp;\\((AB)^T = B^TA^T\\)"
+            ],
+            "guid": "N]K6fk|xpL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "anneau des matrices carrées",
+                "pas commutatif, pas intègre<br>nilpotence<br>diviseurs de zéro<br>\\((AB)^p \\ne A^pB^p\\)"
+            ],
+            "guid": "JE8mPs/#TH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynôme annulateur",
+                "\\[A \\in \\mathcal{M}_n(\\mathbb{K})\\]\\[P(A) = \\sum_{k=0}^n{a_kX^k} = a_0I_n + \\ldots + a_nA^n\\]polynôme annulateur de a si P(A) = 0"
+            ],
+            "guid": "H%#2}-,5/8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "calculer les puissances d'une matrice",
+                "trouver polynôme annulateur (calculer les puissance 2,3,...)<br>reste de la division euclidienne de&nbsp;\\(X^n\\)&nbsp;par P on le note R<br>\\(\\forall n \\in N, A^n = R(A)\\)"
+            ],
+            "guid": "w(}{s3&BWC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groupe des matrices inversibles",
+                "groupe linéaire\\[GL_n(\\mathbb{K})\\]le groupe n'est pas abélien<br>"
+            ],
+            "guid": "r<<FN2]XCc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions (4) inverses de matrice",
+                "-&nbsp;\\((A^{-1})^{-1} = A\\)<br>-&nbsp;\\((AB)^{-1} = B^{-1}A^{-1}\\)<br>-&nbsp;\\((\\lambda A)^{-1} = \\lambda^{-1}A^{-1}\\)<br>-&nbsp;\\((A^T)^{-1} = (A^{-1})^T\\)"
+            ],
+            "guid": "qQR}BltD.E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ensemble des matrices diagonales&nbsp;\\(\\mathcal{D}_n(\\mathbb{K})\\)",
+                "sous-anneau commutatif<br><br>\\[diag(\\lambda_1,\\ldots,\\lambda_n)diag(\\mu_1,\\ldots,\\mu_n) = diag(\\lambda_1\\mu_1,\\ldots,\\lambda_n\\mu_n)\\]<br>"
+            ],
+            "guid": "e,)9P53gX9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ensemble des matrices scalaires",
+                "sous-anneau des matrices diagonales, corps isomorphe à&nbsp;\\(\\mathbb{K}\\)"
+            ],
+            "guid": "IblI$q85(n",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inverisiblité matrice diagonale",
+                "matrice diagonale inversible ssi tous ses coeffs diagonaux sont non nuls"
+            ],
+            "guid": "Jn9ry3lc|]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inversibilité matrice triangulaire",
+                "matrice triangulaire est inversible ssi tous ses coefficients diagonaux sont non nuls"
+            ],
+            "guid": "dkV]~L[kaj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "k-ième sur/sous diagonale",
+                "sur-diagonale:&nbsp;\\(a_{1,k+1},\\ldots,a_{n-k,n}\\)<br>sous-diagonale:&nbsp;\\(a_{k+1,1},\\ldots,a_{n,n-k}\\)"
+            ],
+            "guid": "vuRyl%e*aV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition puissances de matrices strictement triangulaires supérieures",
+                "les 0-ième,&nbsp; 1-ième, ..., (p-1)-ième sur-diagonales de&nbsp;\\(A^p\\)&nbsp;sont nulles<br>on a donc&nbsp;\\(A^n = 0\\)"
+            ],
+            "guid": "QXao!^^/^^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice symétrique / antisymétrique",
+                "- symétrique:&nbsp;\\(M^T = M\\)<br>- antisymétrique:&nbsp;\\(M^T = -M\\)"
+            ],
+            "guid": "mN%m{[]HAA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "symétrie / antisymétrie est stable par",
+                "inversion"
+            ],
+            "guid": "KEb>N1{1Qj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "conditions matrices symétriques / anti",
+                "matrice carrée est symétrique si: coefficients au dessus de la diagonale sont les symétriques de ceux d'en dessous<br>matrice carrée est antisymétrique si: diagonale nulle et au dessus antisymétrique d'en dessous"
+            ],
+            "guid": "DXN0=<|o)f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "trace matrice",
+                "\\[Tr(A) = \\sum_{k=1}^n{[A]_{k,k}}\\]<br>"
+            ],
+            "guid": "O~`y2/bP~_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions trace (3)",
+                "- stable par combinaison linéaire<br>-&nbsp;\\(Tr(A^T) = Tr(A)\\)<br>-&nbsp;\\(Tr(AB) = Tr(BA)\\)"
+            ],
+            "guid": "ru!|&7S8{:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "calcul de l'inverse d'une matrice carrée",
+                "matrice A inversible ssi pour toute matrice colonne Y, le système linéaire AX = Y admet une unique solution (est de Cramer)"
+            ],
+            "guid": "CRD++!YJ#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition inversible dans sur-corps",
+                "soit&nbsp;\\(\\mathbb{L}\\)&nbsp;un sur-corps de&nbsp;\\(\\mathbb{K}\\), on a:<br>\\[\\mathcal{M}_n(\\mathbb{K}) \\cap GL_n(\\mathbb{L}) = GL_n(\\mathbb{K})\\]<br>"
+            ],
+            "guid": "c}?y9Al0h.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "déterminant d'une matrice 2x2",
+                "\\[det(A) = ad - bc\\]<br>"
+            ],
+            "guid": "ICdZ/9&$*V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions déterminant (3)",
+                "-&nbsp;\\(det(A^T) = det(A)\\)<br>-&nbsp;\\(det(\\lambda A) = \\lambda det(A)\\)<br>-&nbsp;\\(\\det(AB) = \\det(A)\\det(B)\\)"
+            ],
+            "guid": "d.~/Y,G3xu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition inversible et déterminant",
+                "une matrice 2x2 est inversible ssi son déterminant est non nul<br>\\(det(A^{-1}) = (det(A))^{-1}\\)<br><br>\\(A^{-1} = \\frac{1}{det(A)}\\left(\\begin{matrix}d &amp; - b \\\\ -c &amp; a\\end{matrix}\\right)\\)"
+            ],
+            "guid": "D#72vda)Lx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "résolution d'un système 2x2",
+                "\\[\\left\\{\\begin{array}{rcl}\nax + by = e\\\\\ncx+dy = f\n\\end{array}\\right.\\]<br><br>système de cramer ssi det != 0, on a:<br>\\[\\left(\\begin{matrix}x\\\\y\\end{matrix}\\right) = \\frac{1}{det(A))}\\left(\\begin{matrix}d &amp; -b\\\\-c&amp;a\\end{matrix}\\right)\\left(\\begin{matrix}e\\\\f\\end{matrix}\\right)\\]<br>"
+            ],
+            "guid": "l4$sU].`e&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formules de cramer",
+                "\\[x = \\frac{\n\\left|\\begin{matrix}\ne &amp; b \\\\\nf &amp; d\n\\end{matrix}\\right|\n}{\n\\left|\\begin{matrix}\na &amp; b \\\\\nc &amp; d\n\\end{matrix}\\right|\n}\\]\\[y = \\frac{\n\\left|\\begin{matrix}\na &amp; e \\\\\nc &amp; f\n\\end{matrix}\\right|\n}{\n\\left|\\begin{matrix}\na &amp; b \\\\\nc &amp; d\n\\end{matrix}\\right|\n}\\]<br>"
+            ],
+            "guid": "x%^qY/IdSu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "calcul::matriciel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition d'un&nbsp;\\(\\mathbb{K}-ev\\)",
+                "groupe abélien<br>loi de composition externe avec&nbsp;\\(\\mathbb{K}\\)<br>attention:&nbsp;\\(\\mathbb{K}\\)&nbsp;est un corps commutatif"
+            ],
+            "guid": "w7Te5EHauE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: sur corps",
+                "soit&nbsp;\\(\\mathbb{L}\\)&nbsp;un sur-corps de&nbsp;\\(\\mathbb{K}\\)&nbsp;alors&nbsp;\\(\\mathbb{L}\\)&nbsp;est un&nbsp;\\(\\mathbb{K}-\\text{ev}\\)"
+            ],
+            "guid": "HfdDsxp)fA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental:&nbsp;\\(\\mathbb{K}^n\\)",
+                "\\(\\mathbb{K}^n\\)&nbsp;est un&nbsp;\\(\\mathbb{K}-ev\\)"
+            ],
+            "guid": "AC`;{K0byV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: applications",
+                "\\(\\mathbb{K}^X\\)&nbsp;est un&nbsp;\\(\\mathbb{K}-ev\\)&nbsp;(l'ensemble des applications de X dans K)"
+            ],
+            "guid": "e@jye[&;-=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: polynômes",
+                "\\(\\mathbb{K}[X]\\)&nbsp;est un&nbsp;\\(\\mathbb{K}-ev\\)&nbsp;(idem pour&nbsp;\\(\\mathbb{K}(X)\\))"
+            ],
+            "guid": "MjW:Io05C]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: matrices",
+                "\\(\\mathcal{M}_{n,p}(\\mathbb{K})\\)&nbsp;est un&nbsp;\\(\\mathbb{K}-ev\\)"
+            ],
+            "guid": "JEWj94&biG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathbb{K}\\)-algèbre",
+                "(A, +, x) un anneau<br>(A, +, .) un K-ev<br>\\(\\lambda(x\\times y) = (\\lambda x)\\times y = x \\times (\\lambda y)\\)"
+            ],
+            "guid": "y~W%CesmmN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "colinéaire, coplanaire",
+                "- colinéaire:&nbsp;\\(x = \\lambda y\\)<br>- coplanaire:&nbsp;\\(x = \\lambda y + \\mu z\\)"
+            ],
+            "guid": "btBvGVWp@=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "famille presque nulle / à support fini",
+                "lorsque seul un nombre fini de ses éléments est non nul<br><br>\\[\\mathbb{K}^{(I)} = \\{ (\\lambda_i)_{i\\in I} \\in \\mathbb{K} \\mid \\text{Card}\\{i\\in I \\mid \\lambda_i \\ne 0_\\mathbb{K}\\} &lt; +\\infty \\}\\]<br>"
+            ],
+            "guid": "tu7*hany=(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "combinaison linéaire d'un espace vectoriel",
+                "lorsqu'il existe une famille à support fini tel que:<br>\\[x = \\sum_{i\\in I}{\\lambda_ix_i}\\]<br>"
+            ],
+            "guid": "P5>Mpx.QCr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous espace vectoriel",
+                "-&nbsp;\\(F \\subset E\\)<br>-&nbsp;\\(0_E \\in F\\)<br>-&nbsp;\\(\\forall x,y \\in F, \\forall \\lambda, \\mu \\in \\mathbb{K}, \\lambda x + \\mu y \\in F\\)"
+            ],
+            "guid": "beF~fDB||-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "droite vectorielle / plan vectoriel",
+                "droite:&nbsp;\\(D = \\{ \\lambda a \\mid \\lambda \\in \\mathbb{K} \\}\\)&nbsp;est un sev<br>plan:&nbsp;\\(P = \\{ \\lambda a + \\mu b \\mid \\lambda, \\mu \\in \\mathbb{K} \\}\\)&nbsp;est un sev"
+            ],
+            "guid": "QuU-feTrt",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hyperplan de&nbsp;\\(\\mathbb{K}^n\\)",
+                "\\(a_1, \\ldots, a_n \\in \\mathbb{K}\\)&nbsp;non tous nuls,&nbsp;<br><br>le sous ensemble de&nbsp;\\(\\mathbb{K}^n\\)&nbsp;\\(\\{ a_1x_1 + \\cdots + a_nx_n \\mid (x_1,\\ldots,x_n) \\in \\mathbb{K}^n \\}\\)&nbsp;est l'hyperplan de&nbsp;\\(\\mathbb{K}^n\\)"
+            ],
+            "guid": "v6//3EOJUe",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: fonctions continues",
+                "\\(\\mathcal{C}^k(X, \\mathbb{K})\\)&nbsp;est un sev de&nbsp;\\(\\mathbb{K}^X\\)"
+            ],
+            "guid": "mP`j,<^V_R",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental:&nbsp;\\(\\mathbb{K}_n[X]\\)",
+                "\\(\\mathbb{K}_n[X]\\)&nbsp;est un sev de&nbsp;\\(\\mathbb{K}[X]\\)"
+            ],
+            "guid": "Koj3[z*A19",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: sev matrices",
+                "diagonales, triangulaires, symétriques, antisymétriques sont des sev de M"
+            ],
+            "guid": "k,U:|mM*}}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition intersection sev",
+                "intersection d'une famille de sev de E est un sev de E"
+            ],
+            "guid": "jB~]cvaR=^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sev engendré",
+                "\\(E\\)&nbsp;un&nbsp;\\(\\mathbb{K}-ev\\),&nbsp;\\(A \\subset E\\)<br><br>\\(\\text{Vect}(A)\\)&nbsp;= le plus petit sous-espace vectoriel de E qui contient A, l'intersection de tous les sev de E qui contiennent A"
+            ],
+            "guid": "fTgB_PtBOH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition sur Vect(A)",
+                "Vect(A) est l'ensemble des combinaisons linéaires des éléments de A"
+            ],
+            "guid": "k9N7[n<q3r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "famille génératrice",
+                "E un&nbsp;\\(\\mathbb{K}-ev\\),&nbsp;\\(F \\subset E\\)<br><br>une famille&nbsp;\\((x_i)_{i\\in I}\\)&nbsp;de F est dité génératrice lorsque:<br><br>\\[\\forall x \\in F, \\exists (\\lambda_i)_{i\\in I} \\in \\mathbb{K}^{(I)}, x = \\sum_{i\\in I}{\\lambda_ix_i}\\]autre façon de dire:&nbsp;\\((x_i)_{i\\in I}\\)est une famille génératrice de F lorsque&nbsp;\\(F = Vect((x_i)_{i\\in I})\\)<br>"
+            ],
+            "guid": "v[0NX;$ada",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "famille libre",
+                "\\[\\forall (\\lambda_i)_{i \\in I}, (\\mu _i)_{i \\in I} \\in \\mathbb{K}^{(I)}, \\left( \\sum_{i \\in I}{\\lambda_ix_i} = \\sum_{i \\in I}{\\mu_ix_i} \\right) \\implies (\\forall i \\in I, \\lambda_i = \\mu_i)\\]<br>"
+            ],
+            "guid": "w5mQXcrds0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition famille libre",
+                "\\((x_i)_{i \\in I}\\)&nbsp;est libre ssi:<br><br>\\[\\forall (\\lambda_i)_{i \\in I} \\in \\mathbb{K}^{(I)}, \\left(\\sum_{i\\in I}{\\lambda_ix_i} = 0_E\\right) \\implies (\\forall i \\in I, \\lambda_i = 0_\\mathbb{K})\\]<br>"
+            ],
+            "guid": "BXnbH%*VkD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: famille échelonnée",
+                "une famille échelonnée est libre"
+            ],
+            "guid": "I4bYuc4?_>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental: famille échelonnée de polynômes",
+                "famille de polynôme (non nuls) de degrés deux-à-deux dinstincts est échelonnée est libre"
+            ],
+            "guid": "r&NMoG_Pw(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition famillle liée",
+                "une famille de xi est liée ssi un des xi est combinaison linéaire des autres"
+            ],
+            "guid": "bO!F/:=qU%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "base (espaces vectoriels)",
+                "base = famille libre et génératrice<br><br>\\[\\forall x\\in F, \\exists! (\\alpha_i)_{i \\in I} \\in \\mathbb{K}^{(I)}, x = \\sum_{i\\in I}{x_i\\alpha_i}\\]<br>"
+            ],
+            "guid": "v[VxRD=hJ3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalences bases",
+                "- être une base<br>- être famille libre maximale<br>- être famille génératrice minimale"
+            ],
+            "guid": "fz*4$P(Mpe",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dimension finie d'un espace vectoriel",
+                "E est de dimension finie lorsqu'il admet une famille génératrice finie"
+            ],
+            "guid": "u@4K.q!]u4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme d'échange de Steinitz",
+                "E un espace vectoriel de dimension finie,&nbsp;\\(\\mathcal{G} = (g_1, \\dots, g_m)\\)&nbsp;une famille génératrice de E.<br><br>Toute famile libre dans E est finie et possède au plus m vecteurs"
+            ],
+            "guid": "DkaGF)%`(4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;ajouter / enlever des vecteurs dans un espace engendré",
+                "- si x et y sont colinéaires non nuls,&nbsp;\\(\\text{Vect}(A\\cup\\{x\\}) = \\text{Vect}(A\\cup\\{y\\})\\)<br>- si x se décompose sur les vecteurs de A, alors&nbsp;\\(\\text{Vect}(A\\cup\\{x\\}) = \\text{Vect}(A) \\)"
+            ],
+            "guid": "u$nUO2=~fM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous-algèbre",
+                "sev et sous anneau"
+            ],
+            "guid": "t+b*:+m@uT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition sous/sur familles",
+                "sous famille de famille libre est libre<br>si&nbsp;\\(x_j\\)&nbsp;n'est pas combinaison linéaire de la famille libre, alors la famille&nbsp;\\(x_i\\cup x_j\\)&nbsp;est encore libre"
+            ],
+            "guid": "bie0o)yB,`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "espace vectoriel de dimension infinie",
+                "ssi il contient une famille libre infinie"
+            ],
+            "guid": "rU<?Vu-9rE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de la base intermédiaire",
+                "soit E un K-ev de dimension infinie,&nbsp;\\(L\\)&nbsp;une famille libre et&nbsp;\\(G\\)&nbsp;une famille génératrice telles que&nbsp;\\(L \\subset G\\)&nbsp;alors il existe une base&nbsp;\\(B\\)&nbsp;telle que:<br>\\[L \\subset B \\subset G\\]<br>"
+            ],
+            "guid": "AM1ccf]E^N",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de la base extraite",
+                "E un K-ev de dimension finie,<br>de toute famille génératrice de E, on peut extraire une base finie de E"
+            ],
+            "guid": "rFn5(@eu%5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de la base incomplète",
+                "soit E un K-ev de dimension finie<br><br>toute famille libre dans E peut être complétée en une base finie de E"
+            ],
+            "guid": "s&)_X2(B%Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème bases, K-ev dimension finie",
+                "Tout espace vectoriel de dimension finie admet des bases finies"
+            ],
+            "guid": "o:18G4H[D+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dimension d'un espace vectoriel",
+                "le cardinal des bases de E&nbsp;"
+            ],
+            "guid": "MwVD#oe{F_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème K-ev de dimension finie (n)",
+                "- toute famille libre admet au maximum n éléments<br>- toute famille libre ayant n éléments est une base<br>- toute famille génératrice admet au moins n éléments<br>- toute famille génératrice ayant n éléments est une base"
+            ],
+            "guid": "d~J$GcLZKp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dimension d'un produit",
+                "\\[\\dim(E\\times F) = \\dim(E) + \\dim(F)\\]généralisable à un produit de n K-ev<br>et on a<br>\\[\\dim(E^p) = p\\dim(E)\\]<br>"
+            ],
+            "guid": "uh]C:GPq<V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème (sous espace vec fini)",
+                "si G un sev de F alors&nbsp;\\(\\dim(G) \\le \\dim(F)\\)<br>si&nbsp;\\(\\dim(G) = \\dim(F)  \\)&nbsp;alors&nbsp;\\(G = F\\)"
+            ],
+            "guid": "g?+Dx(P~6Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rang d'une famille de vecteurs",
+                "\\[rg((x_i)_{i\\in I}) = \\dim(\\text{Vect}((x_i)_{i \\in I}))\\]<br>"
+            ],
+            "guid": "qnT~{Z!@Z5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition rang",
+                "rang le nombre maximal de vecteurs linéairement indépendants de la famille<br>le nombre minimal de vecteurs d'une famille génératrice de Vect(\"famille\")"
+            ],
+            "guid": "P+Zjfb9qyA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition rang dimension",
+                "Soit&nbsp;\\(\\mathcal{F} \\text{ une famille de vecteurs de } E\\), on a:<br>\\[rg(\\mathcal{F}) \\le \\dim(E)\\]\\[rg(\\mathcal{F}) \\le Card(\\mathcal{F})\\]<br>"
+            ],
+            "guid": "emUCU7H/&|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition vecteurs dans famille pour opération rang",
+                "si&nbsp;\\(\\lambda \\ne 0\\):<br>\\[rg(\\ldots,x_i,\\ldots,\\lambda x_k,\\ldots,x_j,\\ldots) = rg(\\ldots,x_i,\\ldots,x_k,\\ldots,x_j,\\ldots)\\]si&nbsp;\\(k \\ne l\\):<br>\\[rg(\\ldots,x_i,\\ldots,x_k + \\mu x_l,\\ldots,x_j,\\ldots) = rg(\\ldots,x_i,\\ldots,x_k,\\ldots,x_j,\\ldots)\\]<br>"
+            ],
+            "guid": "J%mj_sRd<j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème liberté, génératrice avec rang",
+                "F libre ssi rg(F) = card(F)<br>F génératrice de E ssi rg(F) = dim(E)<br>F base de E ssi rg(F) = card(F) = dim(E)&nbsp;"
+            ],
+            "guid": "o|&@ZH<9&*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "somme de sev",
+                "\\((F_i)\\)&nbsp;une famille de sev de E<br>\\[\\sum_{i\\in I}{F_i} = \\text{Vect}\\left(\\bigcup_{i\\in I}{F_i}\\right)\\]<br>"
+            ],
+            "guid": "nE34v/JEsK",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés somme de sev",
+                "- somme de deux droites vectorielles est le plan qui les contient<br>-&nbsp;\\((G \\subset F) \\implies (F + G = F)\\)"
+            ],
+            "guid": "eW3FZh^(6T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\"produit\" de sev",
+                "\\(E^{(I)}\\)&nbsp;l'ensemble des familles presque nulles de vecteurs de E<br>\\((F_i)_{i\\in I}\\)&nbsp;une famille de sev de E,&nbsp;\\(\\prod_{i\\in (I)}{F_i} \\)&nbsp;c'est l'ensemble des familles presque nulles&nbsp;\\((f_i)_{i \\in I} \\in E^{(I)}\\)&nbsp;telles que&nbsp;\\(\\forall i \\in I, f_i \\in F_i\\):&nbsp;<br>\\[\\prod_{i\\in (I)}{F_i}  = E^{(I)}\\cap\\prod_{i\\in I}{F_i} \\]<br>"
+            ],
+            "guid": "ce{D3le4oV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition famille presque nulle de vecteurs",
+                "\\[\\sum_{i \\in I}{F_i} = \\left\\{\\sum_{i\\in I}{f_i} \\mid (f_i)_{i\\in I} \\in \\prod_{i\\in (I)}{F_i} \\right\\}\\]<br>"
+            ],
+            "guid": "JH3-POA6Dp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sommes directes",
+                "\\(F_i\\)&nbsp;une famille de sev de E, les&nbsp;\\(F_i\\)&nbsp;sont en somme directe lorsqu'on a le principe d'identification<br>\\[\\forall (f_i)_{i \\in I}, (f_i')_{i\\in I} \\in \\prod_{i \\in (I)}{F_i}, \\left(\\sum_{i \\in I}{f_i} = \\sum_{i \\in I}{f_i'} \\right) \\implies (\\forall i \\in I, f_i = f'_i)\\]<br>"
+            ],
+            "guid": "s?)k{[Xh3E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés somme directe",
+                "- donne l'unicité de la somme<br>- famille de vecteurs non nuls est libre ssi&nbsp;\\(\\sum_{i \\in I}{x_i} = \\bigoplus_{i \\in I}{\\text{Vect}(x_i)}\\)"
+            ],
+            "guid": "pW:]R,OoEV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe de non compensation",
+                "\\[\\forall (f_i)_{i \\in I} \\in \\prod_{i \\in (I)}{F_i}, \\left( \\sum_{i \\in I}{f_i} = 0 \\right) \\implies \\forall i \\in I, f_i = 0\\]<br>"
+            ],
+            "guid": "I(k^Yt8:dx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition somme directe de deux sev",
+                "F et G sont en somme directe ssi&nbsp;\\(F \\cap G = \\{0\\}\\)"
+            ],
+            "guid": "JKtS;)nSQa",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition somme directe et partition",
+                "\\(I_j\\)&nbsp;une partition de I,&nbsp;\\((F_i)_{i \\in I}\\)&nbsp;une famille de sev de de E,&nbsp;\\(G_j = \\sum_{i \\in I_j}{F_i}\\)&nbsp;<br>on a équivalence entre:<br>- les&nbsp;\\((F_i)_{i \\in I}\\)&nbsp;sont en somme directe<br>- pour tout&nbsp;\\(j \\in J\\),&nbsp; les&nbsp;\\((F_i)_{i \\in I}\\)&nbsp;sont en somme directe et les&nbsp;\\((G_j)_{j \\in J}\\)&nbsp;sont en somme directe"
+            ],
+            "guid": "Fh9.^J;OC=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sev supplémentaires",
+                "\\[F \\bigoplus G = E\\]c'est équivalent à:<br>\\[\\forall x \\in E, \\exists!(f,g) \\in F \\times G, x = f + g\\]<br>"
+            ],
+            "guid": "d4;dxGtG-|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "décomposition directe",
+                "\\((F_i)_{i \\in I}\\)&nbsp;forme une décomposition directe de E lorsque:<br>\\[E = \\bigoplus_{i \\in I}{F_i}\\]\\[\\forall x \\in E, \\exists!(f_i)_{i \\in I}\\in\\prod_{i \\in (I)}{F_i}, x = \\sum_{i \\in I}{f_i}\\]<br>"
+            ],
+            "guid": "JO,ZjI-*m+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "famille génératrice d'une somme",
+                "\\[\\sum_{i \\in I}{\\text{Vect}\\left((x_{i,j})_{j\\in J_i}\\right)} = \\text{Vect}((x_{i,j})_{i\\in I, j\\in J_i})\\]<br>"
+            ],
+            "guid": "CP8F}e_z6j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme de juxtaposition des bases",
+                "la famille juxtaposée&nbsp;\\((e_{i,j})_{i\\in I, j \\in J_i}\\)&nbsp;est une base de&nbsp;\\(\\sum_{i \\in I}{F_i}\\)&nbsp;ssi les&nbsp;\\(F_i\\)&nbsp;sont en somme directe"
+            ],
+            "guid": "zIY_h2ithY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème sev et supplémentaire",
+                "soit E un K-ev de dimension finie,<br><br>tout sev de E admet un supplémentaire dans E"
+            ],
+            "guid": "L)LJ^tz9d8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dimension d'une somme",
+                "\\(\\dim(F + G) = \\dim(F) + \\dim(G) - \\dim(F\\cap G)\\)"
+            ],
+            "guid": "fR<6$s!BC^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dimension somme directe",
+                "\\[\\dim(F\\bigoplus G) = \\dim(F) + \\dim(G)\\]<br>"
+            ],
+            "guid": "s@;S%;ez%3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité somme de dimension",
+                "\\[\\dim(F_1 + \\cdots + F_n) \\le \\dim(F_1) + \\cdots + \\dim(F_n)\\]"
+            ],
+            "guid": "Ofcsn?T#hK",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "somme directe dimension (cas n)",
+                "\\[\\dim(F_1 \\bigoplus \\cdots \\bigoplus F_n) = \\dim(F_1) + \\cdots + \\dim(F_n)\\]<br>"
+            ],
+            "guid": "lf]9d>[pe.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dimension supplémentaire",
+                "les supplémentaires de F dans E, ont pour dimension&nbsp;\\(\\dim(E) - \\dim(F)\\)"
+            ],
+            "guid": "kV=ilM.+<~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème équivalences dimensions",
+                "soit E un K-ev de dimension finie, on a équivalence entre:<br>- F et G supplémentaires<br>-&nbsp;\\(F \\cap G = \\{0\\}\\)&nbsp;et&nbsp;\\(\\dim(F) + \\dim(G) = \\dim(E)\\)<br>-&nbsp;\\(F + G = E\\)&nbsp;et&nbsp;\\(\\dim(F) + \\dim(G) = \\dim(E)\\)"
+            ],
+            "guid": "xW_12pWeLu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "translation ev",
+                "\\[T_a: x \\mapsto x + a\\]<br>"
+            ],
+            "guid": "hz*%v19&Yc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous espace affine",
+                "Soit V un sev de E<br>\\[\\mathcal{V} = T_a(V) = a + V = \\{a + u \\mid u \\in {V}\\}\\]<br>"
+            ],
+            "guid": "nmCg3+U?UD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition sous espace affine",
+                "\\[\\forall b \\in \\mathcal{V}, \\mathcal{V} = b + V\\]&nbsp;et<br>\\[V = \\{v - w \\mid (v,w) \\in \\mathcal{V}^2\\}\\]ainsi V est unique: direction&nbsp;<br>"
+            ],
+            "guid": "LFz(7oOOS2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces::vectoriels"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "application linéaire",
+                "Soit E et F deux K-ev,<br>\\(f: E \\to F\\)<br>&nbsp;\\[\\forall x_1,x_2 \\in E, \\forall \\lambda, \\mu \\in \\mathbb{K}, f(\\lambda x_1, \\mu x_2) = \\lambda f(x_1) + \\mu f(x_2)\\]"
+            ],
+            "guid": "gv0>5B##.U",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition application linéaire",
+                "-&nbsp;\\(f(0_E) = 0_F\\)<br>-&nbsp;\\(\\forall x \\in E, f(-x) = -f(x)\\)<br>-&nbsp;\\(\\forall p \\in \\mathbb{N}^*, \\forall x_1,\\ldots,x_p \\in E, \\forall \\lambda_1,\\ldots,\\lambda_n \\in \\mathbb{K}, f\\left( \\sum_{k=1}^{p}{\\lambda_kx_k} \\right) = \\sum_{k=1}^p\\lambda_k{f(x_k)}\\)"
+            ],
+            "guid": "D|kBG@K9xF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "morphisme d'algèbre",
+                "application linéaire + morphisme d'anneau"
+            ],
+            "guid": "lr)Jzg[Pch",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "notation applications linéaires",
+                "- appli lin de E dans F:&nbsp;\\(\\mathcal{L}(E,F)\\)<br>- endomorphismes&nbsp;\\(\\mathcal{L}(E)\\)<br>- automorphismes&nbsp;\\(\\mathcal{GL}(E)\\)"
+            ],
+            "guid": "s&_$r`={f:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forme linéaire",
+                "\\(\\mathcal{L}(E,\\mathbb{K})\\)&nbsp;noté&nbsp;\\(E^*\\)&nbsp;(dual de E)"
+            ],
+            "guid": "bvrNE7QuGH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition forme linéaire",
+                "une forme linéaire non nulle est surjective"
+            ],
+            "guid": "x4:w+<(-n/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
             ]
         }
     ],

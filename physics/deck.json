@@ -84,6 +84,7 @@
         "Screenshot 2024-10-07 at 21.28.08.png",
         "Screenshot 2024-10-28 at 14.34.24.png"
     ],
+    "mid": 1725465955482,
     "name": "physics",
     "newLimit": null,
     "newLimitToday": {
@@ -142,6 +143,7 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -2846,6 +2848,614 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "propagation::signal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur vitesse coordonnées polaire / cylindrique",
+                "\\[\\vec{v} = \\dot{r}\\vec{u_r} + r\\dot{\\theta}\\vec{u_\\theta} + \\dot{z}\\vec{u_z}\\]<br>"
+            ],
+            "guid": "o<o[[d-Yvy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur accélération coordonnées polaires / cylindriques",
+                "\\[\\vec{a} = (\\ddot{r} - r\\dot{\\theta}^2)\\vec{u_r}+(2\\dot{r}\\theta^2 + r\\ddot{\\theta})\\vec{u\\theta} + \\ddot{z}\\vec{u_z}\\]<br>"
+            ],
+            "guid": "m7dk5*tKpq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe d'inertie",
+                "existence des référentiels galiléens: tout point matériel isolé est en mouvement rectiligne uniforme<br><br>les référentiels galiléens sont eux-même en mouvement rectiligne uniforme les uns par rapport aux autres"
+            ],
+            "guid": "yWbNu4|xY~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur quantité de mouvement",
+                "\\(\\vec{p} = m\\vec{v}\\)"
+            ],
+            "guid": "yQ)Y~H>`Q;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe d'actions réciproques",
+                "\\[\\overrightarrow{f_{M\\to ext}} = -\\overrightarrow{f_{ext \\to M}}\\]<br>"
+            ],
+            "guid": "K^>Za?<o+s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zone de validité de la mécanique",
+                "tant que v &lt; c/10"
+            ],
+            "guid": "HV<lfinJYK",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force de gravitation universelle",
+                "\\[\\vec{F_{P\\to M}} = -G\\frac{m_1m_2}{d^2}\\vec{u_{PM}}\\]"
+            ],
+            "guid": "lAU{7(J.CA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force électrostatique",
+                "\\[\\overrightarrow{F_{P\\to M}} = \\frac{q_1q_2}{d^2}\\overrightarrow{u_{PM}}\\]<br>"
+            ],
+            "guid": "l,f*?}W0i#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force de tension d'un fil",
+                "\\[\\vec{T} = -T\\vec{u_{ext}}\\]-&nbsp;\\(\\vec{u_{ext}}\\)&nbsp;toujours orienté vers l'extérieur<br>- T &gt; 0"
+            ],
+            "guid": "I5hq^u9ySz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force de rappel élastique",
+                "\\[\\vec{F} = -k\\Delta{l}\\vec{u_{ext}}\\]\\[\\Delta l = l - l_0\\]<br>"
+            ],
+            "guid": "AY=E!EzH;,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "frottements",
+                "<ul><li>sans glissement:&nbsp;\\(||\\vec{T}|| \\le \\mu_s||\\vec{N}||\\)</li><li>avec glissement:&nbsp;\\(||\\vec{T}|| = \\mu_d||\\vec{N}||\\)</li></ul><div>on a toujours&nbsp;</div>\\(\\mu_d &lt; \\mu_s\\)"
+            ],
+            "guid": "o~:sC-tKA&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "poussé d'archimède",
+                "\\[\\vec \\pi = -\\rho V\\vec g\\]<br>"
+            ],
+            "guid": "Heb_ZC:+((",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "frottements de fluide (incluant air)",
+                "\\(\\vec f= -k\\vec v\\)"
+            ],
+            "guid": "A#0n`3T`A0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "comparaison oscillateur harmonique élec et mécanique",
+                "R =&nbsp;\\(\\lambda\\)<br>L = m<br>C = 1/k<br>\\(w_0 = \\sqrt{\\frac{k}{m}}\\)"
+            ],
+            "guid": "mmOZh7;aR#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "dynamique::du::point"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "puissance d'une force",
+                "\\(P(\\vec{f}) = \\vec{f}\\cdot\\vec{v}\\)"
+            ],
+            "guid": "txuD#vXE?L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "travail élémentaire d'une force",
+                "\\[\\delta W(\\vec{f}) = P(\\vec{f})dt\\]<br>"
+            ],
+            "guid": "r`&TG}G7b(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "travail d'une force au cours d'un déplacement",
+                "\\[W_{A\\to B}(\\vec{f}) = \\int_{M\\in{AB}}{\\delta W(\\vec{f})}\\]<br>"
+            ],
+            "guid": "Bj&4&PZd8n",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énérgie cinétique",
+                "\\(E_c = \\frac{1}{2}mv^2\\)"
+            ],
+            "guid": "Er9B$9Ta7x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de la puissance cinétique",
+                "\\[\\frac{dE_c}{dt} = \\sum_{i=1}{P(\\vec{f_i})}\\]<br>"
+            ],
+            "guid": "K+sWA*J#H.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de l'énergie cinétique",
+                "\\[\\Delta{E_c} = E_c(t_2) - E_c(t_1) = \\sum_{i=1}{W\\vec{f_{i\\to M}}}\\]<br>\\[dEc = \\sum_{i=1}\\delta W \\vec{f_i}\\]<br>"
+            ],
+            "guid": "jEPWy)zVEE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force conservative",
+                "f conservative ssi:<br>\\[\\vec{f}\\cdot d\\vec{OM} = \\vec{f}\\cdot d\\vec{l} = \\delta W(\\vec{f}) = -dEp\\]<br>"
+            ],
+            "guid": "G_{+VJkr@a",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie potentielle de pensanteur",
+                "\\[E_{pp} = mgz\\]<br>"
+            ],
+            "guid": "pG#/Nssm]4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie potentielle de gravitation",
+                "\\[E_p = -\\frac{Gmm_p}{r}\\]<br>"
+            ],
+            "guid": "qHIMg<qeSC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie potentielle élastique",
+                "\\[E_p = \\frac{1}{2}k(x-l_0)^2\\]<br>"
+            ],
+            "guid": "Cem0p[1SL+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie pontentielle électrique",
+                "\\[E_p = \\frac{q_1q_2}{4\\epsilon_0\\pi r}\\]<br>"
+            ],
+            "guid": "n_.|~]W?h{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de l'énergie mécanique",
+                "la variation d'énergie mécanique est égale au travail des forces non conservatives"
+            ],
+            "guid": "C?.jL*hpgu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "position d'équilibre",
+                "somme des forces est nulle<br>\\(\\frac{dEp}{dt} = 0\\)<br>stable:&nbsp;\\(\\frac{d^2 Ep}{dt^2} &gt; 0\\)&nbsp;<br>instable:&nbsp;\\(\\frac{d^2 Ep}{dt^2} &lt;0\\)"
+            ],
+            "guid": "A_BuM*ycNW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "approximation harmonique",
+                "\\[E_p(x) = E_p(x_{eq}) + (x-x_{eq})\\frac{dEp}{dt}(x_{eq}) + \\frac{(x-x_{eq})^2}{2}\\frac{d^2Ep}{dt^2}(x_{eq})\\]<br>"
+            ],
+            "guid": "GHo7`qPf/Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "énergie"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "champ électrique",
+                "grandeur vectorielle en volt par mètre"
+            ],
+            "guid": "yR(4M&!w]b",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "création d'un champ électrique",
+                "alimenter deux plaques avec une différence de potentiel:<br>\\[E = \\frac{U}{d}\\]<br>"
+            ],
+            "guid": "eiIxq(xK)e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force électromagnétique",
+                "électrique: accélère ou freine une particule chargée<br>magnétique: ne peut que dévier"
+            ],
+            "guid": "h0A7T0]2A^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force de Lorentz",
+                "\\[\\vec{f} = q\\vec{E} + q(\\vec{v} \\wedge \\vec{B})\\]<br>"
+            ],
+            "guid": "K>2D;3Cu04",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pontentiel électrique",
+                "\\[E_p = qV \\]\\[V = \\frac{E_p}{q}\\]<br>"
+            ],
+            "guid": "cyrUDQ8@0R",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variation d'énergie cinétique d'une particule chargée",
+                "\\[\\Delta E_c = -q\\Delta V\\]<br>"
+            ],
+            "guid": "i2oI.%Lof!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "accélération proton / électron",
+                "électron ou proton au répos accéléré de 1V acquiert une énergie cinétique de 1 eV"
+            ],
+            "guid": "n)pFvhcS(,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mouvement particule chargée dans champ magnétique",
+                "uniforme"
+            ],
+            "guid": "i!I~+j+mVN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "trajectoire particule chargée dans champ magnétique",
+                "mouvement circulaire et uniforme à la vitesse angulaire:&nbsp;\\(\\omega_c = \\frac{|q|B}{m}\\)&nbsp;(pulsation cyclotron)<br>on trouve le rayon de la trajectoire avec&nbsp;\\(v_0 = R\\omega_c\\)&nbsp;(repère de Frenet)"
+            ],
+            "guid": "i*LEAsA&`W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "particules::chargées"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valeur efficace signal sinusoïdal",
+                "\\[\\frac{X_0}{\\sqrt{2}}\\]<br>"
+            ],
+            "guid": "pz6TU!0B/p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lien entre&nbsp;\\(\\underline{x(t)}\\)&nbsp;et&nbsp;\\(x(t)\\)",
+                "valeur instantannée:&nbsp;\\(Re(\\underline{x(t)})\\)<br>amplitude:&nbsp;\\(|\\underline{x(t)}|\\)<br>phase initiale:&nbsp;\\(\\phi = arg(\\underline{x(t)}) - \\omega t = arg(\\underline{X_0})\\)"
+            ],
+            "guid": "u0xHlJ98;O",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivation intégration signal complexe",
+                "derivation:&nbsp;\\(\\times j\\omega\\)<br>intégration:&nbsp;\\(\\times \\frac{1}{j\\omega}\\)<br>"
+            ],
+            "guid": "hl%u:++x5T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "déphasage signaux complexes",
+                "\\[\\psi - \\phi = \\frac{arg(\\underline{y(t)})}{arg(\\underline{x(t)})}\\]<br>"
+            ],
+            "guid": "K#]T`DP7/2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impédence",
+                "\\[\\underline{u} = \\underline{Z}\\times\\underline{i}\\]module de Z: rapport entre U0 et I0<br>argument de Z: déphasage de u(t) par rapport à i(t)<br><br>admittance:\\[\\underline{Y} = \\frac{1}{\\underline{Z}}\\]"
+            ],
+            "guid": "GXOp~*aS2=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impédance de dipôles",
+                "- résistor:&nbsp;\\(\\underline{Z} = R\\)<br>- condensateur&nbsp;\\(\\underline{Z} = \\frac{1}{jC\\omega}\\)<br>- bobine&nbsp;\\(\\underline{Z} = jL\\omega\\)"
+            ],
+            "guid": "q;zu=Ksbba",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impédance en série",
+                "\\[\\underline{Z_S} = \\underline{Z_1} + \\underline{Z_2}\\]<br>"
+            ],
+            "guid": "k%@cW!Hj86",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impédance en parallèle",
+                "\\[\\underline{Z_P} = \\frac{\\underline{Z_1}\\underline{Z_2}}{\\underline{Z_1}+\\underline{Z_2}}\\]<br>"
+            ],
+            "guid": "dZ3V;$3r<d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pont diviseur de tension (impédance)",
+                "\\[\\underline{u_1} = \\underline{u}\\frac{\\underline{Z_1}}{\\underline{Z_1}+\\underline{Z_2}}\\]"
+            ],
+            "guid": "pFOb5@Go<[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pont diviseur d'intensité (impédance)",
+                "\\[\\underline{i_1} = \\underline{i}\\frac{\\underline{Z_2}}{\\underline{Z_1}+\\underline{Z_2}}\\]<br>"
+            ],
+            "guid": "pBf-;52geG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "résonance",
+                "résonance quand l'amplitude de la réponse sinusoidale d'un système à une excitation sinusoidale d'amplitude fixe mais de fréquence variable passe par un maximum pour une valeur&nbsp;\\(f_0\\)&nbsp;de la fréquence (fréquence de résonance)"
+            ],
+            "guid": "oInQf]rk.H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "facteur de qualité (régime sinusoïdal)",
+                "\\[Q = \\frac{1}{R}\\sqrt{\\frac{L}{C}} = \\frac{L\\omega_0}{R} = \\frac{1}{RC\\omega_0}\\]\\[U_{R0} = \\frac{E_0}{\\sqrt{1 + (Q^2(\\frac{\\omega}{\\omega_0} - \\frac{\\omega_0}{\\omega})^2)}}\\]<br>"
+            ],
+            "guid": "mO8trNo<P$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "circuit RLC série (ou oscillo mécanique) résonance en intensité guarantie pour",
+                "pulsation&nbsp;\\(\\omega_0\\)"
+            ],
+            "guid": "z]KDXsIV9e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "condition résonance en intensité",
+                "courant et tension du générateur en phase (droite sur XY)"
+            ],
+            "guid": "n5_.ba~^v5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
             ]
         }
     ],
