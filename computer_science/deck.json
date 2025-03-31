@@ -79,10 +79,15 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "Screenshot 2025-03-31 at 22.56.33.png"
+    ],
     "name": "computer science",
     "newLimit": null,
-    "newLimitToday": null,
+    "newLimitToday": {
+        "limit": 20,
+        "today": 209
+    },
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -424,6 +429,474 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition arbre binaire",
+                "arbre binaire T tel que pour tout noeud Node(x,g,d) de l'arbre, on ait:&nbsp;<br>les élements de g sont inférieurs ou égaux à x et ceux de d strictement plus grands"
+            ],
+            "guid": "O@rBjePYHy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition inductive ABR",
+                "un abre binaire est un [a;b]-ABR si:<br>soit T = Nil<br>soit T = Node(r,g,d) et g est un [a;r]-ABR et d un ]r;d]-ABR et&nbsp;\\(r \\in [a;b]\\)<br><br>un abre binaire est un ABR si c'est un&nbsp;\\([]-\\infty;+\\infty[]-ABR\\)&nbsp;ou&nbsp;\\(\\exists a,b\\)&nbsp;tq T est un&nbsp;\\([a;b]-ABR\\)"
+            ],
+            "guid": "w|PY:En`w`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "complexité recherche ABR",
+                "O(h(t)) = O(log(t))"
+            ],
+            "guid": "MzB14ftx4+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "supression dans un ABR",
+                "on recherche x dans T<br>lorque trouvé<br>- si le noeud contant x à 0/1 enfants -&gt; son enfant prend sa place<br>- sinon (g,d)-&gt; on place max(g) dans le noeud qui contient x, on supprime max(g) dans g"
+            ],
+            "guid": "DGN/wk4k(d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition prédecesseur",
+                "T un ABR sans doublons, et&nbsp;\\(x \\ne min(T)\\). Soit&nbsp;\\(Node(x,g_x,d_x)\\)&nbsp;le sous-arbre de T dont la racine est x.<br><br>1) Si&nbsp;\\(g_x \\ne Nil\\),&nbsp;\\(pred_T(x) = max(g)\\)<br>2) Sinon, l'étiquette d'un ancêtre de x dans T, le noeud a le moins profond de T tel que le chemin de a à x soit de descendre une fois à droite et toujours à gauche."
+            ],
+            "guid": "P{p%&ztw,n",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;rotations ABR",
+                "<img src=\"Screenshot 2025-03-31 at 22.56.33.png\">"
+            ],
+            "guid": "e4I@?^a+bY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition AVL",
+                "un ABR est un AVL si pour tout sous-arbre de la forme Node(x,g,d)&nbsp;\\(|h(g) - h(d)| \\le 1\\)"
+            ],
+            "guid": "Br7`YRf!HO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "complexité tri ABR",
+                "\\[O(nlog(n))\\]car chaque insertion coûte&nbsp;\\(O(log(n))\\)&nbsp;et on a&nbsp;\\(n\\)&nbsp;insertions<br>"
+            ],
+            "guid": "p<~{J!is|%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "arbres::binaires::de::recherche"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "recap complexité espace",
+                "on mesure le pic de consommation mémoire<br>on ne compte que l'espace de travail intermédiaire (ni l'entrée, ni la sortie)"
+            ],
+            "guid": "Gm_Z;.MgPk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "complexité::espace"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "conso espace pour un programme récursif",
+                "proportionnel au nombre d'appels"
+            ],
+            "guid": "eS>@g^$NtX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "complexité::espace"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition mathématique graphe",
+                "\\[G = (V,E)\\]où V est un ensemble fini de sommets (vertex, vertices) et&nbsp;\\(E \\subset V \\times V\\)&nbsp;est l'ensemble des arêtes (edge)<br>"
+            ],
+            "guid": "GRa7o44OO}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "boucle",
+                "arête de la forme (u,u)"
+            ],
+            "guid": "4k^`8]9p>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition graphe non orienté",
+                "\\[\\forall u,v \\in V, (u,v) \\in E \\implies (v,u) \\in E\\]<br>"
+            ],
+            "guid": "igSyGJ&f{)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition voisin",
+                "\\[(u,v) \\in E\\]v est voisin de u (successeur)<br>u prédecesseur de v"
+            ],
+            "guid": "d3x!=z|C#q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "degré sortant / degré entrant",
+                "\\[d_+(u) = |\\{ v \\in V, (u,v) \\in E \\}|\\]\\[d_-(u) = |\\{ v \\in V, (v,u) \\in E \\}|\\]<br>"
+            ],
+            "guid": "DlWWoP.e>.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "identité d'Euler",
+                "\\[d_+(u) \\le |E|\\]\\[d_-(u) \\le |E|\\]\\[\\sum_{u\\in V}{d_+(u)} = \\sum_{u\\in V}{d_-(u)} = |E|\\]<br>"
+            ],
+            "guid": "jNx8.%rNI$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chemin",
+                "suite finie de sommets<br>u0 est l'origine (source) et u_k son arrivée"
+            ],
+            "guid": "P)[}QNaMrP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition accessible",
+                "t accessible depuis s s'il existe une chemin d'origine s et d'arrivée t"
+            ],
+            "guid": "sS4Q])0int",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chemin simple",
+                "suite ne contient pas deux fois le même sommet"
+            ],
+            "guid": "Q#Ag;-f;s!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cycle",
+                "si u0 = uk"
+            ],
+            "guid": "gX_HDf~.M@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "graphe orienté acyclique",
+                "si il ne contient pas de cycle"
+            ],
+            "guid": "bYK4yQYxCz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "graphe non orienté acyclique",
+                "si il ne contient pas de cycle simple de longuer supérieure ou égale à 3"
+            ],
+            "guid": "hDpytFN]hp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété graphe acyclique",
+                "G est acyclique ssi&nbsp;\\(\\forall u,v \\in V\\)&nbsp;il existe au plus un chemin simple de u à v"
+            ],
+            "guid": "y5/n;&1LiZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;sous-graphe",
+                "\\[G' = (V',E')\\]\\[V' \\subset V\\]\\[E' = E\\cap(V'\\times V')\\]<br>"
+            ],
+            "guid": "w{%TjM/FQC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "connexité graphe non-orienté",
+                "\\[\\forall s, t\\in V\\]t est accessible depuis s<br>"
+            ],
+            "guid": "q(qG=M=.BR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forte connexité graphe orienté",
+                "pour tout sommets s,t: t est accessible depuis s"
+            ],
+            "guid": "e6Mh~;drs&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "graphe faiblement connexe",
+                "lorsqu'un graphe orienté est connexe vu comme un graphe non-orienté"
+            ],
+            "guid": "c6$~>bT]a;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "composante connexe (graphe non orienté)",
+                "sous-graphe maximal connexe"
+            ],
+            "guid": "FG96hJq#UJ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "composante connexe de u",
+                "l'unique composante connexe qui contient u"
+            ],
+            "guid": "EB0iaw/)5L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "composante fortement connexe",
+                "sous-graphe maximal fortement connexe"
+            ],
+            "guid": "w%^l7N$*?9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition arbre comme graphe",
+                "graphe non-orienté connexe acyclique"
+            ],
+            "guid": "f7&H^Q-bQC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forêt",
+                "graphe dont chaque composante connexe est un arbre (graphe non-orienté acyclique)"
+            ],
+            "guid": "I/z..qq{^G",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "graphe biparti",
+                "graphe pour lequel on peut partitionner V en deux ensembles disjoints&nbsp;\\(V_1\\)&nbsp;et&nbsp;\\(V_2\\)&nbsp;non vides tels que&nbsp;<br>\\[i \\in \\{0;1\\}, \\forall u,v \\in V_i, (u,v) \\notin E\\]<br>"
+            ],
+            "guid": "cs%%Nj+y:T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité graphes",
+                "\\[n = |V|, m = |E|\\]\\[m \\le n^2\\]<br>"
+            ],
+            "guid": "vHN{NIa)Zb",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "graphes"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition Tas",
+                "arbre binaire presque complet: tous les étages sont pleins sauf eventuellement le dernier, et au dernier étage les noeuds sont le plus à gauche possible"
+            ],
+            "guid": "AjN=Z4>kHN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "tas::binaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tas-Max",
+                "tas étiqueté tel que l'étiquette de chaque noeud est supérieur à celles de ses enfants (donc max = racine)"
+            ],
+            "guid": "vUc32h7hl2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "tas::binaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "implémentation Tas",
+                "tableau T de longueur N<br>racine T[0]<br>enfants de i T[2i+1] T[2i+2]"
+            ],
+            "guid": "A5#3`$,8<R",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "tas::binaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "percolate up/down",
+                "# T: tas; i : noeud;<br># On suppose que l’étiquette de i a été modifiée pour une valeur supérieure<br>def percolate_up(T, i):<br>&nbsp;&nbsp;&nbsp; soit p le parent de i<br>&nbsp;&nbsp;&nbsp; si i n’est pas la racine et l’étiquette de i &gt; étiquette de p :<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; échanger dans T l’étiquette de i et celle de p<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; percolate_up(T, parent(i))<br><br># On suppose que l’étiquette de i a été modifiée pour une valeur inférieure<br>def percolate_down(T, i):<br>&nbsp;&nbsp;&nbsp; soit m le noeud d’étiquette maximale entre i, son éventuel fils gauche<br>&nbsp;&nbsp;&nbsp; et son éventuel fils droit<br>&nbsp;&nbsp;&nbsp; échanger dans T l’étiquette de i et celle de m<br>&nbsp;&nbsp;&nbsp; si m est différent de i :<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; percolate_down(T, m)"
+            ],
+            "guid": "AqLW`-l8Ul",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "tas::binaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "complexité percolate",
+                "\\[O(logn)\\]<br>"
+            ],
+            "guid": "J^6hr`~,YZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "tas::binaire"
             ]
         }
     ],
