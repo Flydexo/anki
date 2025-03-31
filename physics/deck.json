@@ -320,9 +320,7 @@
             ],
             "guid": "p,r2#CQ#e=",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "leech"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -2863,16 +2861,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "vecteur accélération coordonnées polaires / cylindriques",
-                "\\[\\vec{a} = (\\ddot{r} - r\\dot{\\theta}^2)\\vec{u_r}+(2\\dot{r}\\theta^2 + r\\ddot{\\theta})\\vec{u\\theta} + \\ddot{z}\\vec{u_z}\\]<br>"
-            ],
-            "guid": "m7dk5*tKpq",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "principe d'inertie",
                 "existence des référentiels galiléens: tout point matériel isolé est en mouvement rectiligne uniforme<br><br>les référentiels galiléens sont eux-même en mouvement rectiligne uniforme les uns par rapport aux autres"
             ],
@@ -3174,7 +3162,7 @@
             "__type__": "Note",
             "fields": [
                 "approximation harmonique",
-                "\\[E_p(x) = E_p(x_{eq}) + (x-x_{eq})\\frac{dEp}{dt}(x_{eq}) + \\frac{(x-x_{eq})^2}{2}\\frac{d^2Ep}{dt^2}(x_{eq})\\]<br>"
+                "\\[E_p(x) = E_p(x_{eq}) + (x-x_{eq})\\frac{dEp}{dx}(x_{eq}) + \\frac{(x-x_{eq})^2}{2}\\frac{d^2Ep}{dx^2}(x_{eq})\\]<br>"
             ],
             "guid": "GHo7`qPf/Q",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -3456,6 +3444,1056 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Log2 ",
+                "0,3"
+            ],
+            "guid": "hsxw9y|$Vg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Log3",
+                "0.5"
+            ],
+            "guid": "rM2|1MHzp,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Log5",
+                "0.7"
+            ],
+            "guid": "kh}dk.g3:;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "condensateur BF HF",
+                "BF: interrupteur ouvert<br>HF: fil"
+            ],
+            "guid": "c%0y5s+XTL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bobine BF HF",
+                "BF: fil&nbsp;<br>HF: interrupteur ouvert"
+            ],
+            "guid": "O=Z9LG^oLI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "résonance en intensité",
+                "circuit: RLC<br>sortie: tension sur la résistance<br>forme canonique:&nbsp;\\(\\frac{1}{1 + jQ(x - \\frac{1}{x})}\\)<br>résonance pour&nbsp;\\(x = 1\\)&nbsp;donc&nbsp;\\(\\omega = \\omega_0\\)"
+            ],
+            "guid": "w4GSa(ev.r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "acuité",
+                "intervalle&nbsp;\\(\\Delta\\omega\\)&nbsp;tel que&nbsp;\\(|\\frac{u_r}{e}| &gt; \\frac{1}{\\sqrt{2}}\\)<br><br>\\(\\Delta\\omega = \\frac{\\omega_0}{Q}\\)"
+            ],
+            "guid": "BaFv4.qzFn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "résonance en tension",
+                "circuit: RLC<br>sortie: tension condensateur<br>forme canonique:&nbsp;\\(\\frac{1}{1 - x^2 + j\\frac{x}{Q}}\\)<br>méthode pour amplitude:&nbsp;\\(X = x^2\\)&nbsp;\\(f(X) = (1 - X)^2 + \\frac{X}{Q^2}\\)&nbsp;\\(f'(X) = 2X - 2 + \\frac{1}{Q^2}\\)&nbsp;\\(f''(X) = 2\\)_r<br>pulsations de résonance:<br>-&nbsp;\\(Q &gt; \\frac{1}{\\sqrt{2}}\\):&nbsp;\\(\\omega_r = \\omega_0\\sqrt{1 - \\frac{1}{2Q^2}}\\)<br>-&nbsp;\\(Q &gt; 2\\):&nbsp;\\(\\omega_r \\sim \\omega_0\\)<br>-&nbsp;\\(Q &lt; 2\\):&nbsp;\\(\\omega_r = \\omega_0\\sqrt{1 - \\frac{1}{4Q^2}}\\)"
+            ],
+            "guid": "q6.b?ZfIc~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "régime::sinusoïdal"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forme signal (théorème de Fourier)",
+                "\\[s(t) = s_0 + \\sum_{n=1}^{+\\infty}{c_ncos(nwt + \\phi_n)}\\]<br>"
+            ],
+            "guid": "D~iF+fJ=XD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "n pour fondamental",
+                "\\[n = 1\\]<br>"
+            ],
+            "guid": "oj(}UzC/JJ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gain et phase en fonction de la fonction de transfert",
+                "\\[G(w) = |\\underline{H}(jw)|\\]\\[\\phi(w) = arg(\\underline{H}(jw))\\]<br>"
+            ],
+            "guid": "Q@0wi)]k~Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sortie d'un filtre en fonction de la fonction de transfert",
+                "\\[\\underline{s} = G(\\omega)E_0e^{j(wt + \\phi + \\phi(\\omega))}\\]\\[s(t) = G(\\omega)E_0cos(wt+\\phi+\\phi(\\omega))\\]<br>"
+            ],
+            "guid": "jSkaH,F*wC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gain de décibels",
+                "\\[G_{db} = 20log(\\underline{H}(jw))\\]<br>"
+            ],
+            "guid": "s=E@zfy3AP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "filtre passe bas 1er ordre",
+                "circuit: RC<br>sortie: condensateur<br>forme canonique:&nbsp;\\(\\underline{H} = \\frac{G_0}{1+jx}\\)&nbsp;(donc&nbsp;\\(w_0 = \\frac{1}{RC}\\))<br>diagramme de bode: pente de&nbsp;\\(-20dB\\)&nbsp;par décade"
+            ],
+            "guid": "NGU+5#$%I;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bande passante",
+                "intervalle de pulsation tq&nbsp;\\(G(w) &gt; \\frac{G_{max}}{\\sqrt{2}}\\)&nbsp;ou&nbsp;\\(G_{db}(w) &gt; G_{dbmax} - 3 db\\)"
+            ],
+            "guid": "sO|cq=z)Rd",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "domaine intégrateur / dérivateur",
+                "pente de -20 db / décade<br>pente de +20 db / décade"
+            ],
+            "guid": "k|Cg}K5V~%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "effet moyenneur",
+                "par filtre passe bas avec une pulsation propre très petite devant la pulsation du signal d'entrée"
+            ],
+            "guid": "u05fEvwO9i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "filtre passe-haut du premier ordre",
+                "circuit: RC<br>sortie: résistance<br>forme canonique:&nbsp;\\(\\underline{H} = \\frac{G_0jx}{1 + jx}\\)&nbsp;(\\(w_0 = \\frac{1}{RC}\\))"
+            ],
+            "guid": "o.Q^WF8h+H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "filtre passe bas d'ordre 2",
+                "circuit: RLC<br>sortie: condensateur<br>forme canonique:&nbsp;\\(\\underline{H} = \\frac{1}{1 - x^2 + j\\frac{x}{Q}}\\)&nbsp;(\\(w_0 = \\frac{1}{\\sqrt{LC}} \\))"
+            ],
+            "guid": "k:rLCd8aYv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "filtre passe bande d'ordre deux",
+                "circuit: RLC<br>sortie: résistance<br>forme canonique:&nbsp;\\(\\frac{1}{1 + jQ(x - \\frac{1}{x})}\\)"
+            ],
+            "guid": "P99SxLvZ/{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "filtrage::linéaire"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment cinétique",
+                "\\[\\vec{L_{O/M}} = \\vec{OM} \\wedge \\vec{mv} = \\vec{OM} \\wedge \\vec{P}\\]<br>"
+            ],
+            "guid": "pR@>ASX~>>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "unité moment cinétique",
+                "J.s"
+            ],
+            "guid": "HM%DM|,hHv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment cinétique en mvt rectiligne",
+                "\\[\\vec{L_O} = \\vec{0}\\]<br>"
+            ],
+            "guid": "P@_#PB+ThG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment cinétique mouvement plan",
+                "\\[\\vec{L_O} \\perp (\\pi)\\]<br>"
+            ],
+            "guid": "F_Rw(LkO8n",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relation de \"Chasles\" moment",
+                "\\[\\vec{L_A} = \\vec{L_B} + \\vec{AB} \\wedge \\vec{p}\\]<br>"
+            ],
+            "guid": "iMvZRQa6SO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment par rapport à un axe",
+                "\\[L_{\\Delta} = \\vec{L_O} \\cdot\\vec{u_{\\Delta}}\\]<br>"
+            ],
+            "guid": "sKlF#DZ]64",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment mouvement circulaire",
+                "\\[\\vec{L_O} = \\vec{OM} \\wedge m\\vec{v} = R\\vec{u_r} \\wedge mR\\dot{\\theta}\\vec{u_\\theta} = mR\\dot\\theta\\vec{u_z}\\]<br>"
+            ],
+            "guid": "L5&|Mzu]S6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi du levier (tension entre poids)",
+                "\\[d_1\\mid\\mid\\vec{T_1}\\mid\\mid = d_2\\mid\\mid\\vec{T_2}\\mid\\mid\\]<br>"
+            ],
+            "guid": "NcE-4+}%[!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition du moment d'une force",
+                "\\[\\vec{\\mathcal{M_o}}(\\vec{f}) = \\vec{OM} \\wedge \\vec{f}\\]\\[\\vec{\\mathcal{M_o}}(\\vec{f_1} + \\vec{f_2}) = \\vec{\\mathcal{M_o}}(\\vec{f_1}) + \\vec{\\mathcal{M_o}}(\\vec{f_2})\\]<br>"
+            ],
+            "guid": "A*IJQ^3U70",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment par rapport à un axe orienté",
+                "\\[M_\\Delta(\\vec{f}) = M_O(\\vec{f}) \\cdot \\vec{u_\\Delta}\\]<br>"
+            ],
+            "guid": "rWtlT@bb;N",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment d'une force dans un mouvement plan",
+                "\\[\\vec{M_O(\\vec{f})} = \\vec{OM} \\wedge \\vec{f} = r\\vec{u_r} \\wedge (f_r\\vec{u_r} + f_\\theta\\vec{u_\\theta}) = rf_\\theta\\vec{u_z} = r\\sin\\alpha f\\vec{u_Z}\\]<br>"
+            ],
+            "guid": "yGmdRFMW4O",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment d'une force mouvement circulaire avec bras de levier",
+                "\\[\\vec{M_O}(\\vec{f}) = \\vec{OM}\\wedge \\vec{f} = (\\vec{OH} + \\vec{HM}) \\wedge \\vec{f} = \\vec{OH} \\wedge \\vec{f} \\]\\[\\mid M_{Oz} \\mid = \\text{ bras de levier} \\times \\mid\\mid\\vec{f}\\mid\\mid\\]<br>"
+            ],
+            "guid": "L;[Q7<>C$9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bras de levier",
+                "distance séparant l'axe (\\(\\Delta\\)) de rotation de la droite d'action de la force&nbsp;\\(\\vec{f}\\)"
+            ],
+            "guid": "m.UByapUZ_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relation moment axe et bras de levier",
+                "\\[\\mid M_{(\\Delta)}(\\vec{f}) \\mid = \\text{bras de levier} \\times \\mid\\mid \\vec{f} \\mid \\mid\\]<br>"
+            ],
+            "guid": "ifL8YM4zPn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème moment cinétique",
+                "O fixe<br>\\[\\frac{d\\vec{L_o}}{dt} = \\sum_{i}{\\vec{M_O}(\\vec{f_i})}\\]<br>"
+            ],
+            "guid": "N6/mdIHy[r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cas particuliers TMC",
+                "\\(\\sum{\\vec{f_i}} = \\vec{0}\\), système isolé / pseudo isolé (Lo constant)<br>\\(\\sum{\\vec{f_i}} // \\vec{OM} \\)&nbsp;force centrale -&gt; Lo constant"
+            ],
+            "guid": "d=h,rI<0(?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi moment cinétique pour axe fixe",
+                "\\[\\frac{d\\vec{L_o}}{dt} = \\frac{dL_{oz}}{dt} = \\sum_{i}{M_{oz}(\\vec{f_i})}\\]<br>"
+            ],
+            "guid": "J_ip$eB6]5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "moment::cinétique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force centrale",
+                "point M soumis à f qui passe constament par O fixe"
+            ],
+            "guid": "lOWl1GSa|@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force conservative en fonction de ur",
+                "\\[\\vec{f} = -\\frac{dEp}{dr}\\vec{u_r}\\]<br>"
+            ],
+            "guid": "cW0{yzrEoX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie potentielle d'un système gravitationel",
+                "\\[E_p = \\frac{Gmm_o}{r} + k\\]<br>"
+            ],
+            "guid": "lpZ=bZUBno",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énérgie potentielle pour force coulombienne",
+                "\\[E_p = \\frac{q_1q_2}{4\\pi\\epsilon_or}\\]<br>"
+            ],
+            "guid": "itl8ADf2ZE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force Newtonienne",
+                "\\[\\vec{f} = -\\frac{k}{r^2}\\vec{u_r}\\]\\[E_p(r) = -\\frac{k}{r}\\]<br>"
+            ],
+            "guid": "t$YDyL[|wr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "preuve conservation moment cinétique avec force centrale",
+                "\\[\\frac{d\\vec{L_o}}{dt} = \\vec{M_o(\\vec{f})} = \\vec{OM} \\wedge \\vec{f} = \\vec{0}\\]car OM et f colinéaires<br>"
+            ],
+            "guid": "e_BuQb1q(p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "preuve mouvement plan pour force centrale",
+                "car Lo constant et perpendiculaire au plan donc M et v toujours dans le plan"
+            ],
+            "guid": "oFS2_<S)!g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "constante des aires",
+                "\\[C = r^2\\dot\\theta = \\frac{||\\vec{L_o}||}{m}\\]<br>"
+            ],
+            "guid": "i._1S#t#o-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2eme loi de Kepler",
+                "\\[\\Delta A = \\frac{C}{2}\\Delta t\\]<br>"
+            ],
+            "guid": "jWrSK~;cO1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie potentielle effective",
+                "\\[E_{p_{eff}} = \\frac{1}{2}m\\frac{C^2}{r^2} + E_p(r)\\]problème à 1 dimension<br>"
+            ],
+            "guid": "b#%q;R#imG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "trajectoire en fonction Em (gravitation)",
+                "<ul><li>Em &gt; 0, état libre hyperbole</li><li>Em = 0, parabole</li><li>Emin &lt; Em &lt; 0, ellipse (état lié)</li><li>Em = Emin, circulaire (r0)</li><li>Em &lt; Emin, impossible</li></ul>"
+            ],
+            "guid": "EH^F+Uxh|h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vitesse orbite (circulaire uniquement)",
+                "\\[v = \\sqrt{\\frac{Gm_o}{r}}\\]<br>"
+            ],
+            "guid": "sl[+5a;:3R",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie mécanique orbite circulaire / elliptique",
+                "\\[E_m = -\\frac{Gmm_o}{2R} = -\\frac{Gmm_o}{2a} \\]<br>"
+            ],
+            "guid": "GB3M5Ay&Zv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relation périphélie, aphélie",
+                "\\[r_{min}v_{max} = r_{max}v_{min}\\]démonstration:<br>\\[\\vec{L_o} = \\vec{OP}\\wedge m\\vec{v_{max}} = \\vec{OA}\\wedge m\\vec{v_{min}}\\]est constant<br>"
+            ],
+            "guid": "iyBKkP<`dM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3eme loi de Kepler",
+                "\\[\\frac{T^2}{a^3} = \\frac{4\\pi^2}{GM_o}\\]preuve:<br>\\[v = \\sqrt{\\frac{GM_o}{r}}\\]\\[v = \\frac{2\\pi R}{T}\\]<br>"
+            ],
+            "guid": "zeKmd9blN9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vitesse en orbite basse",
+                "s'obtient avec la relation&nbsp;\\(v = \\sqrt{\\frac{GM_o}{r}}\\)<br>8 km/s"
+            ],
+            "guid": "u?QbL~JcZX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vitesse de libération",
+                "s'obtient quand Em = 0 (état libre)<br><br>11 km/s"
+            ],
+            "guid": "sYgK#fn[Sj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "champ::de::gravitation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition solide",
+                "système physique tel que l'ensemble des points reste à distance fixe des uns des autres (solide indéformable)"
+            ],
+            "guid": "A+~?VBAVb~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "comment déterminer centre de gravité",
+                "suspendre le solide à partir de plusieurs points voir où les droites des forces se croisent"
+            ],
+            "guid": "uW-_keWFvO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition translation",
+                "directions du repère lié au mobile sont fixes par rapport à R"
+            ],
+            "guid": "wLS_nmg/[S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition rotation",
+                "solide en rotation autour d'un axe fixe si il existe une unique droite fixe par rapport au référentiel d'étude et au solide."
+            ],
+            "guid": "q6#|s4wOQ8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment d'inertie J(oz)",
+                "\\(J_{(Oz)} = mr^2\\)<br>car&nbsp;\\(L_{\\vec{o_Z}} = mr^2\\dot{\\theta}\\)&nbsp;"
+            ],
+            "guid": "Q&4ZSZoF=#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment cinétique d'un solide",
+                "le produit du moment d'inertie J(oz) et la vitesse angulaire"
+            ],
+            "guid": "Kr(Yd^?UW[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment cinétique cylindre",
+                "\\[\\frac{mR^2}{2}\\]<br>"
+            ],
+            "guid": "Ad|x7FbRjS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment cinétique boule",
+                "\\[\\frac{2}{5}mR^2\\]<br>"
+            ],
+            "guid": "r$U~FUF0Rk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment cinétique barre de longuer L",
+                "\\[\\frac{mL^2}{12}\\]<br>"
+            ],
+            "guid": "N5aqb%V/zy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème d'Huygens",
+                "\\[J_{(\\Delta)} = J_{(\\Delta')} + md^2 \\]avec&nbsp;\\(\\Delta // \\Delta'\\)<br>"
+            ],
+            "guid": "L>~p}11ka{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sens physique moment d'inertie",
+                "Caractérise l'aptitude du solide à s'opposer aux variations de vitesses angulaires"
+            ],
+            "guid": "g8P5bC*q,o",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "couple",
+                "\\(\\vec{f_1} + \\vec{f_2} = \\vec{0}\\)<br>\\(M_{(Oz)}(\\vec{f_1} + \\vec{f_2} ) = (d_1 + d_2)||\\vec{f_1}|| = d||\\vec{f_2}||\\)"
+            ],
+            "guid": "vppVWiXYl*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment du couple de torsion",
+                "\\[\\Gamma = -C\\alpha\\](avec C la constante de torsion du fil)<br>\\[M_{(Oz)}(\\vec{f_A} + \\vec{f_B}) = d||\\vec{f_A}|| &gt; 0\\]\\[\\Gamma + M_{(Oz)}(\\vec{f_A} + \\vec{f_B}) = 0\\]<br>"
+            ],
+            "guid": "wJ5.ud1?hG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "liaison pivot axe",
+                "rotor, stator<br><br>moment par rapport à l'axe de rotation nul car forces centrales"
+            ],
+            "guid": "Kplkox-|}4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème puissance cinétique (solide)",
+                "\\[\\frac{dEc}{dt} = \\sum{Mo(\\vec{f})\\dot\\theta}\\]<br>"
+            ],
+            "guid": "DJop>]o=)f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "mouvement::solide"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "phase condensée",
+                "liquide, solide<br><br>\\[\\rho = 10^3 kg.m^{-3}\\]<br>"
+            ],
+            "guid": "mZVxxD$1^&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "libre parcours moyen",
+                "distance moyenne parcourue par une particule entre 2 chocs"
+            ],
+            "guid": "dJjRB$ku[3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "notion de gaz parfait",
+                "\\[Ep_{intéraction} = 0\\]particules ponctuelles, identiques<br>vitesse des particules&nbsp;\\(Qd^3t\\)<br>distribution de vitesses + stationnaire + homogène, chaque direction est équiprobable"
+            ],
+            "guid": "uFN|Chd%%S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "chocs",
+                "conservation de&nbsp;\\(\\vec{p}\\)&nbsp;(quantité de mouvement)"
+            ],
+            "guid": "iqVi[8|8).",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vitessse quadratique moyenne",
+                "\\[u = \\sqrt{&lt;v^2&gt;}\\]<br>"
+            ],
+            "guid": "fTL.Oh>bow",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hypothèse d'ergodicité",
+                "A l'équilibre -&gt; égalité valeur moyenne sur un grand nombre de particules et valeur moyenne temporelle"
+            ],
+            "guid": "lP51=:Dmzx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pression gaz parfait",
+                "\\[F_{gaz \\to surface}(dS) = P\\vec{dS}\\](dirigé du gaz vers la paroi)<br>"
+            ],
+            "guid": "o4.rJ;*`0s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème équipartition de l'énergie",
+                "\\[&lt;\\frac{1}{2}mv^2&gt; = &lt;\\frac{1}{2}m(v_x^2 + v_y^2 + v_z^2)&gt; = \\frac{3}{2}k_BT\\]<br>"
+            ],
+            "guid": "x,x7#hphyM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variables d'état",
+                "variables macroscopiques qui permettent de définir l'état d'un système"
+            ],
+            "guid": "yH6#8*//>X",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "grandeurs extensives (intensives)",
+                "qui dépendent / ne dépendant pas de la taille du système"
+            ],
+            "guid": "hV^S)@%0j`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pression cinétique du G.P",
+                "\\[P = \\frac{1}{3}nmu^2\\]<br>"
+            ],
+            "guid": "ju|9_oOJ31",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "conséquences phase condensée",
+                "indilatable (V ne varie pas avec T), incompressible (V ne varie pas avec P)"
+            ],
+            "guid": "i#7v@@T*9^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie interne",
+                "\\[E_m = e_c + \\sum{v_{i,j}} + \\sum{v_{ext}(i)}\\]le deuxième terme vaut 0 pour un G.P et le troisième dans la plupart des cas<br>"
+            ],
+            "guid": "i`)|6$<tVj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "capacité thermique",
+                "\\[dU = C_vdT\\]<br>"
+            ],
+            "guid": "c|Zxn[XvE<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "différentes capacités thermiques",
+                "\\(C_{vm}\\)&nbsp;capacité thermique molaire<br>\\(c_v\\)&nbsp;capacité thermique massique<br>\\(C_v = mc_v = nC_{vm}\\)"
+            ],
+            "guid": "oP;<%AT(a}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "expression énergie GP",
+                "\\[U = \\frac{3}{2}nRT\\]<br>"
+            ],
+            "guid": "dF]jk<p^?u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie pour G.P diatomique",
+                "\\[U = \\frac{5}{2}nRT\\]<br>"
+            ],
+            "guid": "cu8pQ^qDyz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1ere loi de joule",
+                "U pour 1 G.P ne dépend que de T"
+            ],
+            "guid": "t78Z>#EX$g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "énergie dans phase condensée",
+                "\\[C_v = \\frac{dU}{dT}\\]<br>"
+            ],
+            "guid": "kRZMs/hdC#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "gaz::parfait"
             ]
         }
     ],

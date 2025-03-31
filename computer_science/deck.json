@@ -12,7 +12,15 @@
             "crowdanki_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
             "desiredRetention": 0.9,
             "dyn": false,
-            "easyDaysPercentages": [],
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
             "fsrsParams5": [],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "",
@@ -127,6 +135,7 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -164,6 +173,258 @@
             "guid": "F:AM.X$$9C",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "méthodes structures de données",
+                "constructeurs<br>accesseurs<br>transformateurs"
+            ],
+            "guid": "uX?=ks)$f8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "canaux de communication",
+                "stdout<br>stderr<br>stdin"
+            ],
+            "guid": "Q!9n1Fs._6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "comment vider le channel (file)",
+                "fflush(stdchan)"
+            ],
+            "guid": "l,~;k`D>R(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rediréction de canaux",
+                "&lt;: redirige stdin<br>&gt;: redirige stdout<br>&gt;&gt;: stdout + append<br>grep: filtrer<br>sort: trier<br>|: stdout d'une commande est le stdin de la suivante (un genre de tuyau)"
+            ],
+            "guid": "=q`37RWQ{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "processus (unix)",
+                "&amp; chainage parallèle<br>&amp;&amp; chaînage séquentiel"
+            ],
+            "guid": "HoAeHl<~->",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "commandes de compilation (C)",
+                "gcc -o nom ./main.c<br>gcc -c lib.c<br>gcc -o nom lib.o main.o"
+            ],
+            "guid": "cD%AV0.Sq-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "commandes de compilation (Ocaml)",
+                "ocamlc -o nom ./main.ml<br>ocamlc&nbsp;-c lib.ml<br>ocamlc&nbsp;-o nom lib.cmo main.cmo"
+            ],
+            "guid": "RafqW;Q$/q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "liste abstraite",
+                "liste python<br>on peut ajouter, enlever le dernier élément, remplacer en O(1)<br>on utilise les tableaux dynamiques"
+            ],
+            "guid": "M|VAUKLB}W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "complexité amortie",
+                "étudier la complexité pire cas d'une suite d'opérations<br>\\[C^{am}_{method}(n) = \\lim_{m\\to+\\infty}{\\frac{1}{m}}\\sum_{i=1}^m{C_{i,n}}\\]<br>"
+            ],
+            "guid": "oHj!Ljt7k/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "démontrer que la complexité amortie de append est en O(1)",
+                "pire cas: len = memlen<br>après 1 opération: taille =&nbsp;\\(2n\\)<br>après 1 + n opérations: taille =&nbsp;\\(4n\\)<br>après m opérations: taille =&nbsp;\\(2^dn\\)<br>On a&nbsp;\\(2^{d-1}n &lt; n + m &lt; 2^dn\\)<br>\\[\\sum_{i=1}^m{C_i} = 1\\times(m-d) + \\sum_{j=0}^{d-1}{2^in} = (m - d - n) + 2^dn = A\\]\\[(m-d-n) + (m+n) &lt; A &lt; (m-d-n)+2(m+n)\\]<br>Donc:<br>\\[2n - d &lt; A &lt; 3m - d+n\\]Dond:<br>\\[\\frac{2m-d}{m} \\le \\frac{A}{m} \\le \\frac{3m+n}{m}\\]Donc&nbsp;\\(C_{op}^{am} \\in [\\![ 2; 3 ]\\!] = \\mathcal{O}(1)\\)&nbsp;<br>"
+            ],
+            "guid": "J6_3%D[ei,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "piles",
+                "tout en O(1)<br>en C: listes chaînes<br>en Ocaml: listes"
+            ],
+            "guid": "zv(eyI6#Xz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Files",
+                "via tableaux dynamiques<br>via 2 piles<br>via listes chaînées"
+            ],
+            "guid": "QiVESk{@!Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dictionnaires",
+                "listes ou tableaux associatifs<br>ABR<br>tables de hashage"
+            ],
+            "guid": "cm^;TQ-Zc=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vocabulaire arbres",
+                "racine<br>sous-arbre<br>noeud<br>arrête<br>feuilles -&gt; forment frontière<br>chemin<br>étiquette"
+            ],
+            "guid": "m,r,Q[,BT1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "branche arbre",
+                "chemin de la racine jusqu'à une feuille"
+            ],
+            "guid": "c^Qc.]-<FU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "profondeur d'un noeud (arbre)",
+                "longueur de l'unique chemin de la racine jusqu'au noeud<br>la racine est de profondeur 0"
+            ],
+            "guid": "KX`0wVblgr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hauteur (arbre)",
+                "la profondeur maximale d'un noeud de l'arbre"
+            ],
+            "guid": "s-ziWdYV]L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "arité d'un arbre",
+                "arité&nbsp; maximale d'un noeud"
+            ],
+            "guid": "G/0;U(SG/0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition formelle arbre",
+                "un arbre est un ensemble d'adresses clos par préfixe<br><br>addresse: liste d'entiers représentant le chemin jusuqu'à un noeud"
+            ],
+            "guid": "hWFa=!F8`T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition récursive arbre",
+                "\\[\\begin{align}\n&amp; E_0 = \\{F\\}\\\\\n&amp; E_{i+1} = E_i \\cup \\{ N(g,d) \\mid g \\in E_i, d \\in E_i \\}\n\\end{align}\\]suite croissante d'ensembles pour l'inclusion<br>\\[E = \\bigcup_{n\\in\\mathbb{N}}{E_n}\\]<br>"
+            ],
+            "guid": "KdO03QIra<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition récursive hauteur",
+                "\\(E_{i+1}\\setminus E_i\\)&nbsp;contient tous les arbres de hauteur i+1<br>\\[h(A) = \\min\\{ i \\mid A \\in E_i \\}\\]&nbsp;<br>"
+            ],
+            "guid": "M>)khScRo6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "structures::de::données"
+            ]
         }
     ],
     "reviewLimit": null,

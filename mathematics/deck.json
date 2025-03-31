@@ -80,13 +80,35 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
-        "Galaxy Brain Meme (1).mp4"
+        "Galaxy Brain Meme (1).mp4",
+        "Screenshot 2025-03-16 at 13.25.39.png",
+        "Screenshot 2025-03-16 at 13.36.55.png",
+        "Screenshot 2025-03-16 at 13.51.40.png",
+        "Screenshot 2025-03-16 at 13.52.33.png",
+        "Screenshot 2025-03-16 at 13.53.03.png",
+        "Screenshot 2025-03-16 at 13.53.48.png",
+        "Screenshot 2025-03-16 at 13.54.34.png",
+        "Screenshot 2025-03-16 at 13.56.06.png",
+        "Screenshot 2025-03-16 at 13.56.50.png",
+        "Screenshot 2025-03-16 at 14.14.29.png",
+        "Screenshot 2025-03-16 at 14.15.07.png",
+        "Screenshot 2025-03-16 at 14.18.51.png",
+        "Screenshot 2025-03-16 at 14.19.12.png",
+        "Screenshot 2025-03-16 at 14.19.31.png",
+        "Screenshot 2025-03-16 at 14.26.43.png",
+        "Screenshot 2025-03-16 at 14.27.16.png",
+        "Screenshot 2025-03-26 at 22.35.54.png",
+        "Screenshot 2025-03-26 at 22.42.08.png",
+        "Screenshot 2025-03-26 at 22.46.47.png",
+        "exo3.jpeg",
+        "latex-8cb2197a18eb1803340fffe9576810cc9ce0b0c4.png"
     ],
+    "mid": 1725465955482,
     "name": "mathematics",
     "newLimit": null,
     "newLimitToday": {
         "limit": 20,
-        "today": 145
+        "today": 194
     },
     "note_models": [
         {
@@ -4040,6 +4062,7 @@
             "guid": "FaBRho5*Ni",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
+                "leech",
                 "limite::d'une::fonction"
             ]
         },
@@ -4856,7 +4879,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "corollaire fonction convexe",
+                "corollaire fonction convexe (pentes croissantes )",
                 "pour tout a,b,c avec a &lt;&nbsp; c &lt; b:<br><br>\\[\\frac{f(c) - f(a)}{c - a} \\le \\frac{f(b) - f(a)}{b - a} \\le \\frac{f(b) - f(c)}{b - c}  \\]<br>"
             ],
             "guid": "yme_A,6qfr",
@@ -5779,7 +5802,7 @@
             "__type__": "Note",
             "fields": [
                 "proposition ordre de multiplicité",
-                "valide uniquement dans corps de caractéristique nulle<br><br>\\(\\alpha\\)&nbsp;est racine d'ordre de multiplicité m ssi&nbsp;\\(\\forall k \\in [0;m-1], A^{(k)}(\\alpha) = 0\\)&nbsp;et&nbsp;\\(A^{(m+1)}(\\alpha) \\ne 0\\)"
+                "valide uniquement dans corps de caractéristique nulle<br><br>\\(\\alpha\\)&nbsp;est racine d'ordre de multiplicité m ssi&nbsp;\\(\\forall k \\in [0;m-1], A^{(k)}(\\alpha) = 0\\)&nbsp;et&nbsp;\\(A^{(m)}(\\alpha) \\ne 0\\)"
             ],
             "guid": "CSp%IHHj?h",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -5971,7 +5994,7 @@
             "__type__": "Note",
             "fields": [
                 "polynômes scindés sur C",
-                "tous les polynômes sur C sont simplement scindés"
+                "tous les polynômes sur C sont scindés"
             ],
             "guid": "t`v_0%E-!i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -6943,7 +6966,7 @@
             "__type__": "Note",
             "fields": [
                 "théorème de la base intermédiaire",
-                "soit E un K-ev de dimension infinie,&nbsp;\\(L\\)&nbsp;une famille libre et&nbsp;\\(G\\)&nbsp;une famille génératrice telles que&nbsp;\\(L \\subset G\\)&nbsp;alors il existe une base&nbsp;\\(B\\)&nbsp;telle que:<br>\\[L \\subset B \\subset G\\]<br>"
+                "soit E un K-ev de dimension finie,&nbsp;\\(L\\)&nbsp;une famille libre et&nbsp;\\(G\\)&nbsp;une famille génératrice telles que&nbsp;\\(L \\subset G\\)&nbsp;alors il existe une base&nbsp;\\(B\\)&nbsp;telle que:<br>\\[L \\subset B \\subset G\\]<br>"
             ],
             "guid": "AM1ccf]E^N",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -7002,7 +7025,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "théorème K-ev de dimension finie (n)",
+                "théorème K-ev de dimension finie (n) (libre, génératrice)",
                 "- toute famille libre admet au maximum n éléments<br>- toute famille libre ayant n éléments est une base<br>- toute famille génératrice admet au moins n éléments<br>- toute famille génératrice ayant n éléments est une base"
             ],
             "guid": "d~J$GcLZKp",
@@ -7050,19 +7073,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "proposition rang",
-                "rang le nombre maximal de vecteurs linéairement indépendants de la famille<br>le nombre minimal de vecteurs d'une famille génératrice de Vect(\"famille\")"
-            ],
-            "guid": "P+Zjfb9qyA",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces::vectoriels"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "proposition rang dimension",
+                "proposition rang dimension famille",
                 "Soit&nbsp;\\(\\mathcal{F} \\text{ une famille de vecteurs de } E\\), on a:<br>\\[rg(\\mathcal{F}) \\le \\dim(E)\\]\\[rg(\\mathcal{F}) \\le Card(\\mathcal{F})\\]<br>"
             ],
             "guid": "emUCU7H/&|",
@@ -7171,7 +7182,7 @@
             "__type__": "Note",
             "fields": [
                 "principe de non compensation",
-                "\\[\\forall (f_i)_{i \\in I} \\in \\prod_{i \\in (I)}{F_i}, \\left( \\sum_{i \\in I}{f_i} = 0 \\right) \\implies \\forall i \\in I, f_i = 0\\]<br>"
+                "Fi en somme directe ssi \\[\\forall (f_i)_{i \\in I} \\in \\prod_{i \\in (I)}{F_i}, \\left( \\sum_{i \\in I}{f_i} = 0 \\right) \\implies \\forall i \\in I, f_i = 0\\]<br>"
             ],
             "guid": "I(k^Yt8:dx",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -7441,6 +7452,2958 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème applications linéaires, sev",
+                "\\(\\mathcal{L}(E,F)\\)&nbsp;est un sev de&nbsp;\\((F^E,+,\\cdot)\\)"
+            ],
+            "guid": "m0`)SzS4Py",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "composition d'applications linéaires",
+                "est une application linéaire"
+            ],
+            "guid": "ciZj:UBL,Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "scalaires lors de composition d'applications linéaires",
+                "\\[g\\circ (\\alpha f_1 + \\beta f_2) = \\alpha(g\\circ f_1) + \\beta(g\\circ f_2)\\]<br>"
+            ],
+            "guid": "wopizvK(s|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "applications bilinéaire",
+                "la loi&nbsp;\\(\\circ\\)&nbsp;est distributive sur + à gauche et à droite, alors:<br><br>\\[\\phi: (g,f) \\mapsto g\\circ f\\]est bilinéaire<br>"
+            ],
+            "guid": "N`1m5g]:+S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "applications linéaires, algèbre",
+                "\\((\\mathcal{L}(E), +,\\circ, \\cdot)\\)&nbsp;est une K-algèbre"
+            ],
+            "guid": "zE}Yfa88F&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la réciproque d'un isomorphisme est un",
+                "isomorphisme"
+            ],
+            "guid": "Lpzb%X/1Oe",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "isomorphisme est stable par&nbsp;",
+                "composition"
+            ],
+            "guid": "tr@KLyujXX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groupe automorphismes linéaires",
+                "\\((\\mathcal{GL}(E), \\circ)\\)&nbsp;est un groupe (groupe linéaire de E)"
+            ],
+            "guid": "F<E_Yuef`r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "une restriction d'application linéaire",
+                "est linéaire"
+            ],
+            "guid": "nXPY5yP<}:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;image directe, antécédents d'applications linéaires",
+                "E,F des K-ev et&nbsp;\\(f \\in \\mathcal{L}(E,F)\\)<br><ol><li>E' sev de E, alors&nbsp;\\(f(E')\\)&nbsp;sev de F</li><li>F' sev de F, alors&nbsp;\\(f^{-1}(F')\\)&nbsp;sev de E</li></ol>"
+            ],
+            "guid": "ns(hbAt[x[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prouver que&nbsp;\\(u \\in \\mathcal{L}(E), u^2 = 0 \\Leftrightarrow \\text{Im} u \\subset \\text{Ker} u\\)",
+                "<img src=\"exo3.jpeg\">"
+            ],
+            "guid": "qxRnUuFEom",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "noyau / image d'applications linéaires",
+                "\\(Ker f \\subset Ker\\space g\\circ f\\)<br>\\(Im\\space g \\circ f \\subset Im\\space g\\)"
+            ],
+            "guid": "Cq|.S)Ega{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "noyau application linéaire restreinte au départ",
+                "\\[\\text{Ker}f\\mid_{E'} = E'\\cap\\text{Ker}f\\]"
+            ],
+            "guid": "Qk(*xp_6$w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équation homogène (linéaire)",
+                "\\(f(x) = 0\\)<br>Solutions&nbsp;\\(Ker\\space f\\)"
+            ],
+            "guid": "QO!$([]PY+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "solutions particulières (équation linéaire)",
+                "f(x) = y admet solution ssi&nbsp;\\(y \\in Im f\\)<br><br>\\(x_p\\)&nbsp;tel que&nbsp;\\(f(x_p)=y\\)&nbsp;est solution particulière"
+            ],
+            "guid": "P-)w86QyNv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ensemble des solutions d'une équation linéaire",
+                "\\[\\mathcal{S} = x_p + Ker f = \\{ x_p + x_h \\mid x_h \\in Ker f \\}\\]sous espace affine de E passant par x_p dirigé par Ker f<br>"
+            ],
+            "guid": "z`u2uw/K^&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème géométrique du rang",
+                "Soit S un supplémentaire de Ker f<br><br>la restriction de f à S au départ et à Im f à l'arrivée est un isomorphisme"
+            ],
+            "guid": "u?cyd;5&;&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "homothétie vectorielle",
+                "\\[\\forall x \\in E, h_\\lambda(x) = \\lambda x\\]ensemble des homothéties vectorielles de E&nbsp;\\(\\mathcal{H}(E)\\)<br>"
+            ],
+            "guid": "rhDwxLv^VT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\mathcal{H}(E)\\)",
+                "est un sev de&nbsp;\\((\\mathcal{L}(E), +, \\cdot) \\)&nbsp;et un sous-corps comutatif de l'anneau&nbsp;\\((\\mathcal{L}(E), +, \\circ)\\)"
+            ],
+            "guid": "Fq>L|Q<oy%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation des homothéties",
+                "\\[f \\in \\mathcal{H}(E) \\Longleftrightarrow  \\forall x \\in E, \\exists \\lambda \\in \\mathbb{K}, f(x) = \\lambda x\\]<br>"
+            ],
+            "guid": "CBV+R%O9^f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "projection vectorielle",
+                "\\[\\begin{array}{}\nf &amp; : &amp; E = F \\oplus G &amp; \\to &amp;E \\\\\n &amp; &amp; x = x_F + x_G &amp; \\mapsto &amp; p(x) = x_F \\\\\n\\end{array}\\]<br>"
+            ],
+            "guid": "Oy$Fu2F,}&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés image / noyau projection",
+                "<div>p une projection sur F dans la direction de G</div><ul><li>\\(Im p = F = Ker(Id_E - p)\\)<br></li><li>\\(Kerp = G\\)<br></li><li>\\(Im p \\oplus Ker p = E\\)<br></li></ul>"
+            ],
+            "guid": "n+p-7%Vqm4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Projection  ssi",
+                "\\(p^2 = p\\)"
+            ],
+            "guid": "O-/En#r<1q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "symétrie vectorielle",
+                "\\[\\begin{array}\\\\\n&amp; E = F\\oplus G \\to E \\\\\n&amp; x = x_F + x_G \\mapsto s(x) = x_F - x_G\n\\end{array}\\]c'est un automorphisme involutif<br>"
+            ],
+            "guid": "oIvNvk<Ntu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "symétrie (avec projection) ssi",
+                "\\[s = 2p - Id_E\\]où p projection sur F dans la direction de G<br>"
+            ],
+            "guid": "eZB+-]jr,i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés noyau et image symétrie",
+                "<ul><li>\\(Ker(Id_E - s) = F\\)</li><li>\\(Ker(Id_E + s) = G\\)<br></li><li>\\(Ker(Id_E - s) \\oplus Ker(Id_E + s) = E\\)</li></ul>"
+            ],
+            "guid": "OtJp$f~9wA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "symétrie ssi",
+                "\\(s^2 = Id_E\\)"
+            ],
+            "guid": "bVm,]g~nQ9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exo: montrer qu'un endomorphisme nilpotent n'est pas injectif",
+                ""
+            ],
+            "guid": "vR~TO[umNW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "application linéaire et Vect",
+                "\\[f(Vect(x_i)) = Vect(f(x_i))\\]<br>"
+            ],
+            "guid": "e9RZJR.8Jr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "base et famille quelconque application linéaire",
+                "soit e une base de E et f une famille quelconque de F,&nbsp;<br><br>il existe une unique application linéaire telle que<br><br>\\(\\forall i \\in I, f(e_i) = f_i\\)"
+            ],
+            "guid": "AnHGn9uobm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "application linéaire et espace de départ en décomposition directe",
+                "existe unique application de E vers F telle que&nbsp;\\(\\forall i \\in I, f\\mid_{E_i} = f_i\\)"
+            ],
+            "guid": "l6-T!|@N_z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proposition application linéaire surjective",
+                "ssi l'image par f d'une famille génératrice de E est une famille génératrice de F"
+            ],
+            "guid": "EyJYQ$2#&0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "application linéaire injective",
+                "Alors l'image d'une famille libre de E par f est une famille libre de F<br><br><b>Attention: pas un ssi</b>"
+            ],
+            "guid": "Hh-q7)A9~n",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de l'image d'une base",
+                "soit&nbsp;\\(e_i\\)&nbsp;une base de E<br><br><ul><li>f injective ssi&nbsp;\\(f(e_i)\\)&nbsp;est libre</li><li>f surjective ssi&nbsp;\\(f(e_i)\\)&nbsp;est génératrice</li><li>f isomorphe ssi&nbsp;\\(f(e_i)\\)&nbsp;est une base</li></ul>"
+            ],
+            "guid": "FF`~&{~/^K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition jection sur dimension",
+                "<ul><li>si F est de dim finie, alors il existe appli linéaire injective de E dans F ssi&nbsp;\\(\\dim E \\le \\dim F\\)</li><li>si E est de dim finie, alors il existe appli linéaire surjective de E sur F ssi&nbsp;\\(\\dim E \\ge \\dim F\\)</li><li>isomorphe avec égalité</li></ul>"
+            ],
+            "guid": "Dfw?4KKJnC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Soit $E$ le sous-espace de $\\mathbb{R}^{\\mathbb{N}}$ formé des suites $\\left(u_{n}\\right)_{n \\geqslant 0}$ qui vérifient la relation de récurrence $\\forall n \\in \\mathbb{N}, u_{n+p}=a_{1} u_{n}+a_{2} u_{n+1}+\\cdots+a_{p} u_{n+p-1}$ où $a_{1}, a_{2}, \\cdots, a_{p} \\in \\mathbb{R}$ fixés. Démontrer que $E$ est isomorphe à $\\mathbb{R}^{p}$ et en déduire la dimension de $E$.<br>[/latex]",
+                ""
+            ],
+            "guid": "pgW*+sEzJy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Soit $E$ le sous-espace de $\\mathbb{R}^{\\mathbb{N}}$ formé des suites $\\left(u_{n}\\right)_{n \\geqslant 0}$ qui vérifient la relation de récurrence $\\forall n \\in \\mathbb{N}, u_{n+p}=a_{1} u_{n}+a_{2} u_{n+1}+\\cdots+a_{p} u_{n+p-1}$ où $a_{1}, a_{2}, \\cdots, a_{p} \\in \\mathbb{R}$ fixés. Démontrer que $E$ est isomorphe à $\\mathbb{R}^{p}$ et en déduire la dimension de $E$.<br>[/latex]&nbsp;",
+                "_"
+            ],
+            "guid": "MgpMu#9zMy",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[latex]Soit $E$ le sous-espace de $\\mathbb{R}^{\\mathbb{N}}$ formé des suites $\\left(u_{n}\\right)_{n \\geqslant 0}$ qui vérifient la relation de récurrence $\\forall n \\in \\mathbb{N}, u_{n+p}=a_{1} u_{n}+a_{2} u_{n+1}+\\cdots+a_{p} u_{n+p-1}$ où $a_{1}, a_{2}, \\cdots, a_{p} \\in \\mathbb{R}$ fixés. Démontrer que $E$ est isomorphe à $\\mathbb{R}^{p}$ et en déduire la dimension de $E$.<br>[/latex] ___",
+                ""
+            ],
+            "guid": "wh{wI|=YCS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dim ensemble des applis linéaires",
+                "\\[\\dim \\mathcal{L}(E,F) = \\dim E \\times \\dim F \\]<br>"
+            ],
+            "guid": "k);HlY<:zw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rang application linéaire",
+                "\\[rg(f) = \\dim(Im\\space f)\\]<br>"
+            ],
+            "guid": "d,R}O5VBpW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rang application et base",
+                "soit B une base, le rang de f est le rang de la famille&nbsp;\\(f(\\mathcal{B})\\)"
+            ],
+            "guid": "OW0%FcA/O/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalités rang application",
+                "\\[rg(f) \\le \\dim E\\]\\[rg(f) \\le \\dim F\\]<br>"
+            ],
+            "guid": "pzS1U-BH_p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème du rang",
+                "Soit E, F des Kev, E de dim finie,<br><br>\\[\\dim Ker\\space f + \\dim Im \\space f = \\dim E\\]<br>"
+            ],
+            "guid": "wV62gVQ<)V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rang et jection",
+                "<ul><li>f injective ssi rg(f) = dim E<br></li><li>f surjective ssi rg(f) = dim F</li><li>f bijective ssi rg(f) = dim E = dim F</li></ul>"
+            ],
+            "guid": "DCFFXwAUDM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème du rang (jection)",
+                "\\(f \\in \\mathcal{L}(E,F)\\)&nbsp;si E et F de dim finie et de même dim alors<br>\\[(f \\text{ est injective}) \\Leftrightarrow (f \\text{ est bijective}) \\Leftrightarrow (f \\text{ est surjective})\\]<br>"
+            ],
+            "guid": "veLLF^^aOQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice carrée inversible ssi",
+                "inversible à droite ou inversible à gauche"
+            ],
+            "guid": "Ix~6VcbxVM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inverse matrice triangulaire supérieure",
+                "est triangulaire supérieure"
+            ],
+            "guid": "D<qlB|vuxq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rang composition",
+                "\\[\\text{rg}(g \\circ f) \\le \\min(\\text{rg}(f),\\text{rg}(g))\\]\\[f \\text{ est un isomorphisme entre E et F} \\implies (\\text{rg}(g\\circ f) = \\text{rg}(g))\\]\\[g \\text{ est isomorphisme entre F et G} \\implies (\\text{rg}(g\\circ f) = \\text{rg}(f))\\]"
+            ],
+            "guid": "bvQT.BQ]s$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalités de sylvester",
+                "E de dim finie, u et v des endomorphismes:<br><ul><li>\\(|rgu - rgv| \\le rg(u+v) \\le rgu + rgv\\)<br></li><li>\\(rgu + rgv - n \\le rg(u\\circ v) \\le min(rg u, rg v)\\)<br></li><li>\\(dim(Ker(u\\circ v)) \\le dim(Ker(u)) + dim(Ker(v))\\)</li></ul>"
+            ],
+            "guid": "H1qfQ8BVY,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forme coordonnée",
+                "la kième forme coordonnée renvoie la kième coordonnée du vecteur x de telle sorte que:<br>\\[x = \\sum_{k\\in I}{e^*_k(x)e_k}\\]où&nbsp;\\((e_i)_{i\\in I}\\)&nbsp;est une base de E et&nbsp;\\(\\mathcal{L}^* = (e^*_k)_{k\\in I}\\)&nbsp;la famille duale de&nbsp;\\(\\mathcal{B}\\)<br>"
+            ],
+            "guid": "dQN?)`Wp9~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition famille duale",
+                "la famille duale est libre dans&nbsp;\\(E^*\\)"
+            ],
+            "guid": "qchPI~VK&k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hyperplan",
+                "le noyau d'une forme linéaire non nulle"
+            ],
+            "guid": "CHZGe+VTgn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition hyperplan",
+                "E un K-ev et H un sev de E:<br><br>Si il existe une droite vectorielle de E qui est supplémentaire de H dans E, alors H est un hyperplan de E<br>Si H est un hyperplan de E, alors pour tout&nbsp;\\(a \\notin H\\), l'hyperplan H et la droite vectorielle Vect(a) sont supplémentaires dans E"
+            ],
+            "guid": "IL/u~pFyH-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition hyperplan (deux formes linéaires)",
+                "si&nbsp;\\(H = Kerl_1 = Kerl_2\\)<br>alors&nbsp;\\(\\exists \\alpha \\in \\mathbb{K}^*, l_2 = \\alpha l_1\\)"
+            ],
+            "guid": "tobc=>h<6u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition base duale (dim finie)",
+                "la base duale est une base"
+            ],
+            "guid": "LCra/y#t,H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition hyperplan dim finie",
+                "une partie H est un hyperplan ssi c'est un sev de E de dim n-1"
+            ],
+            "guid": "Hg^w*>rsCH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intersection d'hyperplans",
+                "<ul><li>intersection de p hyperplans de E, est un sev de E de dim supérieure ou égale à n - p</li><li>tout sous espace vectoriel de dimension n - p est l'intersection de p hyperplans de E</li></ul>"
+            ],
+            "guid": "u<LP0O)80h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "applications::linéaires"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice de vecteur dans une base",
+                "\\[\\text{Mat}_B(x) = \\begin{pmatrix}\na_1 \\\\ \na_2 \\\\\n\\vdots \\\\\na_n\n\\end{pmatrix}\\]<br>"
+            ],
+            "guid": "D#B4.)Y?m&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice d'une famille de vecteurs",
+                "\\[\\text{Mat}_B(\\mathcal{F}) = \\begin{pmatrix}\na_{1,1} &amp; \\cdots &amp; a_{1,p} \\\\\n\\vdots \\\\\na_{n,1} &amp; \\cdots &amp; a_{n,p}\n\\end{pmatrix}\\]avec&nbsp;\\(\\mathcal{F} = (x_1, \\ldots, x_p)\\)&nbsp;et&nbsp;\\(\\mathcal{B} = (e_1, \\ldots, e_n)\\)<br><br>nb lignes = dimension de la base<br>nb colonnes = cardinal de la famille"
+            ],
+            "guid": "cYhU/RzfmF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "combinaison linéaire sous forme de matrices",
+                "\\[\\text{Mat}_B(x) = \\text{Mat}_B(\\mathcal{F})\\begin{pmatrix}\n\\lambda_1 \\\\\n\\vdots \\\\\n\\lambda_p\n\\end{pmatrix}\\]est équivalent à :<br>\\[x = \\sum{\\lambda_ix_i}\\]avec les&nbsp;\\(x_i \\in \\mathcal{F}\\)<br>"
+            ],
+            "guid": "vcn,i`{|P!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice d'une application linéaire",
+                "\\[\\text{Mat}_{\\mathcal{B,C}}(f) = \\text{Mat}_{\\mathcal{C}}(f(\\mathcal{B}))\\]<br>"
+            ],
+            "guid": "kx[,0_^2rs",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice d'une projection ( sur F dans la direction de G)",
+                "\\[\\text{Mat}_\\mathcal{B}(\\pi) = \\begin{pmatrix}\nI_{dimF} &amp; 0 \\\\\n0 &amp; 0\n\\end{pmatrix}\\]<br>"
+            ],
+            "guid": "M/&]?4:,@>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice d'une symétrie (par rapport à F dans la direction de G)",
+                "\\[\\text{Mat}_{\\mathcal{B}}(\\sigma) = \\begin{pmatrix}\nI_{dimF} &amp; 0 \\\\\n0 &amp; -I_{dimG}\n\\end{pmatrix}\\]<br>"
+            ],
+            "guid": "gyY$V^478p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice de f(x)",
+                "\\[\\text{Mat}_C(f(x)) = \\text{Mat}_{B,C}(f)\\text{Mat}_B(x)\\]<br>"
+            ],
+            "guid": "u/iNZA1L:p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\text{Mat}_{B,C}(\\alpha f + \\beta g)\\)",
+                "\\[\\alpha\\text{Mat}_{B,C}(f) + \\beta\\text{Mat}_{B,C}(g) \\]<br>"
+            ],
+            "guid": "sC@__(A<w?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "composition avec des matrices",
+                "\\[\\text{Mat}_{B,D}(g\\circ f) = \\text{Mat}_{C,D}(g)\\text{Mat}_{B,C}(f)  \\]<br>"
+            ],
+            "guid": "wlF5S<>J7(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "traduction matricielle inversion",
+                "E, F deux K-ev de même dim finie<br><br>\\[f \\text{ est un isomorphisme} \\Longleftrightarrow \\text{Mat}_{B,C}(f) \\text{ est inversible}\\]<br>"
+            ],
+            "guid": "O`c7Y(,9-]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalence inversion et solution matricielle",
+                "\\[\\forall Y \\in \\mathcal{M}_{n,1}(\\mathbb{K}), \\exists!X \\in \\mathcal{M}_{n,1}(\\mathbb{K}), AX = Y \\Longleftrightarrow A \\in \\mathcal{GL}_n(\\mathbb{K})\\]<br>"
+            ],
+            "guid": "dcY.,gp$(b",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "application linéaire canoniquement associée",
+                "de&nbsp;\\(\\mathbb{K}^m\\)&nbsp;vers&nbsp;\\(\\mathbb{K}^n\\)&nbsp;dans les bases canoniques, l'unique a.l a tel que&nbsp;\\[\\text{Mat}_{\\mathcal{B_can,B_can}}(a) = A\\]"
+            ],
+            "guid": "vDgm`:eDq$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition inversible et rang matrice",
+                "Soit&nbsp;\\(A \\in \\mathcal{M}_n(\\mathbb{K})\\):<br>\\[A \\in \\mathcal{GL}_n(\\mathbb{K}) \\Longleftrightarrow rg(A) = n\\]<br>"
+            ],
+            "guid": "y^fu_uuDC7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice de passage de B à B'",
+                "c'est la matrice de la famille B' exprimée dans la base B<br>\\[P_{B\\to B'} = \\text{Mat}_{B}(B')\\]<br>"
+            ],
+            "guid": "sr#GdiV+KJ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lemme de géométrisation des matrices de passage",
+                "\\[P_{B\\to B'} = \\text{Mat}_{B',B}(Id_E)\\]<br>"
+            ],
+            "guid": "j:`4=a#yFZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions matrice de passage",
+                "<ul><li>\\(P_{B\\to B} = I_n\\)<br></li><li>\\(P_{B\\to B''} = P_{B \\to B'}P_{B' \\to B''} \\)</li><li>\\((P_{B\\to B'})^{-1} = P_{B'\\to B}\\)</li></ul><br>"
+            ],
+            "guid": "Q;Sc|7;$aZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice inversible / de passage",
+                "Les matrices inversibles sont les matrices de passage d'une base à une autre"
+            ],
+            "guid": "HCoFV-K3-Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de changement de base",
+                "\\(P = P_{B\\to B'}\\)<br>X dans la base B<br>X' dans la base B'<br>\\[X = PX'\\]<br>"
+            ],
+            "guid": "d]l/y(p5`q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "changements de base et application linéaire",
+                "E K-ev fini, avec B et B' bases<br>F K-ev fini, avec C et C' bases<br>\\(P = P_{B\\to B'}\\)<br>\\(Q = P_{C\\to C'}\\)<br>f une application de E vers F<br>\\(A = Mat_{B,C}(f)\\)<br>\\(A' = Mat_{B',C'}(f)\\)<br>\\[A' = Q^{-1}AP\\]<br>"
+            ],
+            "guid": "E|;2dku;QB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice équivalente",
+                "A et B équivalents quand il existe B et Q inversibles telles que:<br>\\[B = Q^{-1}AP\\]<br>"
+            ],
+            "guid": "uJ5R%1/~;!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ssi matrice équivalente",
+                "deux matrices sont équivalentes ssi elles représentent une même application linéaire dans des bases différentes"
+            ],
+            "guid": "c)uHuv+})-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème: équivalence matrice de rang r",
+                "\\(A \\in&nbsp;\\mathcal{M}_{n,m}(\\mathbb{K})\\)&nbsp;équivalente à&nbsp;\\[J_{n,m,r} = \\begin{pmatrix}\nI_r &amp; 0_{r,m-r}\\\\\n0_{n-r,r} &amp; 0_{n-r,m-r}\n\\end{pmatrix}\\]"
+            ],
+            "guid": "ng{PxzFFxH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ssi matrice équivalence et rang",
+                "matrices équivalentes ssi même rang"
+            ],
+            "guid": "BHuqwv%h4M",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rang transposée de matrice",
+                "\\[rg(A^T) = rg(A)\\]<br>"
+            ],
+            "guid": "qP+0os,YG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions matrice extraite",
+                "<ul><li>A' extraite de A,&nbsp;\\(rg(A') \\le rg(A)\\)</li><li>existe matrice carrée inversible de format&nbsp;\\(rg(A) \\times rg(A)\\)&nbsp;extraite de A</li></ul>"
+            ],
+            "guid": "7WhE/Lu[]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice semblable",
+                "A semblable à B si il existe&nbsp;\\(P \\in \\mathcal{GL}_n(\\mathbb{K})\\)&nbsp;tq<br>\\[B = P^{-1}AP\\]<br>"
+            ],
+            "guid": "OfT!uo21uo",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrices semblables ssi",
+                "elles représentent un même endomorphisme dans deux bases différentes"
+            ],
+            "guid": "zoGFZ;s36X",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rg et similitude",
+                "deux matrices semblables ont le même rang"
+            ],
+            "guid": "svgWXBKD((",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "trace et similitude",
+                "matrices semblables ont la mêmes trace"
+            ],
+            "guid": "Q![4c`nDEm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "représentation::matricielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limite simple",
+                "\\((f_n)_{n\\ge0}\\)&nbsp;converge simplement sur D vers f lorsque<br>\\[\\forall x \\in D, \\forall \\epsilon &gt; 0, \\exists N \\in \\mathbb{N}, \\forall n \\ge N, |f_n(x) - f(x)| \\le \\epsilon\\]\\[\\forall x \\in D, \\lim_{n\\to+\\infty}{f_n(x) = f(x)}\\]<br>"
+            ],
+            "guid": "e.=!:0DC$0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opérations sur convergence simple",
+                "<ul><li>\\((\\lambda f_n + \\mu g_n)\\)&nbsp;CVS vers&nbsp;\\(\\lambda f + \\mu g\\)<br></li><li>\\((f_ng_n)\\)&nbsp;CVS vers&nbsp;\\(fg\\)</li><li>si&nbsp;\\(g_n\\)&nbsp;et&nbsp;\\(g\\)&nbsp;ne s'annulent pas&nbsp;\\(\\frac{f_n}{g_n}\\)&nbsp;CVS vers&nbsp;\\(\\frac{f}{g}\\)</li></ul>"
+            ],
+            "guid": "pnQDa:Ndkc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "parité et périodicité converge simple",
+                "si D centré en 0 et toutes les fn sont paires (impaires) alors f est paire (impaire)<br>si D stable par T translation et toutes les fn sont T périodiques alors f est T périodique"
+            ],
+            "guid": "tS&YfMdo/t",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés d'ordre de la convergence simple",
+                "<ul><li>\\(f_n\\)&nbsp;positives (négatives) alors f est positive (négative)<br></li><li>\\(f_n \\)&nbsp;croissantes (décroissantes) alors f est croissante (décroissante)<br></li><li>\\(f_n\\)&nbsp;convexes (concaves) alors f est concave (convexe)<br></li></ul>"
+            ],
+            "guid": "nz90cZ/bqV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "insuffisances de la convergence simple",
+                "<ul><li>bornée (e.g&nbsp;\\(h_n\\))</li><li>limites (e.g&nbsp;\\(h_n\\))</li><li>continuité (e.g monomiales)</li></ul>"
+            ],
+            "guid": "A;_1kapT5)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "norme infinie",
+                "\\[||f||_{\\infty, D} = \\sup_{x\\in D}|f(x)|\\]<br>"
+            ],
+            "guid": "zYga|,e$m/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "converge uniforme",
+                "\\[\\forall \\epsilon &gt; 0, \\exists N \\in \\mathbb{N}, \\forall n \\ge N, \\forall x \\in D, |f_n(x) - f(x)| \\le \\epsilon\\]\\[\\lim_{n\\to+\\infty}{||f_n - f||_{\\infty, D}} = 0\\]<br>"
+            ],
+            "guid": "u@i/5;k1vi",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "montrer convergence uniforme",
+                "<ul><li>convergence simple si pas de limite simple pas de limite simple non plus</li><li>majorer par 0 (étudier&nbsp;\\(f_n - f\\), majorer&nbsp;\\(||f_n(x) - f(x)||_{\\infty, D}\\)</li><li>contradiction: trouver suite de&nbsp;\\((x_n)\\)&nbsp;tel que la suite&nbsp;\\(f_n(x_n) - f(x_n)\\)&nbsp;ne tend pas vers 0</li></ul>"
+            ],
+            "guid": "G+t{pdQ@%V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "convergence uniforme locale",
+                "\\((f_n)\\)&nbsp;converge uniformément localement sur D vers f lorsque&nbsp;\\((f_n)\\)&nbsp;converge uniformément vers f sur tout segment inclus dans D"
+            ],
+            "guid": "oh@j)1;&Q|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opérations sur la convergence uniforme ",
+                "<ul><li>\\((\\lambda f_n + \\mu g_n) \\)&nbsp;converge uniformément vers&nbsp;\\(\\lambda f + \\mu g\\)</li><li>si&nbsp;\\(f\\)&nbsp;et&nbsp;\\(g\\)&nbsp;sont bornées sur D, alors&nbsp;\\((f_ng_n)\\)&nbsp;converge uniformément vers&nbsp;\\(fg\\)</li></ul>"
+            ],
+            "guid": "E<bVz<QTKj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bornée et convergence uniforme",
+                "si les fonctions&nbsp;\\(f_n\\)&nbsp;sont bornées sur D alors f est bornée sur D"
+            ],
+            "guid": "k4ji7?Jf4z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de la double limite",
+                "fn CVU f<br>\\(a \\in Adh(D)\\), on sq fn admet une limite finie ln en a alors&nbsp;\\((l_n)_{n\\ge 0}\\)&nbsp;admet une limite finie l et la fonction f tend vers l<br><br>\\[\\lim_{x\\to a}{\\lim_{n\\to+\\infty}{f_n(x)}} = \\lim_{n\\to+\\infty}{\\lim_{x\\to a}{f_n(x)}}\\]<br>"
+            ],
+            "guid": "n`]V]9v+$#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "continuité convergence uniforme",
+                "si fn est continue alors f est continue"
+            ],
+            "guid": "hb^$MOkV1(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "subdivision",
+                "subdivision du segment [a;b]<br>\\[\\sigma = (x_0, \\ldots, x_n)\\]\\[a = x_0 &lt; \\ldots &lt; x_n = b\\]<br>"
+            ],
+            "guid": "J`@s{7m-gc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "subdivisions à pas constant",
+                "\\[\\sigma_n = (a + k\\frac{b-a}{n})\\]<br>"
+            ],
+            "guid": "HnNvoot|=^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "subdivision plus fine",
+                "\\(\\sigma_1\\)&nbsp;plus fine que&nbsp;\\(\\sigma_2\\)&nbsp;si tout élément de&nbsp;\\(\\sigma_1\\)&nbsp;est aussi élément de&nbsp;\\(\\sigma_2\\)"
+            ],
+            "guid": "KBDmO*UZVV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction en escalier",
+                "f est en escalier sur [a;b] si on peut trouver une subdivision telle que la restriction de f à chaque intervalle de la subdivision soit constante"
+            ],
+            "guid": "iz/XP*&4<F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opérations fonctions par escalier",
+                "stable par + et x"
+            ],
+            "guid": "y=FcA]&-u>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonctions continues par morceau",
+                "f continue par morceaux si il existe une subdivision telle que pour tout segment de la subdivision f est continue"
+            ],
+            "guid": "u{ZJaiky>,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opérations continues par morceaux",
+                "+ et x"
+            ],
+            "guid": "Ic4S~VH^H(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition fonction continue par morceaux",
+                "toute fonction continue par morceaux sur un segment est bornée sur ce segment"
+            ],
+            "guid": "f:)HHkSWB<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "approximation uniforme des fonctions continues par morceaux",
+                "f une fonction continue par morceaux, pour tout&nbsp;\\(\\epsilon&gt;0\\)<br><ol><li>il existe&nbsp;\\(\\phi \\in \\mathcal{E}([a;b], \\mathbb{K})\\)&nbsp;telle que&nbsp;\\(||f - \\phi||_{\\infty, [a;b]} \\le \\epsilon\\)</li><li>si&nbsp;\\(\\mathbb{K} = \\mathbb{R}\\), il existe&nbsp;\\(\\phi, \\psi \\in \\mathcal{E}([a;b], \\mathbb{K})\\)&nbsp;telles que&nbsp;\\(\\phi \\le f \\le \\psi\\)&nbsp;et&nbsp;\\(||\\psi - \\phi||_{\\infty, [a;b]} \\le \\epsilon\\)&nbsp;</li></ol>"
+            ],
+            "guid": "H3O#sKqdqv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire approximation fonctions continues par morceaux",
+                "Soit&nbsp;\\(f \\in \\mathcal{C}^o_{pm}([a;b], \\mathbb{K})\\)<br><br>il existe une suite de fonctions en escalier qui converge uniformément sur [a;b] vers f"
+            ],
+            "guid": "krkL|WHE1%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "approximation de fonctions continues",
+                "Soit&nbsp;\\(f \\in C^0\\)&nbsp;il existe une suite de fonctions polynomiales&nbsp;\\((P_n)_{n\\ge 0}\\)&nbsp;qui converge uniformément vers f sur [a;b]"
+            ],
+            "guid": "o>v$Kq_)`p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "suite::de::fonctions"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(x^n\\)",
+                "\\(\\frac{x^{n+1}}{n+1}\\)"
+            ],
+            "guid": "OA9i*).H55",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(\\frac{1}{x}\\)",
+                "\\(ln|x|\\)"
+            ],
+            "guid": "eE^9jpBWH@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(\\frac{1}{x^n}\\)",
+                "\\(\\frac{-1}{(n-1)x^{n-1}}\\)"
+            ],
+            "guid": "N|CgC>&w.W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(x^\\alpha\\)",
+                "\\(\\frac{x^{\\alpha+1}}{\\alpha +1}\\)"
+            ],
+            "guid": "IL4CSypD2r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(e^x\\)",
+                "\\(e^x\\)"
+            ],
+            "guid": "A#_(`a0ku=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(lnx\\)",
+                "\\(xlnx - x\\)"
+            ],
+            "guid": "mAGEF(4CVW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(cosx\\)",
+                "\\(\\sin x\\)"
+            ],
+            "guid": "B_T2*Ov:&c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(\\sin x\\)",
+                "\\(-\\cos x\\)"
+            ],
+            "guid": "do^L9q2]ZW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(\\tan x\\)",
+                "\\(-ln|cos x|\\)"
+            ],
+            "guid": "zy=gMS+kqz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(1 + tan^2x = \\frac{1}{cos^2x}\\)",
+                "\\(tan x\\)"
+            ],
+            "guid": "C;%s~;-+/;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(\\frac{1}{\\sqrt{1-x^2}}\\)",
+                "\\(arcsinx\\)&nbsp;ou&nbsp;\\(-arccosx\\)"
+            ],
+            "guid": "M[VMzQ!HuI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(\\frac{1}{1+x^2}\\)",
+                "\\(arctanx\\)"
+            ],
+            "guid": "ud$mO)o&Tu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(chx\\)",
+                "\\(shx\\)"
+            ],
+            "guid": "I;36s:~sX:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(shx\\)",
+                "\\(chx\\)"
+            ],
+            "guid": "J]^Q=2,|G_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitive&nbsp;\\(1 - th^2x = \\frac{1}{ch^2x}\\)",
+                "\\(thx\\)"
+            ],
+            "guid": "QivF&VFL_n",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{u'u^{n-1}}\\)",
+                "\\(\\frac{u^n}{n}\\)"
+            ],
+            "guid": "Rb{k(3vJ~y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{\\frac{u'}{\\sqrt{u}}}\\)",
+                "\\(2\\sqrt{u}\\)"
+            ],
+            "guid": "wQ<t=^RFcD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{\\frac{u'}{u^{n+1}}}\\)",
+                "\\(-\\frac{1}{n}\\frac{1}{u^n}\\)"
+            ],
+            "guid": "kN=d8h/<5E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{u'e^u}\\)",
+                "\\(e^u\\)"
+            ],
+            "guid": "L?>jjYZjf(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{\\frac{u'}{u}}\\)",
+                "\\(ln|u|\\)"
+            ],
+            "guid": "yU~MnRFtxc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{u'cosu}\\)",
+                "\\(sinu\\)"
+            ],
+            "guid": "jM#Z!1p<N|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{u'sinu}\\)",
+                "\\(-cosu\\)"
+            ],
+            "guid": "qzDALnGjiM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{\\frac{u'}{\\sqrt{1 - u^2}}}\\)",
+                "\\(arcsinu\\)"
+            ],
+            "guid": "q|TFj)?)8b",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\int{\\frac{u'}{1+u^2}}\\)",
+                "\\(\\arctan u\\)"
+            ],
+            "guid": "GfE+3K[d3m",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition intégrale de fonction en escalier",
+                "\\(\\int_{[a;b]}{\\phi} = \\sum_{i = 1}^{n}{(x_i - x_{i-1})y_i}\\)"
+            ],
+            "guid": "Q@|]HfFyjO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opération sur intégrales fonctions en escalier",
+                "<ul><li>\\(\\int{(\\lambda\\phi + \\mu\\psi)} = \\lambda\\int\\phi + \\mu\\int\\psi\\)<br></li><li>\\(\\int_{[a;b]}{\\phi} = \\int_{[a;c]}{\\phi} + \\int_{[c;b]}{\\phi}\\)</li><li>\\(\\phi \\ge 0 \\implies \\int_{[a;b]}{\\phi} \\ge 0\\)</li><li>\\(\\phi \\ge \\psi \\implies \\int_{[a;b]}{\\phi} \\ge \\int_{[a;b]}{\\psi}\\)</li><li>\\(\\left|\\int_{[a;b]}{\\phi}\\right| \\le \\int_{[a;b]}{|\\phi|}\\)<br></li></ul>"
+            ],
+            "guid": "e>r:hX5Q<d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme intégrale fonctions continues par morceaux",
+                "<div>f fonction continue par morceaux</div><ul><li>les fonctions en escalier inférieures à f admet une borne sup I-</li><li>les fonctions en escalier supérieures à f admet une borne inf I+</li><li>I- = I+</li></ul>"
+            ],
+            "guid": "l-]^tp/|m]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition intégrale d'une fonction continue par morceaux",
+                "\\[\\int_{[a;b]}{f} = \\sup_{\\phi \\in \\mathcal{E}^-(f)}\\int_{[a;b]}{\\phi}  = \\inf_{\\psi \\in \\mathcal{E}^+(f)}\\int_{[a;b]}{\\psi} \\]"
+            ],
+            "guid": "i-X-P8+2,}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition intégrale fonction continue par morceaux à partir de uniforme continuité",
+                "soit&nbsp;\\(\\phi_n\\)&nbsp;une suite de fonctions en escalier qui converge uniformément vers f (C0pm)<br>\\[\\lim_{n\\to+\\infty}{\\int_{[a;b]}{\\phi_n}} = \\int_{[a;b]}{f}\\]<br>"
+            ],
+            "guid": "c(3BFn}uP(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "défintion intégrale pour segment orientés",
+                "\\[\\int_a^b{f(t)dt}\\]<br><ul><li>\\(+ \\int_{[a;b]}{f}\\)&nbsp;si&nbsp;\\(a &lt; b\\)<br></li><li>0 si a = b</li><li>\\(- \\int_{[b;a]}{f}\\)&nbsp;si a &gt; b<br></li></ul>"
+            ],
+            "guid": "q%mnw3GH5<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition aux 4 hypothèses",
+                "<ol><li>f continue</li><li>positive</li><li>intégrale nulle sur [a;b]</li><li>a &lt; b</li></ol><div>Alors f est nulle sur [a;b]</div>"
+            ],
+            "guid": "CjK}CQ&ZhG",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exercice: Montrer que la suite&nbsp;\\(W_n\\)&nbsp;est décroissante et strictement positive<br><br>\\[W_n = \\int_0^{\\pi/2}{sin^ntdt}\\]<br>",
+                ""
+            ],
+            "guid": "mpZRCHCSQ?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité de Cauchy-Schwarz",
+                "\\(f,g \\in C^0_{pm}\\)<br>\\(\\forall a, b \\in I, a\\le b\\):<br>\\[\\left| \\int_a^b{fg} \\right| \\le \\sqrt{\\int_a^b{f^2}}\\sqrt{\\int_a^bg^2}\\]égalité ssi f et g sont proportionelles sur [a;b]<br>"
+            ],
+            "guid": "JaA%2rF,(U",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exercice: Démontrer que<br>\\[\\int_0^1{\\frac{1}{f}} \\ge \\frac{1}{\\int_0^1{f}}\\]<br>",
+                ""
+            ],
+            "guid": "A`y_qBMwKU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valeur moyenne",
+                "\\[m = \\frac{1}{b-a}\\int_a^bf(t)dt\\]<br>"
+            ],
+            "guid": "wq`Q*{iBaf",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme valeur moyenne",
+                "f continue sur segment [a;b]<br>\\[\\exists c \\in [a;b], f(c) = \\frac{1}{b-a}\\int_a^b{f(t)dt}\\]<br>"
+            ],
+            "guid": "FEfvl~hdi1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sommes de Riemann",
+                "\\[S_n(f) = \\frac{b-a}{n}\\sum_{k=0}^{n-1}{f\\left(a + k\\frac{b-a}{n}\\right)}\\]\\[R_n(f) = \\frac{b-a}{n}\\sum_{k=1}^n{f\\left(a + k\\frac{b-a}{n}\\right)}\\]<br>"
+            ],
+            "guid": "e&~>#+IH~{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème sommes de Riemann",
+                "\\[\\lim_{n\\to+\\infty}{S_n(f)} = \\lim_{n\\to+\\infty}{R_n(f)} = \\int_a^b{f(t)dt}\\]<br>"
+            ],
+            "guid": "PGz+wy&X`d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrale fonctione de sa borne haute",
+                "\\[\\forall x \\in I, F_a(x) = \\int_a^xf(t)dt\\]<br>"
+            ],
+            "guid": "j0}.J(,dvz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème intégrale de sa borne haute",
+                "l'unique primitive de f qui s'annule en a"
+            ],
+            "guid": "yG|]+5Rm)2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "condition suffisante pour être primitivable",
+                "être continue sur un intervalle"
+            ],
+            "guid": "pvD:P/q$_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrale comme opérations sur primitives",
+                "\\[\\int_a^b{f(t)dt} = F(b) - F(a)\\]<br>"
+            ],
+            "guid": "Pw%|D{]ZKP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "IPP",
+                "\\[\\int_a^b{u(t)v'(t)dt} = [u(t)v(t)]^b_a - \\int_a^b{u'(t)v(t)dt}\\]<br>"
+            ],
+            "guid": "wyVvA|(8;%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exercice:<br>Déterminer une relation de récurrence permettant de déterminer pour tout&nbsp;\\(n \\in \\mathbb{N}\\), l'expression de&nbsp;\\(W_n\\)&nbsp;en fonction de n. En déduire que&nbsp;\\(W_{n+1} \\sim W_n\\)&nbsp;puis que&nbsp;\\(W_n \\sim_{n\\to+\\infty} \\sqrt{\\frac{\\pi}{2n}}\\)",
+                ""
+            ],
+            "guid": "MNEyOh&J=A",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "PPP",
+                "\\[\\int^x{u(t)v'(t)dt} = [u(t)v(t)]^x - \\int^x{u'(t)v(t)dt}\\]<br>"
+            ],
+            "guid": "q<aqrlziAi",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exercice: déterminer les primitives de ln et de arctan",
+                ""
+            ],
+            "guid": "Nn.rw&dEMw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème changement de variable",
+                "\\[\\int_a^b{f(t)dt} = \\int_\\alpha^\\beta{f(\\phi(u))\\phi'(u)du}\\]<br>"
+            ],
+            "guid": "eX8IvsU9p<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Méthode du changement de variable",
+                "<img src=\"Screenshot 2025-03-16 at 13.25.39.png\">"
+            ],
+            "guid": "IaLc@|O99^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exercice: prouver que<br>\\[W_n = \\int_0^{\\pi/2}{sin^ntdt = \\int_0^{\\pi/2}{cos^ntdt}}\\]<br>",
+                ""
+            ],
+            "guid": "hi.4D<G)BP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "changement de variable dans une primitive",
+                "\\[\\int^x{f(t)dt} = \\int^{\\phi^{-1}(x)}{f(\\phi(u))\\phi'(u)du}\\]<br>"
+            ],
+            "guid": "i&c|fZ>Nql",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrale fonction complexe",
+                "tu casses pas les couilles d'additionnes l'intégrale de la partie réelle et l'intégrale de la partie imaginaire"
+            ],
+            "guid": "F7.0Vd&bNH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés valides intégrales complexes",
+                "<img src=\"Screenshot 2025-03-16 at 13.36.55.png\">"
+            ],
+            "guid": "IZg.9U)0i8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de Taylor avec reste intégral",
+                "\\(n \\in \\mathbb{N}\\), f une fonction&nbsp;\\(C^{n+1}\\)&nbsp;sur intervalle I,&nbsp;\\(a \\in I\\)<br>\\[\\forall x \\in I, f(x) = \\sum_{k=0}^n{\\frac{f^{(k)}(a)(x-a)^k}{k!}} + \\int_a^x{\\frac{(x-t)^n}{n!}f^{(n+1)}(t)dt}\\]<br>"
+            ],
+            "guid": "Kb<$3!nR3y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "astuce intégrale polynôme-exponentielles",
+                "on fait des PPP pour faire chuter le degré du polynôme"
+            ],
+            "guid": "DN_0)_lziO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitives de polynômes-trigonométriques",
+                "<img src=\"Screenshot 2025-03-16 at 13.51.40.png\">"
+            ],
+            "guid": ">L%OWp=Y*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitives d'éléments simples de première espèce",
+                "<img src=\"Screenshot 2025-03-16 at 13.52.33.png\">"
+            ],
+            "guid": "yJBi=2z.D?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "primitives éléments simples de seconde espèce",
+                "<img src=\"Screenshot 2025-03-16 at 13.53.03.png\"><img src=\"Screenshot 2025-03-16 at 13.53.48.png\">"
+            ],
+            "guid": "yYWAV2/a]X",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fractions rationnelles trigonométriques",
+                "<img src=\"Screenshot 2025-03-16 at 13.54.34.png\">"
+            ],
+            "guid": "nOd9_;I7Av",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrales fractions rationelles en exponentielles",
+                "on fait le changement de variable&nbsp;\\(u = e^t\\)"
+            ],
+            "guid": "IrCSLKU+tp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "limite d'une somme à l'aide des sommes de Riemann",
+                "<img src=\"Screenshot 2025-03-16 at 13.56.06.png\">"
+            ],
+            "guid": "JZ4m3;o|!s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivée d'une intégrale à bornes fonctionnelles",
+                "<img src=\"Screenshot 2025-03-16 at 13.56.50.png\">"
+            ],
+            "guid": "QI0A*,n.Pk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégration"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équation différentielle linéaire du premier ordre",
+                "\\[(E): \\forall t \\in D, a(t)y'(t) + b(t)y(t) = c(t)\\]<br>"
+            ],
+            "guid": "zirqg%UL0w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ensemble de définition d'une équation différentielle",
+                "\\[D_E = D_a \\cap D_n \\cap D_c\\]<br>"
+            ],
+            "guid": "sU!<wPI<p*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "point singulier d'une équation différentielle",
+                "solutiohns de&nbsp;\\(a(t) = 0\\)&nbsp;(\\(S_E)\\)<br>sur&nbsp;\\(D_E\\setminus S_E\\)<br>\\[(E^*): y' + \\frac{b(t)}{a(t)}y = \\frac{c(t)}{a(t)}\\]<br>"
+            ],
+            "guid": "dHN~,)F`iY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équation homogène",
+                "\\[(E^*_H): y' + b(t) = 0\\]<br>"
+            ],
+            "guid": "sN37i_,tE*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "solutions de l'équation homogène",
+                "\\[\\forall t \\in I, y_H(t) = \\lambda\\exp\\left\\{-\\int^tb(u)du \\right\\}\\]la seule solution de&nbsp;\\(E_H^*\\)&nbsp;qui s'annule est la fonction nulle. les solutions homo sont continues donc elles ne changent pas de signe<br>Deux solutions distinctes ne sont jamais égales en un point"
+            ],
+            "guid": "k2rPmRi4ms",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "méthode de variation de la constante",
+                "<img src=\"Screenshot 2025-03-16 at 14.14.29.png\">"
+            ],
+            "guid": "yd>,s6Q)E&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe de superposition (équa diffs)",
+                "<img src=\"Screenshot 2025-03-16 at 14.15.07.png\">"
+            ],
+            "guid": "s!y8U(LB,4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "condition de Cauchy",
+                "condition imposant une valeur d'une solution"
+            ],
+            "guid": "zPn^,Ug%eL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition condition de Cauchy",
+                "I intervalle dans&nbsp;\\(D_E\\setminus S_E\\),&nbsp;\\(t_0 \\in I, y_0 \\in \\mathbb{K}\\),&nbsp; avec la condition&nbsp;\\(y(t_0) = y_0\\), l'équation suivante admet une unique solution:<br>\\[(E^*): y' + b(t)y = c(t)\\]<br>"
+            ],
+            "guid": "F%c$9Kk7(x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "recollement des solutions aux points singuliers",
+                "<img src=\"Screenshot 2025-03-16 at 14.18.51.png\">"
+            ],
+            "guid": "NTs{}X@0tB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quand il y a plusieurs intervalles (equadiffs)",
+                "<img src=\"Screenshot 2025-03-16 at 14.19.12.png\">"
+            ],
+            "guid": "mI-]ta@(d[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Une condition de Cauchy par Intervalle",
+                "<img src=\"Screenshot 2025-03-16 at 14.19.31.png\">"
+            ],
+            "guid": "iHgy@SA]mi",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équation différentielle linéaire du deuxième ordre",
+                "\\[(E): \\forall t \\in D, a(t)y''(t) + b(t)y'(t) + c(t)y(t) = d(t)\\]<br>"
+            ],
+            "guid": "CL/$?)/IL6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équation caractéristique de l'équation de second degré",
+                "\\[ar^2 + br + c = 0\\]<br>"
+            ],
+            "guid": "H*MfH9hB2C",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "solutions avec coefficients complexes",
+                "<ul><li>\\(\\Delta \\ne 0\\)\\[\\forall t \\in \\mathbb{R}, y_H(t) = \\lambda e^{r_1t} + \\mu e^{r_2t}\\]</li><li>\\(\\Delta = 0\\)\\[\\forall t \\in \\mathbb{R}, y_H(t) = (\\lambda + \\mu t)e^{r_0t}\\]</li></ul>"
+            ],
+            "guid": "Ggmw.UEA_@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "solutions équa diff d'ordre 2 avec coefficients réels",
+                "idem pour&nbsp;\\(\\Delta \\ge 0\\)&nbsp;que complexes<br>pour&nbsp;\\(\\Delta &lt; 0\\):<br>\\[\\forall t \\in \\mathbb{R}, y_H(t) = e^{\\alpha t}(\\lambda\\cos(\\omega t) + \\mu\\sin(\\omega t))\\]<br>"
+            ],
+            "guid": "q09/)1G1W|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "solutions particulières pour eqdiff ordre 2",
+                "- solution évidente<br><img src=\"Screenshot 2025-03-16 at 14.26.43.png\">"
+            ],
+            "guid": "q;/)%6[]U0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "méthode de variation des constantes ordre 2",
+                "<img src=\"Screenshot 2025-03-16 at 14.27.16.png\">"
+            ],
+            "guid": "L3{/Bev`?u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "équations::différentielles"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition série",
+                "\\[S_n = \\sum_{k=0}^n{u_k}\\]attention on ne parle de&nbsp;\\(\\sum_{k=0}^{+\\infty}{u_k}\\)&nbsp;seulement si la série converge<br>"
+            ],
+            "guid": "CsOOv}vNg@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nature d'une série",
+                "convergente ou pas"
+            ],
+            "guid": "tDG}es^7mc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "montrer la nature de&nbsp;<br><ol><li>\\(\\sum{(1/2)^k}\\)<br></li><li>\\(\\sum{\\frac{1}{k(k-1)}}\\)</li><li>\\(\\sum{ln(1 + \\frac{1}{k})}\\)</li><li>\\(\\sum{\\frac{1}{\\sqrt{k}}}\\)</li><li>\\(\\sum{\\frac{1}{k}}\\)</li></ol>",
+                "<ol><li>convergente = 2</li><li>convergente = 1</li><li>divergente</li><li>divergente</li><li>divergente (clé&nbsp;\\(\\forall x \\in ]-1;+\\infty[, \\ln(1+x) \\le x\\)</li></ol>"
+            ],
+            "guid": "LyvnTDR2Q0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "reste d'indice n d'une série convergente",
+                "\\[R_n = \\sum_{k=n+1}^{+\\infty}{u_k}\\]"
+            ],
+            "guid": "DscUHs#Fw8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prosposition reste série",
+                "\\[S = S_n + R_n\\]d'où&nbsp;\\(R_n \\to 0\\)<br>"
+            ],
+            "guid": "EK#}S2C,0T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "règles somme divergence convergence",
+                "\\[CV + CV = CV\\]\\[DV + CV = DV\\]\\[DV + DV = ?\\]<br>"
+            ],
+            "guid": "Ee0xD#~1R0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "linéarité séries",
+                "tu sais faire mais attention les séries uk et vk doivent être convergentes"
+            ],
+            "guid": "m=l_iN`Jsd",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "convergence série complexe",
+                "tu sépares en partie imaginaire et partie réelle connard"
+            ],
+            "guid": "Dz&N<sihY~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Montrer que la série&nbsp;\\(\\sum{\\frac{\\cos(k\\theta)}{2^k}}\\)&nbsp;converge et donner sa somme",
+                ""
+            ],
+            "guid": "Qa~b}H`}.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "divergence grossière (série)",
+                "\\(\\sum{u_k}\\)&nbsp;diverge grossièrement lorsque&nbsp;\\((u_k)\\)&nbsp;ne tend pas vers 0"
+            ],
+            "guid": "OGx`El{VL>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition divergence grossière",
+                "série qui diverge grossièrement est une série divergente"
+            ],
+            "guid": "b}_9lpHqqv",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition série géométrique",
+                "\\(q \\in \\mathbb{C}\\), série géométrique de raison q converge ssi&nbsp;\\(|q| &lt; 1\\).<br><br>\\[\\sum_{k=0}^{+\\infty}{q^k} = \\frac{1}{1-q}\\]<br>"
+            ],
+            "guid": "cuw^c9/6p9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série de riemann",
+                "\\[\\sum{\\frac{1}{k^\\alpha}}\\]<br>"
+            ],
+            "guid": "d=4Sj?a8`p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition série de Riemann",
+                "série de Riemann converge ssi&nbsp;\\(\\alpha &gt; 1\\)"
+            ],
+            "guid": "vM`sDe2DaR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "méthode des rectangles",
+                "\\[\\int_{k}^{k+1}{f} \\le f(k) \\le \\int_{k-1}^k{f}\\]\\[\\int_1^{n+1}{f} \\le \\sum_{k=0}^n{f(k)} \\le \\int_0^n{f}\\]<br>"
+            ],
+            "guid": "HV}:`Kg6[y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série de Bertrand",
+                "\\[\\sum{\\frac{1}{k^\\alpha(\\ln k)^\\beta}}\\]<br>"
+            ],
+            "guid": "H}O|nIWkvZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition série de Bertrand",
+                "série de Bertrand converge ssi&nbsp;\\((\\alpha, \\beta) &lt; (1,1) \\)&nbsp;(ordre lexicographique)"
+            ],
+            "guid": "uqmm4gvSLY",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de comparaison des séries à termes positifs",
+                "<div>\\(\\sum{u_k}\\)&nbsp;et&nbsp;\\(\\sum{v_k}\\)&nbsp; des séries positives telles que&nbsp;&nbsp;</div>\\(0 \\le u_k \\le v_k\\)<br><ul><li>\\(\\sum{v_k}\\)&nbsp;converge alors&nbsp;\\(\\sum{u_k}\\)&nbsp;converge<br></li><li>\\(\\sum{u_k}\\)&nbsp;diverge alors&nbsp;\\(\\sum{v_k}\\)&nbsp;diverge<br></li></ul>"
+            ],
+            "guid": "I2[FN8!Jsn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "TCSTP par négligéabilité",
+                "\\(u_k = o(v_k)\\)&nbsp;si&nbsp;\\(\\sum{v_k}\\)&nbsp;converge alors&nbsp;\\(\\sum{u_k}\\)&nbsp;converge (attention des séries positives)"
+            ],
+            "guid": "i|7kh>Dh6v",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "règle de d'Alembert pour les séries",
+                "<ul><li>\\(\\lim \\frac{u_{k+1}}{u_k} &lt; 1\\)&nbsp;alors&nbsp;\\(\\sum{u_k}\\)&nbsp;converge</li><li>&nbsp;\\(\\lim \\frac{u_{k+1}}{u_k} &gt; 1\\), diverge grossièrement<br></li><li>= 1, on peut rien dire</li></ul>"
+            ],
+            "guid": "MQ?$PK*mUm",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Méthode des&nbsp;\\(k^\\alpha u_k\\)",
+                "<img src=\"Screenshot 2025-03-26 at 22.35.54.png\">"
+            ],
+            "guid": "o6$Cbt6}=I",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "TCSTP par équivalence",
+                "suites équivalentes alors séries ont même nature (séries positives)"
+            ],
+            "guid": "r0y7NZ2Sm(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "étudier la nature de&nbsp;\\(\\sum{1 - \\cos(1/k)}\\)",
+                ""
+            ],
+            "guid": "QgDe5sp6`w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "converge absolue",
+                "lorsque&nbsp;\\(\\sum{|u_k|}\\)&nbsp;converge"
+            ],
+            "guid": "Ib@k|n#d<&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème converge absolue",
+                "convergence absolue =&gt; convergence"
+            ],
+            "guid": "d)^-$I`xO.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série semi convergente",
+                "converge mais pas absolument"
+            ],
+            "guid": "frRM>2Y&DM",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "critère spécial des séries alternées (CSSA)",
+                "\\((a_k)\\)&nbsp;série positive, décroissante et de limite nulle, alors la série alternée&nbsp;\\(\\sum{(-1)^ka_k}\\)&nbsp;converge<br><br>astuce pour la démo: considérer les suites&nbsp;\\(S_{2n}\\)et&nbsp;\\(S_{2n+1}\\)"
+            ],
+            "guid": "Mh2.i5BkTW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "éclatement du terme général",
+                "<img src=\"Screenshot 2025-03-26 at 22.42.08.png\">"
+            ],
+            "guid": "xc[ALUN2$-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "étudier la convergence de la série&nbsp;\\(\\sum{u_k} = \\frac{(-1)^k}{k^{2/3} + (-1)^k}\\)",
+                ""
+            ],
+            "guid": "pG4uIWJn:)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème ordre de sommation pour convergence absolue",
+                "si une série est absolument convergente, une modification de l'ordre des termes ne change ni la nature ni la valeur de la somme de la série."
+            ],
+            "guid": "JV,AOF).8)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition de fou furieux pour les séries semi-convergentes",
+                "\\(\\sum{u_k}\\)&nbsp;une série semi-convergente, on peut trouver une permutation telle que la série diverge et pour tout&nbsp;\\(S \\in \\mathbb{R}\\),&nbsp; il existe une bijection&nbsp;\\(\\sigma: \\mathbb{N }\\to \\mathbb{N }\\)&nbsp;telle que&nbsp;\\(\\sum{u_{\\sigma(k)}}\\)&nbsp; converge et sa somme vaut S"
+            ],
+            "guid": "bh)uu||k8=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série télescopique",
+                "série téléscopique converge ssi&nbsp;\\((a_n)\\)&nbsp;converge"
+            ],
+            "guid": "qVqv&pz0(j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série des écarts",
+                "<img src=\"Screenshot 2025-03-26 at 22.46.47.png\">"
+            ],
+            "guid": "Mhs{yko*}g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prouver que&nbsp;\\(\\sum_{j=1}^n{\\frac{1}{j}} =_{n\\to\\infty} \\ln(n) + \\gamma + o(1)\\)",
+                ""
+            ],
+            "guid": "Ea^$B61ojp",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "k-ième décimale",
+                "\\[a_k = \\lfloor 10^kx\\rfloor - 10\\lfloor 10^{k-1}x \\rfloor\\]<br>"
+            ],
+            "guid": "mhH56%>[lD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition série développement décimal",
+                "la suite des décimzles de x, est l'unique suite à valeur dans [0;9] qui ne stationne pas à 9 telle que l'on ait le développement décimal propre de x<br>\\[x = \\lfloor x \\rfloor + \\sum_{k=1}^{+\\infty}{\\frac{a_k}{10^k}}\\]<br>"
+            ],
+            "guid": "w:zm(2c$=z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série géométrique dérivée m-ième&nbsp;\\(\\sum{k(k-1)\\cdots(k-m+1)q^{k-m}}\\)",
+                "\\[\\sum_{k=m}^{+\\infty}{k(k-1)\\cdots(k-m+1)q^{k-m} = \\frac{m!}{(1-q)^{m+1}}}\\]<br>"
+            ],
+            "guid": "J#`O|r{o>=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série exponentielle",
+                "\\[\\sum_{k=0}^{+\\infty}{\\frac{x^k}{k!}} = e^x\\]<br>"
+            ],
+            "guid": "z3h*J~{CO0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exponentielle complexe (séries)",
+                "\\[\\sum_{k=0}^{+\\infty}{\\frac{z^k}{k!}} = \\exp(z)\\]<br>"
+            ],
+            "guid": "wWls[QkiR4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition exponentielle complexe (séries)",
+                "\\[\\exp(z_1 + z_2) = \\exp(z_1)\\exp(z_2)\\]<br>morphisme de groupe de&nbsp;\\((C, +)\\)&nbsp;vers&nbsp;\\((C*, \\times)\\)"
+            ],
+            "guid": "x<MuV)S+1F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "séries cos et sin",
+                "comme le DL"
+            ],
+            "guid": "j/>%AyJ;W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série logarithmique",
+                "\\[\\sum_{k=1}^{+\\infty}{\\frac{(-1)^{k-1}x^k}{k}} = \\ln(1+x)\\]<br>"
+            ],
+            "guid": "rx1!0_as[R",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "série de Riemann",
+                "\\[\\forall x &gt; 1\\]\\[\\zeta(x) = \\sum_{k=1}^{+\\infty}{\\frac{1}{k^x}}\\]<br>"
+            ],
+            "guid": "ekC!AVI+oh",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "étude d'un produit infini",
+                "on passe au ln"
+            ],
+            "guid": "y?a=&(`Gf]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "séries"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Lagrange",
+                "l'ordre d'un sous groupe d'un groupe fini divise l'ordre du groupe"
+            ],
+            "guid": "AOx^~Ut!RC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition groupe généré",
+                "\\[Gr(A) = \\{a_1^{\\epsilon_1}\\ldots a_n^{\\epsilon_n} \\mid n \\in \\mathbb{N}, a_1,\\ldots,a_n \\in A, \\epsilon_1,\\ldots,\\epsilon_n \\in \\{-1;1\\}\\}\\]<br>"
+            ],
+            "guid": "DHoJT4ZM]P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groupe cyclique",
+                "monogène et fini"
+            ],
+            "guid": "d[#3HCs=|c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition ordre",
+                "g est d'ordre fini m ssi &lt;g&gt; est un groupe cyclique d'ordre m"
+            ],
+            "guid": "@{G</|CK*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème ordre groupe",
+                "l'ordre d'un groupe fini G, est le multiple de l'ordre de n'importe lequel de ses éléments"
+            ],
+            "guid": "Nx/Z]fnq;e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "support",
+                "\\[Supp(\\sigma) = \\{ i \\in [1;n] \\mid \\sigma(i) \\ne i  \\}\\]"
+            ],
+            "guid": "wl?h}?CY7f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groupe symétrique",
+                "\\[\\mathfrak{S}_n\\]groupe fini d'ordre n! pas abélien dès que n &gt;= 3<br>"
+            ],
+            "guid": "o1;I4L3pl$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme permutations",
+                "deux permutations disjointes (à support disjoints) commutent"
+            ],
+            "guid": "KMMcMJlB}|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relation de conjugaison groupe symétrique",
+                "\\(\\sigma_1\\)&nbsp;et&nbsp;\\(\\sigma_2\\)&nbsp;sont conjugués ssi il existe une permutation&nbsp;\\(\\rho\\)&nbsp;tq<br>\\[\\sigma_1 = \\rho \\sigma_2 \\rho^{-1}\\]c'est une relation d'équivalence<br>"
+            ],
+            "guid": "k/GV8jxXG2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "automorphisme intérieur de&nbsp;\\(\\mathfrak{S}_n\\)",
+                "<br>\\[i_p \\space\\sigma \\to \\rho\\sigma\\rho^{-1}\\]<br><br><ul><li>\\(i_{Id} = Id_{\\mathfrak{S}_n}\\)<br></li><li>\\(i_\\rho \\circ i_\\tau = i_{\\rho\\tau}\\)</li><li>\\(i_\\rho\\)&nbsp;est un automorphisme de groupes</li></ul>"
+            ],
+            "guid": "w?Aq&y5h.w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "notation transposition",
+                "\\[\\tau = (i,j)_n\\]<br>"
+            ],
+            "guid": "sIM@iMY1M:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition ordre transposition",
+                "une transposition est d'ordre 2 (involution)"
+            ],
+            "guid": "jP1qnW?WQq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème transpositions",
+                "toute permutation est décomposable en produit de transpositions"
+            ],
+            "guid": "qWVQf|7gi~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
             ]
         }
     ],
