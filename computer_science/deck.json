@@ -898,6 +898,234 @@
             "tags": [
                 "tas::binaire"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition problème de recherche",
+                "E un ensemble fini de candidats.&nbsp;<br><br>Problème de recherche consiste à chercher un élément de E qui vérifie une certaine propriété, élément appelé solution."
+            ],
+            "guid": "BlqJfWPH=7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition problème d'optimisation",
+                "chercher une solution optimale parmis S, l'ensemble des solutions. L'optimalité se fait selon une certain métrique qui dépend du problème."
+            ],
+            "guid": "f^>?z(1kU!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "différentes énumérations pour un algo en force brute",
+                "<ul><li>\\(E = [a;b]\\)<br></li><li>\\(E = A \\times B\\)</li><li>\\(E = \\mathcal{P}([0;n-1])\\)</li><li>\\(E = S_n\\)&nbsp;(ensemble des permutations)</li><li>\\(E = A^B\\)<br></li></ul>"
+            ],
+            "guid": "rv+crdIbV]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition backtracking",
+                "L'espace de recherche est un arbre:<br>- chaque noeud interne est un candidat partiel<br>- chaque feuille est un véritable candidat<br>- tous les éléments de E apparaissent bien sur au moins une feuille"
+            ],
+            "guid": "LU@5?1paQL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::backtracking"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "squelette backtracking",
+                "code(données):<br>&nbsp; &nbsp; &nbsp; def des obj mutables: candidats partiels<br>&nbsp; &nbsp; &nbsp; let rec aux candidat partiel =&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;candidat partiel = solution ? -&gt; arrêter tout<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;candidat partiel impossible ? -&gt; répondre faux<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;pour chaque choix possible:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;modifie le candidat partiel pour réfléter ce choix<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;aux candidat partiel<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;effacer ses traces"
+            ],
+            "guid": "PVd]-r%$mo",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::backtracking"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition problème",
+                "description d'une entrée et d'une question"
+            ],
+            "guid": "mB^#5y$09#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::backtracking"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition instance d'un problème",
+                "une entrée donnée à un problème"
+            ],
+            "guid": "IXs0Lr/K4=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::backtracking"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "défintion algorithme glouton",
+                "Pour résoudre un problème de recherche / optimisation, l'algorithme glouton effectue une série de <b><u>choix sans jamais le remettre en question</u></b>. Il optimise <b><u>localement</u></b> en suivant une <b><u>heuristique</u></b> (une <b><u>approximation</u></b> <u><b>imprécise</b></u> de la structure mais rapide à évaluer)."
+            ],
+            "guid": "6v}[+hnEH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::gloutons"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mémoisation",
+                "mémoriser les résultats des sous-problèmes au cas où ils apparaissent plusieurs fois."
+            ],
+            "guid": "I?1GOC+)CF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::programmation::dynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous structure optimale",
+                "lorsque les solutions des sous-problèmes une fois combinées donnent la solution du problème de départ."
+            ],
+            "guid": "CE6WAL63)r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::programmation::dynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "principe d'optimalité de Bellman",
+                "Une chemin optimal est formé de sous-chemins optimaux: Si (C) est un chemin optimal allant de A à B et si C appartient à (C) alors les sous-chemins de (C) allant de A à C et de C à B sont optimaux.<br><br>Se démontre par l'absurde"
+            ],
+            "guid": "f$fwL1F1?N",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::programmation::dynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "squelette version ascendante",
+                "def ascendate(pb):<br>&nbsp; &nbsp; &nbsp; T =&nbsp; []<br>&nbsp; &nbsp; &nbsp; for i in range(...):<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T[i][0] = ....<br>&nbsp; &nbsp; &nbsp; for i in range (N+1):<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;for j in range(1,.....):<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T[i][j] = equation de récurrence<br>&nbsp; &nbsp; &nbsp; &nbsp;return T[...][...]"
+            ],
+            "guid": "N`,M$0d)%E",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::programmation::dynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "squelette version descendante",
+                "def desc(pb):<br>&nbsp; &nbsp; &nbsp; T = ....<br>&nbsp; &nbsp; &nbsp; T[base] &lt;- ...<br>&nbsp; &nbsp; &nbsp; def aux(ss_pb):<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if ss_pb pas dans T<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T[ss_pb] = eq de rec<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return T[ss_pb]<br>&nbsp; &nbsp; &nbsp; return aux(pb)"
+            ],
+            "guid": "hx}}qdGsL:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::programmation::dynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Méthodes pour reconstruire la solution",
+                "1) On remonte la table comme sur le schéma<br>2) On créé une table opti de même taille que T et on la remplit en parallèle de T<br>3) Garder les solutions explicites dans la table"
+            ],
+            "guid": "K~?0>w6(Hs",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::programmation::dynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "étapes diviser pour régner",
+                "0) Cas de base<br>1) Diviser<br>2) Régner<br>3) Combiner"
+            ],
+            "guid": "o$;zRfi[Ay",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::diviser_pour_régner"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule générale complexité diviser pour régner",
+                "\\[T(n) = aT(n/b) + \\mathcal{O}(f(n) + g(n))\\]<br>"
+            ],
+            "guid": "vGvWSg|s8j",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::diviser_pour_régner"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "méthodes de résolution complexité diviser pour régner",
+                "- récurrence<br>- à l'intuition<br>- méthode formelle"
+            ],
+            "guid": "z)M0Nl>!&u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::diviser_pour_régner"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème maître",
+                "\\[T(n) = aT(n/b) + f(n)\\]<u><b>3 cas:</b></u><br><ol><li>Si&nbsp;\\(f(n) = \\mathcal{O}(n^{c-\\epsilon})\\)&nbsp;pour un entier&nbsp;\\(\\epsilon &gt; 0\\)&nbsp;alors&nbsp;\\(T(n) = \\Theta(n^c)\\)</li><li>Si&nbsp;\\(f(n) = \\Omega(n^{c+\\epsilon})\\)&nbsp;+ hypothèse alors&nbsp;\\(T(n) = \\Theta(f(n))\\)</li><li>Si&nbsp;\\(f(n) = \\Theta(n^c \\log^kn)\\)&nbsp;pour un certain k alors&nbsp;\\(T(n) = \\Theta(n^c\\log^{k+1}n)\\)</li></ol>"
+            ],
+            "guid": "dSpNwLpH8V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::diviser_pour_régner"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "astuce de preuve complexité diviser pour régner",
+                "on pose la suite&nbsp;\\(v_k = \\frac{T(b^k)}{a^k}\\)"
+            ],
+            "guid": "i#AxhIpJz_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "algorithmique::diviser_pour_régner"
+            ]
         }
     ],
     "reviewLimit": null,
