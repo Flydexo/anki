@@ -102,7 +102,6 @@
         "Screenshot 2025-03-26 at 22.46.47.png",
         "Screenshot 2025-04-09 at 22.08.49.png",
         "Screenshot 2025-05-01 at 10.25.24.png",
-        "Screenshot 2025-05-01 at 11.12.47.png",
         "exo3.jpeg",
         "latex-8cb2197a18eb1803340fffe9576810cc9ce0b0c4.png"
     ],
@@ -11936,109 +11935,13 @@
         {
             "__type__": "Note",
             "fields": [
-                "variables d'état d'un système diphasé",
-                "- P (ou T car liés)<br>-&nbsp;\\(n_{\\text I}\\)&nbsp;et&nbsp;\\(n_{\\text{II}}\\)&nbsp;(quantités de matière dans chaque phase)<br><br>\\(n = n_{\\text{I}} + n_{\\text{II}}\\)&nbsp;"
+                "S(T,V)",
+                "\\[S(T,V) = C_V\\ln\\left(\\frac{T}{T_0}\\right) + nR\\ln\\left(\\frac{V}{V_0}\\right) + S_0\\]<br>"
             ],
-            "guid": "w4h#BN&K:s",
+            "guid": "F@.nI=4>vx",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "fraction molaire ou massique",
-                "\\[x_\\text I = \\frac{n_\\text I}{n_\\text I + n_{\\text{II}}} = \\frac{m_\\text I}{m_\\text I + m_{\\text{II}}}\\]<br>"
-            ],
-            "guid": "D:.Kd`z8~;",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "diagramme de Clapeyron pour diphasé",
-                "<img src=\"Screenshot 2025-05-01 at 11.12.47.png\">"
-            ],
-            "guid": "n2:KoQY(9p",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Théorème des moments",
-                "\\[\\mathcal v = x_L\\mathcal v_L + x_G\\mathcal v_G = x_L\\mathcal v_L + (1-x_L)v_G\\]\\[x_L = \\frac{\\mathcal v - \\mathcal v_G}{\\mathcal v_L - \\mathcal v_G}\\]<br>"
-            ],
-            "guid": "s:r&3lg+R@",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "atmosphère inerte",
-                "phase gazeuse qui ne change pas d'état et qui ne réagit pas avec d'autres corps en présence"
-            ],
-            "guid": "wLf6I)U|GZ",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "pression partielle de A un constituant d'un mélange gazeux",
-                "pression exercée par A s'il occupait seul le volume<br><br>\\[n = \\sum_{i=1}^N{n_i}\\]\\[P =\\sum_{i=1}^N{P_i}\\]<br>"
-            ],
-            "guid": "b0};O0Y[[",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "critère de stabilité",
-                "si&nbsp;\\(P_A &lt; P_{satA}(T)\\)&nbsp;alors A est à l'état de vapeur&nbsp;\\((P_A\\)&nbsp;= pression partielle de A)<br>si&nbsp;\\(P_A = P_{satA}(T)\\)&nbsp;alors A est diphasé"
-            ],
-            "guid": "j8s7GAW&#u",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "enthalpie molaire d'un changement d'état",
-                "variation d'enthalpie au cours de la transformation d'un emole de corps pur de l'état I à l'état II<br>\\[\\Delta_{I-II}H_m\\]enthalpie massique&nbsp;\\(\\Delta_{I-II}h\\)<br>"
-            ],
-            "guid": "z@iEg@0_>|",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "O.G chaleur latente",
-                "chaleur latente:<br><br>\\[L_{fusion} = \\Delta_{S-L}h \\sim 10^2 kJ/kg\\]\\[L_{vaporisation} = \\Delta_{L-V}h \\sim 10^3 kJ/kg\\]"
-            ],
-            "guid": "EO#6?1+ol:",
-            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "espaces_euclidiens"
+                "thermodynamique"
             ]
         }
     ],

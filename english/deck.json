@@ -7,6 +7,4266 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "8da4dfa2-26c4-11f0-adf6-392129b6ac54",
+                    "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "War and warfare",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a diplomatic crisis (pl. : crises)",
+                                "",
+                                "une crise diplomatique",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "yR1g{@76ZI",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "warmongering",
+                                "",
+                                "la propagande belliciste",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Qct4QEt7%j",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the stakes",
+                                "",
+                                "les enjeux",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "eMHo_>BLZc",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a contention",
+                                "",
+                                "un motif de conflit",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "b&.UQ|MHOB",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to threaten",
+                                "",
+                                "menacer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "M7/ekKPM48",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a deadlock",
+                                "",
+                                "une impasse",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "OUnmA}+!Mk",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to aggress",
+                                "",
+                                "agresser",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "P[/+a,--a*",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "rebellious",
+                                "",
+                                "rebelle (adj.)",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "l)%:e;WM*l",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a skirmish",
+                                "",
+                                "une escarmouche",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "n7A.fk|bYK",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an ambush",
+                                "",
+                                "une embuscade",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Npd2G&4X`(",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to break out",
+                                "",
+                                "éclater",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Cgo+RnzDGl",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to mobilize",
+                                "",
+                                "mobiliser",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ciRA;|_<cJ",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "tense",
+                                "",
+                                "tendu",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "w7IPI7h@n5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to loom",
+                                "",
+                                "menacer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "f50tQLEyb)",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "doomed",
+                                "",
+                                "condamné",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "fRS2*h~k0A",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to declare war on",
+                                "",
+                                "déclarer la guerre à",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "G/kl7%sO?5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a civil war",
+                                "",
+                                "une guerre civile",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "wo<3VvJEOu",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a world war",
+                                "",
+                                "une guerre mondiale",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "tA/t66)HTm",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the headquarters (HQ)",
+                                "",
+                                "le quartier général (QG)",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d8Pq|IRB(T",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "tactical",
+                                "",
+                                "tactique (adj.)",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "xF_yv.{]EA",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a move / a maneuvre",
+                                "",
+                                "une manœuvre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "uU#wUj2xb-",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a target",
+                                "",
+                                "une cible",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "de>^x!|D+,",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "enemy forces",
+                                "",
+                                "des forces ennemies",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "cqiCDn,U/u",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "allied forces",
+                                "",
+                                "les forces alliées",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qA]C[bAQ~]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to go to war / to be at war",
+                                "",
+                                "aller / être en guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "gLGG_Q!a`)",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to make war / to wage war",
+                                "",
+                                "faire la guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qt[<3y<M-q",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to (counter-)attack",
+                                "",
+                                "(contre-)attaquer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "t]|xx2|^Hx",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to support",
+                                "",
+                                "soutenir",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "fh:,X}OAv8",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to side with",
+                                "",
+                                "prendre parti pour",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "x_[f-cimuf",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to harass / to harry",
+                                "",
+                                "harceler",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "oR-h`bVni:",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a blitzkrieg",
+                                "",
+                                "une guerre éclair",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "c5?awythu5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a trench warfare",
+                                "",
+                                "la guerre de tranchées",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "n<uz4Q^cL&",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war of attrition",
+                                "",
+                                "une guerre d'usure",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": ".y.YU_t@P",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the front / the rear",
+                                "",
+                                "le front / l'arrière",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "HZlGAy797E",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the enemy line",
+                                "",
+                                "les lignes ennemies",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "c6na_#nx.h",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "enemy fire",
+                                "",
+                                "les tirs ennemis",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Q3bW^xmqh<",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a campaign",
+                                "",
+                                "une campagne",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O[tBF_mdqK",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an attack / onslaught / onset",
+                                "",
+                                "une attaque",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "jK!hJ^-0sl",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a fight / an action",
+                                "",
+                                "un combat",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "o=D!Wg{&z=",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "air-fighting",
+                                "",
+                                "le combat aérien",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "AoODme[QqD",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an air raid / a blitz",
+                                "",
+                                "un raid aérien",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "eaxlgp{@g$",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an air strike",
+                                "",
+                                "une frappe aérienne",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "fL|3ur`PTq",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a surgical strike",
+                                "",
+                                "une frappe chirurgicale",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "rOZD|lstT~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "collateral damage",
+                                "",
+                                "les dommages collatéraux",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "P$LN>]:iK(",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a landing",
+                                "",
+                                "un débarquement",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "m9b%9@?ka=",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a blockade",
+                                "",
+                                "un blocus",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "zQOxGihu}W",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "backup",
+                                "",
+                                "les renforts",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "k_15#`s@DN",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a siege",
+                                "",
+                                "un siège",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "B:_ES_N$FD",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war of nerves",
+                                "",
+                                "une guerre des nerfs",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qv>Zjzzea&",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to sink a ship",
+                                "",
+                                "couler un navire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "GtN3<X5^>k",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "deadly",
+                                "",
+                                "meurtrier",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Fd=s=annmg",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "guerilla warfare",
+                                "",
+                                "la guérilla",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "f5G(Y5J?$U",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a mujahedin",
+                                "",
+                                "un moudjahidin",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "KNSl9*.z0j",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the casualties",
+                                "",
+                                "les victimes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d&n=Xgcw~O",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the missing",
+                                "",
+                                "les disparus",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O%<Xp~%e^.",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the wounded",
+                                "",
+                                "les blessés",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "I_/zKc~(rs",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the dead",
+                                "",
+                                "les morts",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BT43/([=n/",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the losses",
+                                "",
+                                "les pertes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "L/@a@&[uci",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a survivor",
+                                "",
+                                "un survivant",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "zDqlR]z$`/",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a civilian",
+                                "",
+                                "un civil",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "bss;<6VXcK",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a wound / an injury",
+                                "",
+                                "une blessure",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "B{)hSE#K>Q",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a scar",
+                                "",
+                                "une cicatrice",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "MR>fhWLKW7",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to go missing",
+                                "",
+                                "disparaître",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "jo.sZT[9Ny",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "maimed",
+                                "",
+                                "mutilé",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "JUjo&0@^<>",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to cripple / to disable",
+                                "",
+                                "mutiler / estropier",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "xB!w1Vz8MB",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to get killed",
+                                "",
+                                "se faire tuer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "xeE6.d.T:X",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "killed in action",
+                                "",
+                                "tué au combat",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d><-riFC[s",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "missing in action",
+                                "",
+                                "porté disparu",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qCIp7Kz_?i",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to suffer from",
+                                "",
+                                "souffrir de",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "lk;jnET5cg",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "shell-shocked",
+                                "",
+                                "traumatisé",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "D{&+.m5r!+",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the barracks",
+                                "",
+                                "la caserne",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "wclovSi](5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the garrison",
+                                "",
+                                "la garnison",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Ow7^B>P$E(",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a drill sergeant",
+                                "",
+                                "un sergent instructeur",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Q^A+1Rqn5^",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the assault course",
+                                "",
+                                "le parcours du combattant",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BB2v@h>d@Z",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "on leave",
+                                "",
+                                "en permission",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "g]sW2[ws}?",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be on guard",
+                                "",
+                                "être de garde",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "N?Z]5^;lLU",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to parade",
+                                "",
+                                "défiler",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "xaDT!|3n?j",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to march past somebody",
+                                "",
+                                "défiler devant quelqu'un",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "t`OQmas3OG",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to fall out",
+                                "",
+                                "rompre les rangs",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "G.NRP?ZL5G",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to desert",
+                                "",
+                                "déserter",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "uOurT&zZJB",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a mutiny",
+                                "",
+                                "une mutinerie",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "n6ix9&,qK!",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a mutineer",
+                                "",
+                                "un mutin",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Qz{Z8KG52V",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to betray",
+                                "",
+                                "trahir",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "wJ+G,=Gz1N",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a traitor",
+                                "",
+                                "un traître",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "i4(NU.@[-|",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "treason",
+                                "",
+                                "la trahison",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "hUr!nst=(M",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a border conflict",
+                                "",
+                                "un conflit frontalier",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "MR`purhIM]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a conflict zone",
+                                "",
+                                "une zone de conflit",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "K%j=9G0{iO",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the escalation of violence",
+                                "",
+                                "l'escalade de la violence",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "MvXnYuZaVS",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be at stake",
+                                "",
+                                "être en jeu",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "fCk`4EGTTl",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to initiate a conflict",
+                                "",
+                                "amorcer un conflit",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "v-np8u6f;H",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to trigger a conflict",
+                                "",
+                                "déclencher un conflit",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "yaW=CiXT>B",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to carry out a threat",
+                                "",
+                                "mettre une menace à exécution",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "A:aQzEbdHA",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be drawn into war",
+                                "",
+                                "être entraîné dans la guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "byxpxHuq$m",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to ally oneself to / with",
+                                "",
+                                "s'allier avec",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BG*2Ws^=M?",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a pact of neutrality",
+                                "",
+                                "un pacte de neutralité",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "RjOwkQggbd",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war of independence",
+                                "",
+                                "une guerre d'indépendance",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O;p;6-5~I^",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "nuclear warfare",
+                                "",
+                                "la guerre nucléaire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Mju4;Xz;vT",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a holy war",
+                                "",
+                                "une guerre sainte",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "iH%0beSA{o",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a colonial war",
+                                "",
+                                "une guerre coloniale",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "CLv?Y/47!(",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to commit onself to a cause",
+                                "",
+                                "s'engager pour une cause",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "lUx.+QpDr;",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "psychological warfare",
+                                "",
+                                "la guerre psychologique",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "iSq%Da%d|y",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to carry out an offensive",
+                                "",
+                                "mener une offensive",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "p`$]d2DUpJ",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "friendly fire",
+                                "",
+                                "les tirs de son propre camp",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "G3EF@w:dyk",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to send for backup",
+                                "",
+                                "demander des renforts",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "yERQ:B1b6S",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to lay siege to / to besiege",
+                                "",
+                                "assiéger",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "g8#nLn/.Tx",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to down a plane / to shoot a plane down",
+                                "",
+                                "abattre un avion",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BM@?Z%Yts$",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to go over to the enemy",
+                                "",
+                                "passer à l'ennemi",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d^{QyPC`lB",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war widow",
+                                "",
+                                "une veuve de guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "q2LfuFiBvS",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war orphan",
+                                "",
+                                "un orphelin de guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "h3ZjGIS(Ia",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be in the firing line",
+                                "",
+                                "être sous le feu des attaques",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "s;J)_TZ+O(",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be in somebody's firing line",
+                                "",
+                                "être la cible de quelqu'un",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "x<;v+5$s*n",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the Revolutionary War / the war of Independence (1775-1783)",
+                                "",
+                                "fought by American colonies to get independence from Great Britain",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "kkENw2cFEs",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the Civil War (1861-1865)",
+                                "",
+                                "the war between the North (the Union) and the South (the Confederacy) in the US (FR : la guerre de Sécession)",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "C5h+wH=j&J",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the Vietnam War (1955 - 1975)",
+                                "",
+                                "military conflict which cost the US 58,000 lives and 350,000 casualties",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "p%cS/HAvbm",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the armed/ground forces",
+                                "",
+                                "les forces armées/terrestres",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Fx)J!iX@,5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a platoon",
+                                "",
+                                "un peloton",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "K2iKZKLbwk",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a squad / a squadron",
+                                "",
+                                "une escouade / un escadron",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "GHgV{&3dIi",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a recruit",
+                                "",
+                                "une recrue",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Gn[$~RCCuD",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to recruit",
+                                "",
+                                "recruter",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "k=KpJurxNE",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to enlist",
+                                "",
+                                "s'engager",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BGd1`gR&?q",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to enroll / to draft",
+                                "",
+                                "appeler sous les drapeaux",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "g:p8=*a.zd",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the rank and file",
+                                "",
+                                "la troupe",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "j@Pm,p-Mn_",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the advance",
+                                "",
+                                "l'avancée",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ple5]dpQh~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a trooper",
+                                "",
+                                "un soldat de la troupe",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "oApTSI4=6a",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a private",
+                                "",
+                                "un simple soldat",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "jJ?/MkmbbV",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to occupy",
+                                "",
+                                "occuper",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "F8l0gdv<xn",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to liberate",
+                                "",
+                                "libérer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "k&_uZh@^b8",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a staff officer",
+                                "",
+                                "un officier d'état-major",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "M,HQ=RiqK5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the top brass",
+                                "",
+                                "les hauts gradés",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "eMT~ew()M|",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a field marshal",
+                                "",
+                                "un maréchal",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BTqv%%V:~P",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a commanding officer",
+                                "",
+                                "un commandant",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BMVcxpR,&L",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a non-commisioned officer",
+                                "",
+                                "un sous-officier",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "jKz.vCcc8",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "battle dress",
+                                "",
+                                "la tenue de combat",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "sdSO]fGm+~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "fatigues",
+                                "",
+                                "le treillis",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "fl@2S4~n`U",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a helmet",
+                                "",
+                                "le casque",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "G$KNE;nK(i",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a stripe",
+                                "",
+                                "un galon",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ub~dpdYhPo",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an infantryman/a foot soldier",
+                                "",
+                                "un fantassin",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "A#(@.a)N|r",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a gunner",
+                                "",
+                                "un artilleur",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "A&*F^m%Ioi",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an ex-serviceman",
+                                "",
+                                "an ancien militaire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "IYI5JL.kc4",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a (war) veteran",
+                                "",
+                                "un ancien combattant",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Kg~k^(&4k+",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Veterans Day",
+                                "",
+                                "le 11 Novembre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Pr&`-#CTrP",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a marine",
+                                "",
+                                "un fusiller marin",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "hd^#@<!6_V",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an admiral",
+                                "",
+                                "un amiral",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "P>~LtM33>I",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the fleet",
+                                "",
+                                "la flotte",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "c(6?mx+CjI",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a warship",
+                                "",
+                                "un navire de guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "B<lc2R[XH2",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a battleship",
+                                "",
+                                "un cuirassé",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "wOir/|3+L~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an aircraft carrier",
+                                "",
+                                "un porte-avions",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "j^E+d0#tA#",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a submarine",
+                                "",
+                                "un sous-marin",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "M)Dy}[f}(,",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a landing craft",
+                                "",
+                                "une barge de débarquement",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "B!h|sm&;@;",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a fighter",
+                                "",
+                                "un avion de chasse",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "zRx*<D*%=9",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a bomber",
+                                "",
+                                "un bombardier",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "s_/iI)y4&v",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a stealth bomber",
+                                "",
+                                "un avion furtif",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "uHsr35Y}Zs",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a scouting plane",
+                                "",
+                                "un avion de reconnaissance",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Lmw*X>Z`wl",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a chopper",
+                                "",
+                                "un hélico",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ms/BaO3.*c",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an air tanker",
+                                "",
+                                "un avion citerne",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "k4-Ah`@#Dq",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to defeat",
+                                "",
+                                "vaincre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "A@>#ddS2qv",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a stampede",
+                                "",
+                                "une débâcle",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "tNx,0m$Vd[",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to surrender",
+                                "",
+                                "se rendre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "G>_C[]$KR}",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to overpower",
+                                "",
+                                "vaindre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "D6.7ZWz5c$",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to crush",
+                                "",
+                                "écraser",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O:oy=yxN^C",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to overwhelm",
+                                "",
+                                "submerger / écraser",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "MUdS~FZ_H~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "relentless",
+                                "",
+                                "implacable",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "KxpUrHYX;z",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to retaliate",
+                                "",
+                                "réagir",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "h[!g)YLQR=",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "retaliation / reprisal",
+                                "",
+                                "les représailles",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d@W;b&0qii",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a trap",
+                                "",
+                                "un piège",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O~0=ns*x;x",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to resist / stand up against",
+                                "",
+                                "résister à",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "j&^9;G~y?8",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to ensnare / to trap somebody",
+                                "",
+                                "prendre quelqu'un au piège",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qC/T<2AT?j",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to capture",
+                                "",
+                                "capturer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "t>oj-E.^)X",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to question / to interrogate",
+                                "",
+                                "interroger (longuement)",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "A=p>o^wL;c",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to shoot",
+                                "",
+                                "fusiller",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "HL$<.:eT&g",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a shooting",
+                                "",
+                                "une fusillade",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ir_rN<]KkV",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to elude sby",
+                                "",
+                                "échapper à qqn",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "fE9R;tHL-4",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "underground / secret",
+                                "",
+                                "clandestin",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "oH->q;(&/A",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a ceasefire",
+                                "",
+                                "un cessez-le-feu",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "AA,W~vx)u7",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a truce",
+                                "",
+                                "une trêve",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Gu8m!&aC^s",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a peace agreement",
+                                "",
+                                "un accord de paix",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "l-#2]?e7a~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a peace treaty",
+                                "",
+                                "un traité de paix",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "M9dgJ8=2v}",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "disarmament",
+                                "",
+                                "le désarmement",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "vEgYG/A!L8",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to defuse a crisis",
+                                "",
+                                "désamorcer une crise",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "L3.t.,64O]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "damage",
+                                "",
+                                "les dégats",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O|_edM]KE",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ruins",
+                                "",
+                                "les ruines",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "x4bIR]g8i]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to dispose of sth",
+                                "",
+                                "se débarrasser de qqch",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "w#9DtHJ.0)",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a ceremony",
+                                "",
+                                "une cérémonie",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "wv&XV!8ij^",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an anniversary",
+                                "",
+                                "un anniversaire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "fim]D4AO~]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a speech",
+                                "",
+                                "un discours",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ddB$R{>F!",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to pay tribute to sby",
+                                "",
+                                "rendre hommage à qqn",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "n}USnx.C<1",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to award a medal to sby",
+                                "",
+                                "remettre une médaille à qqn",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "tV6woI-(pv",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a patriot",
+                                "",
+                                "un patriote",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Mlqs~?lX$A",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "patriotism",
+                                "",
+                                "le patriotisme",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Aw=lJ/wyV_",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "heroism",
+                                "",
+                                "l'héroïsme",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "cj[RzWVbIt",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war criminal",
+                                "",
+                                "un criminel de guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "K=O0_k.{(~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a crime against humanity",
+                                "",
+                                "un crime contre l'humanité",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "LFNJXc]*-4",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "torture",
+                                "",
+                                "la torture",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "s@f[7R&IDP",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a round up",
+                                "",
+                                "une rafle",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "A[v!Hs:H3G",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to round up",
+                                "",
+                                "rassembler / regrouper",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "N-sJxR&h]z",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "transportation",
+                                "",
+                                "la déportation",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "j&r{!X;FC",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to intern",
+                                "",
+                                "déporter / interner",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "K|JNGe69*b",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "internment",
+                                "",
+                                "la déportation dans un camp",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "P!=g<SJcm#",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a concentration camp",
+                                "",
+                                "un camp de concentration",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Ja=lcmyyx%",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a death camp",
+                                "",
+                                "un camp de la mort",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Q>l^+I4?iF",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to massacre / to slaughter",
+                                "",
+                                "massacrer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Ji#8c=FlTF",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "maltreatment",
+                                "",
+                                "le mauvais traitement",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Fq15`UB>*K",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to track down",
+                                "",
+                                "traquer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "dxv_tcqxEx",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to extradite",
+                                "",
+                                "extrader",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "e/w:yUO/.D",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an international court",
+                                "",
+                                "Une cour internationale",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BGP%KvsL_9",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a deportee",
+                                "",
+                                "un déporté",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "xT_2)h1OZR",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to take somebody hostage",
+                                "",
+                                "prendre quelqu'un en otage",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "kG>J=+=E|]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to take hostages",
+                                "",
+                                "prendre des otages",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "c3iv>)@+]?",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to live in hiding",
+                                "",
+                                "vivre dans la clandestinité",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "k+,?A!$_-<",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a peacekeeping force",
+                                "",
+                                "une force de maintien de la paix",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "PW?2v`6Rl^",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "troop withdrawal",
+                                "",
+                                "le retrait des troupes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "PWRDLl.v_]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "arms control",
+                                "",
+                                "le contrôle des armements",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "t&qR0(,kTe",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to make peace with",
+                                "",
+                                "faire la paix avec",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "tdZ|Vom*5q",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a peace process",
+                                "",
+                                "un processus de paix",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "e$/Ufayhc!",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be at peace",
+                                "",
+                                "être en paix",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d@<AQHmOOU",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to come to an agreement",
+                                "",
+                                "parvenir à un accord",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "CZ__,B=*!m",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be / lie in ruins",
+                                "",
+                                "être en ruines",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "z_;(N.p3`2",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "bomb disposal",
+                                "",
+                                "le déminage",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "LqEWN,/zS,",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "war reparations",
+                                "",
+                                "les réparations de guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "IRW{li.D!.",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to clear an area of mines",
+                                "",
+                                "déminer une zone",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "s_lUdR{4Vp",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to rise from its ashes",
+                                "",
+                                "renaître de ses cendres",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "o:My2G4S;X",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war memorial",
+                                "",
+                                "un monument aux morts",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "PCLGCE1^a~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a war cemetary",
+                                "",
+                                "un cimetière militaire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "lpP7s16,NH",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a draft dodger (US)",
+                                "",
+                                "un insoumis",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "BnLtAs+}%K",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a conscientious objector",
+                                "",
+                                "un objecteur de conscience",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qO4}0rW]l.",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Military Police",
+                                "",
+                                "la police militaire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d1/}{ztr@m",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be court-martialled",
+                                "",
+                                "passer en conseil de guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "m7rMMyjed`",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the firing squad",
+                                "",
+                                "le peloton d'exécution",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "gPL!*UeF=d",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to execute somebody's orders",
+                                "",
+                                "exécuter les ordres de quelqu'un",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "GjOL}`+V)b",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a wreath-laying ceremony",
+                                "",
+                                "Une cérémonie de dépôt de gerbe",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O!ncVJG`Ff",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a moving ceremony",
+                                "",
+                                "une cérémonie émouvante",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "jkfrAzEhe^",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to attend a ceremony",
+                                "",
+                                "assister à une cérémonie",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "x<&RoP1Q)x",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to deport sby to",
+                                "",
+                                "déporter qqn à",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "B3C%%gt5D9",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to maltreat",
+                                "",
+                                "maltraiter",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "uis(jsL2Om",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a mass execution",
+                                "",
+                                "une exécution massive",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "lXmM.Lz<P|",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to exterminate / to wipe out",
+                                "",
+                                "exterminer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "LdzV26tUEt",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a breach of convention",
+                                "",
+                                "une violation",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "xK$O;MPgIN",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a feat",
+                                "",
+                                "un exploit",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "OYMv5a8&[D",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a hero",
+                                "",
+                                "un héros",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "m/}[BG[UM?",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "praise",
+                                "",
+                                "des éloges",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "G$pF4=M+!b",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to praise",
+                                "",
+                                "louer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "J)fi;[+=JJ",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a tribute",
+                                "",
+                                "un hommage",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "g2M|mdtCut",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to commemorate",
+                                "",
+                                "commémorer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "iCL9spyyr`",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to honour",
+                                "",
+                                "honorer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Qmo^G.Z+jW",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to subsidize",
+                                "",
+                                "subventionner",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "zUT$Ry?!q5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to fund",
+                                "",
+                                "financer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "g6O[0HcKfx",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to rebuild",
+                                "",
+                                "reconstruire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "yh>rZ5Ouwo",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "rubble",
+                                "",
+                                "les décombres",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "r[WSnIY=1n",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to demobilize",
+                                "",
+                                "démobiliser",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ncS;d!g/g6",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to meet / to convene",
+                                "",
+                                "se rencontrer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "gn2b34?q%<",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "peace talks",
+                                "",
+                                "des pourparlers de paix",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "B!S+#Rd7%j",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "dauntless / fearless",
+                                "",
+                                "sans peur / intrépide",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "sF-:<rJ-KE",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a network",
+                                "",
+                                "un réseau",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "yM%kwi@{t,",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to sabotage sth",
+                                "",
+                                "saboter qqch",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "D$EJrDLMoq",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a freedom fighter",
+                                "",
+                                "un résistant",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "g=+vxS5EG2",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "pitiless",
+                                "",
+                                "impitoyable",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "wu/Cg@>]rc",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to outnumber",
+                                "",
+                                "dominer en nombre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "c%4X~O5ea%",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to overcome",
+                                "",
+                                "vaincre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "N~-N-5hs$Z",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a POW (prisonner-of-war)",
+                                "",
+                                "un prisonnier de guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "QX;VuIAyk~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to stampede away",
+                                "",
+                                "fuir dans la panique",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "E>5bL^s)[o",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the military",
+                                "",
+                                "les militaires, l'armée",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "d$GH$s;[iO",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the general staff",
+                                "",
+                                "l'état-major",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "humiKfe`jV",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to conquer",
+                                "",
+                                "conquérir",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qU#Sk5mVAq",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a victor",
+                                "",
+                                "un vainqueur",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "g:%qa<CaFg",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a conscript",
+                                "",
+                                "un appelé",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "lQa;v{OQ&e",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the arms race",
+                                "",
+                                "la course à l'armement",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "cK}p1N6#(h",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an arms factory",
+                                "",
+                                "une usine d'armes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "M64IS~Tse0",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an arms manufacurer",
+                                "",
+                                "un fabricant d'armes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qh5kQMWtIS",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "arms sales",
+                                "",
+                                "les ventes d'armes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "ef6yfJ4)hZ",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an arms dealer",
+                                "",
+                                "un marchand d'armes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "O#A|MY1KWq",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an arms embargo",
+                                "",
+                                "un embargo sur les armes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "H{TOR_b~Tb",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an armoury",
+                                "",
+                                "une armurerie",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "sBu,nJse_1",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a shell",
+                                "",
+                                "un obus",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "H,fm7b0myY",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to strike",
+                                "",
+                                "porter un coup",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "bP4KDLJiKa",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to burst",
+                                "",
+                                "éclater",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "EY^/Ns0M%*",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to explode",
+                                "",
+                                "exploser",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qfKb%1VeTO",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to blow up",
+                                "",
+                                "faire exploser",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "bcb7wk)Y:p",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to defuse",
+                                "",
+                                "désamorcer",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "FnOoQ?n`,n",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a deterrent",
+                                "",
+                                "un moyen de dissuasion",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "y2Zrgpu8bh",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a warhead",
+                                "",
+                                "une ogive",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "D=Z7~]9UVk",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "lethal",
+                                "",
+                                "mortel",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "C=$^t:|MYK",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the War Office (UK)",
+                                "",
+                                "le ministère de la Guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "dZ@YR>pn?~",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "the War Secretary / the Defence Secretary (US)",
+                                "",
+                                "le ministre de la guerre",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "n+wF&n+Zof",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be in the forces",
+                                "",
+                                "être dans l'armée",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "F|d@arp.CI",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to join the army / to go into the army",
+                                "",
+                                "s'engager dans l'armée",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "qA.9)){icZ",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be fit for service",
+                                "",
+                                "être bon pour le service",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "IgAa[51/*?",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be declared unfoit",
+                                "",
+                                "être réformé",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "iDaQU.o|i2",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a soldier in the engineers",
+                                "",
+                                "un soldat du génie",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "oPLawU?Nxe",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a soldier in the Signals",
+                                "",
+                                "un soldat des transmissions",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Lsw)ZpzUwf",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to be up in arms",
+                                "",
+                                "être en rébellion",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "c|e1Xkv_<&",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a machine gun",
+                                "",
+                                "une mitrailleuse",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "k3)2yY|LrA",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a submachine gun",
+                                "",
+                                "une mitraillette",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "LXwHv+~Z!=",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to machine-gun",
+                                "",
+                                "mitrailler",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "Qx8Q&%0|Xy",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "cannon fodder",
+                                "",
+                                "de la chair à canon",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "C.xj2k/E2u",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a piece of shrapnel",
+                                "",
+                                "un éclat d'obus",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "rrxX^C|o%5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "a rocket-launcher",
+                                "",
+                                "un lance-roquettes",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "H3sMqKc||]",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "an ammunition dump",
+                                "",
+                                "un dépôt de munitions",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "B74u6(*GN;",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to fire a shot / a missile",
+                                "",
+                                "tirer un coup de feu / un missile",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "DeyZ81hZ_L",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to hit / miss the mark",
+                                "",
+                                "toucher / manquer sa cible",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "mbeF*AMJC5",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "nuclear deterrence",
+                                "",
+                                "la dissuasion nucléaire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "t#_!}QVejS",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "nuclear firepower",
+                                "",
+                                "la puissance nucléaire",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "K0B+vZbJ/Y",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "to deter sby from doing sth",
+                                "",
+                                "dissuader qqn de faire qqch",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "QN+T2vX`MS",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "WMDs (weapons of mass destruction)",
+                                "",
+                                "les armes de destructions massive",
+                                "",
+                                "",
+                                "True"
+                            ],
+                            "guid": "f9VIAgD/hZ",
+                            "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "213d4f5e-b967-11ef-88ae-63750eff7b21",
                     "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
                     "desc": "",
@@ -9692,7 +13952,9 @@
                             ],
                             "guid": "cNVuQDD1LS",
                             "note_model_uuid": "02d66a6e-aa94-11ef-bec0-d9aa25b9a078",
-                            "tags": []
+                            "tags": [
+                                "leech"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -13803,9 +18065,7 @@
             ],
             "guid": "p:b$9S^lI4",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "leech"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -13835,9 +18095,7 @@
             ],
             "guid": "HJO,qv/S`h",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": [
-                "leech"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -14956,6 +19214,126 @@
                 "Elderly"
             ],
             "guid": "mKhdvtXQ#-",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quant à lui",
+                "As for him"
+            ],
+            "guid": "yj3V-oetZr",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "À son actif",
+                "For itself"
+            ],
+            "guid": "lriD8d)F!p",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mépris",
+                "Disdain, despise, contempt"
+            ],
+            "guid": "Jxb9Pyb[w2",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Knee-jerk reactions",
+                "Immédiate, emotional responses to events without careful strategy"
+            ],
+            "guid": "itw3T%zF^Y",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Very easy",
+                "It's a bed of roses"
+            ],
+            "guid": "o#{XiB[.*N",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Farther  vs further",
+                "Further pour distance physique"
+            ],
+            "guid": "mU49?`Z^9,",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Coffre (voiture)",
+                "Trunk/boot"
+            ],
+            "guid": "p6,yAK>p@2",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Maitresse",
+                "Schoolmistress"
+            ],
+            "guid": "p*IA)+7x2?",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Chuchoter ",
+                "Murmur,mutter "
+            ],
+            "guid": "j-kvvv:slU",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "C'est bête ",
+                "How very silly"
+            ],
+            "guid": "jOGC@F:10M",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Envie de pleurer",
+                "Felt like crying"
+            ],
+            "guid": "F|p#unI,Wp",
+            "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hausser les  epaules",
+                "Shrugged "
+            ],
+            "guid": ")D<5,D`?R",
             "note_model_uuid": "02d63472-aa94-11ef-bec0-d9aa25b9a078",
             "tags": []
         }
