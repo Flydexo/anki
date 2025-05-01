@@ -80,9 +80,11 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [
+        "IMG_1236 Small.jpeg",
         "Screenshot 2024-10-07 at 21.26.20.png",
         "Screenshot 2024-10-07 at 21.28.08.png",
-        "Screenshot 2024-10-28 at 14.34.24.png"
+        "Screenshot 2024-10-28 at 14.34.24.png",
+        "Screenshot 2025-04-12 at 15.00.58.png"
     ],
     "mid": 1725465955482,
     "name": "physics",
@@ -4494,6 +4496,450 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "gaz::parfait"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1 Angström",
+                "\\[10^{-10}m\\]<br>"
+            ],
+            "guid": "sA;710.!pR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ordres de grandeur libre parcours moyen",
+                "liquide&nbsp;\\(10^{-10}\\)m<br>gaz&nbsp;\\(10^{-5}\\)m"
+            ],
+            "guid": "MA$15@`&w3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\delta W\\)&nbsp;en thermo",
+                "\\[\\delta W = -P_{ext}dV\\]<br>"
+            ],
+            "guid": "vq^*~o>EI<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "travail fourni / reçu thermo",
+                "\\(dV &gt; 0, \\delta W &lt; 0 \\to\\)fournit du travail à l'extérieur<br>\\(dV &lt; 0, \\delta W &gt; 0 \\to \\)reçoit du travail"
+            ],
+            "guid": "sRLH~qm3t|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transfert thermique",
+                "échange d'énergie sans intervention mécanique à l'échelle macroscopique&nbsp;\\(\\ne \\)&nbsp;travail"
+            ],
+            "guid": "HF}KaqGS}C",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 modes de transfert thermique",
+                "- conduction<br>- convection<br>- rayonnement"
+            ],
+            "guid": "HUyX4fIpu!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transformation adiabatique&nbsp;",
+                "transformation au cours de laquelle il n'y a pas de transfert thermique&nbsp;<br><br>(souvent une transformation rapide sera considéré adiabatique)"
+            ],
+            "guid": "zX?f7*/#lS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "thermostat",
+                "système tel que&nbsp;\\(C_v\\)&nbsp;très élevé =&gt; T ne varie pas"
+            ],
+            "guid": "w2jn_<`YA+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "flux thermique (puissance thermique)",
+                "\\[\\phi\\]\\[\\delta Q = \\phi dt\\]\\[i = \\frac{dq}{dt} = \\int\\int\\vec{j_{th}}\\vec{dS}\\]\\[\\phi = \\int\\int\\vec{j_{th}}\\vec{dS}\\]<br>"
+            ],
+            "guid": "fQ|b>u{m3_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "densité de courant thermique",
+                "\\[\\vec{j_{th}} = -\\lambda\\vec{grad}T\\]avec&nbsp;\\(\\lambda\\)&nbsp;la conductivité thermique<br>"
+            ],
+            "guid": "K=9>Ta1O9f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "résistance thermique",
+                "\\[R_{th} = \\frac{e}{\\lambda S}\\]<br>"
+            ],
+            "guid": "JV,jgLZz`v",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi phénoménologique de Newton",
+                "\\[\\delta Q= \\phi dt = hS\\Delta T dt\\]avec h coefficient conducto convectif<br>\\[R_{th} = \\frac{1}{hS}\\]<br>"
+            ],
+            "guid": "Q/|~jhV&!a",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "premier principe de la thermodynamique",
+                "\\[\\Delta E = W + Q\\]\\[dE = \\delta W + \\delta Q\\]<br>"
+            ],
+            "guid": "KvrEeh,=dj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "travail (thermodynamique)",
+                "\\[W = \\int_{V_i}^{V_f}{-P_{ext}dV}\\]<br>"
+            ],
+            "guid": "ru*<f3HxHF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "types de transformation",
+                "<b><u>isochore:</u></b> volume du système est constant<br><b><u>isobare:</u></b>&nbsp;pression constante<br><b><u>monobare:</u></b>&nbsp;pression extérieure est constante<br><b><u>quasistatique:</u></b>&nbsp;successsion de quasi équilibre<br><b><u>isotherme:</u></b>&nbsp;température constante<br><u><b>monotherme:</b></u>&nbsp;température extérieure constante"
+            ],
+            "guid": "twXQhc:U/L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diagramme de Clapeyron",
+                "\\((P,\\mathcal V)\\)<br>avec&nbsp;\\(\\mathcal V\\)&nbsp;le volume massique"
+            ],
+            "guid": "PE<cd]$n7U",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transformations cycliques diagramme de Clapeyron",
+                "sens trigo = récepteur<br>sens horaire =&nbsp; moteur"
+            ],
+            "guid": "S~?ygeH2L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système incompressible au contact d'un thermostat",
+                "\\[\\delta Q = \\phi dt = \\frac{T_{air} - T(t)}{R_{th}}dt\\]<br>"
+            ],
+            "guid": "w[11Vgx2Th",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction enthalpie",
+                "\\[H = U + PV\\]en joule<br>fonction extensive"
+            ],
+            "guid": "v>hOsisVLI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variation enthalpie",
+                "\\[dH = \\frac{\\delta H}{\\delta T/p}dT + \\frac{\\delta H}{\\delta P/t}dP\\]à pression constante:&nbsp;\\(dH = \\frac{\\delta H}{\\delta T/p}dT = C_pdT\\)<br>"
+            ],
+            "guid": "Qy2,<xyj0J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2ème loi de joule",
+                "on dit qu'un système vérifie la deuxième loi de Joule lorsque H(T) ne dépend que de T"
+            ],
+            "guid": "qPPZG)Z}`v",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variation d'enthalpie pour une transformation monobare",
+                "\\[\\Delta H = W_{autre} + Q\\]"
+            ],
+            "guid": "r7Gw.wT`QR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "causes de déséquilibre transformation",
+                "frottements<br>mécanique<br>thermique<br>inhomogène (diffusion)"
+            ],
+            "guid": "k363~Joz}h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transformation réversible",
+                "contraintes extérieures qui varient suffisamment lentement, pour qu'on considère à chaque instant un quasi équilibre<br>on peut inverser le sens de la transformation par un changement infinitésimal des contraintes"
+            ],
+            "guid": "sJ7d3)X4Hr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "entropie",
+                "fonction d'état, extensive<br>\\(S_{\\Sigma_1 \\cup \\Sigma_2} = S_{\\Sigma_1} + S_{\\Sigma_2}\\)<br>\\[\\Delta S = S_{éch} + S_{créée}\\]\\[S_{éch} = \\frac{Q}{T_s}\\]<br>"
+            ],
+            "guid": "ih0&]!j%a8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variation d'entropie pour un système isolé",
+                "\\[dS = \\delta S_{créée}\\]S ne peut qu'augmenter, à l'équilibre son entropie est au maximum<br>"
+            ],
+            "guid": "f}@*aqBb6S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "identité thermodynamique",
+                "\\[dU = TdS - PdV\\]<br>"
+            ],
+            "guid": "McE,PB*EAW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule statistique entropie",
+                "\\[S = K_B\\log\\Omega\\]pour un système isolé<br>"
+            ],
+            "guid": "*kIzIN#<a",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gamma thermodynamique",
+                "\\[\\gamma = \\frac{C_p}{C_v}\\]<br>"
+            ],
+            "guid": "pPHnPQJ|lV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bilan thermodynamique pour un G.P",
+                "<br>\\[dS = \\frac{C_vdT}{T} + \\frac{nRdV}{V}\\]<br>\\[S(T,V) = C_v\\ln\\left(\\frac{T}{T_0}\\right) + nR\\ln\\left(\\frac{V}{V_0}\\right) + S_0\\]<br>"
+            ],
+            "guid": "cr[P3tP/:6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi de Laplace",
+                "pour un G.P qui subit une transformation adiabatique et réversible<br><br>\\[PV^\\gamma = cste\\]\\[TV^{\\gamma -1 } = cste\\]<br>"
+            ],
+            "guid": "Dxq2Yph.dV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variation d'entropie d'une phase condensée",
+                "on néglige les variations de volume<br>\\[S(T) = S_0 + mc\\ln\\left( \\frac{T}{T_0} \\right)\\]<br>"
+            ],
+            "guid": "f-Uw+_zaM!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Diagramme de phases de l'eau et du dioxyde de carbone",
+                "<img src=\"IMG_1236 Small.jpeg\">"
+            ],
+            "guid": "rgk>k/FFJ6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corps pur",
+                "corps constitué d'un seul constituant chimique"
+            ],
+            "guid": "BEU:9BmD~K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "phase (thermo)",
+                "région de l'espace dans laquelle les grandeurs intensives sont continues"
+            ],
+            "guid": "r-lwb7yxC~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "les états de la matière",
+                "<img src=\"Screenshot 2025-04-12 at 15.00.58.png\">"
+            ],
+            "guid": "i#MXqe2cQg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "faits notables sur diagrammes de phases",
+                "solide -&gt; haute pression et basse température<br>liquide -&gt; stable à pression plus importante que le gaz<br><br>courbes d'équilibre séparent les états<br><br>la majorité des corps ont une pente positive (sauf eau à cause des liaison H)"
+            ],
+            "guid": "H/#koz*l2,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
             ]
         }
     ],

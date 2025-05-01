@@ -100,6 +100,9 @@
         "Screenshot 2025-03-26 at 22.35.54.png",
         "Screenshot 2025-03-26 at 22.42.08.png",
         "Screenshot 2025-03-26 at 22.46.47.png",
+        "Screenshot 2025-04-09 at 22.08.49.png",
+        "Screenshot 2025-05-01 at 10.25.24.png",
+        "Screenshot 2025-05-01 at 11.12.47.png",
         "exo3.jpeg",
         "latex-8cb2197a18eb1803340fffe9576810cc9ce0b0c4.png"
     ],
@@ -628,7 +631,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "\\[tan(\\frac{pi}{2} + \\theta)\\]",
+                "\\[tan(\\frac{\\pi}{2} + \\theta)\\]",
                 "\\[-\\frac{1}{tan\\theta}\\]"
             ],
             "guid": "r2z/Kl$06[",
@@ -6522,7 +6525,7 @@
             "__type__": "Note",
             "fields": [
                 "propositions déterminant (3)",
-                "-&nbsp;\\(det(A^T) = det(A)\\)<br>-&nbsp;\\(det(\\lambda A) = \\lambda det(A)\\)<br>-&nbsp;\\(\\det(AB) = \\det(A)\\det(B)\\)"
+                "-&nbsp;\\(det(A^T) = det(A)\\)<br>-&nbsp;\\(det(\\lambda A) = \\lambda^n det(A)\\)<br>-&nbsp;\\(\\det(AB) = \\det(A)\\det(B)\\)"
             ],
             "guid": "d.~/Y,G3xu",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -9918,7 +9921,7 @@
             "__type__": "Note",
             "fields": [
                 "proposition série de Bertrand",
-                "série de Bertrand converge ssi&nbsp;\\((\\alpha, \\beta) &lt; (1,1) \\)&nbsp;(ordre lexicographique)"
+                "série de Bertrand converge ssi&nbsp;\\((\\alpha, \\beta) &gt; (1,1) \\)&nbsp;(ordre lexicographique)"
             ],
             "guid": "uqmm4gvSLY",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
@@ -10229,7 +10232,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "série de Riemann",
+                "Dzeta de Riemann",
                 "\\[\\forall x &gt; 1\\]\\[\\zeta(x) = \\sum_{k=1}^{+\\infty}{\\frac{1}{k^x}}\\]<br>"
             ],
             "guid": "ekC!AVI+oh",
@@ -10289,7 +10292,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "proposition ordre",
+                "<span style=\"background-color: rgb(255, 255, 255);\">g (élément) est d'ordre fini m ssi</span>",
                 "g est d'ordre fini m ssi &lt;g&gt; est un groupe cyclique d'ordre m"
             ],
             "guid": "@{G</|CK*",
@@ -10404,6 +10407,1638 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition integrale convergente",
+                "\\[\\int_a^bf(t)dt = \\lim_{x\\to b^-}\\int_a^xf(t)dt\\]<br>"
+            ],
+            "guid": "s<<+931!83",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "reste de l'intégrale",
+                "\\[x \\in [a;b[ \\to \\int_x^bf(t)dt\\]<br>"
+            ],
+            "guid": "l1RYa,>TW{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrale impropre en plusieurs points",
+                "intégrale est convergente lorsque pour tout point dans l'intervalle les intégrales intermédiaires convergent<br>\\[\\int_a^bf(t)dt =  \\int_a^cf(t)dt  + \\int_c^bf(t)dt \\]<br>"
+            ],
+            "guid": "Q{dVy*OxK:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vigilance pour les intégrales impropres",
+                "il faut étudier une impropreté à la fois, utiliser la relation de Chasles"
+            ],
+            "guid": "QPCzI0Yq,P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "IPPI",
+                "attention il faut que le crochet&nbsp;\\([uv]^a_b\\)&nbsp;soit fini<br><br>alors les intégrales de u'v et de v'u ont la même nature"
+            ],
+            "guid": "A{tU@[en.q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "attention mise en garde changement de variable pour intégrales impropres",
+                "les impropretés doivent forcément être sur les bornes de l'intégrale, si ce n'est pas le cas, utiliser relation de chasles"
+            ],
+            "guid": "GbVwa3Izq!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "divergence grossière pour les intégrales impropres",
+                "il y en a pas, il faut faire attention l'intégrale peut très bien converger sans que f ne tende vers 0 en&nbsp;\\(+\\infty\\)"
+            ],
+            "guid": "DFg,iRFK]J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrale de Riemann",
+                "\\[\\int_a^{+\\infty}{\\frac{dt}{t^\\alpha}}\\]ou<br>\\[\\int_0^b\\frac{dt}{t^\\alpha}\\]avec&nbsp;\\(a,b&gt; 0\\)<br>"
+            ],
+            "guid": "Cpx6~7,0[Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "convergence intégrale de Riemann en&nbsp;\\(+\\infty\\)",
+                "\\[(\\int_a^{+\\infty}\\frac{dt}{t^\\alpha} \\text{ converge}) \\Longleftrightarrow (\\alpha &gt; 1)\\]<br>"
+            ],
+            "guid": "Av)wi,s%nW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "convergence intégrale de Riemann en 0",
+                "\\[\\int_0^b\\frac{dt}{t^\\alpha}dt \\text{ converge} \\Longleftrightarrow (\\alpha &lt; 1)\\]<br>"
+            ],
+            "guid": "E5!PUf0d@f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction gamma d'Euler",
+                "\\[\\Gamma: x \\to \\int_0^{+\\infty}{t^{x-1}e^{-t}dt}\\]<br>"
+            ],
+            "guid": "OEU7[1c~+|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition fonction gamma",
+                "\\[\\forall x &gt; 0, \\Gamma(x+1) = x\\Gamma(x)\\]\\[\\forall n \\in \\mathbb{N}^*, \\Gamma(n) = (n-1)!\\]<br>"
+            ],
+            "guid": "j]F5RB!!Oc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrale de Gauss",
+                "\\[G_n = \\int_{-\\infty}^{+\\infty}{t^ne^{-t^2/2}dt}\\]<br>"
+            ],
+            "guid": "s}P9&h$;u3",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition intégrale de Gauss 0 (\\(G_0)\\)",
+                "\\[G_0 = \\int_{-\\infty}^{+\\infty}{e^{-t^2/2}dt} = \\sqrt{2\\pi}\\]<br>"
+            ],
+            "guid": "t{tb[>hF0x",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intégrale de Dirichlet",
+                "\\[D = \\int_0^{+\\infty}{\\frac{\\sin t}{t}dt}\\]<br>"
+            ],
+            "guid": "q*10Tmh34-",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition intégrale de Dirichlet",
+                "\\[D = \\int_0^{+\\infty}{\\frac{\\sin t}{t}dt} = \\frac{\\pi}{2}\\]<br>"
+            ],
+            "guid": "sqtwr^U|2P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "intégrales::impropres"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition/proposition cycle",
+                "permutation&nbsp;\\(\\gamma\\)&nbsp;de&nbsp;\\(\\mathfrak{S}_n\\)&nbsp;telle qu'il existe&nbsp;\\(p \\in [2;n]\\)&nbsp;et&nbsp;\\(a_1,\\ldots,a_p\\)&nbsp;de&nbsp;\\([1;n]\\)&nbsp;deux à deux distincts tels que<br><ul><li>\\(\\forall i \\in [1;p-1], \\gamma(a_i) = a_{i+1}\\)<br></li><li>\\(\\gamma(a_p) = a_1\\)</li><li>\\(\\forall l \\in [1;n]\\setminus\\{ a_1, \\ldots, a_p \\}, \\gamma(l) = l\\)<br></li></ul><div>on dit que c'est un p-cycle</div>"
+            ],
+            "guid": "NdXoU-$G)$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition p-cycle",
+                "<ul><li>\\(Supp((a_1, \\ldots, a_p)) = \\{a_1,\\ldots, a_p\\}\\)<br></li><li>\\(w((a1, \\ldots, a_p)) = p\\)</li><li>\\((a1, \\ldots, a_p)^{-1} = (a_p, a_{p-1}, \\ldots, a_2, a_1)\\)</li><li>\\(\\forall \\sigma \\in \\mathfrak{S}_n, \\sigma(a_1,a_2,\\ldots,a_p)\\sigma^{-1} = ((\\sigma(a_1), \\ldots, \\sigma(a_p)))\\)</li></ul>"
+            ],
+            "guid": "x<MCTq9iL0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire p-cycles",
+                "deux p-cycles sont toujours conjuguées dans&nbsp;\\(\\mathfrak{S}_n\\)"
+            ],
+            "guid": "s0ea}xVujD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème cycles",
+                "toute permutation est décomposable en produit de cycles à support deux à deux distincts. Cette décomposition est unique et les cycles commutent (car support disjoints)"
+            ],
+            "guid": "BZrr|z*9TF",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inversion d'une permutation",
+                "paire {i,j} telle que&nbsp;\\(i &lt; j\\)&nbsp;et&nbsp;\\(\\sigma(i) &gt; \\sigma(j)\\)<br><br>On note&nbsp;\\(I(\\sigma)\\)&nbsp;le nombre d'inversions"
+            ],
+            "guid": "b6tH,MPm8D",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "signature d'une permutation",
+                "\\[\\epsilon(\\sigma) = (-1)^{I(\\sigma)}\\]<br>"
+            ],
+            "guid": "f?)UpUOGr;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété signature",
+                "l'application signature est un morphisme de groupes&nbsp;\\((\\mathfrak S, \\circ) \\to (\\{-1;1\\}, \\times)\\)"
+            ],
+            "guid": "p<ZWRX5Hk9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "corollaire signature",
+                "<ul><li>\\(\\forall \\sigma \\in \\mathfrak S_n, \\epsilon(\\sigma^{-1}) = \\epsilon(\\sigma)\\)<br></li><li>\\(\\forall \\sigma, \\rho \\in \\mathfrak S_n, \\epsilon(\\rho^{-1}\\sigma\\rho) = \\epsilon(\\sigma)\\)<br></li></ul>"
+            ],
+            "guid": "DyI)|9gc3V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "signature d'un cycle",
+                "p-cycle&nbsp;\\((-1)^{p-1}\\)<br>transposition&nbsp;\\(-1\\)"
+            ],
+            "guid": "Os./s$+v*9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groupe alterné",
+                "l'ensemble des permutations paires est le noyau de la signature"
+            ],
+            "guid": "e6:`pXWaNh",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "groupes::symétriques"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "forme p-linéaire",
+                "linéaire par rapport à chacune de ses variables<br>\\[\\forall x,y \\in E, \\forall \\lambda, \\mu \\in \\mathbb{K}, f(\\cdots,\\lambda x + \\mu y,\\cdots) = \\lambda f(\\cdots, x,\\cdots) + \\mu f(\\cdots, y, \\cdots)\\]<br>"
+            ],
+            "guid": "dFMgY=Ieb{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement multilinéaire",
+                "\\[f(\\sum_{i_1\\in I_1}{\\lambda_{i_1,1}x_{i_1, 1}},\\cdots,\\sum_{i_p\\in I_p}{\\lambda_{i_p,1}x_{i_p, 1}}) = \\sum_{i_1\\in I_1, \\ldots, i_p \\in I_p}{\\lambda_{i_1,1}\\cdots\\lambda_{i_p,p}f(x_{i_1,1},\\cdots,x_{i_p,p})}\\]<br>"
+            ],
+            "guid": "rXw0s6@5&V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition forme multinéaire alternée",
+                "lorsqu'elle s'annule sur toutes les familles liées"
+            ],
+            "guid": "h*_fe-Ak?2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "équivalence forme p-linéaire alternée",
+                "<ul><li>f est alternée</li><li>f s'annule en redondance</li><li>f est antisymétrique</li></ul>"
+            ],
+            "guid": "g(pTXNJdwl",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "invariant et permutations sur forme p-linéaire",
+                "<ul><li>on ne modifie pas&nbsp;\\(f(x_1,\\cdots,x_p)\\)&nbsp;en ajoutant à l'un des&nbsp;\\(x_i\\)&nbsp;une combinaison linéaire des&nbsp;<b>autres</b>&nbsp;</li><li>\\(f(x_{\\sigma(1),\\cdots,x_{\\sigma(n)}}) = \\epsilon(\\sigma)f(x_1, \\cdots, x_n)\\)<br></li></ul>"
+            ],
+            "guid": "sQ]s<ca}0`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème droite vectoriell forme n-linéaires alternées",
+                "\\(\\mathcal{A}_{n}(E, \\mathbb K)\\)&nbsp;est dirigé par<br>\\[\\Delta: \\left ( \\sum_{k_1 = 1}^n{a_{k_1,1}e_{k_1}},\\cdots, \\sum_{k_n=1}^n{a_{k_n,n}e_{k_n}} \\right ) \\to \\sum_{\\sigma \\in \\mathfrak S_n}{\\epsilon(\\sigma)a_{\\sigma(1), 1}\\cdots a_{\\sigma(n),n}}\\]<br>"
+            ],
+            "guid": "G9`~iHUy)m",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule théorique déterminant",
+                "\\[det_{\\mathcal B}(x_1, \\cdots, x_n) = \\sum_{\\sigma \\in \\mathfrak S_n}{\\epsilon(\\sigma)\\prod_{k=1}^n{a_{\\sigma(k),k}}}\\]<br>"
+            ],
+            "guid": "Kqw+Z3,=A@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de changement de base déterminant",
+                "\\[\\det_{\\mathcal B'}(\\mathcal F) = \\det_{\\mathcal B'}(\\mathcal B)\\times\\det_{\\mathcal B}(\\mathcal F)\\]<br>"
+            ],
+            "guid": "KF4NTa!u[M",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème base avec déterminant",
+                "F une famille de n vecteurs<br>\\[\\mathcal F \\text{ est une base de E} \\Longleftrightarrow \\det_{\\mathcal B}(\\mathcal F) \\ne 0\\]<br>"
+            ],
+            "guid": "yN_yTT`eWe",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(\\det(\\lambda u)\\)",
+                "\\[\\lambda^n\\det(u)\\]<br>"
+            ],
+            "guid": "r39.J}$;j|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème déterminant d'endomorphismes",
+                "<ul><li>\\(\\det_{B}(u(F)) = det(u)det_B(F)\\)<br></li><li>\\(det(uv) = det(u)det(v)\\)</li><li>\\(u \\in \\mathcal{GL}(E) \\Longleftrightarrow det(u) \\ne 0\\)</li></ul>"
+            ],
+            "guid": "jS7RbNH^6=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groupe spécial linéaire",
+                "\\[\\mathcal{SL}(E) = \\{ u \\in \\mathcal L(E) \\mid det(u) = 1 \\}\\]<br>"
+            ],
+            "guid": "iA7}L[hQa^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés n-linéarité sur matrice",
+                "<ul><li>\\(\\det(\\cdots, \\lambda C_j, + \\mu C'j, \\cdots) = \\lambda \\det(\\cdots, C_j, \\cdots) + \\mu \\det(\\cdots, C'_j, \\cdots)\\)<br></li><li>si une colonne est nulle alors&nbsp;\\(det(A) = 0\\)</li><li>si on multiplie une colonne par&nbsp;\\(\\lambda\\), alors&nbsp;\\(det(A)\\)&nbsp;est multiplié par&nbsp;\\(\\lambda\\)</li><li>\\(\\forall \\lambda \\in \\mathbb K, \\det(\\lambda A) = \\lambda^n\\det(A)\\)</li></ul>"
+            ],
+            "guid": "vV4fc97~bs",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés caractère alterné sur matrice",
+                "<ul><li>si colonnes sont liées alors det = 0</li><li>si colonnes sont égales alors det = 0</li><li>si on ajoute à une colonne de A une combinaison linéaires des autres colonnes de A, alors le det est inchangé</li><li>si on échange deux colonnes de A, alors det(A) change de signe</li><li>si on applique&nbsp;\\(\\sigma\\)&nbsp;alors det est multplié par&nbsp;\\(\\epsilon(\\sigma)\\)</li></ul>"
+            ],
+            "guid": "c-^poWvz_X",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème matrices vues comme endomorphismes",
+                "<ul><li>\\(det(AB) = det(A)\\times det(B)\\)<br></li><li>\\(A \\in \\mathcal{GL}_n(\\mathbb K) \\Longleftrightarrow det(A) \\ne 0\\)<br></li></ul>"
+            ],
+            "guid": "EL-pa/O|h_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "\\(det(A^T)\\)",
+                "\\(det(A)\\)"
+            ],
+            "guid": "lJa=^y[B^Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés polynomiales du déterminant",
+                "<ul><li>le det d'une matrice dans&nbsp;\\(\\mathbb Z\\)&nbsp;est dans&nbsp;\\(\\mathbb Z\\)</li><li>si&nbsp;\\(A \\equiv B\\space[m]\\)&nbsp;alors&nbsp;\\(det(A) \\equiv det(B) \\space [m]\\)</li><li>si&nbsp;\\(A \\in \\mathcal M_n(\\mathbb C)\\), alors&nbsp;\\(\\det(\\overline A) = \\overline{\\det(A)}\\)</li></ul>"
+            ],
+            "guid": "cJ3)4zeFZ{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "calcul par blocs de déterminant",
+                "\\[A=\\left (\n   \\begin{array}{c|c|c}\n      B &amp; D \\\\\n      \\hline\n      \\mathbb O &amp; C\\\\ \n   \\end{array}\n\\right)\\]\\[det(A) = det(B) \\times det(C)\\]<br>"
+            ],
+            "guid": "CGu&|PtqQg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cofacteur du coefficient d'une matrice",
+                "\\[A_{i,j} = (-1)^{i+j}\\Delta_{i,j}\\]<br>avec&nbsp;\\(\\Delta_{i,j}\\)&nbsp;le déterminant de la matrice A sans la i-ème ligne et la j-ème colonne (mineur)"
+            ],
+            "guid": "qYp#8Kw8b<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "développement par colone/ligne",
+                "<ul><li>colonne\\[\\det A = \\sum_{i=1}^n{a_{i,j}A_{i,j}}\\]</li><li>ligne\\[\\det A = \\sum_{j=1}^n{a_{i,j}A_{i,j}}\\]</li></ul>"
+            ],
+            "guid": "r(N{X5J,Js",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "déterminant de Vandermonde",
+                "<img src=\"Screenshot 2025-04-09 at 22.08.49.png\">"
+            ],
+            "guid": "DecktA_J]T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "comatrice",
+                "matrice avec les cofacteurs comme coefficients"
+            ],
+            "guid": "vE11Q,oi(@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition comatrice",
+                "\\[(\\text{Com} A)^TA = (\\det A)I_n = A(\\text{Com}A)^T\\]\\[A^{-1} = (\\det A)^{-1}(\\text{Com}A)^T\\]<br>"
+            ],
+            "guid": "O)U<^z+$mh",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "déterminants"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp;diagonalisable",
+                "matrice carrée&nbsp;\\(A \\in M_n(\\mathbb K)\\)&nbsp;est diagonalisable lorsqu'elle est semblable à une matrice diagonale<br>\\[A = PDP^{-1}\\]<br>"
+            ],
+            "guid": "z:J.mkU61+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "autres matrices que A qui sont diagonalisables si A l'est",
+                "\\(A^T\\)<br>\\(A^p\\)&nbsp;semblable à&nbsp;\\(D^p\\)<br>\\(A^{-1}\\)&nbsp;semblable à&nbsp;\\(D^{-1}\\)"
+            ],
+            "guid": "w8}_5H~cBR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valeur propre",
+                "\\(\\lambda \\in \\mathbb K\\)&nbsp;est une valeur propre de A lorsqu'il existe un vecteur colonne&nbsp;<b>non nul</b>&nbsp;\\(U \\in M_{n,1}(\\mathbb K)\\)&nbsp;tq<br>\\[AU = \\lambda U\\]l'ensemble des valeurs propres est appelé le spectre de A&nbsp;\\(Sp(A)\\)<br>"
+            ],
+            "guid": "Sk8ffVR%]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous-espace propre de A associé à&nbsp;\\(\\lambda\\)",
+                "\\[E_\\lambda = \\{ U \\in M_{n,1}(\\mathbb K) \\mid AU = \\lambda U \\} = \\ker(\\lambda I_n - A)\\]<br>"
+            ],
+            "guid": "GW=VbiSR)L",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "attention sous espace propre",
+                "\\(\\lambda\\)&nbsp;est vp ssi&nbsp;\\(E_\\lambda \\ne \\{ 0_{n,1}\\}\\)"
+            ],
+            "guid": "cEQMQ&c%;e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "remarque&nbsp;\\(E_0\\)&nbsp;(sous espace propre)",
+                "\\(E_0 = KerA\\)&nbsp;donc 0 est vp de A ssi A n'est pas inversible"
+            ],
+            "guid": "PLf~A4koU=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "remarque&nbsp;\\(E_\\lambda\\)&nbsp;et&nbsp;\\(Im(A)\\)",
+                "si&nbsp;\\(\\lambda \\ne 0\\), alors&nbsp;\\(E_\\lambda \\subset Im(A)\\)"
+            ],
+            "guid": "M~>}sjhk|_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynôme caractéristique (diagonalisation)",
+                "\\[\\chi_A : x \\mapsto \\det(xI_n - A)\\]\\[\\chi_A = X^n - tr(A)X^{n-1} + \\cdots + (-1)^n\\det(A)\\]<br>"
+            ],
+            "guid": "D@9C)JCJQ.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "polynôme caractéristique matrice 3x3",
+                "\\[\\chi_A = X^3 - tr(A)X^2 + tr(Com(A))X - det(A)\\]<br>"
+            ],
+            "guid": "bYh:-h}9Ku",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition polynôme carac (diag)",
+                "\\[\\chi_A = \\chi_{A^T}\\]<br>"
+            ],
+            "guid": "zq!.`si[RD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème valeurs propres et polynôme carac",
+                "\\[\\lambda \\in Sp(A) \\Longleftrightarrow (\\lambda \\text{ est une racine de } \\chi_A)\\]<br>"
+            ],
+            "guid": "b&wY@Vh^>7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrices diagonale ou triangulaire (diagonalisation)",
+                "les valeurs propres sont les scalaires qui sont sur la diagonale de la matrice"
+            ],
+            "guid": "rE/;=Zj.a~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition nombre de valeurs propres",
+                "\\(A \\in M_n(\\mathbb K)\\)&nbsp;possède n valeurs propres complexes avec leurs multiplicités<br><br>la somme des valeurs propres avec leurs multiplicités est égale à&nbsp;\\(tr(A)\\)"
+            ],
+            "guid": "Hq8+MWphBI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalités valeurs propres et multiplicité",
+                "\\[1 \\le \\dim E_\\lambda \\le mult(\\lambda)\\]\\[\\sum_{\\lambda \\in Sp(A)}{\\dim E_\\lambda} \\le n\\]<br>"
+            ],
+            "guid": "h/i|Fqg#b]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme juxtaposition des bases (diagonalisation)",
+                "les sous espaces propres sont en somme directe<br>la famille de juxtaposition de bases de sous-espaces propres est libre"
+            ],
+            "guid": "GeKAum4eg$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4 équivalences diagonalisation",
+                "<ul><li>A est diagonalisable</li><li>il existe une base de&nbsp;\\(\\mathcal M_{n,1}(\\mathbb K)\\)&nbsp;constituée de vecteurs propres de A</li><li>la somme des dimensions des sous-espaces propres est égale à n</li><li>pour toute valeur propre&nbsp;<b>complexe</b>&nbsp;\\(\\lambda\\),&nbsp;\\(mult(\\lambda) = \\dim E_\\lambda\\)</li></ul>"
+            ],
+            "guid": "cLRZQ4(v@~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exemple fondamental matrices n valeurs propres",
+                "toute matrice A qui admet exactement n valeurs propres est diagonalisable. Les n sous espaces sont de dimension 1"
+            ],
+            "guid": "eReH#[?yQ}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème spectral",
+                "toute matrice symétrique réelle est diagonalisable en base propre orthonormale"
+            ],
+            "guid": "e6J~[qTgrL",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "astuce polynômes de matrices",
+                "les polynômes de A commutent entre eux, et les polynômes de matrices qui comuttent entre-elles commutent entre eux"
+            ],
+            "guid": "I4JukG/e05",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition&nbsp;\\(Ann(A)\\)",
+                "\\(Ann(A)\\)&nbsp;est un idéal de&nbsp;\\(\\mathbb K[X]\\)&nbsp;non réduit à&nbsp;\\(\\{0\\}\\)<br>il existe un unique polynôme non nul unitaire noté&nbsp;\\(\\Pi_A\\)&nbsp;tel que&nbsp;\\(Ann(A) = \\Pi_A\\mathbb K[X]\\)&nbsp;(c'est le polynôme minimal)"
+            ],
+            "guid": "ujY%B<P`6F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de Cayley-Hamilton",
+                "le polynôme caractéristique d'une matrice est un polynôme annulateur de cette matrice (il est un multiple du polynôme minimal)"
+            ],
+            "guid": "ghgV|;+MiH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inverse de A par un polynôme annulateur",
+                "<br>\\[A^{-1} = -p_0^{-1}\\sum_{k\\ge 1}{p_kA^{k-1}}\\]<br>"
+            ],
+            "guid": "zHr/x{H73f",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme valeur propre et polynôme annulateur",
+                "si&nbsp;\\(\\lambda\\)&nbsp;est une valeur propre de A alors&nbsp;\\(P(\\lambda)\\)&nbsp;est une valeur propre de&nbsp;\\(P(A)\\).<br><br>Tout vecteur propre de A associé à la vp&nbsp;\\(\\lambda\\)&nbsp;est vecteur propre de&nbsp;\\(P(A)\\)&nbsp;associé à la vp&nbsp;\\(P(\\lambda)\\)"
+            ],
+            "guid": "kCtW_uqfp|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition valeur propre, polynôme minimal",
+                "si P est un polynôme annulateur de A et si&nbsp;\\(\\lambda\\)&nbsp;est une valeur propre de A alors&nbsp;\\(\\lambda\\)&nbsp;est une racine de P.<br><br>\\[Sp(A) = Rac(\\Pi_A)\\]<br>"
+            ],
+            "guid": "O,rENl)}0~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème diagonalisable avec polynôme minimal",
+                "A est diagonalisable ssi&nbsp;\\(\\Pi_A\\)&nbsp;est scindé simple"
+            ],
+            "guid": "M+EImXBpE0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "implication polynôme annulateur diagonalisable",
+                "Si P un polynôme annulateur de A est scindé simple alors A est diagonalisable"
+            ],
+            "guid": "uGLw,L.ZOf",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lemme des noyaux",
+                "Soient&nbsp;\\(P_1,\\ldots,P_k \\in \\mathbb K[X]\\), premiers entre eux 2 à 2, on a:<br>\\[Ker((P_1\\times\\ldots\\times P_k)(A)) = \\ker(P_1(A))\\oplus\\cdots\\oplus\\ker(P_k(A))\\]<br>"
+            ],
+            "guid": "rAv_=!0W)Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "diagonalisation"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition produit scalaire",
+                "- linéaire à gauche<br>- linéaire à droite<br>- symétrique<br>- positivite&nbsp;\\(\\langle x,x\\rangle \\ge 0\\)<br>- caractère défini&nbsp;\\(\\langle x, x \\rangle = 0 \\implies x = 0_E\\)<br>- mix des deux dernières&nbsp;\\((x\\ne 0_E) \\implies (x \\cdot x &gt; 0)\\)"
+            ],
+            "guid": "r9(^9XHOu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire de Lagrange",
+                "Soient&nbsp;\\(\\alpha_0, \\ldots, \\alpha_n\\)&nbsp;des nombres réels distincts<br>\\[\\langle P, Q\\rangle = P(\\alpha_0)Q(\\alpha_0) + \\cdots + P(\\alpha_n)Q(\\alpha_n)\\]<br>"
+            ],
+            "guid": "H,pmgL:C33",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire géométrique",
+                "\\[\\vec u \\cdot \\vec v = \\lVert\\vec u\\rVert\\times\\lVert\\vec v\\rVert \\times cos(\\vec u,\\vec v)\\]<br>"
+            ],
+            "guid": "B[=<Jti+,!",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire canonique&nbsp;\\(\\mathbb R^n\\)",
+                "\\[\\langle (x_1,\\ldots,x_n), (y_1,\\ldots,y_n) \\rangle  = \\sum_{k=1}^n{x_ky_k}\\]\\[\\langle X, Y \\rangle = X^TY\\]avec X,Y des matrices colonnes<br>"
+            ],
+            "guid": "jwO.M6Z@MS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire canonique de&nbsp;\\(\\mathcal M_{n,m}(\\mathbb K)\\)",
+                "\\[\\langle A, B\\rangle = tr(A^TB)\\]<br>"
+            ],
+            "guid": "FcA_b=a&gH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire canonique de&nbsp;\\(\\mathcal C^0([a;b],\\mathbb R)\\)",
+                "\\[\\langle f, g&nbsp;\\rangle = \\int_a^b{f(t)g(t)dt}\\]<br>"
+            ],
+            "guid": "Ap-xRk.%p4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire de fourier pour&nbsp;\\(\\mathcal C^0_{2\\pi}(\\mathbb R, \\mathbb R)\\)",
+                "\\[\\langle f, g \\rangle = \\frac{1}{\\pi}\\int_0^{2\\pi}{f(t)g(t)dt}\\]<br>"
+            ],
+            "guid": "qXNLE*6F0=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire canonique sur&nbsp;\\(\\mathbb R[X]\\)",
+                "\\[\\langle \\sum_{j\\ge 0}{a_jX^j}, \\sum_{j\\ge 0}{b_jX^j}\\rangle = \\sum_{j\\ge 0}{a_jb_j}\\]<br>"
+            ],
+            "guid": "Pk?,xr{nf5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "norme euclidienne",
+                "\\[\\lVert x \\rVert = \\sqrt{\\langle x, x \\rangle}\\]\\[\\lVert \\lambda x \\rVert = |\\lambda|\\lVert x\\rVert\\]\\[(\\lVert x \\rVert = 0) \\implies (x = 0_E)\\]"
+            ],
+            "guid": "sNzwhv@:Pu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "exercice: famille obtusangle<br>E un espace euclidien de dimension n,&nbsp;\\(p \\in \\mathbb N^*\\)&nbsp;et&nbsp;\\((x_1, \\ldots, x_p) \\in E^p\\)&nbsp;tq<br>\\[\\forall (i,j) \\in \\textlbrackdbl1~;~p\\textrbrackdbl^2, i\\ne j \\implies \\langle x_i, x_j \\rangle &lt; 0\\]Montrer que&nbsp;\\(p \\le n+1\\)<br>",
+                "Indication: montrer que&nbsp;\\(p-1 \\le n\\)<br>Indication: montrer que la famille&nbsp;\\((x_1,\\ldots, x_{p-1})\\)&nbsp;est libre<br>Indication: utiliser la norme"
+            ],
+            "guid": "e?mZ;17T{z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "identités remarquables euclidiennes",
+                "\\[\\Vert x+y\\Vert^2 = \\Vert x \\Vert^2 + 2\\langle x, y\\rangle + \\Vert y \\Vert^2\\]\\[\\Vert x-y\\Vert^2 = \\Vert x \\Vert^2 - 2\\langle x, y\\rangle + \\Vert y \\Vert^2\\]\\[\\Vert x\\Vert^2 - \\Vert y\\Vert^2 = \\langle x+y, x-y\\rangle\\]<br>"
+            ],
+            "guid": "odc%zt**N+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "identités de polarisation",
+                "\\[\\langle x,y\\rangle = \\frac{1}{2}(\\Vert x+y\\Vert^2 - \\Vert x\\Vert^2 - \\Vert y\\Vert^2)\\]\\[\\langle x, y\\rangle = \\frac{1}{2}(\\Vert x \\Vert ^2 + \\Vert y \\Vert^2 - \\Vert x-y\\Vert^2)\\]\\[\\langle x, y \\rangle = \\frac{1}{4}(\\Vert x + y \\Vert^2 - \\Vert x - y\\Vert^2)\\]<br>"
+            ],
+            "guid": "xJ5Mks:zo|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité de Cauchy-Schwartz (préhilbertien réel)",
+                "\\[|\\langle x, y \\rangle| \\le \\Vert x \\Vert \\Vert y \\Vert\\]égalité ssi (x,y) liée<br>"
+            ],
+            "guid": "cD_IUxFvpo",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "angle non orienté",
+                "nombre réel entre 0 et&nbsp;&nbsp;\\(\\pi\\)<br>\\[(\\widehat{x,y}) = \\arccos\\frac{\\langle x,y \\rangle}{\\Vert x\\Vert \\Vert y \\Vert}\\]<br>"
+            ],
+            "guid": "HaH@>aZf7J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "colinéarité et angle",
+                "deux vecteurs x,y sont colinéaires ssi&nbsp;\\((\\widehat{x,y})\\)&nbsp;est plat (\\(0 \\)&nbsp;ou&nbsp;\\(\\pi)\\)"
+            ],
+            "guid": "rN+^/<jjSV",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité de Minkowski (espace préhilbertien)",
+                "\\[\\Vert x + y \\Vert \\le \\Vert x \\Vert + \\Vert y \\Vert\\]<br>"
+            ],
+            "guid": "HL;er?#::P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation d'un espace préhilbertien réel",
+                "-&nbsp;\\(\\Vert x \\Vert \\ge 0\\)<br>-&nbsp;\\((\\Vert x \\Vert = 0) \\implies x = 0_E\\)<br>-&nbsp;\\(\\Vert \\lambda x \\Vert = |\\lambda|\\Vert x \\Vert\\)<br>-&nbsp;\\(\\Vert x +y \\Vert \\le \\Vert x\\Vert + \\Vert y \\Vert\\)"
+            ],
+            "guid": "H80L.pP9z_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité triangulaire inversée",
+                "\\[|\\Vert x\\Vert - \\Vert y\\Vert| \\le \\Vert x + y \\Vert \\le \\Vert x \\Vert + \\Vert y \\Vert\\]<br>"
+            ],
+            "guid": "H.4O^?8ZL8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "distance euclidienne",
+                "\\[d(x,y) = \\Vert x - y\\Vert\\]<br>"
+            ],
+            "guid": "FdJfu2[u:|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "caractérisation espace préhilbertien réel avec distance euclidienne",
+                "-&nbsp;\\(d(x,y) \\ge 0\\)<br>-&nbsp;\\(d(x,y) = d(y,x)\\)<br>-&nbsp;\\((d(x,y) = 0) \\implies (x =y)\\)<br>-&nbsp;\\(d(x,z) \\le d(x,y) + d(y,z)\\)"
+            ],
+            "guid": "D0v*2*m+@k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition orthogonalité",
+                "deux vecteurs x,y sont orthogonaux (\\(x \\perp y)\\)&nbsp;lorsque&nbsp;\\(\\langle x, y \\rangle = 0\\)"
+            ],
+            "guid": "dxK_@(Q3H9",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Pythagore (espaces euclidiens)",
+                "\\[(x \\perp y) \\Longleftrightarrow (\\Vert x + y\\Vert^2 = \\Vert x \\Vert^2 + \\Vert y\\Vert^2)\\]<br>"
+            ],
+            "guid": "MTgj9v,@Q.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "famille orthogonale",
+                "\\[\\forall i,j \\in I, (i\\ne j ) \\implies (\\langle x_i,x_j\\rangle = 0)\\]orthonormale lorsque ses éléments sont normés<br>"
+            ],
+            "guid": "prrFziSXB0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Relation de pythagore dans une famille orthogonale finie",
+                "\\[\\left\\Vert \\sum_{i=1}^p{x_i} \\right\\Vert^2 = \\sum_{i=1}^p{\\Vert x_i\\Vert^2}\\]<br>"
+            ],
+            "guid": "ADm>EBc>!Y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "famille orthogonale et liberté",
+                "une famille orthogonale dont aucun des vecteurs n'est nul est libre<br>Toute famille orthonormale est libre"
+            ],
+            "guid": "Gl[$F,9+I)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "orthonormalisation de Gram-Schmit",
+                "Si&nbsp;\\((v_1, \\ldots, v_m)\\)&nbsp;est libre (finie), il existe une unique famille de vecteurs de&nbsp;\\((e_1,\\ldots, e_m)\\)&nbsp;de E telle que<br><br>-&nbsp;\\((e_1, \\ldots, e_m)\\)&nbsp;est orthonormale<br>-&nbsp;\\(\\forall p \\in [[1;m]], Vect(e_1, \\ldots, e_p) = Vect(v_1, \\ldots, v_p)\\)<br>-&nbsp;\\(\\forall p \\in [[1;m]], \\langle e_p, v_p\\rangle &gt; 0\\)<br><br>remarque: la matrice de passage de&nbsp;\\((v_1, \\cdots, v_m)\\)&nbsp;à&nbsp;\\((e_1, \\cdots, e_m)\\)&nbsp;est une matrice triangulaire supérieure à coefficients diagonaux strictement positifs"
+            ],
+            "guid": "J>/]6R8rW&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "méthode d'orthonormalisation selon Gram-Schmit",
+                "<img src=\"Screenshot 2025-05-01 at 10.25.24.png\">"
+            ],
+            "guid": "f{^6G8f|)c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous espaces orthogonaux",
+                "F,G deux sev de E.<br>F et G sont orthogonaux&nbsp;\\(F \\perp G\\)&nbsp;<br>\\[\\forall (f,g) \\in F\\times G, \\langle f, g\\rangle = 0\\]<br>"
+            ],
+            "guid": "C:._{xY@<P",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété pour qu'un vecteur soit orthogonal à un sev",
+                "il faut et il suffit qu'il soit orthogonal à tous les vecteurs d'une base de ce sev"
+            ],
+            "guid": "Js8$0d|)*d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété lorsque deux sous espaces sont orthogonaux&nbsp;",
+                "F,G deux sev de E. Si&nbsp;\\(F \\perp G\\)&nbsp;alors&nbsp;\\(F \\oplus^\\perp G = E\\)"
+            ],
+            "guid": "Hk6=UL)JXz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "espaces deux à deux orthogonaux",
+                "alors ils sont en somme directe orthogonale"
+            ],
+            "guid": "GSU>r@+8h%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "orthogonal d'une partie",
+                "\\[A^\\perp = \\{ a'\\in E \\mid \\forall a \\in A, \\langle a, a'\\rangle = 0 \\}\\]<br>"
+            ],
+            "guid": "p,VO>~RRsC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "espaces orthogonaux ssi (avec orthogonal de partie)",
+                "\\[F\\perp G \\Longleftrightarrow F \\subset G^\\perp \\Longleftrightarrow G \\subset F^\\perp\\]<br>"
+            ],
+            "guid": "nyu55~TFGN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété orthogonal d'un vecteur non nul",
+                "l'orthogonal d'un vecteur non nul est un hyperplan"
+            ],
+            "guid": "u,eC&15V9Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété orthogonal d'une partie",
+                "\\(A^\\perp \\)&nbsp;est un sous-espace vectoriel de E"
+            ],
+            "guid": "P15YK8l`9t",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le passage à l'orthogonal est une fonction ...",
+                "décroissante<br>si&nbsp;\\(A \\subset B\\)&nbsp;alors&nbsp;\\(B^\\perp \\subset A^\\perp\\)"
+            ],
+            "guid": "xeV^F#@=rw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "égalité orthogonal à une partie",
+                "\\[A^\\perp = (Vect(A))^\\perp\\]<br>"
+            ],
+            "guid": "l<0DUoR@8C",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le biorthogonal",
+                "\\[A^{\\perp\\perp} = (A^\\perp)^\\perp\\]<br>"
+            ],
+            "guid": "JD`9Nl`>$u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriété biorthogonal",
+                "\\[A \\subset A^{\\perp\\perp}\\]<br>"
+            ],
+            "guid": "yxx(J}P%.F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition espace euclidien",
+                "un espace préhilbertien réel de dimension finie"
+            ],
+            "guid": "hED)+lJ]5[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "base orthogonale, orthonormale",
+                "une base de E qui est une famille orthogonale / orthonormale"
+            ],
+            "guid": "J6mp5QuI1^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "construction d'un produit scalaire en dim finie",
+                "Soit E un&nbsp;\\(\\mathbb R-ev\\)&nbsp;de dim finie muni d'une base&nbsp;\\(\\mathcal B = (e_1,\\ldots,e_n)\\)<br><br>Il est possible de munir E d'un produit scalaire de sorte que&nbsp;\\(\\mathcal B\\)&nbsp;soit une base orthonormale pour ce produit scalaire"
+            ],
+            "guid": "moa~Z/oORS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorèmes bases espaces euclidiens",
+                "- tout espace euclidien possède une base orthonormale<br>- dans un espace euclidien toute famille orthonormale peut être complétée en une base orthonormale"
+            ],
+            "guid": "p{*+:-,(u>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit scalaire et norme dans un espace euclidien",
+                "\\[\\langle x, y \\rangle = x_1y_1 + \\cdots + x_ny_n = X^TY\\]\\[\\Vert x \\Vert = \\sqrt{x_1^2 + \\cdots + x_n^2} = \\sqrt{X^TX}\\]<br>"
+            ],
+            "guid": "sVQ;U4%W/>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition coordonnées dans un espace euclidien",
+                "Soit&nbsp;\\(\\mathcal B = (e_1, \\ldots, e_n)\\)&nbsp;une base orthonormale si&nbsp;\\((x_1,\\ldots,x_n)\\)&nbsp;désignent les coordonnées d'un vecteur x dans B alors<br>\\[x_k = \\langle x, e_k\\rangle\\]donc<br>\\[x = \\sum_{k=1}^n{\\langle x, e_k\\rangle e_k}\\]<br>"
+            ],
+            "guid": "w5!LkZ[jBQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice d'un endomorphisme dans un espace euclidien",
+                "\\[Mat_B(u) = (\\langle e_i, u(e_j)\\rangle)_{1\\le i,j\\le n}\\]attention: B doit être une base&nbsp;<b>orthonormale</b><br>"
+            ],
+            "guid": "KBjFr7sE!Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition partie orthogonale d'un sous espace vectoriel de dimension finie",
+                "\\[F \\oplus^\\perp F^\\perp = E\\]\\(F^\\perp\\)&nbsp;est appelé le supplémentaire orthogonal de F dans E (il est unique)<br>"
+            ],
+            "guid": "CP$o-q[O6i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition dimension espace orthogonal dans un espace euclidien",
+                "\\[\\dim F + \\dim F^\\perp = \\dim E\\]"
+            ],
+            "guid": "K2dtk{hrJ|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition égalité supplémentaire orthogonal",
+                "F un sev de E<br><br>Si F et&nbsp;\\(F^\\perp\\)&nbsp;sont supplémentaires dans E<br><br>\\[F^{\\perp\\perp} = F\\]<br>"
+            ],
+            "guid": "cqr9rZz$-7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "projections et symétries orthogonales",
+                "\\[\\forall x \\in E, p_F(x) \\perp x - p_F(x)\\]\\[\\forall x \\in E, x - s_F(x) \\perp x + s_F(x)\\]<br>"
+            ],
+            "guid": "y{fZU_rh85",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "expression projecteur et symétrie orthogonale",
+                "Soit F un sev de dim finie et&nbsp;\\((f_1, \\ldots, f_p)\\)&nbsp;une base orthonormale de F, on a:<br>\\[p_F(x) = \\sum_{k=1}^p{\\langle f_k, x\\rangle f_k}\\]\\[s_F(x) = 2\\sum_{k=1}^p{\\langle f_k, x\\rangle f_k} - x\\]<br>"
+            ],
+            "guid": "A|WEGbi_0D",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variables d'état d'un système diphasé",
+                "- P (ou T car liés)<br>-&nbsp;\\(n_{\\text I}\\)&nbsp;et&nbsp;\\(n_{\\text{II}}\\)&nbsp;(quantités de matière dans chaque phase)<br><br>\\(n = n_{\\text{I}} + n_{\\text{II}}\\)&nbsp;"
+            ],
+            "guid": "w4h#BN&K:s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fraction molaire ou massique",
+                "\\[x_\\text I = \\frac{n_\\text I}{n_\\text I + n_{\\text{II}}} = \\frac{m_\\text I}{m_\\text I + m_{\\text{II}}}\\]<br>"
+            ],
+            "guid": "D:.Kd`z8~;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diagramme de Clapeyron pour diphasé",
+                "<img src=\"Screenshot 2025-05-01 at 11.12.47.png\">"
+            ],
+            "guid": "n2:KoQY(9p",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème des moments",
+                "\\[\\mathcal v = x_L\\mathcal v_L + x_G\\mathcal v_G = x_L\\mathcal v_L + (1-x_L)v_G\\]\\[x_L = \\frac{\\mathcal v - \\mathcal v_G}{\\mathcal v_L - \\mathcal v_G}\\]<br>"
+            ],
+            "guid": "s:r&3lg+R@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "atmosphère inerte",
+                "phase gazeuse qui ne change pas d'état et qui ne réagit pas avec d'autres corps en présence"
+            ],
+            "guid": "wLf6I)U|GZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pression partielle de A un constituant d'un mélange gazeux",
+                "pression exercée par A s'il occupait seul le volume<br><br>\\[n = \\sum_{i=1}^N{n_i}\\]\\[P =\\sum_{i=1}^N{P_i}\\]<br>"
+            ],
+            "guid": "b0};O0Y[[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "critère de stabilité",
+                "si&nbsp;\\(P_A &lt; P_{satA}(T)\\)&nbsp;alors A est à l'état de vapeur&nbsp;\\((P_A\\)&nbsp;= pression partielle de A)<br>si&nbsp;\\(P_A = P_{satA}(T)\\)&nbsp;alors A est diphasé"
+            ],
+            "guid": "j8s7GAW&#u",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "enthalpie molaire d'un changement d'état",
+                "variation d'enthalpie au cours de la transformation d'un emole de corps pur de l'état I à l'état II<br>\\[\\Delta_{I-II}H_m\\]enthalpie massique&nbsp;\\(\\Delta_{I-II}h\\)<br>"
+            ],
+            "guid": "z@iEg@0_>|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "O.G chaleur latente",
+                "chaleur latente:<br><br>\\[L_{fusion} = \\Delta_{S-L}h \\sim 10^2 kJ/kg\\]\\[L_{vaporisation} = \\Delta_{L-V}h \\sim 10^3 kJ/kg\\]"
+            ],
+            "guid": "EO#6?1+ol:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
             ]
         }
     ],
