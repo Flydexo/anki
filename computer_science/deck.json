@@ -85,8 +85,8 @@
     "name": "computer science",
     "newLimit": null,
     "newLimitToday": {
-        "limit": 20,
-        "today": 209
+        "limit": 40,
+        "today": 210
     },
     "note_models": [
         {
@@ -1125,6 +1125,78 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "algorithmique::diviser_pour_régner"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "valuation du et, ou, implique, équivalent",
+                "-&nbsp;\\(v(\\phi_1 \\wedge \\phi_2) = v(\\phi_1)\\times v(\\phi_2)\\)<br>-&nbsp;\\(v(\\phi_1 \\vee \\phi_2) = v(\\phi_1) + v(\\phi_2) - v(\\phi_1)\\times v(\\phi_2) = \\max(v(\\phi_1), v(\\phi_2))\\)<br>-&nbsp;\\(v(\\phi_1\\to \\phi_2) = \\max(1-v(\\phi_1), \\phi_2)\\)<br>-&nbsp;\\(v(\\phi_1 \\leftrightarrow \\phi_2) = 1-(v(\\phi_1)+v(\\phi_2) \\mod 2)\\)"
+            ],
+            "guid": "D4eqo~T]LH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "conséquence logique",
+                "si toute valuation v&nbsp;\\(v \\models \\phi\\)&nbsp;implique&nbsp;\\(v\\models \\psi\\)&nbsp;on le note parfois&nbsp;\\(\\phi \\models \\psi\\)"
+            ],
+            "guid": "cpji<m*3%(",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition clause",
+                "une disjonction de littéraux \\(\\bigvee_{i=1}^n{l_i}\\)"
+            ],
+            "guid": "L|d1FLUQ5e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition littéral",
+                "formule réduite à une variable ou la négation d'une variable"
+            ],
+            "guid": "P.e2hS:9}B",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Forme normale conjonctive",
+                "conjonction de clauses"
+            ],
+            "guid": "MZqw*_g]sC",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "logique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Forme normale Disjonctive",
+                "Une disjonction de conjonction de littéraux"
+            ],
+            "guid": "M^j`VI>(r0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "logique"
             ]
         }
     ],

@@ -102,6 +102,8 @@
         "Screenshot 2025-03-26 at 22.46.47.png",
         "Screenshot 2025-04-09 at 22.08.49.png",
         "Screenshot 2025-05-01 at 10.25.24.png",
+        "Screenshot 2025-05-08 at 17.13.44.png",
+        "Screenshot 2025-05-08 at 17.15.18.png",
         "exo3.jpeg",
         "latex-8cb2197a18eb1803340fffe9576810cc9ce0b0c4.png"
     ],
@@ -4665,7 +4667,8 @@
             "guid": "z^_?{12d]=",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dérivation"
+                "dérivation",
+                "leech"
             ]
         },
         {
@@ -11431,7 +11434,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "exercice: famille obtusangle<br>E un espace euclidien de dimension n,&nbsp;\\(p \\in \\mathbb N^*\\)&nbsp;et&nbsp;\\((x_1, \\ldots, x_p) \\in E^p\\)&nbsp;tq<br>\\[\\forall (i,j) \\in \\textlbrackdbl1~;~p\\textrbrackdbl^2, i\\ne j \\implies \\langle x_i, x_j \\rangle &lt; 0\\]Montrer que&nbsp;\\(p \\le n+1\\)<br>",
+                "exercice: famille obtusangle<br>E un espace euclidien de dimension n,&nbsp;\\(p \\in \\mathbb N^*\\)&nbsp;et&nbsp;\\((x_1, \\ldots, x_p) \\in E^p\\)&nbsp;tq<br>\\[\\forall (i,j) \\in [1~;~p]^2, i\\ne j \\implies \\langle x_i, x_j \\rangle &lt; 0\\]Montrer que&nbsp;\\(p \\le n+1\\)<br>",
                 "Indication: montrer que&nbsp;\\(p-1 \\le n\\)<br>Indication: montrer que la famille&nbsp;\\((x_1,\\ldots, x_{p-1})\\)&nbsp;est libre<br>Indication: utiliser la norme"
             ],
             "guid": "e?mZ;17T{z",
@@ -11935,13 +11938,765 @@
         {
             "__type__": "Note",
             "fields": [
-                "S(T,V)",
-                "\\[S(T,V) = C_V\\ln\\left(\\frac{T}{T_0}\\right) + nR\\ln\\left(\\frac{V}{V_0}\\right) + S_0\\]<br>"
+                "distance d'un point à une partie",
+                "\\[d(x,A) = \\inf\\{ \\Vert x - a \\Vert \\mid a \\in A \\}\\]<br>"
             ],
-            "guid": "F@.nI=4>vx",
+            "guid": "MeadYApmaR",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "thermodynamique"
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "distance à F un sev dans un espace préhilbertien (\\(F \\overset \\perp \\oplus F^\\perp = E\\))",
+                "\\[d(x,F) = \\Vert x - p_F(x) \\Vert\\]\\(p_F(x)\\)&nbsp;est l'unique&nbsp;\\(y \\in F\\)&nbsp;tel que&nbsp;\\(d(x,F) = \\Vert x - y \\Vert\\)<br>"
+            ],
+            "guid": "Q?vD(P:[PK",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hyperplan d'un espace euclidien",
+                "le supplémentaire orthogonal de H dans E est une droite vectorielle.&nbsp;<br><br>Tout vecteur non nul de cette droite est appelé un vecteur normal de H.<br><br>\\[H = a^\\perp\\]<br>"
+            ],
+            "guid": "s2/qC^8W((",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Théorème de Riesz (faut faire gaffe à pas dire juste Riesz)",
+                "Attention, dans un espace euclidien <br>Pour toute forme linéaire&nbsp;\\(l \\in E^*\\),&nbsp; il existe un unique vecteur&nbsp;\\(a \\in E\\)&nbsp;tel que<br>\\[\\forall x \\in E, l(x) = \\langle x, a \\rangle\\]<br>"
+            ],
+            "guid": "MA>Xd};?A>",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "projection orthogonale sur un hyperplan d'un espace euclidien",
+                "\\[p_H(x) = x - \\frac{\\langle x, a \\rangle}{\\Vert a \\Vert^2}a\\]\\[s_H(x) = x - 2\\frac{\\langle x, a \\rangle}{\\Vert a \\Vert ^2}a\\]<br>"
+            ],
+            "guid": "jZaZ<i$u0[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "espaces_euclidiens"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intersection de sous espaces affines",
+                "est soit vide soit un sous espace affine"
+            ],
+            "guid": "o>HMg,L%#W",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "sous_espaces_affines"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous espaces affines parallèles",
+                "quand les deux directions sont égales"
+            ],
+            "guid": "MR$FWvrTk0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "sous_espaces_affines"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propostion sous espaces affines parallèles",
+                "ils sont bien égaux ou disjoints"
+            ],
+            "guid": "i0p0^0engZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sous espaces affines orthogonaux",
+                "ont une intersection ou bien vide ou bien réduite à un point"
+            ],
+            "guid": "CnXUw5>28s",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition isométrie vectorielle",
+                "endomorphisme qui conserve le produit scalaire"
+            ],
+            "guid": "Nlz^gX(]Yr",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition norme isométrie vectorielle",
+                "un endormophisme est une isométrie vectorielle ssi u conserve la norme"
+            ],
+            "guid": "J9Y<-HE5]0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "symétrie et isométrie vectorielle",
+                "symétrie est une isométrie vectorielle ssi c'est une symétrie orthogonale"
+            ],
+            "guid": "FDP(44YGJ1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition isométrie vectorielle et jection",
+                "toute symétrie vectorielle est injective"
+            ],
+            "guid": "DzJNdu_4b}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème isométrie vectorielle et base dans un espace euclidien",
+                "Dans un espace euclidien, soit B une base orthonormale de E<br><br>u est une isométrie vectorielle ssi u(B) est une base orthonormale de E"
+            ],
+            "guid": "Ji[<#U<}ma",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice orthogonale",
+                "\\[A^TA = I_n\\]\\[AA^T = I_n\\]"
+            ],
+            "guid": "e2!I8DkKvN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "isométrie vectorielle ssi matrice",
+                "dans un espace euclidien, B une base orthonormale et u un endomorphisme<br><br>\\[A = Mat_B(u)\\]u est une symétrie vectorielle ssi A est une matrice orthogonale<br>"
+            ],
+            "guid": "jr_)G3qz/a",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition équivalences matrice orthogonale",
+                "- A est une matrice orthogonale<br>- les colonnes de A forment une base orthonormale<br>- les lignes de A forment une base orthonormale"
+            ],
+            "guid": "f0]4?JZ>ZQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrice de passage base orthonormale",
+                "P la matrice de passage de B une base orthonormale à B'<br><br>P orthogonale ssi B' est une base orthogonale"
+            ],
+            "guid": "u+3YD~Q$Y0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "déterminant isométrie vectorielle",
+                "déterminant vaut 1 ou -1<br><br>1 = directe<br>-1 = indirecte"
+            ],
+            "guid": "Pxi?[)$khX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "groupe spécial orthogonal",
+                "l'ensemble des isométries positives (de det 1)"
+            ],
+            "guid": "`-.W4j.Ws",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition réflexion",
+                "symétrie orthogonale par rapport hyperplan"
+            ],
+            "guid": "l&K!5H#Trl",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "réflexion et isométrie",
+                "une réflexion est une isométrie négative"
+            ],
+            "guid": "M0bVv*?z<t",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "orientation de bases dans une dim finie",
+                "même orientation quand&nbsp;\\(\\det_{\\mathcal B'}(\\mathcal B) &gt; 0\\)"
+            ],
+            "guid": "MW2JP0{K%T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relation \"avoir même orientation\" pour les bases",
+                "relation d'équivalence"
+            ],
+            "guid": "C;tJaOk+?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bases directes / indirectes",
+                "classes d'équivalence pour la relation d'équivalence \"avoir la même orientation\""
+            ],
+            "guid": "QD#JMl[q2<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "endomorphisme qui conserve/change l'orientation",
+                "\\[\\det(u) &gt; 0\\]&nbsp;ou&nbsp;\\[\\det(u) &lt;0\\]<br>"
+            ],
+            "guid": "jF;j&;j9,g",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition endomorphisme qui conserve l'orientationa",
+                "u(B) est une base de même orientation que B et inversement si u change l'orientation"
+            ],
+            "guid": "pSt$,JipZE",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition bases qui ont la même orientation",
+                "deux bases orthonormales de E ont la même orientation ssi la matrice de passage appartient au groupe spécial orthogonal"
+            ],
+            "guid": "v(ACNpU~yD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "produit mixte",
+                "\\[[x_1, \\ldots, x_n] = \\det_\\mathcal B(x_1, \\ldots, x_n)\\]avec B une base orthonormale directe, indépendant de la base choisie<br>"
+            ],
+            "guid": "Q<q)~0+4.J",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition produit mixte par un endomorphisme",
+                "\\[[u(x_1), \\ldots, u(x_n)] = \\det(u)\\times[x_1,\\ldots, x_n]\\]<br>"
+            ],
+            "guid": "jbU5#FTz9m",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition produit vectoriel",
+                "\\[[\\vec u, \\vec v, \\vec w] = \\langle \\vec u \\land \\vec v, \\vec w \\rangle\\]<br>"
+            ],
+            "guid": "YxFk0~<Oc",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions produit vectoriel",
+                "-\\(\\vec u \\land \\vec v\\)&nbsp;est orthogonal à&nbsp;\\(\\vec u\\)&nbsp;et à&nbsp;\\(\\vec v\\)<br>-&nbsp;\\((\\vec u, \\vec v, \\vec u \\land \\vec v)\\)est une base directe<br>-&nbsp;\\(\\Vert \\vec u \\land \\vec v \\Vert = \\Vert \\vec u \\Vert\\Vert\\vec v \\Vert\\vert\\sin(\\vec u, \\vec v)\\vert\\)"
+            ],
+            "guid": "k2_[%Bfb/y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5 propositions sur le produit vectoriel",
+                "-&nbsp;\\(\\vec u \\land \\vec v = - \\vec v \\land \\vec u\\)<br>-&nbsp;\\(\\vec u \\land (\\lambda \\vec v + \\mu \\vec w) = \\lambda \\vec u \\land \\vec v + \\mu \\vec u \\land \\vec w \\)<br>-&nbsp;\\((\\vec u \\text{ et } \\vec v \\text{ colinéaires } ) \\Longleftrightarrow (\\vec u \\land \\vec v = \\vec 0)\\)<br>-&nbsp;<img src=\"Screenshot 2025-05-08 at 17.13.44.png\"><br>-&nbsp;\\(\\forall \\vec a, \\vec b, \\vec c \\in E_3, \\vec a \\land (\\vec b \\land \\vec c) = \\vec b \\langle \\vec a, \\vec c \\rangle - \\vec c \\langle \\vec a, \\vec b \\rangle\\)&nbsp;"
+            ],
+            "guid": "OQ>G?+PB0v",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "matrices orthogonales 2x2",
+                "<img src=\"Screenshot 2025-05-08 at 17.15.18.png\">"
+            ],
+            "guid": "Kn}Rep}fIf",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions rotations",
+                "-&nbsp;\\(R(0) = I_2\\)<br>-&nbsp;\\(R(\\alpha + \\beta) = R(\\alpha)R(\\beta)\\)<br>-&nbsp;\\(R(\\theta)^{-1} = R(-\\theta)\\)<br>-&nbsp;\\(SO_2(\\mathbb R)\\)&nbsp;est un groupe abélien<br>-&nbsp;\\(R(\\alpha)S(\\beta) = S(\\alpha + \\beta)\\)&nbsp;et&nbsp;\\(S(\\alpha)R(\\beta) = S(\\alpha - \\beta)\\)<br>-&nbsp;\\(S(\\alpha)S(\\beta) = R(\\alpha - \\beta)\\)&nbsp;et&nbsp;\\((S(\\alpha))^{-1} = S(\\alpha)\\)"
+            ],
+            "guid": "o2hj!Tk~Eb",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition rotation groupe spécial en dimension 2",
+                "\\(r \\in SO_2(E)\\)&nbsp;il existe un nombre réel&nbsp;\\(\\theta\\)&nbsp;unique modulo&nbsp;\\(2\\pi\\)&nbsp;tq dans toute base orthogonale directe de&nbsp;\\(E_2\\)&nbsp;\\(r = R(\\theta)\\)"
+            ],
+            "guid": "n<a5^AQM@8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition rotations",
+                "-&nbsp;\\(r_0 = Id_E\\)<br>-&nbsp;\\(r_{\\alpha + \\beta} = r_\\alpha r_\\beta\\)<br>-&nbsp;\\(r^{-1}_\\theta = r_{-\\theta}\\)<br>-&nbsp;\\(SO_2(E_2)\\)&nbsp;est un groupe abélien"
+            ],
+            "guid": "MlRHm-f4U)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "mesure de l'angle orienté",
+                "l'angle&nbsp;\\(\\theta\\)&nbsp;qui envoie&nbsp;\\(\\vec u / \\Vert \\vec u \\Vert\\)&nbsp;sur&nbsp;\\(\\vec v  /\\Vert \\vec v \\Vert\\)&nbsp;"
+            ],
+            "guid": "IN&kA*v55Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition angle orienté",
+                "\\[(\\vec u, \\vec w) = (\\vec u, \\vec v) + (\\vec v, \\vec w)~ [2\\pi]\\]<br>"
+            ],
+            "guid": "ysPV%ybN4w",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rotations avec angle orientés",
+                "\\[(r(\\vec u), r(\\vec v)) \\equiv (\\vec u, \\vec v) ~ [2\\pi]\\]<br>"
+            ],
+            "guid": "tCU-lBCOjB",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "réflexion plane",
+                "\\(s \\in O(E_2)\\setminus SO(E_2)\\), alors s est une réflexion par rapport à la droite&nbsp;\\(D = Ker(s - Id_E)\\)"
+            ],
+            "guid": "Pu%PS8!z;B",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition réflexion planes",
+                "s, s' des réflexions dont les axes sont dirigés par&nbsp;\\(\\vec u\\)&nbsp;et&nbsp;\\(\\vec v\\), alors&nbsp;\\(s's\\)&nbsp;est la rotation d'angle&nbsp;\\(2(\\vec u, \\vec u')\\)"
+            ],
+            "guid": "E>5VcI#ccl",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition réflexions et angles orientés",
+                "\\[(s(\\vec u), s(\\vec v)) \\equiv (\\vec u, \\vec v) ~[2\\pi]\\]<br>"
+            ],
+            "guid": "szZsR7*MVT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "isométries_vectorielle"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition univers",
+                "ensemble qui contient les résultats possibles de cette expérience."
+            ],
+            "guid": "c^oO5fp_37",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "clan de l'univers fini&nbsp;\\(\\Omega\\)",
+                "-&nbsp;\\(\\Omega \\in \\mathcal T\\)<br>-&nbsp;\\(\\forall A \\in \\mathcal T, \\overline A \\in \\mathcal T\\)<br>-&nbsp;\\(\\forall A,B \\in \\mathcal T, A\\cup B \\in \\mathcal T\\)<br>-&nbsp;\\(\\emptyset \\in \\mathcal T\\)<br>-&nbsp;\\(\\forall A,B \\in \\mathcal T, A\\cap B \\in \\mathcal T\\)"
+            ],
+            "guid": "qmV9Vg8hmu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "notation évènements",
+                "-&nbsp;\\(\\overline A\\)&nbsp;est l'évènement contraire de A<br>-&nbsp;\\(A \\cup B\\)&nbsp;\"A ou B\"<br>-&nbsp;\\(A \\cap B\\)&nbsp;\"A et B\"<br>-&nbsp;\\(A\\setminus B\\),&nbsp;\\(A \\cap \\overline B\\)&nbsp;\"A mais pas B\""
+            ],
+            "guid": "P~%Qox8.b{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "notation évènements implique et incompatible",
+                "- A implique B lorsque&nbsp;\\(A \\subset B\\)<br>- A et B sont incompatibles&nbsp;\\(A \\cap B = \\emptyset\\)<br>- Lorsque A et B sont incompatibles, l'union disjointe se lit \"A ou bien B\""
+            ],
+            "guid": "lKL)+:Y#b;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système complets d'évènements",
+                "-&nbsp;\\(\\forall i,j \\in [[1;n]], (i\\ne j) \\implies (E_i \\cap E_j = \\emptyset)\\)<br>-&nbsp;\\(E_1 \\cup E_2 ~\\cup \\cdots \\cup = \\Omega\\)"
+            ],
+            "guid": "tfs0oF|RfO",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition mesure de probabilité",
+                "toute application&nbsp;\\(P: \\mathcal T \\to \\mathbb R\\)<br>-&nbsp;\\(\\forall A \\in \\mathcal T, P(A) \\in [0;1]\\)<br>-&nbsp;\\(P(\\Omega) = 1\\)<br>-&nbsp;\\(\\forall A,B\\in \\mathcal T, A\\cap B = \\emptyset, P(A\\sqcup B) = P(A) + P(B)\\)<br><br>Elle satisfait la propriété suivante:<br>\\(P(\\emptyset) = 0\\)<br><br>\\((\\Omega, \\mathcal T, P)\\)&nbsp;est un espace probabilisé"
+            ],
+            "guid": "jQ+)xOzanQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "quasi-certain, quasi-impossible",
+                "P(A) = 1<br>P(A) = 0"
+            ],
+            "guid": "rJoZ^IgFc5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "évènements équiprobables",
+                "lorsqu'ils ont la même probabilité"
+            ],
+            "guid": "r2-z{vMrO`",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "probabilité uniforme sur&nbsp;\\(\\Omega\\)",
+                "\\[P(A) = \\frac{\\text {Card}(A)}{\\text {Card}(\\Omega)}\\]<br>"
+            ],
+            "guid": "m74XHM:egQ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés loi de probabilité",
+                "(i)&nbsp;\\(P(\\overline  A) = 1 - P(A)\\)<br>(ii)&nbsp;\\(P(B\\setminus A) = P(B) - P(A\\cap B)\\)"
+            ],
+            "guid": "qb@M5oZeJD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "probabilité d'évènements incompatibles",
+                "\\[P(A \\sqcup B) = P(A) + P(B)\\]<br>"
+            ],
+            "guid": "f/yp)q`N^1",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de Poincarré",
+                "\\[P(A\\cup B) = P(A) + P(B) - P(A\\cap B)\\]<br>"
+            ],
+            "guid": "q8l}Sg>jb[",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule du crible proba",
+                "\\[P(A_1 \\cup \\ldots \\cup A_n) = \\sum_{k=1}^n{(-1)^{k-1}\\sum_{1\\le i_1\\lt\\cdots\\lt i_k \\le n}{P(A_{i_1}\\cap\\ldots\\cap A_{i_k})}}\\]<br>"
+            ],
+            "guid": "lED|}PZ*!h",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "construction de probabilités finies",
+                "\\(\\Omega = \\{w_1, \\ldots, w_n\\}\\)&nbsp; et&nbsp;\\(p_1, \\ldots, p_n\\)&nbsp;des nombres réels. Il existe une unique loi de probabilité P telle que<br>\\[\\forall k \\in [[1;n]], P(w_k) = p_k\\]ssi les&nbsp;\\(p_k\\)&nbsp;sont positifs ou nuls et de somme = 1<br>"
+            ],
+            "guid": "yz%>km=@E{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "probabilité conditionnelle de A sachant E",
+                "\\[P(A\\mid E) = \\frac{P(E\\cap A)}{P(E)}\\]<br>"
+            ],
+            "guid": "Q4w,q.J5~/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions probabilité conditionnelle",
+                "-&nbsp;\\(P(\\overline A \\mid E ) = 1 - P(A\\mid E)\\)<br>-&nbsp;\\(P(B\\setminus A \\mid E) = P(B\\mid E) - P(A\\cap B \\mid E)\\)<br>-&nbsp;\\(P(A\\cup B \\mid E) = P(A\\mid E) + P(B \\mid E) - P(A\\cap B \\mid E)\\)"
+            ],
+            "guid": "J.q40TYlB]",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition évènements indépendants",
+                "\\[P(A\\cap B) = P(A) \\times P(B)\\]\\[P(A\\mid B) = P(A)\\]\\[P(B\\mid A) = P(B)\\]<br>"
+            ],
+            "guid": "B$w}NXgwHA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition évènements indépendants",
+                "Soient A et B deux évènements indépendants<br>-&nbsp;\\(A \\)&nbsp;et&nbsp;\\(\\overline B\\)&nbsp;sont indépendants<br>-&nbsp;\\(\\overline A\\)&nbsp;et&nbsp;\\(\\overline B\\)&nbsp;sont indépendants"
+            ],
+            "guid": "B#KQ)_%^3<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définitions évènements indépendants sachant E",
+                "\\[P(A\\cap B \\mid E) = P(A\\mid E) \\times P(B\\mid E)\\]<br>"
+            ],
+            "guid": "ffNdA&2K[V",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "évènements mutuellement indépendants",
+                "Lorsque pour toute sous-famille&nbsp;de la famille&nbsp;\\((A_1, \\ldots, A_n)\\)&nbsp;on a:<br>\\[P(A_1 \\cap \\ldots A_{i_k}) = P(A_1) \\times \\ldots \\times P(A_{i_k})\\]<br>"
+            ],
+            "guid": "H;ClTW1ZH?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lemme des coalitions",
+                "Soit&nbsp;\\((A_1, \\ldots, A_n)\\)&nbsp;une famille d'évènements<br>\\(I_1, \\ldots, I_k\\)&nbsp;des parties disjointes de&nbsp;\\([[1;n]]\\)<br>On note&nbsp;\\(B_j\\)&nbsp;un évènement constitué à partir des évènements de la sous-fammille&nbsp;\\((A_i)_{i\\in I_j}\\)<br><br>Si les évènements&nbsp;\\(A_1, \\ldots, A_n\\)&nbsp;sont mutuellement indépendants, alors les évènements&nbsp;\\(B_1, \\ldots, B_k\\)&nbsp;le sont aussi"
+            ],
+            "guid": "er|sU)f^<K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
             ]
         }
     ],

@@ -5050,6 +5050,42 @@
             "tags": [
                 "transition_de_phase"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "S(T,V)",
+                "\\[S(T,V) = C_V\\ln\\left(\\frac{T}{T_0}\\right) + nR\\ln\\left(\\frac{V}{V_0}\\right) + S_0\\]<br>"
+            ],
+            "guid": "F@.nI=4>vx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "thermodynamique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "entropie de changement d'état",
+                "\\[S = S_\\text{II} - S_\\text{I}\\]\\[S_{sol} &lt; S_{liq} &lt; S_v\\]<br>"
+            ],
+            "guid": "hUu?r^T$XA",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "transition_de_phase"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lien entre entropie et enthalpie de changement d'état",
+                "\\[\\Delta S = S_{éch} + S_{crée} = \\frac{Q}{T_0} = \\frac{m(x_{IIf} - x_{IIi})\\Delta_{I-II}{h}}{T_0}\\]<br>"
+            ],
+            "guid": "Q|<Qrwb:GW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "transition_de_phase"
+            ]
         }
     ],
     "reviewLimit": null,
