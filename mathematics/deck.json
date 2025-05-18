@@ -10540,7 +10540,8 @@
             "guid": "OEU7[1c~+|",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "intégrales::impropres"
+                "intégrales::impropres",
+                "leech"
             ]
         },
         {
@@ -12697,6 +12698,546 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de conditionnement",
+                "\\[P(E\\cap A) = P(E)P(A\\mid E)\\]<br>"
+            ],
+            "guid": "u>Jpq+!PsI",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule des probabilités composées",
+                "\\[P (A_1\\cap \\cdots \\cap A_n) = P(A_1) \\times P(A_2 \\mid A_1) \\times P(A_3 \\mid A_1 \\cap A_2 ) \\times \\cdots \\times P(A_n \\mid A_1 \\cap \\cdots \\cap A_{n-1})\\]<br>"
+            ],
+            "guid": "K3-m|<HVY2",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de filtration",
+                "\\[P(A) = \\sum_{i=1}^n{P(A\\cap E_i)}\\]avec&nbsp;\\((E_1, \\ldots, E_n)\\)&nbsp;un système complet d'évènements<br>"
+            ],
+            "guid": "<AZsPLI0$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule des probabilités totales",
+                "\\[P(A) = \\sum_{k=1}^n{P(E_k)P(A\\mid E_k)}\\]<br>"
+            ],
+            "guid": "Ns%fj7u_0m",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "petite et grand formule de Bayes",
+                "\\[P(E_i\\mid A) = \\frac{P(E_i)P(A\\mid E_i)}{P(A)}\\]\\[P(E_i\\mid A) = \\frac{P(E_i)P(A\\mid E_i)}{\\sum_{k=1}^n{P(E_k)P(A\\mid E_k)}}\\]<br>"
+            ],
+            "guid": "CV.=-0d=D&",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition variable aléatoire réelle",
+                "application&nbsp;\\(X: \\Omega \\to E\\)<br>\\(X(\\Omega)\\)&nbsp;est appelé l'univers image de X<br>\\((X \\in A) = X^{-1}(A)\\)"
+            ],
+            "guid": "nI@[.=csCl",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système complet d'évènement associé à X",
+                "\\[((X=x))_{x\\in X(\\Omega)}\\]<br>"
+            ],
+            "guid": "oz:YA>0}}T",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi de probabilité de X",
+                "\\[P_X: P(X(\\Omega)) \\to [0;1]\\]\\[A \\mapsto P(X\\in A)\\]<br>"
+            ],
+            "guid": "h@0f(+WRC{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "densité de probabilité de X",
+                "\\[f_X(x) = P(X = x)\\]<br>"
+            ],
+            "guid": "lryJZ4ne7y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "construction d'une loi de probabilité",
+                "Soient E un ensemble fini et&nbsp;\\(f: E\\to \\mathbb R\\)&nbsp;une application.<br>Si f est à valeurs positives ou nulles et si&nbsp;\\(\\sum_{x\\in E}f(x) = 1\\)&nbsp;alors f est une loi de probabilité, c'est à dire qu'il existe un espace probabilisé&nbsp;\\((\\Omega, \\mathcal T, P)\\)&nbsp;et une variable aléatoire X sur&nbsp;\\((\\Omega, \\mathcal T)\\)&nbsp;telle que&nbsp;\\(X(\\Omega) = E\\)&nbsp;et&nbsp;\\(\\forall x \\in E, f(x) = P(X=x)\\)"
+            ],
+            "guid": "AA>Mj(YJO,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction de répartition de X",
+                "\\[F_X: \\mathbb R \\to [0;1]\\]\\[x \\mapsto P(X\\le x)\\]<br>"
+            ],
+            "guid": "ou`a*Wp(Pj",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition variable aléatoire de densite&nbsp;\\(f_X\\)&nbsp;et de répartition&nbsp;\\(F_X\\)",
+                "\\[\\forall x \\in \\mathbb R, F_X(x) = \\sum_{y\\in X(\\Omega), ~y \\le x}{f_X(y)}\\]\\[\\forall x \\in \\mathbb R, f_X(x) = F_X(x) - \\lim_{t\\to x^-}{F_X(t)}\\]<br>"
+            ],
+            "guid": "Co2qSG1nqd",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule de composition loi de probabilité",
+                "\\[f_{g(X)}(y) = \\sum_{\\displaylines{x \\in X(\\Omega)\\\\ g(x) = y}}{P(X = x)}\\]<br>"
+            ],
+            "guid": "mzuEVMg`f@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition espérance",
+                "\\[E(X) = \\sum_{k=1}^n{x_kP(X = x_k)} = \\sum_{x\\in X(\\Omega)}{xP(X=x)}\\]<br>"
+            ],
+            "guid": "sWuc1DDeHg",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "formule d'atomisation de l'espérance",
+                "\\[E(X) = \\sum_{w \\in \\Omega}{X(w)P(w)}\\]<br>"
+            ],
+            "guid": "D+41w09Cn=",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propriétés de l'espérance",
+                "- linéarité<br>- positivité<br>- croissance<br>- inégalité triangulaire&nbsp;\\(| E(X)| \\le E(|X|) \\)"
+            ],
+            "guid": "F4&x^nQla|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition espérance nulle",
+                "Si X est positive et centrée, alors X est presque sûrement nulle&nbsp;\\(P(X= 0) = 1\\)"
+            ],
+            "guid": "lRi]jD331}",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "espérance d'une composée",
+                "\\[E(g(X)) = \\sum_{k=1}^n{g(x_k)P(X= x_k)} = \\sum_{x\\in X(\\Omega)}{g(x)P(X=x)}\\]<br>"
+            ],
+            "guid": "bpr.LS%])K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment et moment centré d'ordre k de l'espérance",
+                "\\[E(X^k)\\]\\[E((X - E(X))^k)\\]<br>"
+            ],
+            "guid": "oJQ.j2xuBq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variance",
+                "le moment centré d'ordre 2<br>\\[V(X) = E((X - E(X))^2)\\]formule de Koenig-Huygens:<br>\\[V(X) = E(X^2) - E(X)^2\\]<br>"
+            ],
+            "guid": "u5b0xvyv0b",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions variance",
+                "- positivité<br>-&nbsp;\\(V(X + \\mu) = V(X)\\)<br>-&nbsp;\\(V(\\lambda X) = \\lambda^2V(X)\\)"
+            ],
+            "guid": "zA^tvi(kY~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition variance nulle",
+                "alors on a&nbsp;\\(P(X = E(X)) = 1\\)"
+            ],
+            "guid": "vFCLuF`W)e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition écart-type",
+                "\\[\\sigma(X) = \\sqrt{V(X)}\\]&nbsp;<br>"
+            ],
+            "guid": "zO26[jh5#7",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions écart-type",
+                "- positivité<br>-&nbsp;\\(\\sigma(X + \\mu) = \\sigma(X)\\)<br>-&nbsp;\\(\\sigma(\\lambda X) = |\\lambda|\\sigma(X)\\)"
+            ],
+            "guid": "N9IIdh1ek~",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité de Markov",
+                "Soit X une variable aléatoire <b>positive<br></b>\\[P(X \\ge a) \\le \\frac{E(X)}{a}\\]<br>"
+            ],
+            "guid": "r8fx<T1^-d",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité de Bienaymé-Tchébychev",
+                "espérance m, écart-type&nbsp;\\(\\sigma, \\)pour tout d &gt; 0<br><br>\\(P(|X-m|\\ge d) \\le \\frac{\\sigma^2}{d^2}\\)"
+            ],
+            "guid": "m;!7Q~Yhtb",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi certaine",
+                "<br>\\[X(\\Omega) = \\{m\\}\\]\\[E(X) = m\\]\\[V(X) = 0\\]<br>"
+            ],
+            "guid": "tuY9/a,`.<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi uniforme",
+                "\\(n \\in \\mathbb N^*\\), et X une variable aléatoire finie telle que&nbsp;\\(X(\\Omega) = \\{x_1, \\ldots, x_n\\}\\)<br><br>X suit la loi uniforme sur&nbsp;\\(X(\\Omega)\\)&nbsp;lorsque:<br>\\[\\forall k \\in [[1;n]], P(X= x_k) = \\frac{1}{n}\\]\\[E(X) = \\frac{x_1 + \\ldots + x_n}{n}\\]\\[V(X) = \\frac{x_1^2 + \\ldots + x_n^2}{n}  - \\left(\\frac{x_1 + \\cdots + x_n}{n}  \\right)^2\\]<br>"
+            ],
+            "guid": "HSTETX$+lw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Loi uniforme dans le cas&nbsp;\\(X \\looparrowright \\mathcal U([[1;n]])\\)",
+                "\\[E(X) = \\frac{n+1}{2}\\]\\[V(X) = \\frac{n^2-1}{12}\\]<br>"
+            ],
+            "guid": "H||ndl>W&8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Loi de Bernouilli",
+                "\\(X \\looparrowright \\mathcal B(p)\\)<br>\\[\\displaylines{X(\\Omega) = \\{0;1\\}\\\\P(X=1) = p\\\\ P(X=0) = q}\\]avec&nbsp;\\(q = 1-p\\)<br><br>\\[E(X) = p\\]\\[V(X) = pq\\]<br>"
+            ],
+            "guid": "l!1Tee|7}:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Loi binomiale",
+                "\\(X \\looparrowright \\mathcal B(n,p)\\)<br>\\[X(\\Omega) = [[0;n]]\\]\\[\\forall k \\in [[0;n]], P(X= k) = \\binom{n}{k}p^kq^{n-k}\\]avec&nbsp;\\(q = 1-p\\)<br>on a&nbsp;\\(n - X \\looparrowright\\mathcal B(n,q)\\)<br>\\[E(X) = np\\]\\[V(X) = npq\\]<br>"
+            ],
+            "guid": "G0|k+6(y[$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Loi hypergéométrique",
+                "\\(X \\looparrowright \\mathcal H(N;n;p)\\)<br>\\[X(\\Omega) = [[0;n]]\\]\\[\\forall k \\in [[0;n]], P(X=k) = \\frac{\\binom{Np}{k}\\binom{Nq}{n-k}}{\\binom{N}{n}}\\]\\[E(X) = np\\]\\[V(X) = npq\\frac{N-n}{N-1}\\]<br>"
+            ],
+            "guid": "dXN4mozBOS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition loi hypergéométrique",
+                "quand N tend vers&nbsp;\\(+\\infty\\)&nbsp;alors on a égalité entre la loi hypergéométrique et la loi binomiale"
+            ],
+            "guid": "E)/}<mVE0Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur aléatoire",
+                "\\[\\vec U = (X_1, \\ldots, X_n)\\]avec&nbsp;\\(\\forall k \\in [[1;n]], X_k\\)&nbsp;une variable aléatoire sur&nbsp;\\((\\Omega, \\mathcal T)\\)<br>"
+            ],
+            "guid": "bQGH+(f:u<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "système complet d'évènements vecteurs aléatoires",
+                "\\[((X=x, Y=y))_{(x,y)\\in(X,Y)(\\Omega)}\\]<br>"
+            ],
+            "guid": "ocU~N%EDMR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi conjointe / densité conjointe du couple (X,Y)",
+                "\\[f_{(X,Y)}(x,y) = P(X=x,Y=y)\\]<br>"
+            ],
+            "guid": "BRb_C;?}WS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "construction d'une loi de probabilité sur les vecteurs aléatoires",
+                "Soient E un ensemble fini constitué de couples et&nbsp;\\(f: E \\to \\mathbb R\\)&nbsp;une application.<br>Si f est à valeurs positives et si&nbsp;\\(\\sum_{(x,y)\\in E}{f(x,y) = 1}\\)&nbsp;alors f est une loi de probabilité, c'est à dire qu'il existe un espace probabilisé&nbsp;\\((\\Omega, \\mathcal T, P)\\)&nbsp;et un couple de variables aléatoires (X,Y) sur&nbsp;\\((\\Omega, \\mathcal T)\\)&nbsp;tels que l'on ait&nbsp;\\((X,Y)(\\Omega) = E\\)&nbsp;et&nbsp;\\(\\forall (x,y) \\in E, P(X=x,Y=y) = f(x,y)\\)"
+            ],
+            "guid": "dig>p{/>U6",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lois marginales de X et de Y",
+                "\\[f_X(x) = \\sum_{y\\in Y(\\Omega)}{P(X=x, Y=y)}\\]\\[f_Y(y) = \\sum_{x\\in X(\\Omega)}{P(X= x, Y=y)}\\]<br>"
+            ],
+            "guid": "L<R0ny%DC,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lois conditionnelles pour couple de variables réelles",
+                "loi conditionnelle de X sachant (Y=y)<br>\\[f_{(X\\mid Y=y)}(x) = P(X=x\\mid Y=y) = \\frac{P(X=x,Y=y)}{P(Y=y)}\\]<br>"
+            ],
+            "guid": "w+KLR[9(x0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "loi d'une composée vecteurs aléatoires",
+                "\\[f_{g(X,Y)}(z) = \\sum_{\\displaylines{(x,y)\\in (X,Y)(\\Omega)&nbsp;\\\\ g(x,y) = z}}{P(X=x, Y=y)}\\]<br>"
+            ],
+            "guid": "Ks+2d8!AGN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "indépendance vecteurs aléatoires",
+                "\\[P(X\\in A, Y\\in B) = P(X\\in A) P(Y\\in B)\\]<br>"
+            ],
+            "guid": "DNM&RP8^J_",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition vecteurs aléatoires indépendants",
+                "X et Y indépendants ssi&nbsp;\\(\\forall (x,y) \\in X(\\Omega)\\times Y(\\Omega)\\):<br>\\[P(X=x,Y=y) = P(X=x)P(Y=y)\\]<br>"
+            ],
+            "guid": "m.aD<TkmLu",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "indépendance mutuelle vecteur indépendant",
+                "\\((X_1, \\ldots, X_n)\\)&nbsp;un vecteur aléatoire fini.<br>\\(X_1, \\ldots, X_n\\)&nbsp;sont mutuellements indépendants lorsque, pour toutes parties&nbsp;\\(A_1 \\subset X_1(\\Omega), A_2 \\subset X_2(\\Omega), \\ldots, A_n \\subset X_n(\\Omega)\\)<br>\\[P(X_1 \\in  A_1, \\ldots, X_n \\in A_n) = P(X_1 \\in A_1) \\times \\cdots \\times P(X_n \\in A_n)\\]<br>"
+            ],
+            "guid": "J?i?ZOv?$U",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition vecteurs aléatoire mutuellement indépendant",
+                "ssi pour toutes les valeurs indépendants"
+            ],
+            "guid": "nU5z#X2eSn",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Proposition sous famille variable aléatoires finies mutuellement indépendantes",
+                "est constituée de variables mutuellement indépendantes"
+            ],
+            "guid": "t8K$BGwp@*",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "variables_aléatoires_finies"
             ]
         }
     ],

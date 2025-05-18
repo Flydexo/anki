@@ -5086,6 +5086,198 @@
             "tags": [
                 "transition_de_phase"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition machine thermique",
+                "échange du travail avec un système mécanique. échange sous forme de transfert thermique avec 1 thermostat.<br>subit des transformations cycliques -&gt; état initial = état final"
+            ],
+            "guid": "BY46@mq_F$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impossibilité de la machine thermique monotherme",
+                "car ne peut que chauffer"
+            ],
+            "guid": "p_S$Pl?9n:",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inégalité de Clausius",
+                "\\[\\frac{Q_{ch}}{T_{ch}} + \\frac{Q_{fr}}{T_{fr}} \\le 0\\]<br>"
+            ],
+            "guid": "jN[CY1fZUb",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "types de machines thermiques",
+                "- moteur, W &lt; 0<br>- système frigorifique, W &gt; 0"
+            ],
+            "guid": "z9<}>hq>Vk",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rendement d'un moteur",
+                "\\[\\eta = \\frac{-W}{Q_{ch}}\\]attention: signe dépend de la convention choisie<br>"
+            ],
+            "guid": "ke!xDyO#ww",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rendement de carnot pour un moteur",
+                "\\[\\eta \\le 1 - \\frac{T_{fr}}{T_{ch}}\\]<br>"
+            ],
+            "guid": "wjBTr])b8+",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cycle de Carnot d'un moteur",
+                "- 2 isothermes (à Tch + à Tfr)<br>- 2 adiabatiques réversibles"
+            ],
+            "guid": "O+f&k2&d)Q",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ordres de grandeur de rendements",
+                "centrale nucléaire, carnot: 0.5, réel: 0.3-0.4<br>moteur, carnot: 0.5, réel essence: 0.35, réel diesel: 0.45"
+            ],
+            "guid": "OAvGc<;+yq",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cogénération",
+                "exemple: coupler la production d'électricité à un système de chauffage"
+            ],
+            "guid": "MrOx8]qBaP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "efficacité d'un système frigorifique",
+                "\\[e = \\frac{Q_{fr}}{W}\\]attention: signe dépende convention"
+            ],
+            "guid": "Dg!J&@JZnS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ordre de grandeur efficacité congélateur/frigo",
+                "congélateur: carnot = 6, réel = 1<br>frigo: carnot = 8"
+            ],
+            "guid": "Cej<f%8f*/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Carnot",
+                "L'efficacité d'une pompe à chaleur<br>\\[e_{PAC} \\le \\frac{T_{ch}}{T_{ch} - T_{fr}}\\]<br>"
+            ],
+            "guid": "j4YJuCGX*i",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cycle d'un moteur à explosion:",
+                "admission: mélange air carburant (isobare)<br>compression: comprime le gaz adiabatiquement<br>explosion + détente: la bougie explose (à volume constant) et détente adiabatiquement<br>échappement: refoulement du gaz&nbsp;"
+            ],
+            "guid": "k}-rk1u3FU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "travail reçu par un écoulement stationnaire",
+                "\\[W_{recu} = P_emv_e - P_smv_s\\]<br>"
+            ],
+            "guid": "G=PG!Pyfun",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "enthalpie&nbsp;<b>massique</b>&nbsp;pour un fluide en écoulement stationnaire",
+                "\\[h_s - h_e = w_{utile} + q\\]<br>"
+            ],
+            "guid": "GRf1_<wqY4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "détente de Joule thomson",
+                "gaz parfait dans un tube au milieu duquel il y a une paroi semi perméable, donc uniquement une partie des particules passe à travers"
+            ],
+            "guid": "MNq>:5-AU^",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "machine_thermique"
+            ]
         }
     ],
     "reviewLimit": null,
