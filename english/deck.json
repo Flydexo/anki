@@ -3055,6 +3055,2744 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "7c7a1d3c-3bc8-11f0-ad40-17e1488dae1a",
+                    "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "education",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "syllabus",
+                                "programme (d'une matière)"
+                            ],
+                            "guid": "F}jpIVWeD0",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "subject",
+                                "matière"
+                            ],
+                            "guid": "O>L~6{hJOn",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une crèche, une garderie",
+                                "a daycare centre"
+                            ],
+                            "guid": "p[j:B!l`9v",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école maternelle",
+                                "a nursery school / kindergarten (US)"
+                            ],
+                            "guid": "tLU`sB]&r.",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école publique",
+                                "a state school (UK)"
+                            ],
+                            "guid": "Kizo%IcyH@",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un collège secondaire privé",
+                                "a preparatory school"
+                            ],
+                            "guid": "zGfEH*1+q:",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école publique (US)",
+                                "a public school"
+                            ],
+                            "guid": "s^}CHsC-n9",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école privée",
+                                "a private school (US)"
+                            ],
+                            "guid": "CR?B5&|$7u",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école payante",
+                                "a fee-paying school"
+                            ],
+                            "guid": "qZ2wRPv~Z^",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un lycée professionnel",
+                                "a vocational school"
+                            ],
+                            "guid": "y~Z3=P]Lsb",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un pensionnat",
+                                "a boarding school"
+                            ],
+                            "guid": "JgM0hN$E/}",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un interne",
+                                "a boarder"
+                            ],
+                            "guid": "rJDS`l`ISx",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un externe",
+                                "a day school"
+                            ],
+                            "guid": "KD>pD`kB?p",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un écolier",
+                                "a schoolboy / girl"
+                            ],
+                            "guid": "cQ.oz(Rd9y",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un camarade",
+                                "a schoolfriend / mate"
+                            ],
+                            "guid": "z/I^t2b_08",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une classe",
+                                "a form / grade (US)"
+                            ],
+                            "guid": "b9m)aR,]j!",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la terminale",
+                                "sixth form"
+                            ],
+                            "guid": "x!Un}j:e&X",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un élève de terminale",
+                                "a sixth former"
+                            ],
+                            "guid": "oR7[JhT?L@",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un ancien élève",
+                                "an old boy / girl"
+                            ],
+                            "guid": "g}S?$|1zia",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le principal / proviseur",
+                                "the principal / the head"
+                            ],
+                            "guid": "LsM03|<J?U",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "enseigner à qqun",
+                                "to teach sb sth"
+                            ],
+                            "guid": "tI2dKuQGaG",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un conseiller d'orientation",
+                                "a careers officer"
+                            ],
+                            "guid": "oRKVFD9&Zx",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un conseiller",
+                                "a counselor (US)"
+                            ],
+                            "guid": "z4rbOf+lG6",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un collège universitaire / une faculté",
+                                "a college"
+                            ],
+                            "guid": "Gt/eIii]$}",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une université d'État / privée",
+                                "a state / private university"
+                            ],
+                            "guid": "y#M%aAm^9q",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un IUT",
+                                "a polytechnic"
+                            ],
+                            "guid": "qfN5Gjl18M",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école d'ingénieurs",
+                                "an engineering school"
+                            ],
+                            "guid": "FIpfhnxO^l",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école de commerce",
+                                "a business school"
+                            ],
+                            "guid": "GH2MxR4xwV",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une faculté de médecine",
+                                "a medical school"
+                            ],
+                            "guid": "D>-Ks]Dl!e",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une faculté de droit",
+                                "a law school"
+                            ],
+                            "guid": "yd};3wV>ah",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une école des beaux-arts",
+                                "an art college"
+                            ],
+                            "guid": "KN}xe[vF`v",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une faculté des lettres et sciences humaines",
+                                "a college of arts and sciences"
+                            ],
+                            "guid": "w4eFj!jjq]",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "s'inscrire",
+                                "to register"
+                            ],
+                            "guid": "no{N:q3*8h",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'inscription",
+                                "registration"
+                            ],
+                            "guid": "xvl+{)!:)(",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "s'inscrire",
+                                "to enrol"
+                            ],
+                            "guid": "lYb*c#50to",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'inscription",
+                                "enrolment"
+                            ],
+                            "guid": "E[|Ex<?xN6",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "étudier (une matière)",
+                                "to read (a subject)"
+                            ],
+                            "guid": "D^_h^/yig7",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "se spécialiser en",
+                                "to major in (US)"
+                            ],
+                            "guid": "s6&Nntli}%",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les cours",
+                                "tuition"
+                            ],
+                            "guid": "xS:7P0$5^o",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les frais de scolarité",
+                                "tuition fees"
+                            ],
+                            "guid": "qhC:#!r/xf",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un trimestre",
+                                "a term"
+                            ],
+                            "guid": "QdW6,]azS/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un semestre",
+                                "a semester"
+                            ],
+                            "guid": "hF><&{6.O4",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un emploi du temps",
+                                "a timetable / a schedule (US)"
+                            ],
+                            "guid": "F+j,%v(#l)",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une séquence de cours",
+                                "a period / a class"
+                            ],
+                            "guid": "ra:sEV])MV",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un cours",
+                                "a course"
+                            ],
+                            "guid": "Gnd5.wkg?2",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une pause",
+                                "a break"
+                            ],
+                            "guid": "Gu9<09z0+m",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les vacances scolaires",
+                                "a school holiday / vacation (US)"
+                            ],
+                            "guid": "A<eU]d*`i$",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un professeur",
+                                "a teacher"
+                            ],
+                            "guid": "dL^9s{FGc]",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un maître de conférence",
+                                "a lecturer"
+                            ],
+                            "guid": "q*DR.^#*qI",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un professeur d'université",
+                                "a professor"
+                            ],
+                            "guid": "F$}6Q6uAdu",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un étudiant",
+                                "a student"
+                            ],
+                            "guid": ",XnsXf,NN",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un ancien élève",
+                                "an alumnus / an alumna"
+                            ],
+                            "guid": "sc_Z3E&+Ef",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un diplômé",
+                                "a graduate"
+                            ],
+                            "guid": "yGP[5iSO&[",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la licence",
+                                "a BA"
+                            ],
+                            "guid": "m4,!4}f.z$",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une salle de classe",
+                                "a classroom"
+                            ],
+                            "guid": "j!aQMX,d3/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une rangée",
+                                "a row"
+                            ],
+                            "guid": "Qu3AMf%p>R",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le tableau noir",
+                                "the (black)board"
+                            ],
+                            "guid": "rGa`zz@&}%",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la craie",
+                                "chalk"
+                            ],
+                            "guid": "DXaedV`4]*",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un bureau",
+                                "a desk"
+                            ],
+                            "guid": "GDc=0N$GPM",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la cour de récréation",
+                                "the playground"
+                            ],
+                            "guid": "N_@|k,h:da",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le vestiaire",
+                                "the cloakroom"
+                            ],
+                            "guid": "o/3+YPXEL,",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'infirmerie",
+                                "the sickroom"
+                            ],
+                            "guid": "rpW(aV6M]f",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le réfectoire",
+                                "the refectory / (dining) hall"
+                            ],
+                            "guid": "E7,*(W=f?c",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le dortoir",
+                                "the dormitory"
+                            ],
+                            "guid": "o|os4SN]V<",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la salle des professeurs",
+                                "the staff room"
+                            ],
+                            "guid": "k8E%#}TXVf",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un manuel",
+                                "a textbook"
+                            ],
+                            "guid": "F0oYJARY*5",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un cahier",
+                                "an exercise book"
+                            ],
+                            "guid": "t{^7:%trZL",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une calculatrice",
+                                "a calculator"
+                            ],
+                            "guid": "lvYCWc&sO|",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un stylo-bille",
+                                "a biro"
+                            ],
+                            "guid": "QFx|~cgAHo",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un feutre",
+                                "a felt pen"
+                            ],
+                            "guid": "F_k*5(9gl&",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un crayon",
+                                "a pencil"
+                            ],
+                            "guid": "o92FW+U1g}",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un surligneur",
+                                "a highlighter"
+                            ],
+                            "guid": "j~TA$`|$Yv",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "mettre un enfant à la crèche",
+                                "to put a child into daycare"
+                            ],
+                            "guid": "5ovDn{(^O",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un lycée",
+                                "a high school (US)"
+                            ],
+                            "guid": "xO+P[N$i)}",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "enseignement professionnel",
+                                "vocational education"
+                            ],
+                            "guid": "mX)hR.ke&2",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'âge de fin de scolarité",
+                                "school leaving age"
+                            ],
+                            "guid": "x[D}Y#!o[{",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la scolarisation obligatoire",
+                                "compulsory schooling"
+                            ],
+                            "guid": "GO]LS4Z?$E",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "élève qui quitte l'école",
+                                "a school leaver"
+                            ],
+                            "guid": "ul17K+Zkf,",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la fréquentation scolaire",
+                                "school attendance"
+                            ],
+                            "guid": "Qj@-IQ;bHk",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "faire des études supérieures",
+                                "to go into higher education / to go to college"
+                            ],
+                            "guid": "e|U;mIOZ5U",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "par concours décrocher une bourse",
+                                "to win a scholarship"
+                            ],
+                            "guid": "N{@{T2V1FS",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "assister à un cours magistral",
+                                "to attend a lecture"
+                            ],
+                            "guid": "sAzF^J$G9`",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "s'inscrire à des cours du soir",
+                                "to sign up for evening courses"
+                            ],
+                            "guid": "jDZGs9wRi5",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "au self",
+                                "to take school meals"
+                            ],
+                            "guid": "NEDraM%4(`",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les grandes vacances",
+                                "the summer holidays"
+                            ],
+                            "guid": "p`]Vlv@tuU",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les vacances d'hiver / de printemps",
+                                "the winter / spring break"
+                            ],
+                            "guid": "O][JMuPER-",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le trimestre de mi-trimestre",
+                                "half-term holiday"
+                            ],
+                            "guid": "q#2)lSf9+F",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le conseil d'administration",
+                                "the board of governors (UK) / the board of education (US) / the governing body"
+                            ],
+                            "guid": "oUEhrBfW8k",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une association de parents d'élèves",
+                                "a parent-teacher association"
+                            ],
+                            "guid": "Mcb>m&B69S",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le réseau des anciens élèves",
+                                "the old boy network"
+                            ],
+                            "guid": "H|iR1+gH^B",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le programme (dans une matière)",
+                                "the syllabus"
+                            ],
+                            "guid": "3yK6zArh|",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une matière",
+                                "a subject"
+                            ],
+                            "guid": "xd&U3%hKIS",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les notions de base",
+                                "the basics"
+                            ],
+                            "guid": "r3gS7b5re!",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "épeler",
+                                "to spell"
+                            ],
+                            "guid": "QD@wXS]S0T",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'orthographe",
+                                "spelling"
+                            ],
+                            "guid": "s#8``!F-JV",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les mathématiques",
+                                "mathematics / maths"
+                            ],
+                            "guid": "s:DQY4Z*vF",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la physique",
+                                "physics"
+                            ],
+                            "guid": "mnGs6YnU#R",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la chimie",
+                                "chemistry"
+                            ],
+                            "guid": "ESB{aLqS/@",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la biologie",
+                                "biology"
+                            ],
+                            "guid": "g]zl):vs`N",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les lettres",
+                                "liberal arts / the humanities"
+                            ],
+                            "guid": "No3pi&lo%Q",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la littérature, les lettres",
+                                "literature"
+                            ],
+                            "guid": "x4S|:Fql_:",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la philosophie",
+                                "philosophy"
+                            ],
+                            "guid": "wY31DGk$K3",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'histoire",
+                                "history"
+                            ],
+                            "guid": "vw?hnmZ_2P",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la géographie",
+                                "geography"
+                            ],
+                            "guid": "p-Kz(.FUFk",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la sociologie",
+                                "sociology"
+                            ],
+                            "guid": "kH>@g~M.~F",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les sciences économiques",
+                                "economics"
+                            ],
+                            "guid": "L^PM:TQw!&",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les langues étrangères",
+                                "foreign languages"
+                            ],
+                            "guid": "Kwwx}-akHy",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la gestion",
+                                "business studies"
+                            ],
+                            "guid": "p73a[}T;cS",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'informatique",
+                                "computer studies"
+                            ],
+                            "guid": "K3t3tNoLV7",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'éducation physique",
+                                "P.E. = physical education"
+                            ],
+                            "guid": "O^4IGNAG[H",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'éducation religieuse",
+                                "R.E. = religious education"
+                            ],
+                            "guid": "Xz5:<]r3*",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "optionnel",
+                                "optional"
+                            ],
+                            "guid": "sbS^/},=j#",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "obligatoire",
+                                "compulsory"
+                            ],
+                            "guid": "Cil@n!4%:9",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'enseignement",
+                                "teaching"
+                            ],
+                            "guid": "Fc_;/cCYrk",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les documents pédagogiques",
+                                "teaching material"
+                            ],
+                            "guid": "CD&oRC1bc-",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un outil pédagogique",
+                                "a teaching tool"
+                            ],
+                            "guid": "z0xmimZJA-",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la pédagogie différenciée",
+                                "group teaching / streaming"
+                            ],
+                            "guid": "md%k]q9V}t",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le niveau",
+                                "a stream"
+                            ],
+                            "guid": "mb)AOK^QDD",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la répartition en groupes de niveau",
+                                "streaming"
+                            ],
+                            "guid": "Df&Oz}w;1*",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le groupe fort / moyen / faible",
+                                "the top / middle / bottom stream"
+                            ],
+                            "guid": "cM2w^BjVzz",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "apprendre",
+                                "to learn"
+                            ],
+                            "guid": "GFKHyvOD9U",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "réviser",
+                                "to revise"
+                            ],
+                            "guid": "u_)UVUd7yt",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une leçon",
+                                "a lesson"
+                            ],
+                            "guid": "f,~5>Pkd>q",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une dictée",
+                                "a dictation"
+                            ],
+                            "guid": "kua2LjDYxF",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une rédaction",
+                                "an essay"
+                            ],
+                            "guid": "q8(:H.e,8&",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un devoir / une dissertation",
+                                "an assignment"
+                            ],
+                            "guid": "m~c}|$cEe&",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "réciter",
+                                "to recite"
+                            ],
+                            "guid": "FAK?{GlPVX",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "additionner",
+                                "to add"
+                            ],
+                            "guid": "Ai-^2hdUgh",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "soustraire",
+                                "to subtract"
+                            ],
+                            "guid": "J.a#)3S*lE",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "multiplier",
+                                "to multiply"
+                            ],
+                            "guid": "G_g/v4R)aE",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "diviser",
+                                "to divide"
+                            ],
+                            "guid": "pe9n66HpU%",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "bachoter",
+                                "to swot / to cram"
+                            ],
+                            "guid": "ut-U|vF~u/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un bachoteur",
+                                "a swot / a crammer"
+                            ],
+                            "guid": "jchu8BIy[l",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la discipline",
+                                "discipline"
+                            ],
+                            "guid": "pdTZH$@w>i",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'indiscipline",
+                                "indiscipline"
+                            ],
+                            "guid": "c8MeCoO,Vp",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "discipliné",
+                                "disciplined"
+                            ],
+                            "guid": "rVt^{7EKyw",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "indiscipliné",
+                                "undisciplined"
+                            ],
+                            "guid": "ga,R}YC>g~",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "respecter",
+                                "to respect"
+                            ],
+                            "guid": "eHALu1ykYw",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "respectueux",
+                                "respectful"
+                            ],
+                            "guid": "i_d[k@2>:T",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "irrespectueux",
+                                "disrespectful"
+                            ],
+                            "guid": "J&t2QInDTQ",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "obéir",
+                                "to obey"
+                            ],
+                            "guid": "q_aY1?MN^!",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'obéissance / la docilité",
+                                "obedience"
+                            ],
+                            "guid": "bl:vj>V.N*",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "désobéir",
+                                "to disobey"
+                            ],
+                            "guid": "h[w3>J[k1/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "gâter / mal élever",
+                                "to spoil"
+                            ],
+                            "guid": "E6^)!uGfv#",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "gâché / docile",
+                                "spoiled / docile"
+                            ],
+                            "guid": "yDJS6L}9oX",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "incontrôlable",
+                                "unmanageable"
+                            ],
+                            "guid": "uxdl4/LEny",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "turbulent / indiscipliné",
+                                "unruly"
+                            ],
+                            "guid": "P#;ZLc,H5G",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le chahut dans la classe",
+                                "boisterousness / mayhem in class"
+                            ],
+                            "guid": "uD=u}be`F5",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "mal se comporter",
+                                "to misbehave"
+                            ],
+                            "guid": "z#dZkVFF|0",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la mauvaise conduite",
+                                "misbehaviour"
+                            ],
+                            "guid": "H9t6z;+5q&",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "parler",
+                                "to talk"
+                            ],
+                            "guid": "L+IpljZW`e",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "bavard",
+                                "talkative"
+                            ],
+                            "guid": "Ie$NGq?`uS",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "répondre (avec insolence)",
+                                "to talk back"
+                            ],
+                            "guid": "dJ[j<IO`dy",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "effronté",
+                                "cheeky"
+                            ],
+                            "guid": "Ko>V&:*_T*",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "insolent",
+                                "insolence"
+                            ],
+                            "guid": "GV<3kKlI$8",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "perturber",
+                                "to disrupt"
+                            ],
+                            "guid": "OeG?<5<?|G",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "perturbateur",
+                                "disruptive"
+                            ],
+                            "guid": "s%{<[#B=JT",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "paresse",
+                                "laziness"
+                            ],
+                            "guid": "DDW<;sbS8v",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "distrait / étourdi",
+                                "absent-minded"
+                            ],
+                            "guid": "z*f{OA?K(?",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "distraction / étourderie",
+                                "absent-mindedness"
+                            ],
+                            "guid": "HjYV`L%}sR",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "étourdi / écervelé",
+                                "scatter-brained"
+                            ],
+                            "guid": "KRT#9j,N9f",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le soin",
+                                "care"
+                            ],
+                            "guid": "MDg55RmjRG",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "négligent",
+                                "careless"
+                            ],
+                            "guid": "uhM:Peo)$O",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "tricher",
+                                "to cheat"
+                            ],
+                            "guid": "EQe~Cdslvg",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un tricheur",
+                                "a cheat"
+                            ],
+                            "guid": "tn#_8dnpaX",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la tricherie",
+                                "cheating"
+                            ],
+                            "guid": "uELTKtPY!3",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "antiséche / plagiat",
+                                "to crib (from) / crib"
+                            ],
+                            "guid": "HEVkvzM#Mg",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "sécher les cours",
+                                "to play truant / to skip lessons"
+                            ],
+                            "guid": "v1mpOMYA|/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'absentéisme",
+                                "truancy / absenteeism"
+                            ],
+                            "guid": "u/*6[LxKrI",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "gronder",
+                                "to chide / to scold / to tell off"
+                            ],
+                            "guid": "n}w[c&@eZ*",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une réprimande",
+                                "a reprimand"
+                            ],
+                            "guid": "dqPC)6Wc&Z",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "punir",
+                                "to punish"
+                            ],
+                            "guid": "e$4V.iju8c",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la punition / la sanction",
+                                "punishment"
+                            ],
+                            "guid": "wBMrY7?{{h",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le châtiment corporel",
+                                "corporal punishment"
+                            ],
+                            "guid": "B[3s!1>D:e",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la retenue / la colle",
+                                "detention"
+                            ],
+                            "guid": "b$bl9jh4!i",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "être collé",
+                                "to be put in detention"
+                            ],
+                            "guid": "m;o{:FeLpX",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "exclure temporairement",
+                                "to suspend"
+                            ],
+                            "guid": "wMsNYXAgz4",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le renvoi temporaire",
+                                "suspension"
+                            ],
+                            "guid": "q*#5MgZd!]",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "renvoyer",
+                                "to expel (from school)"
+                            ],
+                            "guid": "r!v<A&#*p,",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le renvoi définitif",
+                                "expulsion"
+                            ],
+                            "guid": "dQu{v71GRy",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "avoir un cours de maths",
+                                "to have a maths class"
+                            ],
+                            "guid": "sco0m7t`aB",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "apprendre par cœur",
+                                "to learn by heart / by rote"
+                            ],
+                            "guid": "P-.<S+=aG5",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "consulter le dictionnaire",
+                                "to look up in the dictionary"
+                            ],
+                            "guid": "Ji^(ipj/H(",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "faire ses devoirs",
+                                "to do one's homework (US)"
+                            ],
+                            "guid": "M~<@?y@?:e",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "faire une étude",
+                                "to carry out a study"
+                            ],
+                            "guid": "Lg:aAwC>{t",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "revoir ses leçons",
+                                "to read over one's lessons"
+                            ],
+                            "guid": "fc]_Y)q_TU",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "faire une recherche",
+                                "to do research"
+                            ],
+                            "guid": "L!)c[S&jMz",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les cours particuliers",
+                                "individual tuition"
+                            ],
+                            "guid": "JcADz%Iq;J",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un programme imposé",
+                                "set texts"
+                            ],
+                            "guid": "qhF{dfzj;^",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les activités extra-scolaires",
+                                "extra-curricular activities"
+                            ],
+                            "guid": "z8A;c$pnGT",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le cartable",
+                                "school bag"
+                            ],
+                            "guid": "N$xH6?<yfq",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le car de ramassage scolaire",
+                                "school bus"
+                            ],
+                            "guid": "h8Shgm[QIW",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "faire l'appel",
+                                "to call the roll"
+                            ],
+                            "guid": "NxJD~1ElK!",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "arriver en retard",
+                                "to be late for class"
+                            ],
+                            "guid": "niN834lit[",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "faire l'école buissonnière",
+                                "to play truant"
+                            ],
+                            "guid": "LJ5$)F7WJR",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "sécher les cours",
+                                "to skip lessons"
+                            ],
+                            "guid": "L];QIuMfgg",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un professeur dur",
+                                "a tough teacher"
+                            ],
+                            "guid": "PkJN7yXMj?",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un professeur / un imbécile / une pipelette",
+                                "to mess / lark around / a charterbox"
+                            ],
+                            "guid": "fglO.ve}Ju",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "savoir",
+                                "knowledge"
+                            ],
+                            "guid": "A1WP[?,9:@",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "cultivé",
+                                "knowledgeable"
+                            ],
+                            "guid": "L[$nUQ1qWk",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "apprendre",
+                                "to learn"
+                            ],
+                            "guid": "r4#u;}SJ$&",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "instruit / savant",
+                                "learned [ld]"
+                            ],
+                            "guid": "FcyFlA%P%|",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'apprentissage",
+                                "learning"
+                            ],
+                            "guid": "sy]Dvq0kST",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "instruire",
+                                "to educate"
+                            ],
+                            "guid": "y%kQA!qxi]",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "acquérir",
+                                "to acquire"
+                            ],
+                            "guid": "G~Zr{2cw*V",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "maîtriser",
+                                "to master"
+                            ],
+                            "guid": "rP%PA2@oMq",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la maîtrise",
+                                "mastery"
+                            ],
+                            "guid": "m|[t]@N]+{",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la mémoire",
+                                "memory"
+                            ],
+                            "guid": "DoX>oPtO*y",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "mémoriser / retenir",
+                                "to memorize"
+                            ],
+                            "guid": "f:!W_?qLe;",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la compréhension",
+                                "understanding"
+                            ],
+                            "guid": "QWqD_]/8~/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "raisonner",
+                                "to reason"
+                            ],
+                            "guid": "RaF+9`t&w/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le raisonnement",
+                                "reasoning"
+                            ],
+                            "guid": "fCs[#bQ,:P",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "faire une démonstration",
+                                "to demonstrate"
+                            ],
+                            "guid": "D3SmPv7lN5",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "lire et écrire",
+                                "to read and write"
+                            ],
+                            "guid": "s2fY6MNg@/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'alphabétisation",
+                                "literacy"
+                            ],
+                            "guid": "nwqgptrdH}",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le calcul",
+                                "numeracy"
+                            ],
+                            "guid": "to@u0eM1iw",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'illettrisme",
+                                "illiteracy"
+                            ],
+                            "guid": "O=M77[$pC[",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le manque de calcul",
+                                "innumeracy"
+                            ],
+                            "guid": "h{N:?>OR|#",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une compétence",
+                                "a skill"
+                            ],
+                            "guid": "xr+P>CUzeO",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "qualifié",
+                                "skilled"
+                            ],
+                            "guid": "Op>pLOs[U]",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "obtenir son diplôme",
+                                "to graduate"
+                            ],
+                            "guid": "Gi:Ob4TS|O",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la graduation",
+                                "graduation"
+                            ],
+                            "guid": "HooL+m+?1-",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un diplômé",
+                                "a graduate"
+                            ],
+                            "guid": "cNZ{dK~!>.",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un étudiant du 3e cycle",
+                                "a postgraduate"
+                            ],
+                            "guid": "BXiz+13_i]",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un étudiant de licence",
+                                "an undergraduate"
+                            ],
+                            "guid": "nSb[fps=|}",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une licence ès lettres",
+                                "a bachelor's degree"
+                            ],
+                            "guid": "k9D(*57Qkc",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "licence de lettres",
+                                "BA = Bachelor of Arts"
+                            ],
+                            "guid": "NQ}_(@E^&p",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "licence de sciences",
+                                "BSc = Bachelor of Science"
+                            ],
+                            "guid": "ySnvYTr?z/",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "licence de droit",
+                                "Bachelor of Law"
+                            ],
+                            "guid": "NNfpj}avo(",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un master",
+                                "an MA = Master of Arts"
+                            ],
+                            "guid": "eL6j%/`iKM",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un master de sciences",
+                                "MSc = Master of Science"
+                            ],
+                            "guid": "pB.YOlDQLo",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un master de gestion",
+                                "an MBA = Master of Business Administration"
+                            ],
+                            "guid": "M#D7:[km^u",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "doctorat en philosophie",
+                                "Ph.D. = Philosopher's Doctorate"
+                            ],
+                            "guid": "vKxMLIxf2t",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "doctorat en médecine",
+                                "an MD = Medical Doctorate"
+                            ],
+                            "guid": "bh`M%$1*S3",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "inattentif",
+                                "inattentive"
+                            ],
+                            "guid": "w4.$Sz:9|3",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "l'inattention",
+                                "inattention"
+                            ],
+                            "guid": "i]d{&Q8n)f",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le manque de mémoire",
+                                "lack of memory"
+                            ],
+                            "guid": "Lc^ba2uC44",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le manque de concentration",
+                                "lack of concentration"
+                            ],
+                            "guid": "Czlf?pzaE*",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "dyslexique",
+                                "dyslexic"
+                            ],
+                            "guid": "p#DEtEW]GE",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "dyslexie",
+                                "dyslexia"
+                            ],
+                            "guid": "pg?dmW):G2",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "affaiblir",
+                                "to impair"
+                            ],
+                            "guid": "t|M;@?ge>(",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une déficience",
+                                "impairment"
+                            ],
+                            "guid": "DEW<Ad[0Y5",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "troubles du langage",
+                                "speech impairments"
+                            ],
+                            "guid": "D(;z2/D._Q",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "suivre un élève",
+                                "to monitor"
+                            ],
+                            "guid": "i]mK4Jt4rG",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le suivi",
+                                "monitoring"
+                            ],
+                            "guid": "AVGLX#mm})",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "la culture générale",
+                                "general knowledge"
+                            ],
+                            "guid": "EBM4t^*P)]",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le niveau faible",
+                                "low standard"
+                            ],
+                            "guid": "m)&M0gBY|u",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "redoubler",
+                                "to repeat (a course)"
+                            ],
+                            "guid": "pJ%9r#5^|G",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "être moyen",
+                                "to be average"
+                            ],
+                            "guid": "I!0c<+GrC}",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "étudiant du 3e cycle",
+                                "a postgraduate student"
+                            ],
+                            "guid": "wS$P8c=)eO",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "étudiant du 1er cycle",
+                                "an undergraduate"
+                            ],
+                            "guid": "qsXjMEx8OM",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "étudiant moyen",
+                                "an average student"
+                            ],
+                            "guid": "i)XecPAHEw",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "étudiant fort",
+                                "a high achiever"
+                            ],
+                            "guid": "kM}<LUtJ#k",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "étudiant faible",
+                                "a low achiever"
+                            ],
+                            "guid": "m8elNZxTP{",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "les résultats scolaires",
+                                "school performance"
+                            ],
+                            "guid": "yO#}AZ5e75",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "le bulletin scolaire",
+                                "school report"
+                            ],
+                            "guid": "Bv?axQKyYc",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "test de contrôle continu",
+                                "continuous assessment"
+                            ],
+                            "guid": "Igqd5uM]T#",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "évaluation orale / écrite",
+                                "oral / written test"
+                            ],
+                            "guid": "x9B0je|%-s",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "épreuve, sujet",
+                                "an examination paper"
+                            ],
+                            "guid": "wh-^:JvD;B",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un concours",
+                                "a competitive exam"
+                            ],
+                            "guid": "wlJlg=%c#^",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une épreuve blanche",
+                                "a mock exam"
+                            ],
+                            "guid": "gFh{X?uaZo",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un concours d'entrée",
+                                "an entrance examination"
+                            ],
+                            "guid": "lUr)*fy(JY",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un jury de concours",
+                                "a board of examiners"
+                            ],
+                            "guid": "l!yR1Y0}P4",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un élève en difficulté",
+                                "a special needs student"
+                            ],
+                            "guid": "FD(&G>0^wu",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "un enseignant spécialisé",
+                                "a special needs teacher"
+                            ],
+                            "guid": "KKQ3+<O{gh",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "qui comprend vite",
+                                "quick on the uptake"
+                            ],
+                            "guid": "t&&DH6_l8Y",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "autodidacte",
+                                "self-taught"
+                            ],
+                            "guid": "fKFi;dSK>0",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "une encyclopédie vivante",
+                                "a walking encyclopedia"
+                            ],
+                            "guid": "l}#05.*?ac",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "être docteur",
+                                "to be Ph.D."
+                            ],
+                            "guid": "D$L<eO9Tj=",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "soutenir une thèse",
+                                "to defend a Ph.D."
+                            ],
+                            "guid": "i_iIze[b~f",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "déficience auditive / visuelle",
+                                "hearing / visual impairment"
+                            ],
+                            "guid": "rr|d7][Yq(",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "troubles du comportement",
+                                "behavioural problems"
+                            ],
+                            "guid": "wwM`p,)Gy+",
+                            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "213d4f5e-b967-11ef-88ae-63750eff7b21",
                     "deck_config_uuid": "3ca4f968-a9d6-11ef-974d-f92c0362d330",
                     "desc": "",
@@ -16883,7 +19621,9 @@
             ],
             "guid": "HJO,qv/S`h",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",

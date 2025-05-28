@@ -13239,6 +13239,258 @@
             "tags": [
                 "variables_aléatoires_finies"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lemme des coalitions (vecteurs aléatoires)",
+                "Soient&nbsp;\\((X_1, \\ldots, X_n)\\)&nbsp;un vecteur aléatoire fini et&nbsp;\\(k \\in [[2;n]].\\)&nbsp;Si&nbsp;\\(X_1, \\ldots, X_n\\)&nbsp;sont mutuellement indépendantes, alors, pour tous entiers&nbsp;\\(1 \\le p_1 \\lt p_2 \\lt \\cdots \\lt p_{k-1} \\le n-1\\)&nbsp;et toutes fonctions&nbsp;\\(g_1, \\ldots, g_k\\)&nbsp;définies respectivement sur les ensembles&nbsp;\\((X_1, \\ldots, X_{p_1})(\\Omega), \\ldots (X_{p_{k-1}+1},\\ldots, X_n)(\\Omega)\\), les variables aléatoires&nbsp;\\(g_1(X_1, \\ldots, X_{p_1}), \\ldots, g_k(X_{p_{k-1}+1,\\ldots, X_n})\\)&nbsp;sont mutuellement indépendantes"
+            ],
+            "guid": "Or4>C4)s+z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition vecteurs aléatoires suivant Bernoulli",
+                "Soit&nbsp;\\((X_1, \\ldots, X_n)\\)&nbsp;un échantillon de la loi&nbsp;\\(\\mathcal B(p)\\), càd que&nbsp;\\(X_1, \\ldots, X_n\\)&nbsp;sont des variables aléatoires indépendantes indentiquement distribuées sur la loi&nbsp;\\(\\mathcal B(p)\\).<br>Alors&nbsp;\\(S_n = X_1 + \\cdots + X_n\\)&nbsp;suit la loi&nbsp;\\(\\mathcal B(n,p)\\).<br><br>On a la même chose pour des variables suivant une loi binomiale, alors on a une somme comme loi binomiale avec la somme des n comme n"
+            ],
+            "guid": "MTOenfo#}G",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "covariance",
+                "\\[Cov(X,Y) = ((X - E(X))(Y - E(Y)))\\]\\[Cov(X,Y) = E(XY) - E(X)E(Y)\\]"
+            ],
+            "guid": "M$C|-5jz:k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions covariance",
+                "linéarité (à droite et à gauche)<br>\\[Cov(Y, aX_1 + bX_2) = aCov(Y, X_1) + b(Y, X_2)\\]\\[Cov(X,Y) = Cov(Y,X)\\]<br>\\[Cov(X,X) \\ge 0\\]<br>"
+            ],
+            "guid": "E[#Ir&<=#@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "variance d'une somme",
+                "\\[V(X+Y) = V(X) + 2Cov(X,Y) + V(Y)\\]peut se généraliser à une somme de n variables aléatoires<br>"
+            ],
+            "guid": "Mcx:T|VrW;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "covariance et indépendance",
+                "Si X et Y sont indépendantes alors,<br>\\[Cov(X,Y) = 0\\]\\[E(XY) = E(X)E(Y)\\]\\[V(X+Y) = V(X) + V(Y)\\](peut se généraliser à n variables indépendantes mutuellement)<br>"
+            ],
+            "guid": "q#$dSBxM06",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "coefficient de corrélation",
+                "Soit (X,Y) un couple de variables aléatoires réelles finies dont les écart-types sont non nuls.<br>\\[\\rho(X,Y) = \\frac{Cov(X,Y)}{\\sigma(X)\\sigma(Y)}\\]corrélées lorsque&nbsp;\\(\\rho(X,Y) \\ne 0\\)<br>"
+            ],
+            "guid": "y*/uZwU(Jx",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "propositions coefficient de corrélation",
+                "<div>mêmes hypothèses que dans la def du coeff de corrélation</div><ul><li>\\(\\rho(X,Y) \\in [-1;1]\\)<br></li><li>\\((\\rho(X,Y) = \\pm1) \\Longleftrightarrow (\\exists \\lambda, \\mu \\in \\mathbb R, Y = \\lambda X + \\mu)\\)</li><li>\\((X \\perp\\!\\!\\!\\perp Y) \\implies (\\rho(X,Y) = 0)\\)</li></ul>"
+            ],
+            "guid": "wyf$dH0L{Z",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème loi faible des grands nombres",
+                "Soit&nbsp;\\((X_n)_{n\\ge 1}\\)&nbsp;une suite de variables aléatoires réelles finies indépendantes et de même loi (v.a.i.i.d). On note m l'espérance commune des&nbsp;\\(X_i\\). Pour tout&nbsp;\\(\\epsilon \\gt 0\\), on a:<br>\\[\\lim_{n\\to+\\infty}{P\\left(\\left| \\frac{X_1 + \\cdots + X_n}{n} -m\\right| \\ge \\epsilon\\right)} = 0\\]<br>"
+            ],
+            "guid": "hW|ToX7MAD",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fonction génératrice d'une variable aléatoire",
+                "Soit X une variable aléatoire à valeurs dans&nbsp;\\(\\mathbb N\\)&nbsp;\\[G_X: [0;1] \\to \\mathbb R\\]\\[t \\mapsto E(t^X) = \\sum_{k\\ge 0}{P(X = k)t^k}\\]On a donc:<br>\\[P(X = k) = \\frac{G_X^{(k)}(0)}{k!}\\]<br>"
+            ],
+            "guid": "k)R(J8%F6;",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "proposition fonction génératrice d'une variable aléatoire",
+                "Soient X un variable aléatoire à valeurs dans&nbsp;\\(\\mathbb N\\), et&nbsp;\\(G_X\\)&nbsp;sa fonction génératrice.<br>\\[\\forall m \\in \\mathbb N^*, G_X^{(m)}(1)=E(X(X-1)\\ldots(X-m+1))\\]<br>"
+            ],
+            "guid": "tp<b?W@91@",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème indépendance fonction génératrice",
+                "Soient&nbsp;\\(X_1, \\ldots, X_n\\)&nbsp;des variables aléatoires indépendantes, à valeurs dans&nbsp;\\(\\mathbb N\\). On a<br>\\[G_{X_1 + \\cdots + X_n} = G_{X_1}\\times\\cdots G_{X_n}\\]<br>"
+            ],
+            "guid": "e?{dI6[A|",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "probabilités"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "dérivable dans la direction",
+                "Soient U un ouvert,&nbsp;\\(a \\in U\\),&nbsp;\\(\\vec v \\in \\mathbb R\\). On dit que f est dérivable en a dans la direction de&nbsp;\\(\\vec v\\)&nbsp;si la fonction&nbsp;\\(f(a + t\\vec v)\\)&nbsp;est dérivable en 0, càd&nbsp;\\[\\frac{f(a+t\\vec v) - f(a)}{t}\\]admet une limite finie en 0.<br><br>Dans ce cas on appelle la dérivée de f en a dans la direction de&nbsp;\\(\\vec v\\)&nbsp;le réel noté&nbsp;\\(D_{\\vec v}(a)\\)"
+            ],
+            "guid": "E+K3L?%owR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème fonction de deux variables de classe C1",
+                "Soient U un ouvert de&nbsp;\\(\\mathbb R^2\\),&nbsp;\\((\\alpha, \\beta)\\)&nbsp;un point de U et f une fonction de deux variables de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;sur U.<br>Alors f admet un développement limité à l'ordre 1 en&nbsp;\\((\\alpha, \\beta)\\)&nbsp;donné par:<br>\\[f(\\alpha + h_1, \\beta + h_2) = f(\\alpha, \\beta) + \\frac{\\partial f}{\\partial x}(\\alpha, \\beta)h_1 + \\frac{\\partial f}{\\partial y}(\\alpha, \\beta)h_2 + o_{(h_1, h_2) \\to (0,0)}(\\Vert (h_1, h_2\\Vert)\\]<br>"
+            ],
+            "guid": "yw8eGQ_j?4",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gradient",
+                "\\[\\nabla f(\\alpha, \\beta) = \\left(\\frac{\\partial f}{\\partial x}(\\alpha, \\beta), \\frac{\\partial f}{\\partial x}(\\alpha, \\beta)\\right)\\]<br>"
+            ],
+            "guid": "PdH4kyE|cd",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "autre façon d'écrire le DL1 de fonctions à deux variables",
+                "même hypothèses que sur théorème<br>\\[f(\\alpha + h_1, \\beta + h_2) = f(\\alpha, \\beta) + \\nabla f(\\alpha, \\beta)\\cdot(h_1, h_2) +o_{(h_1, h_2) \\to (0,0)}(\\Vert (h_1, h_2\\Vert)\\]<br>"
+            ],
+            "guid": "e<(K7xYFMZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "opérations algébriques sur le gradient",
+                "-&nbsp;\\(\\nabla{(\\lambda f + \\mu  g)} = \\lambda\\nabla{f} + \\mu\\nabla g\\)<br>-&nbsp;\\(\\nabla{(fg)} = \\nabla f\\times g + \\nabla g \\times f \\)<br>-&nbsp;\\(\\nabla{\\left(\\frac{f}{g}\\right)} = \\frac{\\nabla f \\times g - \\nabla g \\times f}{g^2}\\)"
+            ],
+            "guid": "Dj%^BJ{03c",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de composition: fonctions deux variables",
+                "Soient U un ouvert de&nbsp;\\(\\mathbb R^2\\), I un intervalle de&nbsp;\\(\\mathbb R, \\)&nbsp;f est une fonction de deux variables de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;sur U et&nbsp;\\(\\phi\\)&nbsp;une fonction d'une variable de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;sur I. On suppose que&nbsp;\\(f(U) \\subset I\\). Alors&nbsp;\\(\\phi \\circ f\\)&nbsp;est de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;sur U et:<br>\\[\\frac{\\partial(\\phi \\circ f)}{\\partial x} = \\frac{\\partial f}{\\partial x}\\times (\\phi' \\circ f)\\]\\[\\frac{\\partial (\\phi\\circ f)}{\\partial y} = \\frac{\\partial f}{\\partial y}\\times (\\phi' \\circ f)\\]\\[\\nabla{(\\phi \\circ f)} = (\\phi' \\circ f)\\nabla f\\]<br>"
+            ],
+            "guid": "N2~[o:4Ne8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème règle des chaînes",
+                "Soient U un ouvert de&nbsp;\\(\\mathbb R^2\\), I un intervalle de&nbsp;\\(\\mathbb R\\), f est une fonction de deux variables de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;sur U et u, v deux fonctions d'une variable de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;sur I. On suppose que&nbsp;\\((u,v)(I) \\subset U\\). Alors la fonction d'une variable&nbsp;\\(\\Phi = f\\circ (u,v)\\)&nbsp;est de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;sur I et<br>\\[\\forall t\\in I, \\Phi'(t) = u'(t)\\frac{\\partial f}{\\partial x}(u(t),v(t)) + v'(t)\\frac{\\partial f}{\\partial y}(u(t), v(t))\\]&nbsp;"
+            ],
+            "guid": "FrU(2|c$~F",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "définition point critique",
+                "Si le gradient de f est nul en a, c'est à dire si les dérivées partielles de f s'annulent en a, on dit que a est un point critique de f dans U"
+            ],
+            "guid": "H*z400M;V8",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème point critique",
+                "Soient U un ouvert de&nbsp;\\(\\mathbb R^2\\), f une fonction de deux variables sur U de classe&nbsp;\\(\\mathcal C^1\\)&nbsp;et a un point de U.<br>Si f présente un extremum local en a, alors a est nécessairement un point critique de f."
+            ],
+            "guid": "MF9/vjXH$N",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "fonctions_plusieurs_variables"
+            ]
         }
     ],
     "reviewLimit": null,

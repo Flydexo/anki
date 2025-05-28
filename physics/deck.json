@@ -5278,6 +5278,420 @@
             "tags": [
                 "machine_thermique"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aire sphère",
+                "\\[4\\pi r^2\\]<br>"
+            ],
+            "guid": "M?ugUZIUrW",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aire disque",
+                "\\[\\pi r^2\\]<br>"
+            ],
+            "guid": "K6;!;y-U0K",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "circonférence cercle",
+                "\\[2\\pi r\\]<br>"
+            ],
+            "guid": "Km&+H)ED5.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "champ stationnaire et uniforme",
+                "stationnaire = constant en fonction du temps<br>uniforme = même valeur en tout point de l'espace"
+            ],
+            "guid": "k9>M!ah*6r",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ligne de champ",
+                "ligne de champ tangente à&nbsp;\\(\\vec{B}(M)\\)&nbsp;en M"
+            ],
+            "guid": "DVWh)B9,m.",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intensité d'un champ magnétique",
+                "défini par son action sur une particule ponctuelle de charge q<br>\\[\\vec f = q(\\vec v \\wedge \\vec B)\\]<br>"
+            ],
+            "guid": "Nv$Rsv!e6$",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "unité et dimension champ magnétique",
+                "unité = Tesla<br>dimension =&nbsp;\\(M.T^{-2}.I^{-1}\\)"
+            ],
+            "guid": "HdqTmUg=ss",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "expérience d'Orsted",
+                "Aiguille aimantée suit l'orientation du champ magnétique (créé par un fil traversé de courant)"
+            ],
+            "guid": "h)J98!WH~D",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "invariances d'un champ magnétique pour un fil infini",
+                "invariant le long de (Oz)<br>invariant par rotation<br>donc&nbsp;\\(B(r,\\theta,z) = B(r)\\)"
+            ],
+            "guid": "H}(&u=&;Xz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "axe de symétrie",
+                "symétrie pour le courant<br>antisymétrie pour le champ magnétique"
+            ],
+            "guid": "CB4Jf3CaX)",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "plan antisymétrique",
+                "antisymétrique pour le courant<br>symétrique pour le champ magnétique"
+            ],
+            "guid": "e1NkD3{yzX",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "analyse d'une ligne de champ magnétique",
+                "uniforme dans les zones où les lignes sont parallèles<br>plus intense dans les zones où les lignes se reserrent"
+            ],
+            "guid": "ywPv8DPSKZ",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nombre de spires par unité de longueur pour une bobine",
+                "\\[n = \\frac{N}{L}\\]<br>"
+            ],
+            "guid": "Ft6u)q`?{",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "condition solénoide infini",
+                "\\(L &gt;&gt; a\\)&nbsp;avec a le diamètre"
+            ],
+            "guid": "b3rKR`S+tz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "expression champ magnétique pour un solénoide infini",
+                "\\[\\vec B = \\mu_0 ni \\vec u\\]<br>"
+            ],
+            "guid": "g3o~8CDe[5",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lignes de champ pour un aimant",
+                "du nord magnétique vers le sud magnétique"
+            ],
+            "guid": "mg-h__Z}=k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vecteur surface d'une spire",
+                "\\(\\vec S \\perp \\text{plan spire}\\)<br>\\(\\Vert \\vec S \\Vert = \\text{ surface de la spire}\\)"
+            ],
+            "guid": "u6^]bIJ.u?",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moment magnétique",
+                "\\[\\vec M = i \\vec S = iS \\vec n\\]\\[\\vec M = N i S\\vec n\\](pour N spires)<br>"
+            ],
+            "guid": "tZ-rShND5O",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "densité linéique de la force de Laplace",
+                "\\[\\vec {df_L} = i \\vec{dl} \\wedge \\vec B(M)\\]Sur le tronçon L:&nbsp;\\(\\vec f_{Laplace} = \\int_0^L{idx\\vec{u_x}\\wedge \\vec{B(x)}}\\)<br>"
+            ],
+            "guid": "BYVA@Ilq?y",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "force de Laplace sur un tronçon uniforme",
+                "\\[\\vec{f_L} = i\\vec{MN}\\wedge \\vec{B}\\]<br>"
+            ],
+            "guid": "M<}A|u<V0b",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "couple de Laplace",
+                "\\[\\vec{\\Gamma_L} = \\vec M \\wedge \\vec B\\]"
+            ],
+            "guid": "A;5W$!2*Oe",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "puissance du couple de Laplace",
+                "\\[P_L = -iSB\\dot\\alpha\\sin\\alpha\\]<br>"
+            ],
+            "guid": "d:F7bP>#0e",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "positions d'équilibres action d'un champ magnétique sur un aimant",
+                "équilibre stable = de même sens<br>équilibre instable = de sens inverse"
+            ],
+            "guid": "jDm:NfMF,S",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "phénomène d'induction",
+                "création d'un courant électriue lorsqu'on a:<br>- circuit fixe dans&nbsp;\\(\\vec B\\)&nbsp;variable<br>- circuit mobile dans&nbsp;\\(\\vec B\\)&nbsp;fixe"
+            ],
+            "guid": "y=hR*$ekpz",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "flux d'un champ magnétique",
+                "\\[\\phi = \\int\\int{\\vec B \\vec{dS}}\\]Pour B uniforme:<br>\\[\\phi = \\vec B\\cdot\\vec S\\]unité Weber (T.m^2)<br>"
+            ],
+            "guid": "vJ^]}[@-$%",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Courant induit: Loi de Faraday",
+                "\\[e = -\\frac{d\\phi}{dt}\\]<br>"
+            ],
+            "guid": "LiJfs_J:iH",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Loi de Lenz",
+                "Les phénomènes d'induction viennent s'opposer par leurs effets à la cause qui leur a donné naissance"
+            ],
+            "guid": "m4Qpo`xrZ/",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "champ magnétique propre",
+                "champ magnétique créé par le circuit lui-même<br>s'oppose au champ magnétique extérieur"
+            ],
+            "guid": "g>ECthb<iw",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "flux propre",
+                "flux du champ propre créé par le circuit à travers lui-même<br>\\[\\phi_p = Li\\]avec L coefficient d'auto induction en Henry<br>"
+            ],
+            "guid": "pQ^DR~Yh3H",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "inductance propre d'une bobine de grande longueur",
+                "\\[\\phi_p = i\\times\\frac{\\mu_0SN^2}{d}\\]d'où&nbsp;\\(L = \\frac{\\mu_0SN^2}{d}\\)<br>"
+            ],
+            "guid": "F^^E$op[d<",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "coefficient d'induction mutuelle",
+                "\\[\\phi_{1\\to 2} = M_{1\\to 2}\\times i_1\\]\\[\\phi_{2\\to 1} = M_{2 \\to 1}\\times i_2\\]<br>"
+            ],
+            "guid": "cz[?e;gbRN",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "théorème de Neumann",
+                "\\(M_{1\\to 2} = M_{2\\to 1}\\)<br>Le signe de M dépend de l'orientation des circuits"
+            ],
+            "guid": "PK68*N<J3k",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "coefficient d'induction mutuelle pour deux bobines",
+                "Une grande bobine de&nbsp;\\(N_1\\)&nbsp;spires et de longueur&nbsp;\\(l_1\\)&nbsp;dans laquelle se trouve une bobine de&nbsp;\\(N_2\\)&nbsp;spires et de longuer&nbsp;\\(l_2\\)<br><br>\\[M = \\frac{\\mu_0N_1N_2S_2}{l_1}\\]<br>"
+            ],
+            "guid": "D~0qBK!ZhU",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Énergie magnétique stockée lors d'un couplage",
+                "\\[\\frac{1}{2}L_1i_1^2 + \\frac{1}{2}L_2i_2^2 + Mi_1i_2\\]<br>"
+            ],
+            "guid": "s9f7K*Km;#",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transformateur de tension",
+                "principe: deux circuits avec des bobines reliés par un matériau ferromagnétique pour canaliser les lignes de champ, sert à changer la tension d'un courant<br><br>modèle idéal: on néglige les pertes (effet joule, hystérésis, pertes de flux)<br><br>\\(e_1 = -N_1S_1\\frac{dB}{dt}\\)<br>\\(e_2 = -N_2S_2\\frac{dB}{dt}\\)<br>D'où&nbsp;\\(\\frac{u_2}{u_1} = \\frac{N_2}{N_1}\\)&nbsp;(on a&nbsp;\\(S_1 = S_2\\))"
+            ],
+            "guid": "fV2,IA.fld",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "induction"
+            ]
         }
     ],
     "reviewLimit": null,
