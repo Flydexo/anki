@@ -545,7 +545,9 @@
             ],
             "guid": "K)a{]S[:*$",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -2406,7 +2408,7 @@
             "guid": "mnd|d]}<[i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2418,7 +2420,7 @@
             "guid": "KLNg<y3tLI",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2430,7 +2432,7 @@
             "guid": "y%N:7ee1y4",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2442,7 +2444,7 @@
             "guid": "J:4aB$dg|]",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2454,7 +2456,7 @@
             "guid": "H,T`KPbBf,",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2466,7 +2468,7 @@
             "guid": "o9&qO/jtX]",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2478,7 +2480,7 @@
             "guid": "kC+6$$937i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2490,7 +2492,7 @@
             "guid": "B:d08VsQ1T",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2502,7 +2504,7 @@
             "guid": "o`x>lc&4>D",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2514,7 +2516,7 @@
             "guid": "Mu{g[:_BU2",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2526,7 +2528,7 @@
             "guid": "E&KmoS9@<a",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2538,7 +2540,7 @@
             "guid": "pDb;]?li:G",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2550,7 +2552,7 @@
             "guid": "l)oOcVQ>]B",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2562,7 +2564,7 @@
             "guid": "K_54N7zUVS",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2574,7 +2576,7 @@
             "guid": "ydA#4C]Iwz",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2586,7 +2588,7 @@
             "guid": "<IK#qLd42",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2598,7 +2600,7 @@
             "guid": "oU6+O2|+hN",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2610,7 +2612,7 @@
             "guid": "xr-OAN66>k",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2622,7 +2624,7 @@
             "guid": "nIM3Qz8Y~Z",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2634,7 +2636,7 @@
             "guid": "s79)-IRM9d",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2646,7 +2648,7 @@
             "guid": "qG7&(Z`+FW",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2658,7 +2660,7 @@
             "guid": "B#gp3}gIZp",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2670,7 +2672,7 @@
             "guid": "MUCeACuiT#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2682,7 +2684,7 @@
             "guid": "my8I9%m4F5",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2694,7 +2696,7 @@
             "guid": "ln?Qu^hN8z",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2706,7 +2708,7 @@
             "guid": "C&FzdA*MM-",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2718,7 +2720,7 @@
             "guid": "D/m_9w4E9r",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2730,7 +2732,7 @@
             "guid": "iN%)U;CA<;",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2742,7 +2744,7 @@
             "guid": "mkDl;5{Bft",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2754,7 +2756,7 @@
             "guid": "vG(zf>(,0s",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "description::et::paramétrage::du::mouvement::d'un::point"
+                "description_et_paramétrage_du_mouvement_d'un_point"
             ]
         },
         {
@@ -2776,7 +2778,7 @@
             "guid": "oCfX]s<6u3",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2788,7 +2790,7 @@
             "guid": "ce:#=N}?#6",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2800,7 +2802,7 @@
             "guid": "hYD6#m-!y0",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2812,7 +2814,7 @@
             "guid": "gh|x#P83G=",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2824,7 +2826,7 @@
             "guid": "vX7Ra}VX0}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2836,7 +2838,7 @@
             "guid": "e8uU9spYMM",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2848,7 +2850,7 @@
             "guid": "kb>6XHpcA_",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "propagation::signal"
+                "propagration_signal"
             ]
         },
         {
@@ -2870,7 +2872,7 @@
             "guid": "yWbNu4|xY~",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2882,7 +2884,7 @@
             "guid": "yQ)Y~H>`Q;",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2894,7 +2896,7 @@
             "guid": "K^>Za?<o+s",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2906,7 +2908,7 @@
             "guid": "HV<lfinJYK",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2918,7 +2920,7 @@
             "guid": "lAU{7(J.CA",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2930,7 +2932,7 @@
             "guid": "l,f*?}W0i#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2942,7 +2944,7 @@
             "guid": "I5hq^u9ySz",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2954,7 +2956,7 @@
             "guid": "AY=E!EzH;,",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2966,7 +2968,7 @@
             "guid": "o~:sC-tKA&",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2978,7 +2980,7 @@
             "guid": "Heb_ZC:+((",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -2990,7 +2992,7 @@
             "guid": "A#0n`3T`A0",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -3002,7 +3004,7 @@
             "guid": "mmOZh7;aR#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "dynamique::du::point"
+                "dynamique_du_point"
             ]
         },
         {
@@ -3182,7 +3184,7 @@
             "guid": "yR(4M&!w]b",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3194,7 +3196,7 @@
             "guid": "eiIxq(xK)e",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3206,7 +3208,7 @@
             "guid": "h0A7T0]2A^",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3218,7 +3220,7 @@
             "guid": "K>2D;3Cu04",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3230,7 +3232,7 @@
             "guid": "cyrUDQ8@0R",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3242,7 +3244,7 @@
             "guid": "i2oI.%Lof!",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3254,7 +3256,7 @@
             "guid": "n)pFvhcS(,",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3266,7 +3268,7 @@
             "guid": "i!I~+j+mVN",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3278,7 +3280,7 @@
             "guid": "i*LEAsA&`W",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "particules::chargées"
+                "particules_chargées"
             ]
         },
         {
@@ -3290,7 +3292,7 @@
             "guid": "pz6TU!0B/p",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3302,7 +3304,7 @@
             "guid": "u0xHlJ98;O",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3314,7 +3316,7 @@
             "guid": "hl%u:++x5T",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3326,7 +3328,7 @@
             "guid": "K#]T`DP7/2",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3338,7 +3340,7 @@
             "guid": "GXOp~*aS2=",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3350,7 +3352,7 @@
             "guid": "q;zu=Ksbba",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3362,7 +3364,7 @@
             "guid": "k%@cW!Hj86",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3374,7 +3376,7 @@
             "guid": "dZ3V;$3r<d",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3386,7 +3388,7 @@
             "guid": "pFOb5@Go<[",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3398,7 +3400,7 @@
             "guid": "pBf-;52geG",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3410,7 +3412,7 @@
             "guid": "oInQf]rk.H",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3422,7 +3424,7 @@
             "guid": "mO8trNo<P$",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3434,7 +3436,7 @@
             "guid": "z]KDXsIV9e",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3446,7 +3448,7 @@
             "guid": "n5_.ba~^v5",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3488,7 +3490,7 @@
             "guid": "c%0y5s+XTL",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3500,7 +3502,7 @@
             "guid": "O=Z9LG^oLI",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3512,7 +3514,7 @@
             "guid": "w4GSa(ev.r",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3524,7 +3526,7 @@
             "guid": "BaFv4.qzFn",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3536,7 +3538,7 @@
             "guid": "q6.b?ZfIc~",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "régime::sinusoïdal"
+                "RSF"
             ]
         },
         {
@@ -3548,7 +3550,7 @@
             "guid": "D~iF+fJ=XD",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3560,7 +3562,7 @@
             "guid": "oj(}UzC/JJ",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3572,7 +3574,7 @@
             "guid": "Q@0wi)]k~Z",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3584,7 +3586,7 @@
             "guid": "jSkaH,F*wC",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3596,7 +3598,7 @@
             "guid": "s=E@zfy3AP",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3608,7 +3610,7 @@
             "guid": "NGU+5#$%I;",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3620,7 +3622,7 @@
             "guid": "sO|cq=z)Rd",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3632,7 +3634,7 @@
             "guid": "k|Cg}K5V~%",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3644,7 +3646,7 @@
             "guid": "u05fEvwO9i",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3656,7 +3658,7 @@
             "guid": "o.Q^WF8h+H",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3668,7 +3670,7 @@
             "guid": "k:rLCd8aYv",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3680,7 +3682,7 @@
             "guid": "P99SxLvZ/{",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "filtrage::linéaire"
+                "filtrage_linéaire"
             ]
         },
         {
@@ -3692,7 +3694,7 @@
             "guid": "pR@>ASX~>>",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3704,7 +3706,7 @@
             "guid": "HM%DM|,hHv",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3716,7 +3718,7 @@
             "guid": "P@_#PB+ThG",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3728,7 +3730,7 @@
             "guid": "F_Rw(LkO8n",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3740,7 +3742,7 @@
             "guid": "iMvZRQa6SO",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3752,7 +3754,7 @@
             "guid": "sKlF#DZ]64",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3764,7 +3766,7 @@
             "guid": "L5&|Mzu]S6",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3776,7 +3778,7 @@
             "guid": "NcE-4+}%[!",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3788,7 +3790,7 @@
             "guid": "A*IJQ^3U70",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3800,7 +3802,7 @@
             "guid": "rWtlT@bb;N",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3812,7 +3814,7 @@
             "guid": "yGmdRFMW4O",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3824,7 +3826,7 @@
             "guid": "L;[Q7<>C$9",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3836,7 +3838,7 @@
             "guid": "m.UByapUZ_",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3848,7 +3850,7 @@
             "guid": "ifL8YM4zPn",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3860,7 +3862,7 @@
             "guid": "N6/mdIHy[r",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3872,7 +3874,7 @@
             "guid": "d=h,rI<0(?",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3884,7 +3886,7 @@
             "guid": "J_ip$eB6]5",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "moment::cinétique"
+                "moment_cinétique"
             ]
         },
         {
@@ -3896,7 +3898,7 @@
             "guid": "lOWl1GSa|@",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3908,7 +3910,7 @@
             "guid": "cW0{yzrEoX",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3920,7 +3922,7 @@
             "guid": "lpZ=bZUBno",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3932,7 +3934,7 @@
             "guid": "itl8ADf2ZE",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3944,7 +3946,7 @@
             "guid": "t$YDyL[|wr",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3956,7 +3958,7 @@
             "guid": "e_BuQb1q(p",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3968,7 +3970,7 @@
             "guid": "oFS2_<S)!g",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3980,7 +3982,7 @@
             "guid": "i._1S#t#o-",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -3992,7 +3994,7 @@
             "guid": "jWrSK~;cO1",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4004,7 +4006,7 @@
             "guid": "b#%q;R#imG",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4016,7 +4018,7 @@
             "guid": "EH^F+Uxh|h",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4028,7 +4030,7 @@
             "guid": "sl[+5a;:3R",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4040,7 +4042,7 @@
             "guid": "GB3M5Ay&Zv",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4052,7 +4054,7 @@
             "guid": "iyBKkP<`dM",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4064,7 +4066,7 @@
             "guid": "zeKmd9blN9",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4076,7 +4078,7 @@
             "guid": "u?QbL~JcZX",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4088,7 +4090,7 @@
             "guid": "sYgK#fn[Sj",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "champ::de::gravitation"
+                "champ_de_gravitation"
             ]
         },
         {
@@ -4100,7 +4102,7 @@
             "guid": "A+~?VBAVb~",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4112,7 +4114,7 @@
             "guid": "uW-_keWFvO",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4124,7 +4126,7 @@
             "guid": "wLS_nmg/[S",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4136,7 +4138,7 @@
             "guid": "q6#|s4wOQ8",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4148,7 +4150,7 @@
             "guid": "Q&4ZSZoF=#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4160,7 +4162,7 @@
             "guid": "Kr(Yd^?UW[",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4172,7 +4174,7 @@
             "guid": "Ad|x7FbRjS",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4184,7 +4186,7 @@
             "guid": "r$U~FUF0Rk",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4196,7 +4198,7 @@
             "guid": "N5aqb%V/zy",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4208,7 +4210,7 @@
             "guid": "L>~p}11ka{",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4220,7 +4222,7 @@
             "guid": "g8P5bC*q,o",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4232,7 +4234,7 @@
             "guid": "vppVWiXYl*",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4244,7 +4246,7 @@
             "guid": "wJ5.ud1?hG",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4256,7 +4258,7 @@
             "guid": "Kplkox-|}4",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4268,7 +4270,7 @@
             "guid": "DJop>]o=)f",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "mouvement::solide"
+                "mouvement_solide"
             ]
         },
         {
@@ -4280,7 +4282,7 @@
             "guid": "mZVxxD$1^&",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4292,7 +4294,7 @@
             "guid": "dJjRB$ku[3",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4304,7 +4306,7 @@
             "guid": "uFN|Chd%%S",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4316,7 +4318,7 @@
             "guid": "iqVi[8|8).",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4328,7 +4330,7 @@
             "guid": "fTL.Oh>bow",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4340,7 +4342,7 @@
             "guid": "lP51=:Dmzx",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4352,7 +4354,7 @@
             "guid": "o4.rJ;*`0s",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4364,7 +4366,7 @@
             "guid": "x,x7#hphyM",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4376,7 +4378,7 @@
             "guid": "yH6#8*//>X",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4388,7 +4390,7 @@
             "guid": "hV^S)@%0j`",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4400,7 +4402,7 @@
             "guid": "ju|9_oOJ31",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4412,7 +4414,7 @@
             "guid": "i#7v@@T*9^",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4424,7 +4426,7 @@
             "guid": "i`)|6$<tVj",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4436,7 +4438,7 @@
             "guid": "c|Zxn[XvE<",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4448,7 +4450,7 @@
             "guid": "oP;<%AT(a}",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4460,7 +4462,7 @@
             "guid": "dF]jk<p^?u",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4472,7 +4474,7 @@
             "guid": "cu8pQ^qDyz",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4484,7 +4486,7 @@
             "guid": "t78Z>#EX$g",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -4496,7 +4498,7 @@
             "guid": "kRZMs/hdC#",
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
-                "gaz::parfait"
+                "gaz_parfait"
             ]
         },
         {
@@ -5691,6 +5693,76 @@
             "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
             "tags": [
                 "induction"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Permititivité magnétique du vide",
+                "\\(  \\mu_0 = 4\\pi \\times 10^{-7} H.m^{-1} \\)"
+            ],
+            "guid": "QJ{nUkAthS",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "constante&nbsp;\\(\\overline h\\)",
+                "\\[\\overline h = h/2\\pi\\]<br>"
+            ],
+            "guid": "E~]]R6w(hR",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "quantique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impulsion d'un photon",
+                "\\[p = \\overline h k\\]avec&nbsp;\\(|k| = 2\\pi/\\lambda\\)<br>"
+            ],
+            "guid": "xu?7msY)qP",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "quantique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "longueur d'onde formule de Broglie",
+                "\\[\\lambda = h/p\\]<br>"
+            ],
+            "guid": "oJ*2cPWZe,",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "quantique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "relation de Planck-Einstein",
+                "\\[E = h\\nu\\]<br>"
+            ],
+            "guid": "t^Er1kR(E0",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "quantique"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "quantité de mouvement d'un photon",
+                "\\[p = \\frac{h\\nu}{c}\\]<br>"
+            ],
+            "guid": "wALRB+8.iT",
+            "note_model_uuid": "3ca50c8c-a9d6-11ef-974d-f92c0362d330",
+            "tags": [
+                "quantique"
             ]
         }
     ],
